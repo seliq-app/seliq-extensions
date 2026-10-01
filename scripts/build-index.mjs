@@ -85,7 +85,7 @@ fs.mkdirSync(tmpDir, { recursive: true });
 
 const entries = [];
 const shortcodes = fs.existsSync(extDir)
-  ? fs.readdirSync(extDir, { withFileTypes: true }).filter((e) => e.isDirectory()).map((e) => e.name).sort()
+  ? fs.readdirSync(extDir, { withFileTypes: true }).filter((e) => e.isDirectory() && !e.name.startsWith(".")).map((e) => e.name).sort()
   : [];
 
 for (const sc of shortcodes) {
