@@ -1,0 +1,10 @@
+{
+  "name": "TestPasteboard",
+  "description": "TestPasteboard",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled TP",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestPasteboard.popclipext",
+  "origin": "popclip"
+}

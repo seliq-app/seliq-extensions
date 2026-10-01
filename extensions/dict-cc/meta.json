@@ -1,0 +1,10 @@
+{
+  "name": "dict.cc",
+  "description": "dict.cc",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled DC",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/DictCC.popclipext",
+  "origin": "popclip"
+}

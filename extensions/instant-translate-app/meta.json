@@ -1,0 +1,10 @@
+{
+  "name": "Instant Translate",
+  "description": "Translate the text using Instant Translate.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled IT",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/InstantTranslateApp.popclipext",
+  "origin": "popclip"
+}

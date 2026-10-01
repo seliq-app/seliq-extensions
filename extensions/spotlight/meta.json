@@ -1,0 +1,10 @@
+{
+  "name": "Spotlight",
+  "description": "Activate Spotlight with the selected text. Please note: this extension is not compatible with OS X Yosemite.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Sp",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Spotlight.popclipext",
+  "origin": "popclip"
+}

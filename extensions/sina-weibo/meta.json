@@ -1,0 +1,10 @@
+{
+  "name": "Sina Weibo",
+  "description": "Compose a new Sina Weibo post. (16 Oct 2019: Update for compatibility with macOS Catalina.)",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled SW",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SinaWeibo.popclipext",
+  "origin": "popclip"
+}

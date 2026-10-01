@@ -1,0 +1,10 @@
+{
+  "name": "Test Options",
+  "description": "Test Options",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled TO",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestOptions.popclipext",
+  "origin": "popclip"
+}

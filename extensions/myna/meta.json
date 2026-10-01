@@ -1,0 +1,10 @@
+{
+  "name": "Myna",
+  "description": "Translate selected text with Myna for Google Translate.",
+  "version": "1",
+  "category": "PopClip Contrib",
+  "icon": "square filled My",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Myna.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Twitter",
+  "description": "Compose a new tweet using the official Twitter app. Also, you can select a username such as @pilotmoon to see that user's tweets.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Tw",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TwitterColor.popclipext",
+  "origin": "popclip"
+}

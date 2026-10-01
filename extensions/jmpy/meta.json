@@ -1,0 +1,10 @@
+{
+  "name": "Jmpy",
+  "description": "Create short links and dynamic QR codes using Jmpy.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Jm",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/jmpy.popclipext",
+  "origin": "popclip"
+}

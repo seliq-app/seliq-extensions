@@ -1,0 +1,10 @@
+{
+  "name": "Lingvo",
+  "description": "Look up the text in ABBYY Lingvo Dictionary.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Li",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Lingvo.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "知乎",
+  "description": "Search for keywords on Zhihu.",
+  "version": "1",
+  "category": "PopClip Contrib",
+  "icon": "square filled 知乎",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Zhihu.popclipext",
+  "origin": "popclip"
+}

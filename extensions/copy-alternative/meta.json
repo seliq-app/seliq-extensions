@@ -1,0 +1,10 @@
+{
+  "name": "Copy (Alternative)",
+  "description": "Copy (!).",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled CA",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/CopyAlternative.popclipext",
+  "origin": "popclip"
+}

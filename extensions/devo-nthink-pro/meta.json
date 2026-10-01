@@ -1,0 +1,10 @@
+{
+  "name": "DEVONthink Pro",
+  "description": "Clip the selected text to your DEVONthink Pro inbox, or search your open databases for the text.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled DP",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/DEVONthinkPro.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Wunderlist",
+  "description": "Add the selected text to Wunderlist as a new item.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Wu",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Wunderlist.popclipext",
+  "origin": "popclip"
+}

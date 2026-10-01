@@ -1,0 +1,10 @@
+{
+  "name": "Dialectic",
+  "description": "Dial the phone number with Dialectic.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Di",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Dialectic.popclipext",
+  "origin": "popclip"
+}

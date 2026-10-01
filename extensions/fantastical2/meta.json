@@ -1,0 +1,10 @@
+{
+  "name": "Fantastical 2",
+  "description": "Use the text to create a calendar entry in Fantastical 2.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled F2",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Fantastical2.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Hypothesis",
+  "description": "Save selected text to Hypothes.is.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Hy",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Hypothesis.popclipext",
+  "origin": "popclip"
+}

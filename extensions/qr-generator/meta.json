@@ -1,0 +1,10 @@
+{
+  "name": "QR Generator",
+  "description": "Generate QR image",
+  "version": "2",
+  "category": "PopClip Contrib",
+  "icon": "square filled QG",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/QRGenerator.popclipext",
+  "origin": "popclip"
+}

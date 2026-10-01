@@ -1,0 +1,10 @@
+{
+  "name": "IPdb",
+  "description": "Opens IPDb.at and searches for the chosen IP address",
+  "version": "1",
+  "category": "PopClip Contrib",
+  "icon": "square filled Ip",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/IPdb.popclipext",
+  "origin": "popclip"
+}

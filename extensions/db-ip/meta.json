@@ -1,0 +1,10 @@
+{
+  "name": "Geo Lookup DB-IP",
+  "description": "Open DB-IP in a web browser looking up the IP address geo-location. Supports IPv4 and IPv6 addresses.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled GLD",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/DB-IP.popclipext",
+  "origin": "popclip"
+}

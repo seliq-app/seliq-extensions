@@ -7,9 +7,11 @@ Seliq은 PopClip과 "호환"되는 앱일 뿐이며, PopClip 및 Pilotmoon과는
 
 ### PopClip 확장 안내
 
-`origin`이 `popclip`인 확장(현재 220개 전체)은 **Pilotmoon(Nicholas Moore)과 기여자들이 만든 PopClip 확장**입니다.
+`origin`이 `popclip`인 확장(현재 367개 전체: `source/` 220개 + `contrib/` 147개)은 **Pilotmoon(Nicholas Moore)과 기여자들이 만든 PopClip 확장**입니다.
 [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions)(MIT 라이선스)의 커밋 `ea2225b8c4cd9c89411b4b292da753b9fdbbd99d`에서 **수정 없이 그대로** 가져와 호환성을 위해 제공합니다.
 Seliq은 PopClip/Pilotmoon과 제휴·후원 관계가 아니며, 이들 확장의 저작권은 원저작자에게 있습니다(`NOTICE` 참고). 로딩되지 않아 제외한 확장은 `EXCLUDED.md`에 적습니다.
+
+카테고리가 **PopClip Contrib**인 항목은 upstream의 `contrib/` 폴더에서 가져왔습니다. 사용자 기여·실험적·틈새 확장이라 오래되었을 수 있으며 **있는 그대로(as-is)** 제공됩니다. 일부(예: `html-to-markdown`은 GPL-3.0 포함)는 자체 라이선스를 가지며 `meta.json`의 `license`와 `NOTICE`에 표시합니다.
 
 ### Seliq이 이 저장소를 사용하는 방식
 
@@ -39,9 +41,11 @@ Seliq is "PopClip-compatible" only; it is not affiliated with or endorsed by Pop
 
 ### PopClip extensions
 
-Extensions whose `origin` is `popclip` (all 220 entries at this commit) are **PopClip extensions by Pilotmoon (Nicholas Moore) and contributors**.
+Extensions whose `origin` is `popclip` (all 367 entries at this commit: 220 from `source/` and 147 from `contrib/`) are **PopClip extensions by Pilotmoon (Nicholas Moore) and contributors**.
 They are taken **unmodified** from [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions) (MIT License) at commit `ea2225b8c4cd9c89411b4b292da753b9fdbbd99d` and provided for compatibility.
 Seliq is not affiliated with or endorsed by PopClip or Pilotmoon; copyright of these extensions stays with their original authors (see `NOTICE`). Extensions that could not be loaded are listed in `EXCLUDED.md`.
+
+Items in the **PopClip Contrib** category come from the upstream `contrib/` folder: user-contributed, experimental or niche extensions that may be outdated, provided **as-is**. Some carry their own license (e.g. `html-to-markdown` includes GPL-3.0); this is reflected in `license` in `meta.json` and in `NOTICE`.
 
 ### How Seliq consumes this repo
 

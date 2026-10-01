@@ -1,0 +1,10 @@
+{
+  "name": "I'm Feeling Lucky",
+  "description": "Go directly to Google's \"I'm Feeling Lucky\" search result.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled IMF",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ImFeelingLucky.popclipext",
+  "origin": "popclip"
+}

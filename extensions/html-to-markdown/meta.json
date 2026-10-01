@@ -1,0 +1,10 @@
+{
+  "name": "HTML→Markdown",
+  "description": "Convert HTML (both source code and web content) to Markdown.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled HM",
+  "license": "MIT AND GPL-3.0-only",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/HTMLToMarkdown.popclipext",
+  "origin": "popclip"
+}

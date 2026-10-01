@@ -1,0 +1,10 @@
+{
+  "name": "Search Salesforce",
+  "description": "Open Salesforce.com search in a web browser with the selected text.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled SS",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SalesforceSearch.popclipext",
+  "origin": "popclip"
+}

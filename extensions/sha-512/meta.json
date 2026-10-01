@@ -1,0 +1,10 @@
+{
+  "name": "SHA-512",
+  "description": "Produce a SHA-512 hash from the selected text.",
+  "version": "1",
+  "category": "PopClip Contrib",
+  "icon": "square filled S5",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SHA-512.popclipext",
+  "origin": "popclip"
+}

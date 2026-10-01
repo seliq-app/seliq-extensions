@@ -1,0 +1,9 @@
+{
+  "name": "MD5 Python",
+  "description": "Calculate MD5 hash from selected text using Python. 使用Python计算选中文本的MD5哈希值。",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/MD5Python.popclipext",
+  "origin": "popclip"
+}

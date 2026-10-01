@@ -1,0 +1,10 @@
+{
+  "name": "Open in Safari",
+  "description": "Open the link in Safari.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled OIS",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/OpenInSafari.popclipext",
+  "origin": "popclip"
+}

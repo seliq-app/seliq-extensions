@@ -1,0 +1,10 @@
+{
+  "name": "Reveal in QSpace",
+  "description": "Reveal files in QSpace.",
+  "version": "2",
+  "category": "PopClip Contrib",
+  "icon": "square filled RIQ",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/RevealInQSpace.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Reference Resolver",
+  "description": "Resolve your journal references.",
+  "version": "0",
+  "category": "PopClip Contrib",
+  "icon": "square filled RR",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ReferenceResolver.popclipext",
+  "origin": "popclip"
+}

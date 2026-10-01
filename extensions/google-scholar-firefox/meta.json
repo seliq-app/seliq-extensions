@@ -1,0 +1,10 @@
+{
+  "name": "Google Scholar",
+  "description": "Search Google Scholar with the selected text.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled GS",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/GoogleScholarFirefox.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Emoji",
+  "description": "Replace <a href=\"http://emoji.codes/\">short codes</a> such as :grin:, :heart: or :banana: with their emoji, and vice-versa.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Em",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Emoji.popclipext",
+  "origin": "popclip"
+}

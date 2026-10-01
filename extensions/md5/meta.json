@@ -1,0 +1,10 @@
+{
+  "name": "MD5",
+  "description": "Produce a MD5 hash from the selected text.",
+  "version": "1",
+  "category": "PopClip Contrib",
+  "icon": "square filled Md",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/MD5.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Reflow",
+  "description": "Clean up messy terminal paste by removing prompts, fixing line wrapping, and joining paragraphs.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Reflow.popclipext",
+  "origin": "popclip"
+}

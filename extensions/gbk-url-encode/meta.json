@@ -1,0 +1,10 @@
+{
+  "name": "GBK URL Encode",
+  "description": "先将utf8格式转为gbk然后encode，将以gbk格式encode的text先decode然后转为utf8显示",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled GUE",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/GbkURLEncode.popclipext",
+  "origin": "popclip"
+}

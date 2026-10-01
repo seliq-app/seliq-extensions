@@ -2,10 +2,10 @@ This repository contains extensions derived from PopClip-Extensions
 (https://github.com/pilotmoon/PopClip-Extensions), pinned at commit
 ea2225b8c4cd9c89411b4b292da753b9fdbbd99d, used under the MIT License reproduced below.
 
-All extensions under extensions/ whose meta.json has "origin": "popclip" (all 220 entries
-at this commit) are derived from that repository at the pinned commit. Their files under
-extensions/<shortcode>/ext/ are byte-for-byte copies of source/<Folder>.popclipext from the
-pinned commit; the "upstream" field of each meta.json records the exact path. Authorship
+All extensions under extensions/ whose meta.json has "origin": "popclip" (all 367 entries
+at this commit: 220 from source/ and 147 from contrib/) are derived from that repository at the
+pinned commit. Their files under extensions/<shortcode>/ext/ are byte-for-byte copies of
+source/<Folder>.popclipext or contrib/<Folder>.popclipext from the pinned commit; the "upstream" field of each meta.json records the exact path. Authorship
 belongs to Nicholas Moore (Pilotmoon) and the contributors of that repository.
 
 Seliq is PopClip-compatible but is not affiliated with or endorsed by PopClip or Pilotmoon.
@@ -20,6 +20,18 @@ Additionally, 17 extensions credit their authors in the "Credits" field of Confi
 (houdah-spot, find-any-file, full-half-width, launch-bar, wolfram-alpha, urban-dictionary,
 baidu, the-hit-list, phone-amego, get-ip, douban, pub-med, taobao, ecosia, typinator,
 snippets-lab, jd); these are kept as-is.
+
+Contrib extensions (category "PopClip Contrib", from contrib/*.popclipext) that carry their own
+license or author notice inside ext/ (kept unmodified; meta.json "license" reflects it):
+  - pronounce        (LICENSE: MIT, Copyright (c) 2014 pyed)                        license: MIT
+  - klipz            (LICENSE.txt: MIT-style, Copyright (C) 2013 David Hoerl)       license: MIT
+  - html-to-markdown (COPYING: GNU GPL v3; bundles html2text by Aaron Swartz,
+                      "GNU GPL 3") -- this extension is NOT MIT-only                 license: MIT AND GPL-3.0-only
+  - emoji            (gemoji-parser/LICENSE.txt: MIT, Copyright (c) 2015 Greg MacWilliam) license: MIT
+  - toggle-case      (togglecase.py: MIT, Copyright 2020 oxxie)                     license: MIT
+  - test-rtf         (marked.js: MIT, Copyright (c) 2011-2022 Christopher Jeffrey)  license: MIT
+  - instapaper-contrib (OAuth.php: MIT, Copyright (c) 2007 Andy Smith)              license: MIT
+Contrib extensions are user-contributed or experimental and are provided as-is.
 
 ----------------------------------------------------------------------
 

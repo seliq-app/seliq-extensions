@@ -1,0 +1,10 @@
+{
+  "name": "Bookends",
+  "description": "Add selected DOI, PMID, ISBN, or JSTOR stable URL to open library. If ⌘ is held, then search library for selected text and create new group with references returned.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Bo",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Bookends.popclipext",
+  "origin": "popclip"
+}

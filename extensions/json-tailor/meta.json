@@ -1,0 +1,10 @@
+{
+  "name": "JSON Tailor",
+  "description": "Load selected JSON directly into JSON Tailor for editing and formatting",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled JT",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/JSONTailor.popclipext",
+  "origin": "popclip"
+}

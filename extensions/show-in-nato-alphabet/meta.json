@@ -1,0 +1,9 @@
+{
+  "name": "Show In NATO Alphabet",
+  "description": "Show In NATO Alphabet",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ShowInNatoAlphabet.popclipext",
+  "origin": "popclip"
+}

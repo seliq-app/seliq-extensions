@@ -1,0 +1,10 @@
+{
+  "name": "Pronounce",
+  "description": "Uses Dictionary.com to provide you with an English pronunciation of the selected word. An alternative to \"Say\", for English language learners.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled Pr",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Pronounce.popclipext",
+  "origin": "popclip"
+}

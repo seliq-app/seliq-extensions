@@ -1,0 +1,10 @@
+{
+  "name": "TextMate",
+  "description": "Open the selected text as a new file in TextMate.",
+  "version": "1.0.0",
+  "category": "PopClip Contrib",
+  "icon": "square filled TM",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TextMate.popclipext",
+  "origin": "popclip"
+}

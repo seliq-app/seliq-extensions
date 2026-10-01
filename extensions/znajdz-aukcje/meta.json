@@ -1,0 +1,10 @@
+{
+  "name": "Znajdz Aukcje",
+  "description": "Wyszukuje dany tekst na Allegro",
+  "version": "1",
+  "category": "PopClip Contrib",
+  "icon": "square filled ZA",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ZnajdzAukcje.popclipext",
+  "origin": "popclip"
+}

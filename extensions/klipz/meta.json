@@ -1,0 +1,10 @@
+{
+  "name": "Klipz",
+  "description": "Manage one or more queue-based clipboards. Click on one of its actions to open a PDF with instructions.",
+  "version": "1",
+  "category": "PopClip Contrib",
+  "icon": "square filled Kl",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Klipz.popclipext",
+  "origin": "popclip"
+}
