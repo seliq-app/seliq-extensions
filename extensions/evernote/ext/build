@@ -1,0 +1,8 @@
+#!/bin/zsh
+set -e
+
+bunx tsc -p tsconfig.json
+module=main
+bunx browserify --external sanitize-html --external htmlparser2 --external dom-serializer --standalone foo $module.js > $module.bundle.js
+lzfse -encode -i $module.bundle.js > $module.bundle.js.lzfse
+rm main.js enml.js main.bundle.js

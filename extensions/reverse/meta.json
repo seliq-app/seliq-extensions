@@ -3,6 +3,8 @@
   "description": "Reverse the order of the selected lines.",
   "version": "1.0.0",
   "category": "Text",
+  "icon": "square filled ⇆",
   "license": "MIT",
-  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d"
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d",
+  "origin": "popclip"
 }

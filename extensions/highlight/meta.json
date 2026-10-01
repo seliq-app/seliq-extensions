@@ -1,0 +1,10 @@
+{
+  "name": "Highlight",
+  "description": "Highlight the selected text. Works in Pages, Preview, Alternote, DevonThink, Evernote, Goodlinks, iA Writer, iA Presenter, LogSeq, Obsidian, PDFpen, PDF Expert, Scrivener, Skim and Apple Notes only.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Hi",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Highlight.popclipext",
+  "origin": "popclip"
+}

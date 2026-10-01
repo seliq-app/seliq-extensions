@@ -1,0 +1,10 @@
+{
+  "name": "OmniFocus",
+  "description": "Create a new Inbox task in OmniFocus 4 Pro.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled OF",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/OmniFocus.popclipext",
+  "origin": "popclip"
+}

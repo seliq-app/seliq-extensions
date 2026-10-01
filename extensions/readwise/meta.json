@@ -1,0 +1,10 @@
+{
+  "name": "Readwise",
+  "description": "Save a highlight or URL to Readwise.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Re",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Readwise.popclipext",
+  "origin": "popclip"
+}

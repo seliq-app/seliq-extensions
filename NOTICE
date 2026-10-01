@@ -2,14 +2,24 @@ This repository contains extensions derived from PopClip-Extensions
 (https://github.com/pilotmoon/PopClip-Extensions), pinned at commit
 ea2225b8c4cd9c89411b4b292da753b9fdbbd99d, used under the MIT License reproduced below.
 
-Derived extensions (under extensions/<shortcode>/ext/):
-  - uppercase     <- source/Uppercase.popclipext
-  - lowercase     <- source/Lowercase.popclipext
-  - sentence-case <- source/SentenceCase.popclipext
-  - url-encode    <- source/URLEncode.popclipext
-  - reverse       <- source/Reverse.popclipext
+All extensions under extensions/ whose meta.json has "origin": "popclip" (all 220 entries
+at this commit) are derived from that repository at the pinned commit. Their files under
+extensions/<shortcode>/ext/ are byte-for-byte copies of source/<Folder>.popclipext from the
+pinned commit; the "upstream" field of each meta.json records the exact path. Authorship
+belongs to Nicholas Moore (Pilotmoon) and the contributors of that repository.
 
 Seliq is PopClip-compatible but is not affiliated with or endorsed by PopClip or Pilotmoon.
+
+Extensions that carry their own license or author notice inside ext/ (kept unmodified):
+  - curiota   (README.md: Copyright (c) 2018 Zengobi, Inc.; (c) 2016 Michael Demastrie; MIT)
+  - markdown  (Markdown.pl, README.md: Copyright (c) 2004 John Gruber; BSD-style license)
+  - name-color (namecolor.py: Copyright 2020 oxxie; MIT)
+  - quiver    (quiver.py: MIT License header)
+  - droplr    (droplr.bundle.js: bundled third-party code with BSD-style license notice)
+Additionally, 17 extensions credit their authors in the "Credits" field of Config.plist
+(houdah-spot, find-any-file, full-half-width, launch-bar, wolfram-alpha, urban-dictionary,
+baidu, the-hit-list, phone-amego, get-ip, douban, pub-med, taobao, ecosia, typinator,
+snippets-lab, jd); these are kept as-is.
 
 ----------------------------------------------------------------------
 

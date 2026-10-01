@@ -1,0 +1,10 @@
+{
+  "name": "Full/Half Width",
+  "description": "Convert between full width and half width forms of Chinese, Japanese and Korean characters. For example, convert ヲ to ｦ.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled FHW",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/FullHalfWidth.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Doit.im",
+  "description": "Create a new task in Doit.im.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled DI",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Doit.popclipext",
+  "origin": "popclip"
+}

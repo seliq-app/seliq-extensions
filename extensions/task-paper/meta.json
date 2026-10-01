@@ -1,0 +1,10 @@
+{
+  "name": "TaskPaper",
+  "description": "Send the text to TaskPaper 3 as a new Inbox task.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled TP",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TaskPaper.popclipext",
+  "origin": "popclip"
+}

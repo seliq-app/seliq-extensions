@@ -1,0 +1,10 @@
+{
+  "name": "Antinote",
+  "description": "Create a new note in Antinote.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled An",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Antinote.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "StartPage",
+  "description": "Search the web using StartPage.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled SP",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/StartPage.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Translatium",
+  "description": "Translate the text using Translatium.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Tr",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Translatium.popclipext",
+  "origin": "popclip"
+}

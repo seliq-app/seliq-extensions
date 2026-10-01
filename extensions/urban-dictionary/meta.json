@@ -1,0 +1,10 @@
+{
+  "name": "Urban Dictionary",
+  "description": "Look up a word or phrase in Urban Dictionary.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled UD",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/UrbanDictionary.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Coding Cases",
+  "description": "Convert the selection to either camelCase, UpperCamelCase, kebab-case, snake_case or CONSTANT_CASE.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled CC",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CodeCase.popclipext",
+  "origin": "popclip"
+}

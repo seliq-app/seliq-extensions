@@ -1,0 +1,10 @@
+{
+  "name": "Online Dictionary",
+  "description": "Search for the selected word in an online dictionary. Includes Dictionary.com, Merriam Webster Online, Oxford Advanced Learner's Dictionary, Youdao, dict.cn, dict.cc, and more.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled OD",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/OnlineDictionary.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Name Color",
+  "description": "Suggests a descriptive name for a hexadecimal color value.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled NC",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/NameColor.popclipext",
+  "origin": "popclip"
+}

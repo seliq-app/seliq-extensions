@@ -1,0 +1,10 @@
+{
+  "name": "Base64",
+  "description": "Encode or decode the selected text as Base64-encoded UTF-8. Supports standard (+/) and URL-safe (-_) Base64 variants.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Ba",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Base64.popclipext",
+  "origin": "popclip"
+}

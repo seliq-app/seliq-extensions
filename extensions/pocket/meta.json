@@ -1,0 +1,10 @@
+{
+  "name": "Pocket",
+  "description": "Save the URL to view later with Pocket.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Po",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Pocket.popclipext",
+  "origin": "popclip"
+}

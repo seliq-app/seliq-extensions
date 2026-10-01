@@ -1,0 +1,10 @@
+{
+  "name": "Google",
+  "description": "Search the web using Google, with option to choose the country site.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Go",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/GoogleSearch.popclipext",
+  "origin": "popclip"
+}

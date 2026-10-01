@@ -1,0 +1,10 @@
+{
+  "name": "Paste and Enter",
+  "description": "PopClip will paste, then press the Return (↵) key for you.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled PAE",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/PasteAndEnter.popclipext",
+  "origin": "popclip"
+}

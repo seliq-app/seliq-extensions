@@ -1,0 +1,10 @@
+{
+  "name": "2Do",
+  "description": "Create a new to-do in 2Do.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled 2d",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/2Do.popclipext",
+  "origin": "popclip"
+}

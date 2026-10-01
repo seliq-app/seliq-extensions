@@ -1,0 +1,9 @@
+{
+  "name": "Archive.today",
+  "description": "Submit the selected URL for archiving by Archive.today (Archive.is)",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ArchiveIs.popclipext",
+  "origin": "popclip"
+}

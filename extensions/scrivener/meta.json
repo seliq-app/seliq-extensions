@@ -1,0 +1,10 @@
+{
+  "name": "Scrivener",
+  "description": "Make a new clipping in the currently open Scrivener document.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Sc",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Scrivener.popclipext",
+  "origin": "popclip"
+}

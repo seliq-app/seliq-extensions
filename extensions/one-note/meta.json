@@ -1,0 +1,10 @@
+{
+  "name": "OneNote",
+  "description": "Add the text as a Quick Note in Microsoft OneNote.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled ON",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/OneNote.popclipext",
+  "origin": "popclip"
+}

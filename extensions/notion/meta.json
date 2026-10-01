@@ -1,0 +1,10 @@
+{
+  "name": "Notion",
+  "description": "Append the selection to a note in Notion.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled No",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Notion.popclipext",
+  "origin": "popclip"
+}

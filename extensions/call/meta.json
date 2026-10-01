@@ -1,0 +1,10 @@
+{
+  "name": "Call",
+  "description": "Call the selected phone number using your iPhone, or another call handler. (Set the default call handler in FaceTime preferences.)",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Ca",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Call.popclipext",
+  "origin": "popclip"
+}

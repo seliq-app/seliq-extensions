@@ -1,0 +1,10 @@
+{
+  "name": "Terminal",
+  "description": "Run the selected text as a command in the active terminal window with optional prepend/append text. Supports Terminal, iTerm2, Warp, Ghostty, kitty, and cmux.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Te",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/RunCommand.popclipext",
+  "origin": "popclip"
+}

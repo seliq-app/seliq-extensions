@@ -1,0 +1,10 @@
+{
+  "name": "DEVONthink",
+  "description": "Clip text to your DEVONthink inbox, or search your open databases.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled De",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/DEVONthink.popclipext",
+  "origin": "popclip"
+}

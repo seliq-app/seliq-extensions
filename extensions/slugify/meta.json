@@ -1,0 +1,10 @@
+{
+  "name": "Slugify",
+  "description": "Replace spaces between words with hyphens, remove anything that is not a letter or number, and downcase.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Sl",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Slugify.popclipext",
+  "origin": "popclip"
+}

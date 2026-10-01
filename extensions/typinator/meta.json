@@ -1,0 +1,10 @@
+{
+  "name": "Typinator",
+  "description": "Create a Typinator expansion with the selected text.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Ty",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Typinator.popclipext",
+  "origin": "popclip"
+}

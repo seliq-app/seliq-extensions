@@ -1,0 +1,10 @@
+{
+  "name": "Markdown",
+  "description": "Convert Markdown-formatted text to HTML using John Gruber's original Perl script.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Ma",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Markdown.popclipext",
+  "origin": "popclip"
+}

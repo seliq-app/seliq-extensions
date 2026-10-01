@@ -1,0 +1,10 @@
+{
+  "name": "Mapy",
+  "description": "Search Mapy.com",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Ma",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Mapy.popclipext",
+  "origin": "popclip"
+}

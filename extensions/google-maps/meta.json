@@ -1,0 +1,10 @@
+{
+  "name": "Google Maps",
+  "description": "Search Google Maps.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled GM",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/GoogleMaps.popclipext",
+  "origin": "popclip"
+}

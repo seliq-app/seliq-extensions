@@ -1,0 +1,10 @@
+{
+  "name": "Baidu",
+  "description": "Search the web using Baidu.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Ba",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Baidu.popclipext",
+  "origin": "popclip"
+}

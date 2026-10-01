@@ -17,7 +17,7 @@ const FIXED_MTIME = new Date("2026-01-01T00:00:00Z");
 const SHORTCODE_RE = /^[a-z0-9-]+$/;
 const VERSION_RE = /^[A-Za-z0-9._+-]+$/;
 const FILENAME_RE = /^[a-z0-9-]+-[A-Za-z0-9._+-]+\.popclipextz$/;
-const CONFIG_NAMES = ["Config.json", "Config.yaml", "Config.yml", "Config.js", "Config.ts", "Config.plist"];
+const CONFIG_NAMES = ["Config.json", "Config.yaml", "Config.yml", "Config.js", "Config.ts", "Config.plist", "Config.applescript"];
 
 const errors = [];
 const err = (sc, msg) => errors.push(`[${sc}] ${msg}`);
@@ -51,11 +51,12 @@ function readConfigValue(extPath, key) {
       return m ? m[1].trim() : null;
     }
     const re = new RegExp(`^${key}\\s*:\\s*(.+)$`);
+    const cm = n.endsWith(".applescript") ? "--" : "//";
     for (const line of lines) {
       let l = line;
-      if (n.endsWith(".js") || n.endsWith(".ts")) {
-        if (!/^\s*\/\//.test(l) && l.trim() !== "") break; // end of leading comment header
-        l = l.replace(/^\s*\/\/ ?/, "");
+      if (n.endsWith(".js") || n.endsWith(".ts") || n.endsWith(".applescript")) {
+        if (!l.trim().startsWith(cm) && l.trim() !== "") break; // end of leading comment header
+        l = l.replace(new RegExp(`^\\s*${cm} ?`), "");
         if (/^\s/.test(l)) continue;
       }
       const m = l.match(re);
@@ -102,7 +103,7 @@ for (const sc of shortcodes) {
     if (typeof meta[k] !== "string" || meta[k].trim() === "") { err(sc, `meta.json: "${k}" is required (non-empty string)`); ok = false; }
   }
   if (ok && (!VERSION_RE.test(meta.version) || meta.version.includes("..") || !FILENAME_RE.test(`${sc}-${meta.version}.popclipextz`))) { err(sc, 'meta.json: "version" must match [A-Za-z0-9._+-]+ and not contain ".."'); ok = false; }
-  for (const k of ["category", "icon", "upstream"]) {
+  for (const k of ["category", "icon", "upstream", "origin"]) {
     if (meta[k] != null && typeof meta[k] !== "string") { err(sc, `meta.json: "${k}" must be a string`); ok = false; }
   }
   if (meta.unlisted != null && typeof meta.unlisted !== "boolean") { err(sc, 'meta.json: "unlisted" must be boolean'); ok = false; }
@@ -146,6 +147,7 @@ for (const sc of shortcodes) {
     license: meta.license,
     upstream: strOrNull(meta.upstream),
     unlisted: meta.unlisted === true,
+    origin: strOrNull(meta.origin),
   });
 }
 
@@ -161,9 +163,14 @@ const index = { schema: 1, generated: new Date().toISOString().replace(/\.\d{3}Z
 fs.writeFileSync(path.join(siteDir, "index.json"), JSON.stringify(index, null, 2) + "\n");
 
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
-const rows = entries.filter((e) => !e.unlisted)
-  .map((e) => `<li><a href="${esc(e.download)}">${esc(e.name)}</a> ${esc(e.version)} &mdash; ${esc(e.description)}</li>`).join("\n");
+const li = (e) => `<li><a href="${esc(e.download)}">${esc(e.name)}</a> ${esc(e.version)}${e.origin === "popclip" ? " <small>[PopClip]</small>" : ""} &mdash; ${esc(e.description)}</li>`;
+const listed = entries.filter((e) => !e.unlisted);
+const popclipRows = listed.filter((e) => e.origin === "popclip").map(li).join("\n");
+const otherRows = listed.filter((e) => e.origin !== "popclip").map(li).join("\n");
 fs.writeFileSync(path.join(siteDir, "index.html"),
-  `<!doctype html>\n<meta charset="utf-8">\n<title>Seliq Extensions</title>\n<h1>Seliq Extensions</h1>\n<p>Extension store for Seliq (PopClip-compatible). Machine-readable: <a href="index.json">index.json</a></p>\n<ul>\n${rows}\n</ul>\n`);
+  `<!doctype html>\n<meta charset="utf-8">\n<title>Seliq Extensions</title>\n<h1>Seliq Extensions</h1>\n<p>Extension store for Seliq (PopClip-compatible). Machine-readable: <a href="index.json">index.json</a></p>\n` +
+  `<p><strong>PopClip extensions.</strong> Entries marked [PopClip] are PopClip extensions by Pilotmoon (Nicholas Moore) and contributors, taken unmodified from <a href="https://github.com/pilotmoon/PopClip-Extensions">pilotmoon/PopClip-Extensions</a> under the MIT License and provided for compatibility. Seliq is not affiliated with or endorsed by PopClip or Pilotmoon. PopClip extensions &mdash; 이 항목들은 Pilotmoon과 기여자가 만든 PopClip 확장이며 수정 없이 MIT 라이선스로 호환을 위해 제공됩니다. Seliq은 PopClip/Pilotmoon과 제휴 관계가 아닙니다.</p>\n` +
+  (otherRows ? `<h2>Seliq</h2>\n<ul>\n${otherRows}\n</ul>\n` : "") +
+  `<h2>PopClip extensions (${listed.filter((e) => e.origin === "popclip").length})</h2>\n<ul>\n${popclipRows}\n</ul>\n`);
 
 console.log(`OK: ${entries.length} extensions -> ${path.relative(root, siteDir)}/`);

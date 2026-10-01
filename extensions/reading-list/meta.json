@@ -1,0 +1,10 @@
+{
+  "name": "Reading List",
+  "description": "Save the URL to your Safari Reading List.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled RL",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ReadingList.popclipext",
+  "origin": "popclip"
+}

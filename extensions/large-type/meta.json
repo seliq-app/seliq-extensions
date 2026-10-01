@@ -1,0 +1,10 @@
+{
+  "name": "Large Type",
+  "description": "Display the selected text in large, clear type in the middle of the screen.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled LT",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/LargeType.popclipext",
+  "origin": "popclip"
+}

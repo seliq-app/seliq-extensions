@@ -1,0 +1,10 @@
+{
+  "name": "Print",
+  "description": "Print the selected text to the default printer.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Pr",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Print.popclipext",
+  "origin": "popclip"
+}

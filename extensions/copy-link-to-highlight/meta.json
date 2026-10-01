@@ -1,0 +1,9 @@
+{
+  "name": "Copy Link to Highlight",
+  "description": "Copies a URL that points to the text currently selected in a web page",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CopyLinkToHighlight.popclipext",
+  "origin": "popclip"
+}

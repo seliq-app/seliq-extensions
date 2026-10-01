@@ -1,0 +1,10 @@
+{
+  "name": "Swap with Clipboard",
+  "description": "Swap the selected text with the contents of the clipboard.",
+  "version": "2",
+  "category": "PopClip",
+  "icon": "square filled SWC",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Swap.popclipext",
+  "origin": "popclip"
+}

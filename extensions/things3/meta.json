@@ -1,0 +1,10 @@
+{
+  "name": "Things 3",
+  "description": "Create a new to-do in Things 3.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled T3",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Things3.popclipext",
+  "origin": "popclip"
+}

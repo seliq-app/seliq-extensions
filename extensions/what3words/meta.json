@@ -1,0 +1,9 @@
+{
+  "name": "What3Words",
+  "description": "Open a what3words address on the web.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/What3Words.popclipext",
+  "origin": "popclip"
+}

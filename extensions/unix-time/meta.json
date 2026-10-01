@@ -1,0 +1,10 @@
+{
+  "name": "Unix Time",
+  "description": "Convert Unix timestamps to formatted dates and times.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled UT",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/UnixTime.popclipext",
+  "origin": "popclip"
+}

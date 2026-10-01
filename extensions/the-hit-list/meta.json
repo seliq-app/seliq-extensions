@@ -1,0 +1,10 @@
+{
+  "name": "The Hit List",
+  "description": "Create a new task in The Hit List.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled THL",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TheHitList.popclipext",
+  "origin": "popclip"
+}

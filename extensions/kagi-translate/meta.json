@@ -1,0 +1,10 @@
+{
+  "name": "Kagi Translate",
+  "description": "Translate text or a URL using Kagi Translate.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled KT",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/KagiTranslate.popclipext",
+  "origin": "popclip"
+}

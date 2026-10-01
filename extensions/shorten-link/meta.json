@@ -1,0 +1,10 @@
+{
+  "name": "Shorten Link",
+  "description": "Shorten the selected URL using is.gd or v.gd.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled SL",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ShortenLink.popclipext",
+  "origin": "popclip"
+}

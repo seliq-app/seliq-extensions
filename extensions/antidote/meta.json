@@ -1,0 +1,10 @@
+{
+  "name": "Antidote",
+  "description": "Look up the text in Antidote, the French dictionary and spellchecker.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled An",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Antidote.popclipext",
+  "origin": "popclip"
+}

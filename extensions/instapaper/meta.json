@@ -1,0 +1,10 @@
+{
+  "name": "Instapaper",
+  "description": "Save a URL to read later with Instapaper.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled In",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Instapaper.popclipext",
+  "origin": "popclip"
+}

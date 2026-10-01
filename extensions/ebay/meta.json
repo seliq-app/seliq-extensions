@@ -1,0 +1,10 @@
+{
+  "name": "Ebay",
+  "description": "Search for items for sale on Ebay.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Eb",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Ebay.popclipext",
+  "origin": "popclip"
+}

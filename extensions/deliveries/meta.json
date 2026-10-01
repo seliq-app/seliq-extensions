@@ -1,0 +1,10 @@
+{
+  "name": "Deliveries",
+  "description": "Track a package delivery using Deliveries.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled De",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Deliveries.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "nvALT",
+  "description": "Create a note in nvALT.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled NA",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/nvALT.popclipext",
+  "origin": "popclip"
+}

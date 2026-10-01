@@ -1,0 +1,10 @@
+{
+  "name": "Downie",
+  "description": "Download the video on the linked page using Downie. (Now updated for Downie 4).",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Do",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Downie.popclipext",
+  "origin": "popclip"
+}

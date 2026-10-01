@@ -1,0 +1,10 @@
+{
+  "name": "Convert",
+  "description": "Convert quantities in metric units to US/imperial units, and vice-versa. Supports lb↔kg, oz↔g, miles↔km, feet/yards↔m, inches↔mm/cm, °F↔°C.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "icon": "square filled Co",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Convert.popclipext",
+  "origin": "popclip"
+}

@@ -1,0 +1,9 @@
+{
+  "popclipVersion": 4225,
+  "identifier": "com.pilotmoon.popclip.extension.convert",
+  "name": "Convert",
+  "icon": "scales.png",
+  "module": "convert.ts",
+  "entitlements": ["dynamic"],
+  "description": "Convert quantities in metric units to US/imperial units, and vice-versa. Supports lb↔kg, oz↔g, miles↔km, feet/yards↔m, inches↔mm/cm, °F↔°C."
+}

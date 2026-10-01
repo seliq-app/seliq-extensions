@@ -1,0 +1,9 @@
+{
+  "name": "ROT13",
+  "description": "Apply the ROT13 cipher to the text.",
+  "version": "1.0.0",
+  "category": "PopClip",
+  "license": "MIT",
+  "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ROT13.popclipext",
+  "origin": "popclip"
+}
