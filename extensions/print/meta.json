@@ -6,5 +6,14 @@
   "icon": "square filled Pr",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Print.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 기본 프린터로 인쇄합니다.",
+    "ja": "選択したテキストをデフォルトプリンターに印刷します。",
+    "zh-Hans": "将所选文本打印到默认打印机。",
+    "zh-Hant": "將所選文字列印至預設印表機。",
+    "de": "Ausgewählten Text auf dem Standarddrucker ausdrucken.",
+    "fr": "Imprimer le texte sélectionné sur l'imprimante par défaut.",
+    "es": "Imprimir el texto seleccionado en la impresora predeterminada."
+  }
 }

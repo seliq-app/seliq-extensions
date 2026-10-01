@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Alphagram.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트의 글자를 정렬하거나 섞습니다.",
+    "ja": "選択したテキストの文字をソートまたはスクランブルします。",
+    "zh-Hans": "对所选文本的字母进行排序或打乱。",
+    "zh-Hant": "對所選文字進行排序或打亂。",
+    "de": "Buchstaben des ausgewählten Texts sortieren oder durchmischen.",
+    "fr": "Trier ou mélanger les lettres du texte sélectionné.",
+    "es": "Ordenar o mezclar las letras del texto seleccionado."
+  }
 }

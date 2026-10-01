@@ -6,5 +6,14 @@
   "icon": "square filled ZA",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ZnajdzAukcje.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Allegro에서 주어진 텍스트를 검색합니다.",
+    "ja": "Allegroで指定されたテキストを検索します。",
+    "zh-Hans": "在Allegro上搜索指定文本。",
+    "zh-Hant": "在Allegro上搜尋指定文字。",
+    "de": "Allegro nach dem angegebenen Text durchsuchen.",
+    "fr": "Rechercher le texte spécifié sur Allegro.",
+    "es": "Buscar el texto especificado en Allegro."
+  }
 }

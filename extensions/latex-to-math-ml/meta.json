@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/LatexToMathML.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "LaTeX를 MathML로 변환합니다.",
+    "ja": "LaTeXをMathMLに変換します。",
+    "zh-Hans": "将LaTeX转换为MathML。",
+    "zh-Hant": "將LaTeX轉換為MathML。",
+    "de": "LaTeX in MathML konvertieren.",
+    "fr": "Convertir LaTeX en MathML.",
+    "es": "Convertir LaTeX a MathML."
+  }
 }

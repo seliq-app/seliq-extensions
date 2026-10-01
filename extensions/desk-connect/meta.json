@@ -6,5 +6,14 @@
   "icon": "square filled DC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/DeskConnect.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "DeskConnect를 통해 선택 항목을 iOS 기기 또는 다른 Mac으로 보냅니다.",
+    "ja": "選択項目をDeskConnect経由でiOSデバイスまたは別のMacに送信します。",
+    "zh-Hans": "通过DeskConnect将选择发送到iOS设备或另一台Mac。",
+    "zh-Hant": "透過DeskConnect將選取項傳送到iOS裝置或另一台Mac。",
+    "de": "Auswahl per DeskConnect an iOS-Gerät oder Mac senden.",
+    "fr": "Envoyer la sélection à un appareil iOS ou un autre Mac via DeskConnect.",
+    "es": "Enviar la selección a un dispositivo iOS u otra Mac a través de DeskConnect."
+  }
 }

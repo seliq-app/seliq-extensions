@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/UnicodeLens.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트의 기본 Unicode 코드 포인트를 봅니다.",
+    "ja": "選択したテキストの基礎となるUnicodeコードポイントを表示します。",
+    "zh-Hans": "查看所选文本的底层Unicode码位。",
+    "zh-Hant": "檢視所選文字的底層Unicode碼位。",
+    "de": "Zugrunde liegende Unicode-Codepunkte des ausgewählten Textes anzeigen.",
+    "fr": "Afficher les points de code Unicode sous-jacents du texte sélectionné.",
+    "es": "Ver los puntos de código Unicode subyacentes del texto seleccionado."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Dr",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Droplr.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Droplr를 사용하여 텍스트의 URL을 단축합니다.",
+    "ja": "Droplrを使用してテキスト内のURLを短縮します。",
+    "zh-Hans": "使用Droplr缩短文本中的URL。",
+    "zh-Hant": "使用Droplr縮短文字中的URL。",
+    "de": "URLs im Text mit Droplr kürzen.",
+    "fr": "Raccourcir les URL du texte avec Droplr.",
+    "es": "Acortar URL en el texto con Droplr."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled SWC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Swap.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트와 클립보드의 내용을 바꿉니다.",
+    "ja": "選択したテキストとクリップボードの内容を入れ替えます。",
+    "zh-Hans": "交换所选文本和剪贴板的内容。",
+    "zh-Hant": "交換所選文字和剪貼簿的內容。",
+    "de": "Ausgewählten Text gegen den Inhalt der Zwischenablage austauschen.",
+    "fr": "Échanger le texte sélectionné avec le contenu du presse-papiers.",
+    "es": "Intercambiar el texto seleccionado con el contenido del portapapeles."
+  }
 }

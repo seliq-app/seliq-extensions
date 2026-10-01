@@ -6,5 +6,14 @@
   "icon": "square filled GI",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/GoogleImages.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Google 이미지에서 사진을 검색합니다.",
+    "ja": "Google画像で写真を検索します。",
+    "zh-Hans": "在Google图片中搜索图片。",
+    "zh-Hant": "在Google圖片中搜尋圖片。",
+    "de": "Auf Google Images nach Bildern suchen.",
+    "fr": "Rechercher des images sur Google Images.",
+    "es": "Buscar fotos en Google Imágenes."
+  }
 }

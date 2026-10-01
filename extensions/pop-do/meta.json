@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/PopDo.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "PopDo에서 새 작업을 추가합니다.",
+    "ja": "PopDoに新しいタスクを追加します。",
+    "zh-Hans": "在PopDo中添加新任务。",
+    "zh-Hant": "在PopDo中新增工作。",
+    "de": "Neue Aufgabe in PopDo hinzufügen.",
+    "fr": "Ajouter une nouvelle tâche dans PopDo.",
+    "es": "Agregar una nueva tarea en PopDo."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled FAF",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/FindAnyFile.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Find Any File로 파일을 검색합니다.",
+    "ja": "Find Any Fileでファイルを検索します。",
+    "zh-Hans": "使用Find Any File搜索文件。",
+    "zh-Hant": "使用Find Any File搜尋檔案。",
+    "de": "Dateien mit Find Any File suchen.",
+    "fr": "Rechercher des fichiers avec Find Any File.",
+    "es": "Buscar archivos con Find Any File."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Yo",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Yojimbo.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Yojimbo에서 노트나 북마크를 만듭니다.",
+    "ja": "Yojimboでノートまたはブックマークを作成します。",
+    "zh-Hans": "在Yojimbo中创建笔记或书签。",
+    "zh-Hant": "在Yojimbo中建立筆記或書籤。",
+    "de": "Notiz oder Lesezeichen in Yojimbo erstellen.",
+    "fr": "Créer une note ou un signet dans Yojimbo.",
+    "es": "Crear una nota o un marcador en Yojimbo."
+  }
 }

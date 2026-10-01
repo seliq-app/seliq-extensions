@@ -6,5 +6,14 @@
   "icon": "square filled HM",
   "license": "MIT AND GPL-3.0-only",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/HTMLToMarkdown.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "HTML(소스 코드 및 웹 콘텐츠)를 Markdown으로 변환합니다.",
+    "ja": "HTML（ソースコードとウェブコンテンツ）をMarkdownに変換します。",
+    "zh-Hans": "将HTML（源代码和网页内容）转换为Markdown。",
+    "zh-Hant": "將HTML（原始碼和網頁內容）轉換為Markdown。",
+    "de": "HTML (Quellcode und Webinhalte) in Markdown konvertieren.",
+    "fr": "Convertir du HTML (code source et contenu web) en Markdown.",
+    "es": "Convertir HTML (código fuente y contenido web) a Markdown."
+  }
 }

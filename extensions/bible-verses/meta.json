@@ -6,5 +6,14 @@
   "icon": "square filled BV",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/BibleVerses.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "BibleGateway에서 텍스트의 성경 구절을 찾습니다.",
+    "ja": "BibleGatewayでテキスト内の聖書の節を検索します。",
+    "zh-Hans": "在BibleGateway上查找文本中的圣经经文。",
+    "zh-Hant": "在BibleGateway上查詢文字中的聖經經文。",
+    "de": "Bibelverse im Text auf BibleGateway suchen.",
+    "fr": "Trouver les références bibliques dans le texte sur BibleGateway.",
+    "es": "Encontrar referencias a versículos bíblicos en el texto, en BibleGateway."
+  }
 }

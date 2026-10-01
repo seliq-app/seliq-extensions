@@ -6,5 +6,14 @@
   "icon": "square filled Sl",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Slicereader.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 Slicereader에서 쉽게 읽을 수 있도록 표시합니다.",
+    "ja": "選択したテキストをSlicereaderで簡単に読めるように表示します。",
+    "zh-Hans": "在Slicereader中显示所选文本以便于阅读。",
+    "zh-Hant": "在Slicereader中顯示所選文字以便閱讀。",
+    "de": "Ausgewählten Text in Slicereader für einfaches Lesen anzeigen.",
+    "fr": "Afficher le texte sélectionné pour une lecture facile dans Slicereader.",
+    "es": "Mostrar el texto seleccionado para lectura fácil en Slicereader."
+  }
 }

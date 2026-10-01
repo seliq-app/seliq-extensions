@@ -5,5 +5,14 @@
   "category": "PopClip Contrib",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/CopyUrlWithTitle.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트에서 URL과 제목을 HTML 또는 Markdown 링크로 복사합니다.",
+    "ja": "選択したテキストからURLとタイトルをHTMLまたはMarkdownリンクとしてコピーします。",
+    "zh-Hans": "从所选文本中复制URL和标题作为HTML或Markdown链接。",
+    "zh-Hant": "從所選文字中複製URL和標題作為HTML或Markdown連結。",
+    "de": "URL und Titel aus ausgewähltem Text als HTML- oder Markdown-Link kopieren.",
+    "fr": "Copier l'URL et le titre du texte sélectionné en tant que lien HTML ou Markdown.",
+    "es": "Copiar la URL y el título del texto seleccionado como enlace HTML o Markdown."
+  }
 }

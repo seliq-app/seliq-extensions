@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/GrokWebsite.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Grok 웹사이트에서 새 대화를 시작합니다.",
+    "ja": "Grokウェブサイトで新しいチャットを開始します。",
+    "zh-Hans": "在Grok网站上开始新聊天。",
+    "zh-Hant": "在Grok網站上開始新的聊天。",
+    "de": "Neuen Chat auf der Grok-Website starten.",
+    "fr": "Commencer un nouveau chat sur le site Grok.",
+    "es": "Comenzar un nuevo chat en el sitio web de Grok."
+  }
 }

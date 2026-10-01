@@ -6,5 +6,14 @@
   "icon": "square filled Ne",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Neeva.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Neeva를 사용하여 웹을 검색합니다.",
+    "ja": "Neevaを使用してウェブを検索します。",
+    "zh-Hans": "使用Neeva搜索网络。",
+    "zh-Hant": "使用Neeva搜尋網路。",
+    "de": "Web mit Neeva durchsuchen.",
+    "fr": "Rechercher sur le web avec Neeva.",
+    "es": "Buscar en la web con Neeva."
+  }
 }

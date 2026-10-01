@@ -6,5 +6,14 @@
   "icon": "square filled RI",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/RaindropIO.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Raindrop.io로 URL을 북마크합니다.",
+    "ja": "Raindrop.ioでURLをブックマークします。",
+    "zh-Hans": "使用Raindrop.io为URL加书签。",
+    "zh-Hant": "使用Raindrop.io為URL加入書籤。",
+    "de": "URL mit Raindrop.io als Lesezeichen speichern.",
+    "fr": "Mettre l'URL en signet avec Raindrop.io.",
+    "es": "Marcar la URL con Raindrop.io."
+  }
 }

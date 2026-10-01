@@ -6,5 +6,14 @@
   "icon": "square filled OIV",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/OpenInVivaldi.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "링크를 Vivaldi에서 엽니다.",
+    "ja": "リンクをVivaldiで開きます。",
+    "zh-Hans": "在Vivaldi中打开链接。",
+    "zh-Hant": "在Vivaldi中開啟連結。",
+    "de": "Link in Vivaldi öffnen.",
+    "fr": "Ouvrir le lien dans Vivaldi.",
+    "es": "Abrir el enlace en Vivaldi."
+  }
 }

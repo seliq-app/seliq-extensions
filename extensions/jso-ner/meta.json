@@ -6,5 +6,14 @@
   "icon": "square filled Js",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/JSONer.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "문자열을 읽기 쉬운 JSON 형식으로 포맷합니다.",
+    "ja": "文字列を読みやすいJSON形式にフォーマットします。",
+    "zh-Hans": "将字符串格式化为可读的JSON格式。",
+    "zh-Hant": "將字串格式化為可讀的JSON格式。",
+    "de": "Zeichenfolge in ein lesbares JSON-Format umwandeln.",
+    "fr": "Formater une chaîne en JSON lisible.",
+    "es": "Dar formato a una cadena en JSON legible."
+  }
 }

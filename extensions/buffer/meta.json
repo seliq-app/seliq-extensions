@@ -6,5 +6,14 @@
   "icon": "square filled Bu",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Buffer.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Buffer를 사용하여 새 게시물을 작성합니다.",
+    "ja": "Bufferを使用して新しい投稿を作成します。",
+    "zh-Hans": "使用Buffer撰写新帖子。",
+    "zh-Hant": "使用Buffer撰寫新貼文。",
+    "de": "Neuen Post mit Buffer verfassen.",
+    "fr": "Composer un nouveau post avec Buffer.",
+    "es": "Crear un nuevo post con Buffer."
+  }
 }

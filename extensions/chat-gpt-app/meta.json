@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ChatGPTApp.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "텍스트를 ChatGPT 앱에 보냅니다.",
+    "ja": "テキストをChatGPTアプリに送信します。",
+    "zh-Hans": "将文本发送到ChatGPT应用程序。",
+    "zh-Hant": "將文字傳送到ChatGPT應用程式。",
+    "de": "Text an ChatGPT-App senden.",
+    "fr": "Envoyer le texte à l'application ChatGPT.",
+    "es": "Enviar el texto a la aplicación ChatGPT."
+  }
 }

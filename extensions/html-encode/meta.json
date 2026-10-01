@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/HTMLEncode.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 HTML 인코딩하거나 디코딩합니다.",
+    "ja": "選択したテキストをHTMLエンコードまたはデコードします。",
+    "zh-Hans": "对所选文本进行HTML编码或解码。",
+    "zh-Hant": "對所選文字進行HTML編碼或解碼。",
+    "de": "Ausgewählten Text HTML-kodieren oder -dekodieren.",
+    "fr": "Encoder ou décoder le texte sélectionné en HTML.",
+    "es": "Codificar o decodificar el texto seleccionado en HTML."
+  }
 }

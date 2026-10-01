@@ -6,5 +6,14 @@
   "icon": "square filled Re",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Reminders.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Reminders에서 새 미리 알림을 추가합니다.",
+    "ja": "Remindersで新しいリマインダーを追加します。",
+    "zh-Hans": "在提醒事项中添加新提醒。",
+    "zh-Hant": "在提醒事項中新增新的提醒。",
+    "de": "Neue Erinnerung in Reminders hinzufügen.",
+    "fr": "Ajouter un nouveau rappel dans Reminders.",
+    "es": "Agregar un nuevo recordatorio en Reminders."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Gu",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Guokr.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "웹 브라우저에서 선택한 텍스트로 Guokr.com을 검색합니다.",
+    "ja": "選択したテキストを使ってGuokr.comをウェブブラウザで検索します。",
+    "zh-Hans": "使用所选文本在网页浏览器中搜索Guokr.com。",
+    "zh-Hant": "使用所選文字在網頁瀏覽器中搜尋Guokr.com。",
+    "de": "Guokr.com im Webbrowser mit dem ausgewählten Text durchsuchen.",
+    "fr": "Rechercher Guokr.com dans un navigateur web avec le texte sélectionné.",
+    "es": "Buscar Guokr.com en un navegador web con el texto seleccionado."
+  }
 }

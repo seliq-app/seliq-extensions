@@ -6,5 +6,14 @@
   "icon": "square filled Ba",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Base64.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 Base64 인코딩된 UTF-8로 인코딩하거나 디코딩합니다. 표준(+/) 및 URL 안전(-_) Base64 변형을 지원합니다.",
+    "ja": "選択したテキストをBase64エンコードされたUTF-8としてエンコードまたはデコードします。標準（+/）およびURLセーフ（-_）のBase64形式をサポートします。",
+    "zh-Hans": "将所选文本编码或解码为Base64编码的UTF-8。支持标准（+/）和URL安全（-_）Base64变体。",
+    "zh-Hant": "將所選文字編碼或解碼為Base64編碼的UTF-8。支援標準（+/）和URL安全（-_）Base64變體。",
+    "de": "Ausgewählten Text als Base64-kodiertes UTF-8 kodieren oder dekodieren. Unterstützt Standard- (+/) und URL-sichere (-_) Base64-Varianten.",
+    "fr": "Encoder ou décoder le texte sélectionné en UTF-8 encodé en Base64. Prend en charge les variantes Base64 standard (+/) et compatibles URL (-_).",
+    "es": "Codificar o decodificar el texto seleccionado como UTF-8 codificado en Base64. Admite las variantes Base64 estándar (+/) y seguras para URL (-_)."
+  }
 }

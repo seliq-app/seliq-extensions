@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ArchiveIs.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 URL을 Archive.today(Archive.is)에 보내 보관합니다.",
+    "ja": "選択したURLをArchive.today（Archive.is）に送信してアーカイブします。",
+    "zh-Hans": "将所选URL提交到Archive.today（Archive.is）存档。",
+    "zh-Hant": "將所選URL提交到Archive.today（Archive.is）存檔。",
+    "de": "Ausgewählte URL bei Archive.today (Archive.is) archivieren.",
+    "fr": "Soumettre l'URL sélectionnée à Archive.today (Archive.is) pour archivage.",
+    "es": "Enviar la URL seleccionada a Archive.today (Archive.is) para su archivo."
+  }
 }

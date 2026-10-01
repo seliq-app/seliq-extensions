@@ -6,5 +6,14 @@
   "icon": "square filled Te",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Template_JavaScript_Network.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "네트워크 접근을 지원하는 JavaScript PopClip 확장 템플릿입니다.",
+    "ja": "ネットワークアクセス付きでJavaScriptを使うPopClip拡張機能のテンプレート。",
+    "zh-Hans": "使用JavaScript并可访问网络的PopClip扩展模板。",
+    "zh-Hant": "使用JavaScript且可存取網路的PopClip擴充功能範本。",
+    "de": "Eine Vorlage für PopClip-Erweiterungen mit JavaScript und Netzwerkzugriff.",
+    "fr": "Un modèle pour les extensions PopClip utilisant JavaScript avec accès réseau.",
+    "es": "Una plantilla para extensiones de PopClip que usan JavaScript con acceso a la red."
+  }
 }

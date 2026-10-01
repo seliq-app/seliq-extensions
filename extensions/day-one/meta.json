@@ -6,5 +6,14 @@
   "icon": "square filled DO",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/DayOne.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Day One을 사용하여 일지를 작성합니다.",
+    "ja": "Day Oneを使用して日記エントリを作成します。",
+    "zh-Hans": "使用Day One创建日记条目。",
+    "zh-Hant": "使用Day One建立日記項目。",
+    "de": "Tagebucheintrag mit Day One erstellen.",
+    "fr": "Créer une entrée de journal avec Day One.",
+    "es": "Crear una entrada de diario con Day One."
+  }
 }

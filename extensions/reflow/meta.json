@@ -5,5 +5,14 @@
   "category": "PopClip Contrib",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Reflow.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "프롬프트 제거, 줄 바꿈 수정, 단락 연결로 지저분한 터미널 붙여넣기를 정리합니다.",
+    "ja": "プロンプトの削除、改行の修正、段落の結合によって、乱雑なターミナルの貼り付けテキストを整えます。",
+    "zh-Hans": "通过删除提示、修复换行和连接段落来清理混乱的终端粘贴。",
+    "zh-Hant": "透過移除提示、修正換行和連接段落來清理混亂的終端貼上。",
+    "de": "Unordentliche Terminal-Einfügungen durch Entfernen von Eingabeaufforderungen, Beheben von Zeilenumbrüchen und Verbinden von Absätzen bereinigen.",
+    "fr": "Nettoyer les collages désordonnés de terminal en supprimant les invites, en corrigeant les sauts de ligne et en joignant les paragraphes.",
+    "es": "Limpiar el pegado desordenado de la terminal eliminando indicadores, reparando saltos de línea y uniendo párrafos."
+  }
 }

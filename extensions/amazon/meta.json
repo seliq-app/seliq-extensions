@@ -6,5 +6,14 @@
   "icon": "square filled Am",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Amazon.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Amazon에서 상품을 검색합니다.",
+    "ja": "Amazonで商品を検索します。",
+    "zh-Hans": "在Amazon上搜索产品。",
+    "zh-Hant": "在Amazon上搜尋產品。",
+    "de": "Nach Produkten auf Amazon suchen.",
+    "fr": "Rechercher des produits sur Amazon.",
+    "es": "Buscar productos en Amazon."
+  }
 }

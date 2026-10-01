@@ -6,5 +6,14 @@
   "icon": "square filled Kl",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Klipz.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "하나 이상의 큐 기반 클립보드를 관리합니다. 해당 작업 중 하나를 클릭하면 사용 설명서 PDF가 열립니다.",
+    "ja": "1つ以上のキューベースのクリップボードを管理します。操作のいずれかをクリックすると、手順を記載したPDFが開きます。",
+    "zh-Hans": "管理一个或多个基于队列的剪贴板。单击其中一个操作可打开说明PDF。",
+    "zh-Hant": "管理一個或多個佇列式剪貼簿。按一下其中一項動作以開啟說明PDF。",
+    "de": "Eine oder mehrere warteschlangenbasierte Zwischenablagen verwalten. Auf eine der Aktionen klicken, um ein PDF mit Anleitung zu öffnen.",
+    "fr": "Gérer un ou plusieurs presse-papiers basés sur une file d'attente. Cliquer sur l'une de ses actions pour ouvrir un PDF d'instructions.",
+    "es": "Administrar uno o más portapapeles basados en colas. Hacer clic en una de sus acciones para abrir un PDF con instrucciones."
+  }
 }

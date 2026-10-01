@@ -6,5 +6,14 @@
   "icon": "square filled Pr",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Presearch.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "분산형 검색 엔진 Presearch에서 검색합니다.",
+    "ja": "分散型検索エンジンPresearchを検索します。",
+    "zh-Hans": "搜索去中心化搜索引擎Presearch。",
+    "zh-Hant": "搜尋去中心化搜尋引擎Presearch。",
+    "de": "Presearch, die dezentrale Suchmaschine, durchsuchen.",
+    "fr": "Rechercher le moteur de recherche décentralisé Presearch.",
+    "es": "Buscar el motor de búsqueda descentralizado Presearch."
+  }
 }

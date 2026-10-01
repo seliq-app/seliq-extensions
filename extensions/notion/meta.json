@@ -6,5 +6,14 @@
   "icon": "square filled No",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Notion.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 Notion의 노트에 추가합니다.",
+    "ja": "選択したテキストをNotionのノートに追加します。",
+    "zh-Hans": "将所选文本添加到Notion中的笔记。",
+    "zh-Hant": "將所選文字新增到Notion中的筆記。",
+    "de": "Auswahl zu einer Notiz in Notion hinzufügen.",
+    "fr": "Ajouter la sélection à une note dans Notion.",
+    "es": "Agregar la selección a una nota en Notion."
+  }
 }

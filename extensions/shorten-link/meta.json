@@ -6,5 +6,14 @@
   "icon": "square filled SL",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ShortenLink.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "is.gd 또는 v.gd를 사용하여 선택한 URL을 단축합니다.",
+    "ja": "is.gdまたはv.gdを使用して、選択したURLを短くします。",
+    "zh-Hans": "使用is.gd或v.gd缩短选择的URL。",
+    "zh-Hant": "使用is.gd或v.gd縮短所選URL。",
+    "de": "Ausgewählte URL mit is.gd oder v.gd verkürzen.",
+    "fr": "Raccourcir l'URL sélectionnée avec is.gd ou v.gd.",
+    "es": "Acortar la URL seleccionada con is.gd o v.gd."
+  }
 }

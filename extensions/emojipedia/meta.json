@@ -6,5 +6,14 @@
   "icon": "square filled Em",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Emojipedia.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Emojipedia에서 이모지를 검색합니다.",
+    "ja": "Emojipediaで絵文字を検索します。",
+    "zh-Hans": "在Emojipedia上搜索表情符号。",
+    "zh-Hant": "在Emojipedia上搜尋表情符號。",
+    "de": "Nach Emojis auf Emojipedia suchen.",
+    "fr": "Rechercher des emoji sur Emojipedia.",
+    "es": "Buscar emoji en Emojipedia."
+  }
 }

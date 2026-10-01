@@ -6,5 +6,14 @@
   "icon": "square filled Ul",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Ulysses.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Ulysses에서 새 Inbox 시트를 만듭니다.",
+    "ja": "Ulyssesで新しいInboxシートを作成します。",
+    "zh-Hans": "在Ulysses中创建新的Inbox页面。",
+    "zh-Hant": "在Ulysses中建立新的Inbox工作表。",
+    "de": "Neues Inbox-Blatt in Ulysses erstellen.",
+    "fr": "Créer une nouvelle feuille Inbox dans Ulysses.",
+    "es": "Crear una nueva hoja de Bandeja de entrada en Ulysses."
+  }
 }

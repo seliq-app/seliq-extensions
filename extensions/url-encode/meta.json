@@ -5,5 +5,14 @@
   "category": "Text",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 퍼센트 인코딩하거나 디코딩합니다.",
+    "ja": "選択したテキストをパーセントエンコードまたはデコードします。",
+    "zh-Hans": "对所选文本进行百分号编码或解码。",
+    "zh-Hant": "對所選文字進行百分號編碼或解碼。",
+    "de": "Ausgewählten Text per Prozentkodierung kodieren oder dekodieren.",
+    "fr": "Encoder ou décoder le texte sélectionné en pourcentage.",
+    "es": "Codificar o decodificar el texto seleccionado con codificación porcentual."
+  }
 }

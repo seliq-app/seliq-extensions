@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ClickUp.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "ClickUp에서 작업을 만듭니다.",
+    "ja": "ClickUpでタスクを作成します。",
+    "zh-Hans": "在ClickUp中创建任务。",
+    "zh-Hant": "在ClickUp中建立任務。",
+    "de": "Aufgabe in ClickUp erstellen.",
+    "fr": "Créer une tâche dans ClickUp.",
+    "es": "Crear una tarea en ClickUp."
+  }
 }

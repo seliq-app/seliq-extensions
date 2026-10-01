@@ -6,5 +6,14 @@
   "icon": "square filled ATS",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/AddToQSpaceProStashShelf.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "QSpace Pro Stash Shelf에 파일을 추가합니다.",
+    "ja": "QSpace Pro Stash Shelfにファイルを追加します。",
+    "zh-Hans": "将文件添加到QSpace Pro收藏架。",
+    "zh-Hant": "將檔案新增到QSpace Pro收藏架。",
+    "de": "Dateien zu QSpace Pro Stash Shelf hinzufügen.",
+    "fr": "Ajouter des fichiers à QSpace Pro Stash Shelf.",
+    "es": "Agregar archivos a QSpace Pro Stash Shelf."
+  }
 }

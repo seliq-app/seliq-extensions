@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/What3Words.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "what3words 주소를 웹에서 엽니다.",
+    "ja": "what3wordsアドレスをウェブで開きます。",
+    "zh-Hans": "在网络上打开what3words地址。",
+    "zh-Hant": "在網路上開啟what3words位址。",
+    "de": "what3words-Adresse im Web öffnen.",
+    "fr": "Ouvrir une adresse what3words sur le web.",
+    "es": "Abrir una dirección de what3words en la web."
+  }
 }

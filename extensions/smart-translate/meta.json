@@ -6,5 +6,14 @@
   "icon": "square filled ST",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SmartTranslate.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 OpenAI의 API로 보내 개선하거나 표준 대상 언어로 번역합니다.",
+    "ja": "選択したテキストをOpenAIのAPIに送信して、改善または標準ターゲット言語に翻訳します。",
+    "zh-Hans": "将所选文本发送到OpenAI的API以改进或翻译成标准目标语言。",
+    "zh-Hant": "將所選文字傳送至OpenAI的API以改善或翻譯成標準目標語言。",
+    "de": "Ausgewählten Text an die API von OpenAI senden, um ihn zu verbessern oder in die Standard-Zielsprache zu übersetzen.",
+    "fr": "Envoyer le texte sélectionné à l'API d'OpenAI pour l'améliorer ou le traduire vers la langue cible standard.",
+    "es": "Enviar el texto seleccionado a la API de OpenAI para mejorarlo o traducirlo al idioma de destino estándar."
+  }
 }

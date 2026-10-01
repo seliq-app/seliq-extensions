@@ -6,5 +6,14 @@
   "icon": "square filled TT",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TranslateTab.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Translate Tab을 사용하여 텍스트를 번역합니다.",
+    "ja": "Translate Tabを使用してテキストを翻訳します。",
+    "zh-Hans": "使用Translate Tab翻译文本。",
+    "zh-Hant": "使用Translate Tab翻譯文字。",
+    "de": "Text mit Translate Tab übersetzen.",
+    "fr": "Traduire le texte avec Translate Tab.",
+    "es": "Traducir el texto usando Translate Tab."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled SW",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SinaWeibo.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "새 Sina Weibo 게시물을 작성합니다. (2019년 10월 16일: macOS Catalina와의 호환성을 위한 업데이트)",
+    "ja": "新しいSina Weibo投稿を作成します。（2019年10月16日：macOS Catalinaとの互換性のための更新）",
+    "zh-Hans": "撰写新的新浪微博帖子。（2019年10月16日：macOS Catalina兼容性更新）",
+    "zh-Hant": "撰寫新的新浪微博貼文。（2019年10月16日：macOS Catalina相容性更新）",
+    "de": "Neuen Sina Weibo-Beitrag verfassen. (16. Oktober 2019: Update für Kompatibilität mit macOS Catalina.)",
+    "fr": "Composer un nouveau message Sina Weibo. (16 octobre 2019 : mise à jour pour la compatibilité avec macOS Catalina.)",
+    "es": "Componer una nueva publicación de Sina Weibo. (16 de octubre de 2019: actualización para compatibilidad con macOS Catalina.)"
+  }
 }

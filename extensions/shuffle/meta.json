@@ -6,5 +6,14 @@
   "icon": "square filled Sh",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Shuffle.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 줄의 순서를 무작위로 합니다.",
+    "ja": "選択した行の順序をランダムにします。",
+    "zh-Hans": "随机化所选行的顺序。",
+    "zh-Hant": "隨機化所選行的順序。",
+    "de": "Reihenfolge der ausgewählten Zeilen randomisieren.",
+    "fr": "Randomiser l'ordre des lignes sélectionnées.",
+    "es": "Aleatorizar el orden de las líneas seleccionadas."
+  }
 }

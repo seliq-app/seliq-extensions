@@ -6,5 +6,14 @@
   "icon": "square filled SL",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/SnippetsLab.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "SnippetsLab에서 코드 스니펫을 만듭니다.",
+    "ja": "SnippetsLabでコードスニペットを作成します。",
+    "zh-Hans": "在SnippetsLab中创建代码片段。",
+    "zh-Hant": "在SnippetsLab中建立程式碼片段。",
+    "de": "Code-Snippet in SnippetsLab erstellen.",
+    "fr": "Créer un extrait de code dans SnippetsLab.",
+    "es": "Crear un fragmento de código en SnippetsLab."
+  }
 }

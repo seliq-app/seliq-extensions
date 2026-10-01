@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Anybox.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 Anybox에 저장합니다.",
+    "ja": "選択したテキストをAnyboxに保存します。",
+    "zh-Hans": "将所选文本保存到Anybox。",
+    "zh-Hant": "將所選文字儲存到Anybox。",
+    "de": "Ausgewählten Text in Anybox speichern.",
+    "fr": "Enregistrer le texte sélectionné dans Anybox.",
+    "es": "Guardar el texto seleccionado en Anybox."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Du",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Due.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Due를 사용하여 새 알림을 만듭니다.",
+    "ja": "Dueを使用して新しいリマインダーを作成します。",
+    "zh-Hans": "使用Due创建新提醒。",
+    "zh-Hant": "使用Due建立新提醒。",
+    "de": "Neue Erinnerung mit Due erstellen.",
+    "fr": "Créer un nouveau rappel avec Due.",
+    "es": "Crear un nuevo recordatorio con Due."
+  }
 }

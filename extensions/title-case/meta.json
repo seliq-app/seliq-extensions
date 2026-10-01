@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TitleCase.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "영어 제목 관례에 따라 단어를 대문자화합니다.",
+    "ja": "英語のタイトル規約に従って単語を大文字化します。",
+    "zh-Hans": "根据典型的英文标题约定大写单词。",
+    "zh-Hant": "根據典型的英文標題慣例大寫單字。",
+    "de": "Wörter nach den typischen englischen Titelkonventionen großschreiben.",
+    "fr": "Mettre en majuscule les mots selon les conventions de titrage anglais typiques.",
+    "es": "Capitalizar palabras de acuerdo con las convenciones típicas de títulos en inglés."
+  }
 }

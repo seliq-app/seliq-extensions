@@ -6,5 +6,14 @@
   "icon": "square filled BC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/BusyCal.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "텍스트를 사용하여 BusyCal 3에서 일정을 만듭니다.",
+    "ja": "テキストを使用してBusyCal 3でカレンダーエントリを作成します。",
+    "zh-Hans": "使用文本在BusyCal 3中创建日历条目。",
+    "zh-Hant": "使用文字在BusyCal 3中建立行事曆項目。",
+    "de": "Mit dem Text einen Kalendereintrag in BusyCal 3 erstellen.",
+    "fr": "Utiliser le texte pour créer une entrée de calendrier dans BusyCal 3.",
+    "es": "Usar el texto para crear una entrada de calendario en BusyCal 3."
+  }
 }

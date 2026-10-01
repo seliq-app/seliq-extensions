@@ -6,5 +6,14 @@
   "icon": "square filled Tw",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Tweet.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "OS X Twitter 서비스를 사용하여 새 트윗을 작성합니다. (2019년 10월 16일: macOS Catalina와의 호환성을 위한 업데이트)",
+    "ja": "OS XのTwitterサービスを使用して新しいツイートを作成します。（2019年10月16日：macOS Catalinaとの互換性のための更新）",
+    "zh-Hans": "使用OS X Twitter服务撰写新推文。（2019年10月16日：macOS Catalina兼容性更新）",
+    "zh-Hant": "使用OS X Twitter服務撰寫新推文。（2019年10月16日：macOS Catalina相容性更新）",
+    "de": "Neuen Tweet mit dem OS X Twitter-Dienst verfassen. (16. Oktober 2019: Update für Kompatibilität mit macOS Catalina.)",
+    "fr": "Composer un nouveau tweet avec le service Twitter d'OS X. (16 octobre 2019 : mise à jour pour la compatibilité avec macOS Catalina.)",
+    "es": "Componer un nuevo tweet con el servicio de Twitter de OS X. (16 de octubre de 2019: actualización para compatibilidad con macOS Catalina.)"
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled GUE",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/GbkURLEncode.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "UTF-8 형식을 GBK로 변환한 뒤 인코딩하거나, GBK로 인코딩된 텍스트를 먼저 디코딩한 뒤 UTF-8로 변환하여 표시합니다.",
+    "ja": "UTF-8形式をGBKに変換してからエンコードするか、GBK形式でエンコードされたテキストを先にデコードしてからUTF-8に変換して表示します。",
+    "zh-Hans": "先将UTF-8格式转为GBK然后编码，将以GBK格式编码的文本先解码然后转为UTF-8显示。",
+    "zh-Hant": "先將UTF-8格式轉為GBK然後編碼，將以GBK格式編碼的文字先解碼然後轉為UTF-8顯示。",
+    "de": "UTF-8 zuerst in GBK umwandeln und dann kodieren, oder GBK-kodierten Text zuerst dekodieren und dann zur Anzeige in UTF-8 umwandeln.",
+    "fr": "Convertir d'abord l'UTF-8 en GBK puis encoder, ou décoder d'abord le texte encodé en GBK puis le convertir en UTF-8 pour l'afficher.",
+    "es": "Convertir primero UTF-8 a GBK y luego codificar, o decodificar primero el texto codificado en GBK y luego convertirlo a UTF-8 para mostrarlo."
+  }
 }

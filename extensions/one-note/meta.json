@@ -6,5 +6,14 @@
   "icon": "square filled ON",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/OneNote.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "텍스트를 Microsoft OneNote의 빠른 노트로 추가합니다.",
+    "ja": "テキストをMicrosoft OneNoteのクイックノートとして追加します。",
+    "zh-Hans": "将文本作为快速备注添加到Microsoft OneNote。",
+    "zh-Hant": "將文字新增至Microsoft OneNote作為快速筆記。",
+    "de": "Text als Schnellnotiz zu Microsoft OneNote hinzufügen.",
+    "fr": "Ajouter le texte en tant que note rapide dans Microsoft OneNote.",
+    "es": "Agregar el texto como nota rápida en Microsoft OneNote."
+  }
 }

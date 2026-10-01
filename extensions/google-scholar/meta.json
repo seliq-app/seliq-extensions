@@ -6,5 +6,14 @@
   "icon": "square filled GS",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/GoogleScholar.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Google Scholar에서 선택한 텍스트를 검색합니다.",
+    "ja": "Google Scholarで選択したテキストを検索します。",
+    "zh-Hans": "在Google Scholar中搜索所选文本。",
+    "zh-Hant": "在Google Scholar中搜尋所選文字。",
+    "de": "Google Scholar mit dem ausgewählten Text durchsuchen.",
+    "fr": "Rechercher le texte sélectionné sur Google Scholar.",
+    "es": "Buscar el texto seleccionado en Google Scholar."
+  }
 }

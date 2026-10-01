@@ -6,5 +6,14 @@
   "icon": "square filled EF",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/EagleFiler.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 EagleFiler로 가져옵니다.",
+    "ja": "選択したテキストをEagleFilerにインポートします。",
+    "zh-Hans": "将所选文本导入到EagleFiler。",
+    "zh-Hant": "將所選文字匯入到EagleFiler。",
+    "de": "Ausgewählten Text in EagleFiler importieren.",
+    "fr": "Importer le texte sélectionné dans EagleFiler.",
+    "es": "Importar el texto seleccionado a EagleFiler."
+  }
 }

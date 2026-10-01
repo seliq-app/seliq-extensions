@@ -6,5 +6,14 @@
   "icon": "square filled Dr",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Dropover.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 Dropover로 보냅니다.",
+    "ja": "選択したテキストをDropoverに送信します。",
+    "zh-Hans": "将所选文本发送到Dropover。",
+    "zh-Hant": "將所選文字傳送到Dropover。",
+    "de": "Ausgewählten Text an Dropover senden.",
+    "fr": "Envoyer le texte sélectionné à Dropover.",
+    "es": "Enviar el texto seleccionado a Dropover."
+  }
 }

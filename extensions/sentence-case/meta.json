@@ -5,5 +5,14 @@
   "category": "Text",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 각 문장을 대문자로 시작하게 합니다.",
+    "ja": "選択した各文を大文字で始めます。",
+    "zh-Hans": "使每个所选的句子以大写字母开头。",
+    "zh-Hant": "使每個所選句子以大寫字母開頭。",
+    "de": "Den Anfang jedes ausgewählten Satzes großschreiben.",
+    "fr": "Commencer chaque phrase sélectionnée par une lettre majuscule.",
+    "es": "Comenzar cada oración seleccionada con una letra mayúscula."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Bb",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/BBEdit.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 포함하는 새 BBEdit 문서를 만듭니다.",
+    "ja": "選択したテキストを含む新しいBBEditドキュメントを作成します。",
+    "zh-Hans": "创建包含所选文本的新BBEdit文档。",
+    "zh-Hant": "建立包含所選文字的新BBEdit文件。",
+    "de": "Neues BBEdit-Dokument mit ausgewähltem Text erstellen.",
+    "fr": "Créer un nouveau document BBEdit contenant le texte sélectionné.",
+    "es": "Crear un nuevo documento BBEdit con el texto seleccionado."
+  }
 }

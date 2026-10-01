@@ -6,5 +6,14 @@
   "icon": "square filled Em",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Ember.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "텍스트 클립이나 URL을 Ember에 저장합니다.",
+    "ja": "テキストクリップまたはURLをEmberに保存します。",
+    "zh-Hans": "将文本剪辑或URL保存到Ember。",
+    "zh-Hant": "將文字片段或URL儲存到Ember。",
+    "de": "Textausschnitt oder URL in Ember speichern.",
+    "fr": "Enregistrer un extrait de texte ou une URL dans Ember.",
+    "es": "Guardar un fragmento de texto o URL en Ember."
+  }
 }

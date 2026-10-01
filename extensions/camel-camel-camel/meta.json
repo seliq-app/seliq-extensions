@@ -6,5 +6,14 @@
   "icon": "square filled CCC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CamelCamelCamel.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "CamelCamelCamel을 사용하여 선택한 Amazon 제품 코드 또는 URL의 가격을 추적합니다.",
+    "ja": "CamelCamelCamelを使用して、選択したAmazonの商品コードまたはURLの価格を追跡します。",
+    "zh-Hans": "使用CamelCamelCamel追踪所选Amazon产品代码或URL的价格。",
+    "zh-Hant": "使用CamelCamelCamel追蹤所選Amazon產品代碼或URL的價格。",
+    "de": "Preis des Amazon-Produkts anhand des ausgewählten Produktcodes oder der URL mit CamelCamelCamel verfolgen.",
+    "fr": "Suivre le prix du produit Amazon dont le code ou l'URL est sélectionné, avec CamelCamelCamel.",
+    "es": "Seguir el precio del código de producto o la URL de Amazon seleccionados con CamelCamelCamel."
+  }
 }

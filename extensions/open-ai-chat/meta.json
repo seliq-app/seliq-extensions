@@ -6,5 +6,14 @@
   "icon": "square filled OAC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/OpenAIChat.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 OpenAI의 Chat API로 보냅니다.",
+    "ja": "選択したテキストをOpenAIのChat APIに送信します。",
+    "zh-Hans": "将所选文本发送到OpenAI的Chat API。",
+    "zh-Hant": "將所選文字傳送至OpenAI的Chat API。",
+    "de": "Ausgewählten Text an die Chat API von OpenAI senden.",
+    "fr": "Envoyer le texte sélectionné à l'API Chat d'OpenAI.",
+    "es": "Enviar el texto seleccionado a la API de Chat de OpenAI."
+  }
 }

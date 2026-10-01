@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/IINA.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 동영상 URL을 IINA에서 엽니다.",
+    "ja": "選択した動画URLをIINAで開きます。",
+    "zh-Hans": "在IINA中打开所选视频URL。",
+    "zh-Hant": "在IINA中開啟所選影片URL。",
+    "de": "Ausgewählte Video-URL in IINA öffnen.",
+    "fr": "Ouvrir l'URL vidéo sélectionnée dans IINA.",
+    "es": "Abrir la URL de video seleccionada en IINA."
+  }
 }

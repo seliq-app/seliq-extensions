@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Formatting.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "텍스트를 굵게, 기울임, 밑줄로 꾸밉니다.",
+    "ja": "テキストを太字、イタリック、下線にします。",
+    "zh-Hans": "将文本设为加粗、斜体或下划线。",
+    "zh-Hant": "將文字設為粗體、斜體或底線。",
+    "de": "Fettdruck, Kursiv und Unterstreichen.",
+    "fr": "Gras, italique et souligné.",
+    "es": "Negrita, cursiva y subrayado."
+  }
 }

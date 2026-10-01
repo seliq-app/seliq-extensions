@@ -6,5 +6,14 @@
   "icon": "square filled Bi",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Bitly.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Bitly를 사용하여 텍스트의 URL을 단축합니다.",
+    "ja": "Bitlyを使用してテキスト内のURLを短縮します。",
+    "zh-Hans": "使用Bitly缩短文本中的URL。",
+    "zh-Hant": "使用Bitly縮短文字中的URL。",
+    "de": "URLs im Text mit Bitly kürzen.",
+    "fr": "Raccourcir les URL du texte à l'aide de Bitly.",
+    "es": "Acortar URLs en el texto con Bitly."
+  }
 }

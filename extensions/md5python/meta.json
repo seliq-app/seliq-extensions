@@ -5,5 +5,14 @@
   "category": "PopClip Contrib",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/MD5Python.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Python을 사용하여 선택한 텍스트의 MD5 해시를 계산합니다.",
+    "ja": "Pythonを使用して選択したテキストのMD5ハッシュを計算します。",
+    "zh-Hans": "使用Python计算所选文本的MD5哈希。",
+    "zh-Hant": "使用Python計算所選文字的MD5雜湊。",
+    "de": "MD5-Hash des ausgewählten Texts mit Python berechnen.",
+    "fr": "Calculer le hash MD5 du texte sélectionné avec Python.",
+    "es": "Calcular el hash MD5 del texto seleccionado con Python."
+  }
 }

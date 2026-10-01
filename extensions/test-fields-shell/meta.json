@@ -6,5 +6,14 @@
   "icon": "square filled TS",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestFieldsShell.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "셸 스크립트를 테스트합니다.",
+    "ja": "シェルスクリプトをテストします。",
+    "zh-Hans": "测试shell脚本。",
+    "zh-Hant": "測試shell指令碼。",
+    "de": "Shell-Skripte testen.",
+    "fr": "Tester les scripts shell.",
+    "es": "Probar los scripts de shell."
+  }
 }

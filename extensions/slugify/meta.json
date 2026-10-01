@@ -6,5 +6,14 @@
   "icon": "square filled Sl",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Slugify.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "단어 사이의 공백을 하이픈으로 바꾸고, 문자나 숫자가 아닌 항목을 제거하고, 소문자로 변환합니다.",
+    "ja": "単語間のスペースをハイフンに置き換え、文字や数字以外のものを削除し、小文字に変換します。",
+    "zh-Hans": "用连字符替换单词之间的空格，删除非字母或数字的任何内容，并转换为小写。",
+    "zh-Hant": "用連字符取代字詞之間的空格，移除非字母或數字的任何內容，並轉換為小寫。",
+    "de": "Leerzeichen zwischen Wörtern durch Bindestriche ersetzen, alles außer Buchstaben und Zahlen entfernen und in Kleinbuchstaben umwandeln.",
+    "fr": "Remplacer les espaces entre les mots par des traits d'union, supprimer tout ce qui n'est pas une lettre ou un chiffre, et convertir en minuscules.",
+    "es": "Reemplazar los espacios entre palabras con guiones, eliminar todo lo que no sea una letra o un número y convertir a minúsculas."
+  }
 }

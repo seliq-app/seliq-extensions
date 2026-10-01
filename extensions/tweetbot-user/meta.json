@@ -6,5 +6,14 @@
   "icon": "square filled TU",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TweetbotUser.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Tweetbot에서 사용자 이름을 조회합니다.",
+    "ja": "Tweetbotでユーザー名として調べます。",
+    "zh-Hans": "在Tweetbot中查找用户名。",
+    "zh-Hant": "在Tweetbot中查詢使用者名稱。",
+    "de": "Benutzernamen in Tweetbot suchen.",
+    "fr": "Rechercher un nom d'utilisateur dans Tweetbot.",
+    "es": "Buscar un nombre de usuario en Tweetbot."
+  }
 }

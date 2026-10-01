@@ -5,5 +5,14 @@
   "category": "PopClip Contrib",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ShowInNatoAlphabet.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Show In NATO Alphabet",
+    "ja": "Show In NATO Alphabet",
+    "zh-Hans": "Show In NATO Alphabet",
+    "zh-Hant": "Show In NATO Alphabet",
+    "de": "Show In NATO Alphabet",
+    "fr": "Show In NATO Alphabet",
+    "es": "Show In NATO Alphabet"
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled CC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CodeCase.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택 항목을 camelCase, UpperCamelCase, kebab-case, snake_case 또는 CONSTANT_CASE로 변환합니다.",
+    "ja": "選択範囲をcamelCase、UpperCamelCase、kebab-case、snake_case、またはCONSTANT_CASEに変換します。",
+    "zh-Hans": "将选择转换为camelCase、UpperCamelCase、kebab-case、snake_case或CONSTANT_CASE。",
+    "zh-Hant": "將選取項轉換為camelCase、UpperCamelCase、kebab-case、snake_case或CONSTANT_CASE。",
+    "de": "Auswahl in camelCase, UpperCamelCase, kebab-case, snake_case oder CONSTANT_CASE konvertieren.",
+    "fr": "Convertir la sélection en camelCase, UpperCamelCase, kebab-case, snake_case ou CONSTANT_CASE.",
+    "es": "Convertir la selección a camelCase, UpperCamelCase, kebab-case, snake_case o CONSTANT_CASE."
+  }
 }

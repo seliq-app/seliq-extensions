@@ -6,5 +6,14 @@
   "icon": "square filled An",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Antidote.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Antidote(프랑스어 사전 및 맞춤법 검사기)에서 텍스트를 검색합니다.",
+    "ja": "フランス語の辞書・スペルチェッカーであるAntidoteでテキストを検索します。",
+    "zh-Hans": "在法语词典和拼写检查器Antidote中查找文本。",
+    "zh-Hant": "在法語字典與拼字檢查工具Antidote中查詢文字。",
+    "de": "Text in Antidote, dem französischen Wörterbuch und Rechtschreibprüfprogramm, nachschlagen.",
+    "fr": "Consulter le texte dans Antidote, le dictionnaire et correcteur orthographique français.",
+    "es": "Buscar el texto en Antidote, el diccionario y corrector ortográfico francés."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled LT",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/LargeType.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 화면 중앙에 크고 선명한 글자로 표시합니다.",
+    "ja": "選択したテキストを画面中央に大きくはっきりとした文字で表示します。",
+    "zh-Hans": "在屏幕中央以大号清晰字体显示所选文本。",
+    "zh-Hant": "在螢幕中央以大型清晰字體顯示所選文字。",
+    "de": "Ausgewählten Text in großer, klarer Schrift in der Bildschirmmitte anzeigen.",
+    "fr": "Afficher le texte sélectionné en gros caractères bien lisibles au centre de l'écran.",
+    "es": "Mostrar el texto seleccionado en letra grande y clara en el centro de la pantalla."
+  }
 }

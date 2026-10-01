@@ -6,5 +6,14 @@
   "icon": "square filled DDG",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/DuckDuckGo.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "DuckDuckGo로 웹을 검색합니다.",
+    "ja": "DuckDuckGoを使用してウェブを検索します。",
+    "zh-Hans": "使用DuckDuckGo搜索网络。",
+    "zh-Hant": "使用DuckDuckGo搜尋網路。",
+    "de": "Web mit DuckDuckGo durchsuchen.",
+    "fr": "Rechercher sur le web avec DuckDuckGo.",
+    "es": "Buscar en la web con DuckDuckGo."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Do",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/DOI.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "doi.org을 사용하여 Digital Object Identifier (DOI)를 해석합니다.",
+    "ja": "doi.orgを使用してDigital Object Identifier（DOI）を解決します。",
+    "zh-Hans": "使用doi.org解析数字对象标识符（DOI）。",
+    "zh-Hant": "使用doi.org解析數位物件識別碼（DOI）。",
+    "de": "Digital Object Identifier (DOI) mit doi.org auflösen.",
+    "fr": "Résoudre un Digital Object Identifier (DOI) à l'aide de doi.org.",
+    "es": "Resolver un Identificador de Objeto Digital (DOI) usando doi.org."
+  }
 }

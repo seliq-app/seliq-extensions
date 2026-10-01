@@ -6,5 +6,14 @@
   "icon": "square filled UD",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/UrbanDictionary.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Urban Dictionary에서 단어나 구문을 조회합니다.",
+    "ja": "Urban Dictionaryで単語または句を調べます。",
+    "zh-Hans": "在Urban Dictionary中查找单词或短语。",
+    "zh-Hant": "在Urban Dictionary中查詢單字或片語。",
+    "de": "Wort oder Satz im Urban Dictionary nachschlagen.",
+    "fr": "Rechercher un mot ou une phrase dans Urban Dictionary.",
+    "es": "Buscar una palabra o frase en Urban Dictionary."
+  }
 }

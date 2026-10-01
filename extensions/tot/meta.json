@@ -6,5 +6,14 @@
   "icon": "square filled To",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Tot.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Tot의 선택한 페이지에 텍스트를 추가합니다.",
+    "ja": "Totの選択したページにテキストを追加します。",
+    "zh-Hans": "将文本追加到Tot的所选页面。",
+    "zh-Hant": "將文字附加到Tot的所選頁面。",
+    "de": "Text an eine ausgewählte Seite in Tot anhängen.",
+    "fr": "Ajouter du texte à une page choisie dans Tot.",
+    "es": "Agregar texto a una página elegida en Tot."
+  }
 }

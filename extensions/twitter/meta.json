@@ -6,5 +6,14 @@
   "icon": "square filled TFM",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Twitter.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Twitter for Mac을 사용하여 새 트윗을 작성합니다.",
+    "ja": "Twitter for Macを使用して新しいツイートを作成します。",
+    "zh-Hans": "使用Twitter for Mac撰写新推文。",
+    "zh-Hant": "使用Twitter for Mac撰寫新推文。",
+    "de": "Neuen Tweet mit Twitter for Mac verfassen.",
+    "fr": "Composer un nouveau tweet en utilisant Twitter for Mac.",
+    "es": "Componer un nuevo tweet usando Twitter for Mac."
+  }
 }

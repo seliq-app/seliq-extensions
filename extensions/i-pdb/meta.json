@@ -6,5 +6,14 @@
   "icon": "square filled Ip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/IPdb.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "IPDb.at을 열고 선택한 IP 주소를 검색합니다.",
+    "ja": "IPDb.atを開き、選択したIPアドレスを検索します。",
+    "zh-Hans": "打开IPDb.at并搜索所选IP地址。",
+    "zh-Hant": "開啟IPDb.at並搜尋所選IP位址。",
+    "de": "IPDb.at öffnen und nach der gewählten IP-Adresse suchen.",
+    "fr": "Ouvrir IPDb.at et rechercher l'adresse IP choisie.",
+    "es": "Abrir IPDb.at y buscar la dirección IP elegida."
+  }
 }

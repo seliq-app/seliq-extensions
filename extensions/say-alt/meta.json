@@ -6,5 +6,14 @@
   "icon": "square filled Sa",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SayAlt.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "⌥Esc를 누릅니다. 이는 텍스트를 읽어 주는 기본 시스템 단축키입니다(시스템 설정 → 손쉬운 사용 → 음성에서 구성).",
+    "ja": "⌥Escを押します。これはテキストを読み上げるためのデフォルトのシステムショートカットです（システム設定 → アクセシビリティ → スピーチで構成）。",
+    "zh-Hans": "按⌥Esc，这是朗读文本的默认系统快捷键（在系统偏好设置 → 辅助功能 → 语音中配置）。",
+    "zh-Hant": "按⌥Esc，這是朗讀文字的預設系統快捷鍵（在系統偏好設定 → 輔助功能 → 語音中設定）。",
+    "de": "⌥Esc drücken, die Standard-Systemtastenkombination zum Vorlesen des Textes (konfigurierbar unter Systemeinstellungen → Bedienungshilfen → Sprache).",
+    "fr": "Appuyer sur ⌥Esc, le raccourci système par défaut pour lire le texte à voix haute (à configurer dans Préférences Système → Accessibilité → Parole).",
+    "es": "Presionar ⌥Esc, el atajo de sistema predeterminado para leer el texto en voz alta (se configura en Preferencias del Sistema → Accesibilidad → Voz)."
+  }
 }

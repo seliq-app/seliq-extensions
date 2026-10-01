@@ -6,5 +6,14 @@
   "icon": "square filled JL",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/JoinLines.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "줄 바꿈을 공백으로 바꿉니다.",
+    "ja": "改行をスペースに置き換えます。",
+    "zh-Hans": "用空格替换换行符。",
+    "zh-Hant": "用空格替換換行符號。",
+    "de": "Zeilenumbrüche durch Leerzeichen ersetzen.",
+    "fr": "Remplacer les sauts de ligne par des espaces.",
+    "es": "Reemplazar saltos de línea por espacios."
+  }
 }

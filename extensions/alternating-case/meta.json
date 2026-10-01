@@ -6,5 +6,14 @@
   "icon": "square filled AC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/AlternatingCase.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "텍스트를 AlTeRnAtInG CaSe로 변환합니다(무작위 적용 옵션 포함).",
+    "ja": "テキストをAlTeRnAtInG CaSeに変換します。ランダム性のオプションも利用できます。",
+    "zh-Hans": "将文本转换为AlTeRnAtInG CaSe交替大小写，可选随机化。",
+    "zh-Hant": "將文字轉換為AlTeRnAtInG CaSe交替大小寫，可選擇隨機化。",
+    "de": "Text in AlTeRnAtInG CaSe umwandeln, optional mit Zufallsanteil.",
+    "fr": "Convertir le texte en AlTeRnAtInG CaSe, avec un effet aléatoire facultatif.",
+    "es": "Convertir el texto a AlTeRnAtInG CaSe, con aleatoriedad opcional."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled ITM",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/iTunesMusic.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "iTunes 음악을 검색합니다(macOS 10.14 이하).",
+    "ja": "iTunes Musicを検索します（macOS 10.14以前）。",
+    "zh-Hans": "搜索iTunes音乐（macOS 10.14及更早版本）。",
+    "zh-Hant": "搜尋iTunes音樂（macOS 10.14及更早版本）。",
+    "de": "Musik in iTunes suchen (macOS 10.14 und älter).",
+    "fr": "Rechercher de la musique dans iTunes (macOS 10.14 et antérieur).",
+    "es": "Buscar música en iTunes (macOS 10.14 y anteriores)."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled S2",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SHA-256.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트에서 SHA-256 해시를 만듭니다.",
+    "ja": "選択したテキストからSHA-256ハッシュを生成します。",
+    "zh-Hans": "从所选文本生成SHA-256哈希。",
+    "zh-Hant": "從所選文字產生SHA-256雜湊。",
+    "de": "SHA-256-Hash aus dem ausgewählten Text erzeugen.",
+    "fr": "Générer un hash SHA-256 à partir du texte sélectionné.",
+    "es": "Generar un hash SHA-256 a partir del texto seleccionado."
+  }
 }

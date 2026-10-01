@@ -5,5 +5,14 @@
   "category": "PopClip Contrib",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/BulgarianPhoneticLatinSwitcher.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "BulLatSwitcher",
+    "ja": "BulLatSwitcher",
+    "zh-Hans": "BulLatSwitcher",
+    "zh-Hant": "BulLatSwitcher",
+    "de": "BulLatSwitcher",
+    "fr": "BulLatSwitcher",
+    "es": "BulLatSwitcher"
+  }
 }

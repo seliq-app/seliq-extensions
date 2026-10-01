@@ -6,5 +6,14 @@
   "icon": "square filled Sl",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Slack.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택 항목을 Slack의 채널에 게시합니다.",
+    "ja": "選択内容をSlackのチャネルに投稿します。",
+    "zh-Hans": "将所选内容发布到Slack中的频道。",
+    "zh-Hant": "將所選內容發佈到Slack中的頻道。",
+    "de": "Auswahl in einem Slack-Kanal posten.",
+    "fr": "Publier la sélection dans un canal Slack.",
+    "es": "Publicar la selección en un canal de Slack."
+  }
 }

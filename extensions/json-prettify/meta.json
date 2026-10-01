@@ -6,5 +6,14 @@
   "icon": "square filled JP",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/JsonPrettify.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "JSON 문자열을 보기 좋게 정리합니다.",
+    "ja": "JSON文字列を見やすくします。",
+    "zh-Hans": "美化JSON字符串。",
+    "zh-Hant": "美化JSON字串。",
+    "de": "JSON-Zeichenfolge übersichtlich formatieren.",
+    "fr": "Mettre en forme une chaîne JSON de façon lisible.",
+    "es": "Dar formato legible a una cadena JSON."
+  }
 }

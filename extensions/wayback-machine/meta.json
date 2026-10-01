@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/WaybackMachine.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Wayback Machine에서 선택한 URL의 보관된 버전을 가져옵니다.",
+    "ja": "Wayback Machineから選択したURLのアーカイブ版を取得します。",
+    "zh-Hans": "从Wayback Machine获取所选URL的存档版本。",
+    "zh-Hant": "從Wayback Machine取得所選URL的存檔版本。",
+    "de": "Archivierte Version der ausgewählten URL aus der Wayback Machine abrufen.",
+    "fr": "Obtenir une version archivée de l'URL sélectionnée à partir de la Wayback Machine.",
+    "es": "Obtener una versión archivada de la URL seleccionada de Wayback Machine."
+  }
 }

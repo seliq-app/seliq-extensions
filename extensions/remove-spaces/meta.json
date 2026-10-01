@@ -6,5 +6,14 @@
   "icon": "square filled RS",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/RemoveSpaces.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트에서 공백을 제거합니다.",
+    "ja": "選択したテキストからスペースを削除します。",
+    "zh-Hans": "从所选文本中移除空格。",
+    "zh-Hant": "從所選文字中移除空格。",
+    "de": "Leerzeichen aus dem ausgewählten Text entfernen.",
+    "fr": "Supprimer les espaces du texte sélectionné.",
+    "es": "Eliminar espacios del texto seleccionado."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled IT",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/InstantTranslateApp.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Instant Translate를 사용하여 텍스트를 번역합니다.",
+    "ja": "Instant Translateを使用してテキストを翻訳します。",
+    "zh-Hans": "使用Instant Translate翻译文本。",
+    "zh-Hant": "使用Instant Translate翻譯文字。",
+    "de": "Text mit Instant Translate übersetzen.",
+    "fr": "Traduire le texte avec Instant Translate.",
+    "es": "Traducir texto con Instant Translate."
+  }
 }

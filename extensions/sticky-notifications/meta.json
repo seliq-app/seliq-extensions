@@ -6,5 +6,14 @@
   "icon": "square filled SN",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/StickyNotifications.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Sticky Notifications로 새 알림을 만듭니다.",
+    "ja": "Sticky Notificationsで新しい通知を作成します。",
+    "zh-Hans": "使用Sticky Notifications创建新通知。",
+    "zh-Hant": "使用Sticky Notifications建立新通知。",
+    "de": "Neue Benachrichtigung mit Sticky Notifications erstellen.",
+    "fr": "Créer une nouvelle notification avec Sticky Notifications.",
+    "es": "Crear una nueva notificación usando Sticky Notifications."
+  }
 }

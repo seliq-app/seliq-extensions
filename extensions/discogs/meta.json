@@ -6,5 +6,14 @@
   "icon": "square filled Di",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Discogs.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Discogs에서 음악 데이터를 검색합니다.",
+    "ja": "Discogsで音楽データを検索します。",
+    "zh-Hans": "在Discogs上搜索音乐数据。",
+    "zh-Hant": "在Discogs上搜尋音樂資料。",
+    "de": "Musikdaten auf Discogs suchen.",
+    "fr": "Rechercher des données musicales sur Discogs.",
+    "es": "Buscar datos musicales en Discogs."
+  }
 }

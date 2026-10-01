@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CopyLinkToHighlight.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "웹 페이지에서 현재 선택한 텍스트를 가리키는 URL을 복사합니다.",
+    "ja": "ウェブページで現在選択されているテキストを指すURLをコピーします。",
+    "zh-Hans": "复制指向网页中当前所选文本的URL。",
+    "zh-Hant": "複製指向網頁中目前所選文字的URL。",
+    "de": "URL kopieren, die auf den aktuell ausgewählten Text der Webseite verweist.",
+    "fr": "Copier l'URL pointant vers le texte actuellement sélectionné dans une page web.",
+    "es": "Copiar la URL que apunta al texto actualmente seleccionado en una página web."
+  }
 }

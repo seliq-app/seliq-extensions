@@ -6,5 +6,14 @@
   "icon": "square filled TD",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestDynamic.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "TestDynamic",
+    "ja": "TestDynamic",
+    "zh-Hans": "TestDynamic",
+    "zh-Hant": "TestDynamic",
+    "de": "TestDynamic",
+    "fr": "TestDynamic",
+    "es": "TestDynamic"
+  }
 }

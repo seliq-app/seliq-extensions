@@ -6,5 +6,14 @@
   "icon": "square filled ES",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ExplainShell.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "웹 브라우저에서 선택한 텍스트를 Explain Shell의 검색 문자열로 엽니다.",
+    "ja": "選択したテキストをExplain Shellの検索文字列としてウェブブラウザで開きます。",
+    "zh-Hans": "在网页浏览器中将所选文本作为搜索字符串在Explain Shell上打开。",
+    "zh-Hant": "在網頁瀏覽器中將所選文字作為搜尋字串在Explain Shell上開啟。",
+    "de": "Ausgewählten Text in einem Webbrowser als Suchbegriff auf Explain Shell öffnen.",
+    "fr": "Ouvrir le texte sélectionné dans un navigateur web comme chaîne de recherche sur Explain Shell.",
+    "es": "Abrir el texto seleccionado en un navegador web como cadena de búsqueda en Explain Shell."
+  }
 }

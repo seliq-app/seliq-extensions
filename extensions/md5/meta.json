@@ -6,5 +6,14 @@
   "icon": "square filled Md",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/MD5.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트에서 MD5 해시를 생성합니다.",
+    "ja": "選択したテキストからMD5ハッシュを生成します。",
+    "zh-Hans": "从所选文本生成MD5哈希。",
+    "zh-Hant": "從所選文字產生MD5雜湊。",
+    "de": "MD5-Hash aus dem ausgewählten Text erzeugen.",
+    "fr": "Générer un hash MD5 à partir du texte sélectionné.",
+    "es": "Generar un hash MD5 a partir del texto seleccionado."
+  }
 }

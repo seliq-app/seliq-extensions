@@ -6,5 +6,14 @@
   "icon": "square filled Qu",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Quiver.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 항목을 프로그래머의 노트북인 Quiver로 보냅니다.",
+    "ja": "選択内容をプログラマー向けノートQuiverに送信します。",
+    "zh-Hans": "将所选内容发送到程序员的笔记本Quiver。",
+    "zh-Hant": "將所選內容傳送至程式設計師的筆記本Quiver。",
+    "de": "Auswahl an Quiver, das Notizbuch für Programmierer, senden.",
+    "fr": "Envoyer la sélection à Quiver, le carnet du programmeur.",
+    "es": "Enviar la selección a Quiver, el cuaderno del programador."
+  }
 }

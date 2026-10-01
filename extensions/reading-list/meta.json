@@ -6,5 +6,14 @@
   "icon": "square filled RL",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ReadingList.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "URL을 Safari 리딩 리스트에 저장합니다.",
+    "ja": "URLをSafariの読書リストに保存します。",
+    "zh-Hans": "将URL保存到Safari阅读列表。",
+    "zh-Hant": "將URL儲存至Safari閱讀清單。",
+    "de": "URL in Safaris Leseliste speichern.",
+    "fr": "Enregistrer l'URL dans la liste de lecture Safari.",
+    "es": "Guardar la URL en la lista de lectura de Safari."
+  }
 }

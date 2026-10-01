@@ -6,5 +6,14 @@
   "icon": "square filled Yo",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Yoink.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 Yoink에 추가합니다.",
+    "ja": "選択したテキストをYoinkに追加します。",
+    "zh-Hans": "将所选文本添加到Yoink。",
+    "zh-Hant": "將所選文字新增到Yoink。",
+    "de": "Ausgewählten Text zu Yoink hinzufügen.",
+    "fr": "Ajouter le texte sélectionné à Yoink.",
+    "es": "Agregar el texto seleccionado a Yoink."
+  }
 }

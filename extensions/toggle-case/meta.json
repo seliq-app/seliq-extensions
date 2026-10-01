@@ -6,5 +6,14 @@
   "icon": "square filled TC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ToggleCase.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트의 대소문자를 전환합니다.",
+    "ja": "選択したテキストの大文字小文字を切り替えます。",
+    "zh-Hans": "切换所选文本的大小写。",
+    "zh-Hant": "切換所選文字的大小寫。",
+    "de": "Schreibweise des ausgewählten Textes umschalten.",
+    "fr": "Basculer la casse du texte sélectionné.",
+    "es": "Alternar mayúsculas y minúsculas del texto seleccionado."
+  }
 }

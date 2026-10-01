@@ -6,5 +6,14 @@
   "icon": "square filled Ma",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Magnetize.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 BitTorrent infohash의 마그넷 링크를 엽니다.",
+    "ja": "選択したBitTorrent infohashのマグネットリンクを開きます。",
+    "zh-Hans": "打开所选BitTorrent infohash的磁力链接。",
+    "zh-Hant": "開啟所選BitTorrent infohash的磁力連結。",
+    "de": "Magnet-Link für den ausgewählten BitTorrent-Infohash öffnen.",
+    "fr": "Ouvrir un lien magnet pour l'infohash BitTorrent sélectionné.",
+    "es": "Abrir un enlace magnet para el infohash de BitTorrent seleccionado."
+  }
 }

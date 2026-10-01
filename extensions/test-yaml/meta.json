@@ -5,5 +5,14 @@
   "category": "PopClip Contrib",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestYAML.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Example 2",
+    "ja": "Example 2",
+    "zh-Hans": "Example 2",
+    "zh-Hant": "Example 2",
+    "de": "Example 2",
+    "fr": "Example 2",
+    "es": "Example 2"
+  }
 }

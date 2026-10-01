@@ -6,5 +6,14 @@
   "icon": "square filled TS",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TextSoap.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "TextSoap을 사용하여 텍스트를 정리합니다. 중요: <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>를 설치해야 합니다.",
+    "ja": "TextSoapを使用してテキストを整理します。重要：<a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>のインストールが必要です。",
+    "zh-Hans": "使用TextSoap清理文本。重要：需要安装<a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>。",
+    "zh-Hant": "使用TextSoap清理文字。重要：需要安裝<a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>。",
+    "de": "Text mit TextSoap bereinigen. Wichtig: Erfordert die Installation von <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>.",
+    "fr": "Nettoyer le texte avec TextSoap. Important : nécessite l'installation de <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>.",
+    "es": "Limpiar el texto con TextSoap. Importante: requiere instalar <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>."
+  }
 }

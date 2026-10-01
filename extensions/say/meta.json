@@ -6,5 +6,14 @@
   "icon": "square filled Sa",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Say.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "macOS 시스템 음성을 사용하여 선택한 텍스트를 소리내어 읽습니다.",
+    "ja": "macOSのシステム音声を使用して、選択したテキストを読み上げます。",
+    "zh-Hans": "使用macOS系统语音大声朗读所选文本。",
+    "zh-Hant": "使用macOS系統語音大聲朗讀所選文字。",
+    "de": "Ausgewählten Text mit der macOS-Systemstimme sprechen.",
+    "fr": "Lire le texte sélectionné à haute voix en utilisant la voix système de macOS.",
+    "es": "Leer el texto seleccionado en voz alta usando la voz del sistema macOS."
+  }
 }

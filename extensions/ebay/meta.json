@@ -6,5 +6,14 @@
   "icon": "square filled Eb",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Ebay.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Ebay에서 판매 항목을 검색합니다.",
+    "ja": "eBayで販売商品を検索します。",
+    "zh-Hans": "在eBay上搜索待售商品。",
+    "zh-Hant": "在eBay上搜尋待售商品。",
+    "de": "Nach Artikeln zum Verkauf auf eBay suchen.",
+    "fr": "Rechercher des articles à vendre sur eBay.",
+    "es": "Buscar artículos en venta en eBay."
+  }
 }

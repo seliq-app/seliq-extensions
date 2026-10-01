@@ -6,5 +6,14 @@
   "icon": "square filled RIQ",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/RevealInQSpace.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "QSpace에서 파일을 표시합니다.",
+    "ja": "QSpaceでファイルを表示します。",
+    "zh-Hans": "在QSpace中显示文件。",
+    "zh-Hant": "在QSpace中顯示檔案。",
+    "de": "Dateien in QSpace anzeigen.",
+    "fr": "Afficher les fichiers dans QSpace.",
+    "es": "Mostrar archivos en QSpace."
+  }
 }

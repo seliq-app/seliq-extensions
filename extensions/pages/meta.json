@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Pages.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 포함한 새 Pages 문서를 만듭니다.",
+    "ja": "選択したテキストを含む新しいPagesドキュメントを作成します。",
+    "zh-Hans": "创建包含所选文本的新Pages文档。",
+    "zh-Hant": "建立包含所選文字的新Pages文件。",
+    "de": "Neues Pages-Dokument mit dem ausgewählten Text erstellen.",
+    "fr": "Créer un nouveau document Pages contenant le texte sélectionné.",
+    "es": "Crear un nuevo documento de Pages que contenga el texto seleccionado."
+  }
 }

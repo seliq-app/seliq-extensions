@@ -6,5 +6,14 @@
   "icon": "square filled NC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/NameColor.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "16진수 색상 값에 어울리는 설명형 이름을 제안합니다.",
+    "ja": "16進数の色の値に対して、内容を表す名前を提案します。",
+    "zh-Hans": "为十六进制颜色值建议一个描述性名称。",
+    "zh-Hant": "為十六進位顏色值建議描述性名稱。",
+    "de": "Einen beschreibenden Namen für einen hexadezimalen Farbwert vorschlagen.",
+    "fr": "Suggérer un nom descriptif pour une valeur de couleur hexadécimale.",
+    "es": "Sugerir un nombre descriptivo para un valor de color hexadecimal."
+  }
 }

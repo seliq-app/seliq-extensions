@@ -6,5 +6,14 @@
   "icon": "square filled Te",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/RunCommand.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 활성 터미널 창에서 선택적 앞/뒤 텍스트와 함께 명령으로 실행합니다. Terminal, iTerm2, Warp, Ghostty, kitty, cmux를 지원합니다.",
+    "ja": "選択したテキストをアクティブなターミナルウィンドウで、オプションの前置/後置テキスト付きコマンドとして実行します。Terminal、iTerm2、Warp、Ghostty、kitty、cmuxをサポートします。",
+    "zh-Hans": "在活动终端窗口中运行所选文本作为命令，支持可选的前置/后置文本。支持Terminal、iTerm2、Warp、Ghostty、kitty、cmux。",
+    "zh-Hant": "在活動終端視窗中執行所選文字作為命令，支援選擇性的前置/後置文字。支援Terminal、iTerm2、Warp、Ghostty、kitty、cmux。",
+    "de": "Ausgewählten Text als Befehl im aktiven Terminalfenster mit optionalem Vor-/Nachtext ausführen. Unterstützt Terminal, iTerm2, Warp, Ghostty, kitty, cmux.",
+    "fr": "Exécuter le texte sélectionné en tant que commande dans la fenêtre de terminal active avec du texte de début/fin facultatif. Prend en charge Terminal, iTerm2, Warp, Ghostty, kitty et cmux.",
+    "es": "Ejecutar el texto seleccionado como comando en la ventana de terminal activa, con texto opcional al principio o al final. Compatible con Terminal, iTerm2, Warp, Ghostty, kitty y cmux."
+  }
 }

@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Capitalize.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 각 단어의 첫 글자를 대문자로 만듭니다.",
+    "ja": "選択した各単語の先頭を大文字にします。",
+    "zh-Hans": "将所选每个单词的首字母大写。",
+    "zh-Hant": "將所選每個字詞的首字母大寫。",
+    "de": "Jedes ausgewählte Wort mit Großbuchstaben beginnen.",
+    "fr": "Commencer chaque mot sélectionné par une majuscule.",
+    "es": "Comenzar cada palabra seleccionada con una mayúscula."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Ev",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Evernote.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 Evernote로 보냅니다.",
+    "ja": "選択したテキストをEvernoteに送信します。",
+    "zh-Hans": "将所选文本发送到Evernote。",
+    "zh-Hant": "將所選文字傳送到Evernote。",
+    "de": "Ausgewählten Text an Evernote senden.",
+    "fr": "Envoyer le texte sélectionné à Evernote.",
+    "es": "Enviar el texto seleccionado a Evernote."
+  }
 }

@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CyrillicTransliteration.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "키릴 문자를 라틴 문자로 음차합니다.",
+    "ja": "キリル文字からラテン文字に音写します。",
+    "zh-Hans": "将西里尔字符音译为拉丁字符。",
+    "zh-Hant": "將西里爾字元音譯為拉丁字元。",
+    "de": "Kyrillische in lateinische Zeichen umschreiben.",
+    "fr": "Translittérer le cyrillique en caractères latins.",
+    "es": "Transliterar caracteres cirílicos a caracteres latinos."
+  }
 }

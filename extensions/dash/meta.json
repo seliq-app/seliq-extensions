@@ -6,5 +6,14 @@
   "icon": "square filled Da",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Dash.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Dash를 사용하여 개발자 문서를 검색합니다.",
+    "ja": "Dashを使用して開発者ドキュメントを検索します。",
+    "zh-Hans": "使用Dash搜索开发者文档。",
+    "zh-Hant": "使用Dash搜尋開發者文件。",
+    "de": "Entwicklerdokumentation mit Dash durchsuchen.",
+    "fr": "Rechercher la documentation des développeurs avec Dash.",
+    "es": "Buscar documentación de desarrolladores con Dash."
+  }
 }

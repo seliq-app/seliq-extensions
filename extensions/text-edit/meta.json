@@ -6,5 +6,14 @@
   "icon": "square filled TE",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TextEdit.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 포함한 새 TextEdit 문서를 만듭니다.",
+    "ja": "選択したテキストを含む新しいTextEditドキュメントを作成します。",
+    "zh-Hans": "创建包含所选文本的新TextEdit文档。",
+    "zh-Hant": "建立包含所選文字的新TextEdit文件。",
+    "de": "Neues TextEdit-Dokument mit dem ausgewählten Text erstellen.",
+    "fr": "Créer un nouveau document TextEdit contenant le texte sélectionné.",
+    "es": "Crear un nuevo documento de TextEdit que contenga el texto seleccionado."
+  }
 }

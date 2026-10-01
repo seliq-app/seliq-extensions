@@ -6,5 +6,14 @@
   "icon": "square filled De",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Delete.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 삭제합니다.",
+    "ja": "選択したテキストを削除します。",
+    "zh-Hans": "删除所选文本。",
+    "zh-Hant": "刪除所選文字。",
+    "de": "Ausgewählten Text löschen.",
+    "fr": "Supprimer le texte sélectionné.",
+    "es": "Eliminar el texto seleccionado."
+  }
 }

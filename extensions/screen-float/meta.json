@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ScreenFloat.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "ScreenFloat로 선택한 텍스트나 화면의 일부를 캡처합니다.",
+    "ja": "ScreenFloatで選択したテキストまたはスクリーンの一部をキャプチャします。",
+    "zh-Hans": "使用ScreenFloat捕获所选文本或屏幕的一部分。",
+    "zh-Hant": "使用ScreenFloat擷取所選文字或螢幕的一部分。",
+    "de": "Ausgewählten Text oder einen Teil des Bildschirms mit ScreenFloat erfassen.",
+    "fr": "Capturer le texte sélectionné ou une partie de votre écran avec ScreenFloat.",
+    "es": "Capturar texto seleccionado o una parte de la pantalla con ScreenFloat."
+  }
 }

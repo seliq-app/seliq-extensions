@@ -6,5 +6,14 @@
   "icon": "square filled Qu",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Quicksilver.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트로 Quicksilver를 활성화합니다.",
+    "ja": "選択したテキストでQuicksilverをアクティブにします。",
+    "zh-Hans": "使用所选文本激活Quicksilver。",
+    "zh-Hant": "使用所選文字啟用Quicksilver。",
+    "de": "Quicksilver mit dem ausgewählten Text aktivieren.",
+    "fr": "Activer Quicksilver avec le texte sélectionné.",
+    "es": "Activar Quicksilver con el texto seleccionado."
+  }
 }

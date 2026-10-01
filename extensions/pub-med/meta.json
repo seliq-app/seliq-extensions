@@ -6,5 +6,14 @@
   "icon": "square filled PM",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/PubMed.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "PubMed에서 생의학 정보를 검색합니다.",
+    "ja": "PubMedでバイオメディカル情報を検索します。",
+    "zh-Hans": "在PubMed上搜索生物医学信息。",
+    "zh-Hant": "在PubMed上搜尋生物醫學資訊。",
+    "de": "Biomedizinische Informationen auf PubMed suchen.",
+    "fr": "Rechercher des informations biomédicales sur PubMed.",
+    "es": "Buscar información biomédica en PubMed."
+  }
 }

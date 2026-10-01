@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/MDNWebDocs.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "MDN Web Docs에서 선택한 텍스트로 검색합니다.",
+    "ja": "選択したテキストでMDN Web Docsを検索します。",
+    "zh-Hans": "使用所选文本搜索MDN Web Docs。",
+    "zh-Hant": "使用所選文字搜尋MDN Web Docs。",
+    "de": "MDN Web Docs mit dem ausgewählten Text durchsuchen.",
+    "fr": "Rechercher MDN Web Docs avec le texte sélectionné.",
+    "es": "Buscar en MDN Web Docs con el texto seleccionado."
+  }
 }

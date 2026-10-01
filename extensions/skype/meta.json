@@ -6,5 +6,14 @@
   "icon": "square filled Sk",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Skype.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Skype로 전화를 겁니다.",
+    "ja": "Skypeで電話番号に発信します。",
+    "zh-Hans": "使用Skype拨打电话号码。",
+    "zh-Hant": "使用Skype撥打電話號碼。",
+    "de": "Telefonnummer mit Skype anrufen.",
+    "fr": "Appeler le numéro de téléphone avec Skype.",
+    "es": "Llamar al número de teléfono con Skype."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled TP",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TaskPaper.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 TaskPaper 3에 새 Inbox 작업으로 보냅니다.",
+    "ja": "選択したテキストをTaskPaper 3に新しいInboxタスクとして送信します。",
+    "zh-Hans": "将文本发送到TaskPaper 3作为新的Inbox任务。",
+    "zh-Hant": "將文字傳送到TaskPaper 3作為新的Inbox任務。",
+    "de": "Text als neue Inbox-Aufgabe an TaskPaper 3 senden.",
+    "fr": "Envoyer le texte à TaskPaper 3 en tant que nouvelle tâche Inbox.",
+    "es": "Enviar el texto a TaskPaper 3 como nueva tarea de Bandeja de entrada."
+  }
 }

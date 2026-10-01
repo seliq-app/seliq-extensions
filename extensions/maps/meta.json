@@ -6,5 +6,14 @@
   "icon": "square filled Ma",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Maps.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "지도 앱을 검색합니다.",
+    "ja": "マップアプリを検索します。",
+    "zh-Hans": "搜索地图应用。",
+    "zh-Hant": "搜尋地圖應用程式。",
+    "de": "Maps-App durchsuchen.",
+    "fr": "Rechercher dans l'app Plans.",
+    "es": "Buscar en la app Mapas."
+  }
 }

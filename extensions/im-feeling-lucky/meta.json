@@ -6,5 +6,14 @@
   "icon": "square filled IMF",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ImFeelingLucky.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Google의 \"I'm Feeling Lucky\" 검색 결과로 바로 이동합니다.",
+    "ja": "Googleの「I'm Feeling Lucky」検索結果に直接移動します。",
+    "zh-Hans": "直接转到Google的“手气不错”搜索结果。",
+    "zh-Hant": "直接前往Google的「好手氣」搜尋結果。",
+    "de": "Direkt zum Suchergebnis von Googles „Auf gut Glück!“ gehen.",
+    "fr": "Aller directement au résultat de recherche « J'ai de la chance » de Google.",
+    "es": "Ir directamente al resultado de búsqueda «Voy a tener suerte» de Google."
+  }
 }

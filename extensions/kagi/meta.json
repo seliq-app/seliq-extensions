@@ -6,5 +6,14 @@
   "icon": "square filled Ka",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Kagi.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Kagi를 사용하여 웹을 검색합니다.",
+    "ja": "Kagiを使用してウェブを検索します。",
+    "zh-Hans": "使用Kagi搜索网络。",
+    "zh-Hant": "使用Kagi搜尋網路。",
+    "de": "Web mit Kagi durchsuchen.",
+    "fr": "Rechercher sur le web avec Kagi.",
+    "es": "Buscar en la web con Kagi."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled NM",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/NaverMap.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Naver 지도를 검색합니다.",
+    "ja": "Naver地図を検索します。",
+    "zh-Hans": "搜索Naver地图。",
+    "zh-Hant": "搜尋Naver地圖。",
+    "de": "Naver Map durchsuchen.",
+    "fr": "Rechercher sur Naver Map.",
+    "es": "Buscar en Naver Map."
+  }
 }

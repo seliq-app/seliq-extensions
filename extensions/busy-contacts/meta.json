@@ -6,5 +6,14 @@
   "icon": "square filled BC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/BusyContacts.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "BusyContacts에서 새 연락처를 만듭니다.",
+    "ja": "BusyContactsで新しい連絡先を作成します。",
+    "zh-Hans": "在BusyContacts中创建新联系人。",
+    "zh-Hant": "在BusyContacts中建立新聯絡人。",
+    "de": "Neuen Kontakt in BusyContacts erstellen.",
+    "fr": "Créer un nouveau contact dans BusyContacts.",
+    "es": "Crear un nuevo contacto en BusyContacts."
+  }
 }

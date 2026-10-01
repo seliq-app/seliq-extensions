@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Brackets.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트 주위에 (), [], {}, <>, // 중에서 골라 괄호를 추가합니다.",
+    "ja": "選択したテキストを()、[]、{}、<>、//の中から選んだ括弧で囲みます。",
+    "zh-Hans": "在所选文本周围添加括号，可从()、[]、{}、<>和//中选择。",
+    "zh-Hant": "在所選文字周圍加上括號，可從()、[]、{}、<>和//中選擇。",
+    "de": "Klammern um den ausgewählten Text setzen, wahlweise (), [], {}, <> und //.",
+    "fr": "Entourer le texte sélectionné de crochets ou parenthèses, au choix parmi (), [], {}, <> et //.",
+    "es": "Poner paréntesis o corchetes alrededor del texto seleccionado, a elegir entre (), [], {}, <> y //."
+  }
 }

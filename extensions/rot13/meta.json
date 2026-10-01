@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ROT13.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "텍스트에 ROT13 암호를 적용합니다.",
+    "ja": "テキストにROT13暗号を適用します。",
+    "zh-Hans": "将ROT13密码应用于文本。",
+    "zh-Hant": "將ROT13密碼應用於文字。",
+    "de": "ROT13-Verschlüsselung auf den Text anwenden.",
+    "fr": "Appliquer le chiffre ROT13 au texte.",
+    "es": "Aplicar el cifrado ROT13 al texto."
+  }
 }

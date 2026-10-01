@@ -6,5 +6,14 @@
   "icon": "square filled Wh",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/WhoIs.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 도메인 이름에 대한 Whois 정보를 조회합니다.",
+    "ja": "選択したドメイン名のWhois情報を調べます。",
+    "zh-Hans": "查找所选域名的Whois信息。",
+    "zh-Hant": "查詢所選網域名稱的Whois資訊。",
+    "de": "Whois-Informationen für einen ausgewählten Domainnamen nachschlagen.",
+    "fr": "Rechercher les informations Whois pour un nom de domaine sélectionné.",
+    "es": "Buscar información de Whois para un nombre de dominio seleccionado."
+  }
 }

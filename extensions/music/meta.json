@@ -6,5 +6,14 @@
   "icon": "square filled AM",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Music.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Apple Music에서 검색합니다.",
+    "ja": "Apple Musicで検索します。",
+    "zh-Hans": "在Apple Music中搜索。",
+    "zh-Hant": "在Apple Music中搜尋。",
+    "de": "In Apple Music suchen.",
+    "fr": "Rechercher dans Apple Music.",
+    "es": "Buscar en Apple Music."
+  }
 }

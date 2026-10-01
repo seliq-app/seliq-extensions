@@ -6,5 +6,14 @@
   "icon": "square filled PA",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/PhoneAmego.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Phone Amego로 전화를 겁니다.",
+    "ja": "Phone Amegoで電話番号をダイヤルします。",
+    "zh-Hans": "使用Phone Amego拨打电话号码。",
+    "zh-Hant": "使用Phone Amego撥打電話號碼。",
+    "de": "Telefonnummer mit Phone Amego wählen.",
+    "fr": "Composer le numéro de téléphone avec Phone Amego.",
+    "es": "Marcar el número de teléfono con Phone Amego."
+  }
 }

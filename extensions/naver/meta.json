@@ -6,5 +6,14 @@
   "icon": "square filled Na",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Naver.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Naver를 사용하여 웹을 검색합니다.",
+    "ja": "Naverを使用してウェブを検索します。",
+    "zh-Hans": "使用Naver搜索网络。",
+    "zh-Hant": "使用Naver搜尋網路。",
+    "de": "Web mit Naver durchsuchen.",
+    "fr": "Rechercher sur le web avec Naver.",
+    "es": "Buscar en la web con Naver."
+  }
 }

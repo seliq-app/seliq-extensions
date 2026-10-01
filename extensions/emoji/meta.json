@@ -6,5 +6,14 @@
   "icon": "square filled Em",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Emoji.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": ":grin:, :heart: 또는 :banana:와 같은 단축 코드를 이모지로 바꾸거나 그 반대로 바꿉니다.",
+    "ja": ":grin:、:heart:、:banana:などのショートコードを絵文字に置き換え、その逆も行います。",
+    "zh-Hans": "将:grin:、:heart:、:banana:等短代码替换为对应的表情符号，反之亦然。",
+    "zh-Hant": "將:grin:、:heart:、:banana:等短代碼替換為對應的表情符號，反之亦然。",
+    "de": "Kurzcodes wie :grin:, :heart: oder :banana: durch Emojis ersetzen und umgekehrt.",
+    "fr": "Remplacer les codes courts comme :grin:, :heart: ou :banana: par leurs emoji, et inversement.",
+    "es": "Reemplazar códigos cortos como :grin:, :heart: o :banana: por sus emoji, y viceversa."
+  }
 }

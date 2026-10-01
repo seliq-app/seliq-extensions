@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Freeform.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 Freeform으로 보냅니다.",
+    "ja": "選択したテキストをFreeformに送信します。",
+    "zh-Hans": "将所选文本发送到Freeform。",
+    "zh-Hant": "將所選文字傳送到Freeform。",
+    "de": "Ausgewählten Text an Freeform senden.",
+    "fr": "Envoyer le texte sélectionné à Freeform.",
+    "es": "Enviar el texto seleccionado a Freeform."
+  }
 }

@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Obsidian.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "텍스트를 Obsidian으로 캡처합니다.",
+    "ja": "テキストをObsidianにキャプチャします。",
+    "zh-Hans": "将文本捕获到Obsidian。",
+    "zh-Hant": "將文字擷取到Obsidian。",
+    "de": "Text in Obsidian erfassen.",
+    "fr": "Capturer le texte dans Obsidian.",
+    "es": "Capturar texto en Obsidian."
+  }
 }

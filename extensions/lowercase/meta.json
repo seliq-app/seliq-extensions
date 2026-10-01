@@ -5,5 +5,14 @@
   "category": "Text",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 모두 소문자로 만듭니다.",
+    "ja": "選択したテキストをすべて小文字にします。",
+    "zh-Hans": "将所选文本转换为全小写。",
+    "zh-Hant": "將所選文字轉換為全小寫。",
+    "de": "Ausgewählten Text vollständig in Kleinbuchstaben umwandeln.",
+    "fr": "Mettre le texte sélectionné entièrement en minuscules.",
+    "es": "Convertir el texto seleccionado a minúsculas."
+  }
 }

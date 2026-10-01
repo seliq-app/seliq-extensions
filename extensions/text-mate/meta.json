@@ -6,5 +6,14 @@
   "icon": "square filled TM",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TextMate.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 TextMate에서 새 파일로 엽니다.",
+    "ja": "選択したテキストをTextMateの新しいファイルとして開きます。",
+    "zh-Hans": "在TextMate中打开所选文本作为新文件。",
+    "zh-Hant": "在TextMate中開啟所選文字作為新檔案。",
+    "de": "Ausgewählten Text als neue Datei in TextMate öffnen.",
+    "fr": "Ouvrir le texte sélectionné comme nouveau fichier dans TextMate.",
+    "es": "Abrir el texto seleccionado como archivo nuevo en TextMate."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled SN",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SnipNotes.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "SnipNotes에서 선택한 텍스트로 새 노트를 만듭니다.",
+    "ja": "選択したテキストでSnipNotesに新しいノートを作成します。",
+    "zh-Hans": "在SnipNotes中使用所选文本创建新笔记。",
+    "zh-Hant": "在SnipNotes中使用所選文字建立新筆記。",
+    "de": "Neue Notiz in SnipNotes mit dem ausgewählten Text erstellen.",
+    "fr": "Créer une nouvelle note dans SnipNotes avec le texte sélectionné.",
+    "es": "Crear una nueva nota en SnipNotes con el texto seleccionado."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Tw",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TwitterColor.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "공식 Twitter 앱을 사용하여 새 트윗을 작성합니다. 또한 @pilotmoon 같은 사용자 이름을 선택하면 해당 사용자의 트윗을 볼 수 있습니다.",
+    "ja": "公式Twitterアプリを使用して新しいツイートを作成します。また、@pilotmoonなどのユーザー名を選択すると、そのユーザーのツイートを表示します。",
+    "zh-Hans": "使用官方Twitter应用撰写新推文。此外，选择@pilotmoon等用户名可查看该用户的推文。",
+    "zh-Hant": "使用官方Twitter應用程式撰寫新推文。此外，選取@pilotmoon等使用者名稱即可檢視該使用者的推文。",
+    "de": "Neuen Tweet mit der offiziellen Twitter-App verfassen. Außerdem lässt sich ein Benutzername wie @pilotmoon auswählen, um dessen Tweets anzuzeigen.",
+    "fr": "Composer un nouveau tweet avec l'application Twitter officielle. Il est aussi possible de sélectionner un nom d'utilisateur tel que @pilotmoon pour voir ses tweets.",
+    "es": "Componer un nuevo tweet con la aplicación oficial de Twitter. También es posible seleccionar un nombre de usuario como @pilotmoon para ver sus tweets."
+  }
 }

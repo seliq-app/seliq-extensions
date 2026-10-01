@@ -6,5 +6,14 @@
   "icon": "square filled Do",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Douban.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Douban을 사용하여 책, 영화, 음악 및 이벤트에 대한 정보를 검색합니다.",
+    "ja": "Doubanを使用して書籍、映画、音楽、イベントに関する情報を検索します。",
+    "zh-Hans": "使用豆瓣搜索有关书籍、电影、音乐和活动的信息。",
+    "zh-Hant": "使用豆瓣搜尋有關書籍、電影、音樂和活動的資訊。",
+    "de": "Mit Douban nach Informationen über Bücher, Filme, Musik und Events suchen.",
+    "fr": "Rechercher des informations sur les livres, films, musiques et événements avec Douban.",
+    "es": "Buscar información sobre libros, películas, música y eventos con Douban."
+  }
 }

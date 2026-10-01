@@ -6,5 +6,14 @@
   "icon": "square filled ⇆",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 줄의 순서를 역순으로 합니다.",
+    "ja": "選択した行の順序を逆にします。",
+    "zh-Hans": "反转所选行的顺序。",
+    "zh-Hant": "反轉所選行的順序。",
+    "de": "Reihenfolge der ausgewählten Zeilen umkehren.",
+    "fr": "Inverser l'ordre des lignes sélectionnées.",
+    "es": "Invertir el orden de las líneas seleccionadas."
+  }
 }

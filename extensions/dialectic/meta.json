@@ -6,5 +6,14 @@
   "icon": "square filled Di",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Dialectic.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Dialectic으로 전화번호를 겁니다.",
+    "ja": "Dialecticで電話番号をダイヤルします。",
+    "zh-Hans": "使用Dialectic拨打电话号码。",
+    "zh-Hant": "使用Dialectic撥打電話號碼。",
+    "de": "Telefonnummer mit Dialectic wählen.",
+    "fr": "Composer le numéro de téléphone avec Dialectic.",
+    "es": "Marcar el número de teléfono con Dialectic."
+  }
 }

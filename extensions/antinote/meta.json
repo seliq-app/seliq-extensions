@@ -6,5 +6,14 @@
   "icon": "square filled An",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Antinote.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Antinote에서 새 노트를 만듭니다.",
+    "ja": "Antinoteで新しいノートを作成します。",
+    "zh-Hans": "在Antinote中创建新笔记。",
+    "zh-Hant": "在Antinote中建立新筆記。",
+    "de": "Neue Notiz in Antinote erstellen.",
+    "fr": "Créer une nouvelle note dans Antinote.",
+    "es": "Crear una nueva nota en Antinote."
+  }
 }

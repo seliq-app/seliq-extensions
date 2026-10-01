@@ -6,5 +6,14 @@
   "icon": "square filled F2",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Fantastical2.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 사용하여 Fantastical 2에 일정을 만듭니다.",
+    "ja": "選択したテキストを使用してFantastical 2にカレンダーエントリを作成します。",
+    "zh-Hans": "使用所选文本在Fantastical 2中创建日历条目。",
+    "zh-Hant": "使用所選文字在Fantastical 2中建立行事曆項目。",
+    "de": "Mit dem Text einen Kalendereintrag in Fantastical 2 erstellen.",
+    "fr": "Utiliser le texte pour créer une entrée de calendrier dans Fantastical 2.",
+    "es": "Usar el texto para crear una entrada de calendario en Fantastical 2."
+  }
 }

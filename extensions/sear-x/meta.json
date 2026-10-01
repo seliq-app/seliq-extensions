@@ -6,5 +6,14 @@
   "icon": "square filled SX",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SearX.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "SearX를 사용하여 웹을 검색합니다.",
+    "ja": "SearXを使用してウェブを検索します。",
+    "zh-Hans": "使用SearX搜索网络。",
+    "zh-Hant": "使用SearX搜尋網路。",
+    "de": "Web mit SearX suchen.",
+    "fr": "Rechercher le web avec SearX.",
+    "es": "Buscar la web usando SearX."
+  }
 }

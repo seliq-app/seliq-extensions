@@ -6,5 +6,14 @@
   "icon": "square filled De",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/DEVONthink.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "DEVONthink 수신함에 텍스트를 클립하거나 열린 데이터베이스를 검색합니다.",
+    "ja": "DEVONthinkインボックスにテキストをクリップするか、開いているデータベースを検索します。",
+    "zh-Hans": "将文本剪辑到DEVONthink收件箱或搜索打开的数据库。",
+    "zh-Hant": "將文字剪輯到DEVONthink收件箱或搜尋開啟的資料庫。",
+    "de": "Text in den DEVONthink-Posteingang übernehmen oder die offenen Datenbanken durchsuchen.",
+    "fr": "Clipper le texte dans la boîte de réception DEVONthink ou rechercher les bases de données ouvertes.",
+    "es": "Guardar texto en la bandeja de entrada de DEVONthink o buscar en las bases de datos abiertas."
+  }
 }

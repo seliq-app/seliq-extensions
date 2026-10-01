@@ -6,5 +6,14 @@
   "icon": "square filled BI",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/BundleID.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "앱의 번들 식별자를 표시합니다.",
+    "ja": "アプリのバンドル識別子を表示します。",
+    "zh-Hans": "显示应用的捆绑包标识符。",
+    "zh-Hant": "顯示應用程式的套件識別碼。",
+    "de": "Bundle-Kennung der App anzeigen.",
+    "fr": "Afficher l'identifiant de bundle de l'application.",
+    "es": "Mostrar el identificador de paquete de la aplicación."
+  }
 }

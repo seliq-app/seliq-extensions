@@ -6,5 +6,14 @@
   "icon": "square filled WC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/WorldCat.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "WorldCat을 사용하여 세계 도서관 컬렉션을 검색합니다.",
+    "ja": "WorldCatを使用して世界中のライブラリコレクションを検索します。",
+    "zh-Hans": "使用WorldCat搜索全球图书馆集合。",
+    "zh-Hant": "使用WorldCat搜尋全球圖書館集合。",
+    "de": "Bibliothekssammlungen weltweit mit WorldCat durchsuchen.",
+    "fr": "Rechercher dans les collections de bibliothèques du monde entier avec WorldCat.",
+    "es": "Buscar colecciones de bibliotecas de todo el mundo con WorldCat."
+  }
 }

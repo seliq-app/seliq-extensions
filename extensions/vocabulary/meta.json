@@ -6,5 +6,14 @@
   "icon": "square filled VC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Vocabulary.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Vocabulary.com에서 단어를 조회합니다.",
+    "ja": "Vocabulary.comで単語を調べます。",
+    "zh-Hans": "在Vocabulary.com上查找单词。",
+    "zh-Hant": "在Vocabulary.com上查詢單字。",
+    "de": "Wort bei Vocabulary.com nachschlagen.",
+    "fr": "Rechercher un mot sur Vocabulary.com.",
+    "es": "Buscar una palabra en Vocabulary.com."
+  }
 }

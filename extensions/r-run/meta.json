@@ -6,5 +6,14 @@
   "icon": "square filled Rr",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/RRun.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "R 스크립트를 실행합니다.",
+    "ja": "Rスクリプトを実行します。",
+    "zh-Hans": "运行R脚本。",
+    "zh-Hant": "執行R指令碼。",
+    "de": "R-Skript ausführen.",
+    "fr": "Exécuter le script R.",
+    "es": "Ejecutar el script de R."
+  }
 }

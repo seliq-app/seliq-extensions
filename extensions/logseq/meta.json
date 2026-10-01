@@ -6,5 +6,14 @@
   "icon": "square filled Lo",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Logseq.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "텍스트를 Logseq에 빠르게 캡처합니다.",
+    "ja": "テキストをLogseqにすばやくキャプチャします。",
+    "zh-Hans": "快速将文本捕获到Logseq。",
+    "zh-Hant": "快速將文字擷取到Logseq。",
+    "de": "Text schnell in Logseq erfassen.",
+    "fr": "Capturer rapidement le texte dans Logseq.",
+    "es": "Capturar rápidamente el texto en Logseq."
+  }
 }

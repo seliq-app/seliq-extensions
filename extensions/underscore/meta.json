@@ -6,5 +6,14 @@
   "icon": "square filled Un",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Underscore.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "단어 사이의 공백을 언더스코어로 바꾸거나 그 반대를 수행합니다.",
+    "ja": "単語間のスペースをアンダースコアに置き換えるか、その逆を実行します。",
+    "zh-Hans": "将单词之间的空格替换为下划线，反之亦然。",
+    "zh-Hant": "將單字之間的空格替換為底線，反之亦然。",
+    "de": "Leerzeichen zwischen Wörtern durch Unterstriche und umgekehrt ersetzen.",
+    "fr": "Remplacer les espaces entre les mots par des traits de soulignement, et vice versa.",
+    "es": "Reemplazar espacios entre palabras con guiones bajos y viceversa."
+  }
 }

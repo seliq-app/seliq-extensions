@@ -6,5 +6,14 @@
   "icon": "square filled IC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/iCal.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "iCal 이벤트를 만듭니다.",
+    "ja": "iCalイベントを作成します。",
+    "zh-Hans": "创建iCal日历事件。",
+    "zh-Hant": "建立iCal行事曆事件。",
+    "de": "iCal-Termin erstellen.",
+    "fr": "Créer un événement iCal.",
+    "es": "Crear un evento de iCal."
+  }
 }

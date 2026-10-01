@@ -6,5 +6,14 @@
   "icon": "square filled OT",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/OnlineThesaurus.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 단어를 온라인 유의어 사전에서 검색합니다. Thesaurus.com, Collins, PowerThesaurus를 포함합니다.",
+    "ja": "選択した単語をオンライン類義語辞典で検索します。Thesaurus.com、Collins、PowerThesaurusを含みます。",
+    "zh-Hans": "在在线同义词词典中搜索所选单词。包括Thesaurus.com、Collins和PowerThesaurus。",
+    "zh-Hant": "在線上同義詞詞典中搜尋所選單字。包含Thesaurus.com、Collins和PowerThesaurus。",
+    "de": "Ausgewähltes Wort in einem Online-Thesaurus suchen. Umfasst Thesaurus.com, Collins und PowerThesaurus.",
+    "fr": "Rechercher le mot sélectionné dans un thésaurus en ligne. Comprend Thesaurus.com, Collins et PowerThesaurus.",
+    "es": "Buscar la palabra seleccionada en un tesauro en línea. Incluye Thesaurus.com, Collins y PowerThesaurus."
+  }
 }

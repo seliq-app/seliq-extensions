@@ -6,5 +6,14 @@
   "icon": "square filled MT",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/MateTranslate.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Mate Translate를 사용하여 텍스트를 번역합니다.",
+    "ja": "Mate Translateを使用してテキストを翻訳します。",
+    "zh-Hans": "使用Mate Translate翻译文本。",
+    "zh-Hant": "使用Mate Translate翻譯文字。",
+    "de": "Text mit Mate Translate übersetzen.",
+    "fr": "Traduire le texte avec Mate Translate.",
+    "es": "Traducir texto con Mate Translate."
+  }
 }

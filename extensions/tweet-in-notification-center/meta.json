@@ -6,5 +6,14 @@
   "icon": "square filled Tw",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TweetInNotificationCenter.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Notification Center의 \"Click to Tweet\" 박스를 사용하여 트윗을 작성합니다.",
+    "ja": "Notification Centerの「Click to Tweet」ボックスを使用してツイートを作成します。",
+    "zh-Hans": "使用Notification Center的\"Click to Tweet\"框撰写推文。",
+    "zh-Hant": "使用Notification Center的\"Click to Tweet\"方塊撰寫推文。",
+    "de": "Tweet mit dem \"Click to Tweet\"-Feld des Notification Center verfassen.",
+    "fr": "Composer un tweet avec la case \"Click to Tweet\" de Notification Center.",
+    "es": "Componer un tweet con el cuadro \"Click to Tweet\" de Notification Center."
+  }
 }

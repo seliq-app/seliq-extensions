@@ -6,5 +6,14 @@
   "icon": "square filled PR",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Pochta.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "pochta.ru에서 검색합니다.",
+    "ja": "pochta.ruで検索します。",
+    "zh-Hans": "在pochta.ru上搜索。",
+    "zh-Hant": "在pochta.ru上搜尋。",
+    "de": "Auf pochta.ru suchen.",
+    "fr": "Rechercher sur pochta.ru.",
+    "es": "Buscar en pochta.ru."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Ta",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Taobao.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Taobao에서 제품을 검색합니다.",
+    "ja": "Taobaoで製品を検索します。",
+    "zh-Hans": "在淘宝上搜索产品。",
+    "zh-Hant": "在淘寶上搜尋產品。",
+    "de": "Produkte auf Taobao durchsuchen.",
+    "fr": "Rechercher des produits sur Taobao.",
+    "es": "Buscar productos en Taobao."
+  }
 }

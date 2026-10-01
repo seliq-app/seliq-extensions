@@ -6,5 +6,14 @@
   "icon": "square filled BT",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/BingTranslator.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트로 웹 브라우저에서 Bing 번역기를 엽니다.",
+    "ja": "選択したテキストを使ってBing翻訳をウェブブラウザで開きます。",
+    "zh-Hans": "在网页浏览器中打开Bing翻译器并输入所选文本。",
+    "zh-Hant": "在網頁瀏覽器中開啟Bing翻譯工具並輸入所選文字。",
+    "de": "Bing Translator im Webbrowser mit ausgewähltem Text öffnen.",
+    "fr": "Ouvrir Bing Traducteur dans un navigateur web avec le texte sélectionné.",
+    "es": "Abrir el Traductor de Bing en el navegador web con el texto seleccionado."
+  }
 }

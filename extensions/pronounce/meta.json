@@ -6,5 +6,14 @@
   "icon": "square filled Pr",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Pronounce.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Dictionary.com을 사용하여 선택한 단어의 영어 발음을 제공합니다. 영어 학습자를 위한 \"Say\"의 대안입니다.",
+    "ja": "Dictionary.comを使用して、選択した単語の英語の発音を再生します。英語学習者向けの \"Say\" の代替機能です。",
+    "zh-Hans": "使用Dictionary.com为所选单词提供英语发音。作为\"Say\"的替代品，适合英语学习者。",
+    "zh-Hant": "使用Dictionary.com提供所選單字的英文發音。作為\"Say\"的替代品，適合英文學習者。",
+    "de": "Bietet mit Dictionary.com die englische Aussprache des ausgewählten Wortes. Eine Alternative zu \"Say\" für Englischlernende.",
+    "fr": "Fournir une prononciation anglaise du mot sélectionné à l'aide de Dictionary.com. Une alternative à \"Say\" pour les apprenants de langue anglaise.",
+    "es": "Proporcionar la pronunciación en inglés de la palabra seleccionada usando Dictionary.com. Una alternativa a \"Say\" para estudiantes de inglés."
+  }
 }

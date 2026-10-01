@@ -6,5 +6,14 @@
   "icon": "square filled Ph",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Phind.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Phind를 사용하여 웹을 검색합니다.",
+    "ja": "Phindを使用してウェブを検索します。",
+    "zh-Hans": "使用Phind搜索网络。",
+    "zh-Hant": "使用Phind搜尋網路。",
+    "de": "Web mit Phind suchen.",
+    "fr": "Rechercher le web avec Phind.",
+    "es": "Buscar la web usando Phind."
+  }
 }

@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ClaudeWebsite.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Claude 웹사이트에서 새 대화를 시작합니다.",
+    "ja": "Claudeウェブサイトで新しいチャットを開始します。",
+    "zh-Hans": "在Claude网站上开始新聊天。",
+    "zh-Hant": "在Claude網站上開始新聊天。",
+    "de": "Neuen Chat auf der Claude-Website starten.",
+    "fr": "Commencer un nouveau chat sur le site Claude.",
+    "es": "Comenzar un nuevo chat en el sitio web de Claude."
+  }
 }

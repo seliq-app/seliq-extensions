@@ -6,5 +6,14 @@
   "icon": "square filled GE",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/GoogleExact.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "'정확한 구문' Google 검색을 수행합니다.",
+    "ja": "「完全一致」Google検索を実行します。",
+    "zh-Hans": "执行“精确短语”Google搜索。",
+    "zh-Hant": "執行「完全符合」Google搜尋。",
+    "de": "Google-Suche nach „exakter Wortgruppe“ ausführen.",
+    "fr": "Effectuer une recherche Google « expression exacte ».",
+    "es": "Realizar una búsqueda de Google de «frase exacta»."
+  }
 }

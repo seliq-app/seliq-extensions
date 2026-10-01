@@ -6,5 +6,14 @@
   "icon": "square filled Jm",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/jmpy.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Jmpy를 사용하여 짧은 링크와 동적 QR 코드를 만듭니다.",
+    "ja": "Jmpyを使用して短いリンクと動的QRコードを作成します。",
+    "zh-Hans": "使用Jmpy创建短链接和动态二维码。",
+    "zh-Hant": "使用Jmpy建立短連結和動態QR碼。",
+    "de": "Kurze Links und dynamische QR-Codes mit Jmpy erstellen.",
+    "fr": "Créer des liens courts et des codes QR dynamiques avec Jmpy.",
+    "es": "Crear enlaces cortos y códigos QR dinámicos con Jmpy."
+  }
 }

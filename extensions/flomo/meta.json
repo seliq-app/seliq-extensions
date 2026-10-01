@@ -6,5 +6,14 @@
   "icon": "square filled Fl",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Flomo.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "수신 Webhook API를 통해 선택한 텍스트를 flomo에 저장합니다.",
+    "ja": "選択したテキストを受信Webhook API経由でflomoに保存します。",
+    "zh-Hans": "通过传入Webhook API将所选文本保存到flomo。",
+    "zh-Hant": "透過傳入Webhook API將所選文字儲存到flomo。",
+    "de": "Ausgewählten Text über die eingehende Webhook-API in flomo speichern.",
+    "fr": "Enregistrer le texte sélectionné dans flomo via l'API webhook entrante.",
+    "es": "Guardar el texto seleccionado en flomo mediante la API de webhook entrante."
+  }
 }

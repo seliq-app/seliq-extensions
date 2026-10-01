@@ -6,5 +6,14 @@
   "icon": "square filled SP",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/StartPage.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "StartPage를 사용하여 웹을 검색합니다.",
+    "ja": "StartPageを使用してウェブを検索します。",
+    "zh-Hans": "使用StartPage搜索网络。",
+    "zh-Hant": "使用StartPage搜尋網路。",
+    "de": "Web mit StartPage durchsuchen.",
+    "fr": "Rechercher le web avec StartPage.",
+    "es": "Buscar en la web usando StartPage."
+  }
 }

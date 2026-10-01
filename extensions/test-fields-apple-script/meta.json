@@ -6,5 +6,14 @@
   "icon": "square filled TA",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestFieldsAppleScript.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "AppleScript를 테스트합니다.",
+    "ja": "AppleScriptをテストします。",
+    "zh-Hans": "测试AppleScript。",
+    "zh-Hant": "測試AppleScript。",
+    "de": "AppleScripts testen.",
+    "fr": "Tester les AppleScripts.",
+    "es": "Probar AppleScripts."
+  }
 }

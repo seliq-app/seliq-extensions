@@ -6,5 +6,14 @@
   "icon": "square filled Bo",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Bookends.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 DOI, PMID, ISBN 또는 JSTOR 고정 URL을 열려 있는 라이브러리에 추가합니다. ⌘ 키를 누르고 있으면 선택한 텍스트로 라이브러리를 검색하고 검색된 참고 문헌으로 새 그룹을 만듭니다.",
+    "ja": "選択したDOI、PMID、ISBN、またはJSTORの固定URLを開いているライブラリに追加します。⌘を押しながら実行すると、選択したテキストでライブラリを検索し、見つかった参考文献で新しいグループを作成します。",
+    "zh-Hans": "将所选DOI、PMID、ISBN或JSTOR稳定URL添加到打开的文献库。按住⌘时，则在文献库中搜索所选文本，并用返回的参考文献创建新分组。",
+    "zh-Hant": "將所選DOI、PMID、ISBN或JSTOR穩定URL新增到開啟的文獻庫。按住⌘時，則在文獻庫中搜尋所選文字，並以傳回的參考文獻建立新群組。",
+    "de": "Ausgewählte DOI, PMID, ISBN oder stabile JSTOR-URL zur geöffneten Bibliothek hinzufügen. Bei gedrückter ⌘-Taste stattdessen die Bibliothek nach dem ausgewählten Text durchsuchen und eine neue Gruppe mit den gefundenen Referenzen erstellen.",
+    "fr": "Ajouter les DOI, PMID, ISBN ou URL stables JSTOR sélectionnés à la bibliothèque ouverte. Si ⌘ est maintenu, rechercher plutôt le texte sélectionné dans la bibliothèque et créer un nouveau groupe avec les références trouvées.",
+    "es": "Agregar el DOI, PMID, ISBN o URL estable de JSTOR seleccionado a la biblioteca abierta. Si se mantiene pulsada ⌘, buscar en su lugar el texto seleccionado en la biblioteca y crear un nuevo grupo con las referencias devueltas."
+  }
 }

@@ -6,5 +6,14 @@
   "icon": "square filled Be",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Bear.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Bear에서 새 노트를 만듭니다.",
+    "ja": "Bearで新しいノートを作成します。",
+    "zh-Hans": "在Bear中创建新笔记。",
+    "zh-Hant": "在Bear中建立新筆記。",
+    "de": "Neue Notiz in Bear erstellen.",
+    "fr": "Créer une nouvelle note dans Bear.",
+    "es": "Crear una nueva nota en Bear."
+  }
 }

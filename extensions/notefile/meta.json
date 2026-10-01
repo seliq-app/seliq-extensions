@@ -6,5 +6,14 @@
   "icon": "square filled No",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Notefile.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Notefile에서 노트를 만듭니다.",
+    "ja": "Notefileでノートを作成します。",
+    "zh-Hans": "在Notefile中创建笔记。",
+    "zh-Hant": "在Notefile中建立筆記。",
+    "de": "Notiz in Notefile erstellen.",
+    "fr": "Créer une note dans Notefile.",
+    "es": "Crear una nota en Notefile."
+  }
 }

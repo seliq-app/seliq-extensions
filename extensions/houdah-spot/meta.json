@@ -6,5 +6,14 @@
   "icon": "square filled HS",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/HoudahSpot.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "HoudahSpot으로 Mac의 파일을 검색합니다.",
+    "ja": "HoudahSpotを使用してMac上のファイルを検索します。",
+    "zh-Hans": "使用HoudahSpot搜索Mac上的文件。",
+    "zh-Hant": "使用HoudahSpot搜尋Mac上的檔案。",
+    "de": "Dateien auf dem Mac mit HoudahSpot durchsuchen.",
+    "fr": "Rechercher des fichiers sur le Mac avec HoudahSpot.",
+    "es": "Buscar archivos en el Mac con HoudahSpot."
+  }
 }

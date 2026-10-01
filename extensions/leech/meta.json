@@ -6,5 +6,14 @@
   "icon": "square filled Le",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Leech.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Leech를 사용하여 URL이 가리키는 파일을 다운로드합니다.",
+    "ja": "Leechを使用して、URLが指すファイルをダウンロードします。",
+    "zh-Hans": "使用Leech下载URL指向的文件。",
+    "zh-Hant": "使用Leech下載URL指向的檔案。",
+    "de": "Mit Leech die Datei herunterladen, auf die die URL verweist.",
+    "fr": "Utiliser Leech pour télécharger le fichier pointé par l'URL.",
+    "es": "Usar Leech para descargar el archivo al que apunta la URL."
+  }
 }

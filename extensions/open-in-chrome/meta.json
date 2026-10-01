@@ -6,5 +6,14 @@
   "icon": "square filled OIC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/OpenInChrome.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "링크를 Google Chrome에서 엽니다.",
+    "ja": "リンクをGoogle Chromeで開きます。",
+    "zh-Hans": "在Google Chrome中打开链接。",
+    "zh-Hant": "在Google Chrome中開啟連結。",
+    "de": "Link in Google Chrome öffnen.",
+    "fr": "Ouvrir le lien dans Google Chrome.",
+    "es": "Abrir el enlace en Google Chrome."
+  }
 }

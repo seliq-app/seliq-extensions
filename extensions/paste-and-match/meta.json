@@ -6,5 +6,14 @@
   "icon": "square filled PAM",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/PasteAndMatch.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "서식을 제외하고 일반 텍스트로만 붙여넣습니다.",
+    "ja": "書式設定なしでプレーンテキストのみとして貼り付けます。",
+    "zh-Hans": "仅以纯文本形式粘贴，不带格式。",
+    "zh-Hant": "以純文字格式貼上，不含格式。",
+    "de": "Nur als Klartext ohne Formatierung einfügen.",
+    "fr": "Coller uniquement en texte brut sans mise en forme.",
+    "es": "Pegar solo como texto sin formato, sin ningún estilo."
+  }
 }

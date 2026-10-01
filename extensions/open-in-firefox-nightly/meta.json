@@ -6,5 +6,14 @@
   "icon": "square filled OIF",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/OpenInFirefoxNightly.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "링크를 Mozilla Firefox에서 엽니다.",
+    "ja": "リンクをMozilla Firefoxで開きます。",
+    "zh-Hans": "在Mozilla Firefox中打开链接。",
+    "zh-Hant": "在Mozilla Firefox中開啟連結。",
+    "de": "Link in Mozilla Firefox öffnen.",
+    "fr": "Ouvrir le lien dans Mozilla Firefox.",
+    "es": "Abrir el enlace en Mozilla Firefox."
+  }
 }

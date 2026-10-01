@@ -6,5 +6,14 @@
   "icon": "square filled LB",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/LaunchBar.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트로 LaunchBar를 활성화합니다.",
+    "ja": "選択したテキストでLaunchBarを起動します。",
+    "zh-Hans": "使用所选文本激活LaunchBar。",
+    "zh-Hant": "使用所選文字啟動LaunchBar。",
+    "de": "LaunchBar mit dem ausgewählten Text aktivieren.",
+    "fr": "Activer LaunchBar avec le texte sélectionné.",
+    "es": "Activar LaunchBar con el texto seleccionado."
+  }
 }

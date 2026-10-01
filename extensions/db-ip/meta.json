@@ -6,5 +6,14 @@
   "icon": "square filled GLD",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/DB-IP.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "웹 브라우저에서 DB-IP를 열어 IP 주소의 지리적 위치를 조회합니다. IPv4 및 IPv6 주소를 지원합니다.",
+    "ja": "ウェブブラウザでDB-IPを開き、IPアドレスのジオロケーションを検索します。IPv4およびIPv6アドレスをサポートします。",
+    "zh-Hans": "在网页浏览器中打开DB-IP，查找IP地址的地理位置。支持IPv4和IPv6地址。",
+    "zh-Hant": "在網頁瀏覽器中開啟DB-IP，查詢IP位址的地理位置。支援IPv4和IPv6位址。",
+    "de": "DB-IP im Webbrowser öffnen und den Standort einer IP-Adresse nachschlagen. Unterstützt IPv4- und IPv6-Adressen.",
+    "fr": "Ouvrir DB-IP dans un navigateur web pour rechercher la géolocalisation de l'adresse IP. Prend en charge les adresses IPv4 et IPv6.",
+    "es": "Abrir DB-IP en el navegador web para buscar la geolocalización de la dirección IP. Admite direcciones IPv4 e IPv6."
+  }
 }

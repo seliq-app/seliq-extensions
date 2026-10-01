@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Bike.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Bike 문서에 텍스트를 캡처합니다.",
+    "ja": "Bikeドキュメントにテキストをキャプチャします。",
+    "zh-Hans": "将文本捕获到Bike文档。",
+    "zh-Hant": "將文字擷取到Bike文件。",
+    "de": "Text in Bike-Dokument erfassen.",
+    "fr": "Capturer le texte dans un document Bike.",
+    "es": "Capturar texto en un documento de Bike."
+  }
 }

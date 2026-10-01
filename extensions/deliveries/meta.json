@@ -6,5 +6,14 @@
   "icon": "square filled De",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Deliveries.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Deliveries를 사용하여 패키지 배송을 추적합니다.",
+    "ja": "Deliveriesを使用してパッケージ配送を追跡します。",
+    "zh-Hans": "使用Deliveries追踪包裹递送。",
+    "zh-Hant": "使用Deliveries追蹤包裹遞送。",
+    "de": "Paketlieferung mit Deliveries verfolgen.",
+    "fr": "Suivre la livraison de colis avec Deliveries.",
+    "es": "Seguir la entrega de un paquete con Deliveries."
+  }
 }

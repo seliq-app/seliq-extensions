@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Ollama.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 로컬 Ollama 모델로 보냅니다.",
+    "ja": "選択したテキストをローカルのOllamaモデルに送信します。",
+    "zh-Hans": "将所选文本发送到本地Ollama模型。",
+    "zh-Hant": "將所選文字傳送至本機Ollama模型。",
+    "de": "Ausgewählten Text an ein lokales Ollama-Modell senden.",
+    "fr": "Envoyer le texte sélectionné à un modèle Ollama local.",
+    "es": "Enviar el texto seleccionado a un modelo Ollama local."
+  }
 }

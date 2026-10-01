@@ -6,5 +6,14 @@
   "icon": "square filled Ca",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Cardhop.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Cardhop을 사용하여 새 연락처를 만듭니다.",
+    "ja": "Cardhopを使用して新しい連絡先を作成します。",
+    "zh-Hans": "使用Cardhop创建新联系人。",
+    "zh-Hant": "使用Cardhop建立新聯絡人。",
+    "de": "Neuen Kontakt mit Cardhop erstellen.",
+    "fr": "Créer un nouveau contact avec Cardhop.",
+    "es": "Crear un nuevo contacto con Cardhop."
+  }
 }

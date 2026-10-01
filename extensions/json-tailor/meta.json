@@ -6,5 +6,14 @@
   "icon": "square filled JT",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/JSONTailor.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 JSON을 JSON Tailor에 직접 로드해 편집 및 포맷합니다.",
+    "ja": "選択したJSONをJSON Tailorに直接読み込んで編集およびフォーマットします。",
+    "zh-Hans": "将所选JSON直接加载到JSON Tailor中进行编辑和格式化。",
+    "zh-Hant": "將所選JSON直接載入到JSON Tailor中進行編輯和格式化。",
+    "de": "Ausgewähltes JSON direkt zum Bearbeiten und Formatieren in JSON Tailor laden.",
+    "fr": "Charger le JSON sélectionné directement dans JSON Tailor pour l'édition et la mise en forme.",
+    "es": "Cargar el JSON seleccionado directamente en JSON Tailor para editar y dar formato."
+  }
 }

@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Floating.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 URL을 Floating으로 '화면 속 화면' 보기로 봅니다.",
+    "ja": "選択したURLをFloatingで「ピクチャ・イン・ピクチャ」表示します。",
+    "zh-Hans": "使用Floating以“画中画”方式查看所选URL。",
+    "zh-Hant": "使用Floating以「畫中畫」方式檢視所選URL。",
+    "de": "Ausgewählte URL mit Floating als „Bild im Bild“ anzeigen.",
+    "fr": "Afficher l'URL sélectionnée en « image dans l'image » avec Floating.",
+    "es": "Ver la URL seleccionada en «imagen en imagen» con Floating."
+  }
 }

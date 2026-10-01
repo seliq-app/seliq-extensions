@@ -6,5 +6,14 @@
   "icon": "square filled TW",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TextWrangler.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 포함한 새 TextWrangler 문서를 만듭니다.",
+    "ja": "選択したテキストを含む新しいTextWranglerドキュメントを作成します。",
+    "zh-Hans": "创建包含所选文本的新TextWrangler文档。",
+    "zh-Hant": "建立包含所選文字的新TextWrangler文件。",
+    "de": "Neues TextWrangler-Dokument mit dem ausgewählten Text erstellen.",
+    "fr": "Créer un nouveau document TextWrangler contenant le texte sélectionné.",
+    "es": "Crear un nuevo documento de TextWrangler que contenga el texto seleccionado."
+  }
 }

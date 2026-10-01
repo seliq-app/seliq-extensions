@@ -106,6 +106,11 @@ for (const sc of shortcodes) {
   for (const k of ["category", "icon", "upstream", "origin"]) {
     if (meta[k] != null && typeof meta[k] !== "string") { err(sc, `meta.json: "${k}" must be a string`); ok = false; }
   }
+  const LANGS = ["ko", "ja", "zh-Hans", "zh-Hant", "de", "fr", "es"];
+  if (meta.descriptions != null && (typeof meta.descriptions !== "object" || Array.isArray(meta.descriptions) ||
+      Object.entries(meta.descriptions).some(([l, v]) => !LANGS.includes(l) || typeof v !== "string" || v.trim() === ""))) {
+    err(sc, `meta.json: "descriptions" must map ${LANGS.join("/")} to non-empty strings`); ok = false;
+  }
   if (meta.unlisted != null && typeof meta.unlisted !== "boolean") { err(sc, 'meta.json: "unlisted" must be boolean'); ok = false; }
   const files = walk(src);
   if (files.length === 0) { err(sc, "ext/ is empty"); ok = false; }
@@ -148,6 +153,7 @@ for (const sc of shortcodes) {
     upstream: strOrNull(meta.upstream),
     unlisted: meta.unlisted === true,
     origin: strOrNull(meta.origin),
+    descriptions: meta.descriptions ?? null,
   });
 }
 

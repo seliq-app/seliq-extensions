@@ -6,5 +6,14 @@
   "icon": "square filled Me",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Messages.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "메시지 앱으로 텍스트를 공유합니다.",
+    "ja": "メッセージを使用してテキストを共有します。",
+    "zh-Hans": "使用信息共享文本。",
+    "zh-Hant": "使用「訊息」分享文字。",
+    "de": "Text über Nachrichten teilen.",
+    "fr": "Partager le texte avec Messages.",
+    "es": "Compartir el texto con Mensajes."
+  }
 }

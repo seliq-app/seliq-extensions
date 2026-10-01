@@ -5,5 +5,14 @@
   "category": "PopClip Contrib",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/LLMCLI.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 Codex, Claude, Gemini 또는 OpenCode CLI를 통해 다시 작성합니다.",
+    "ja": "選択したテキストをCodex、Claude、Gemini、またはOpenCode CLIで書き直します。",
+    "zh-Hans": "通过Codex、Claude、Gemini或OpenCode CLI重写所选文本。",
+    "zh-Hant": "透過Codex、Claude、Gemini或OpenCode CLI重寫所選文字。",
+    "de": "Ausgewählten Text über Codex, Claude, Gemini oder OpenCode CLI umschreiben.",
+    "fr": "Réécrire le texte sélectionné via Codex, Claude, Gemini ou OpenCode CLI.",
+    "es": "Reescribir el texto seleccionado mediante Codex, Claude, Gemini u OpenCode CLI."
+  }
 }

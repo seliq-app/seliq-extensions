@@ -6,5 +6,14 @@
   "icon": "square filled PD",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/PushDialer.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "PushDialer로 전화를 겁니다. 공식 PushDialer 시스템 서비스 기반입니다.",
+    "ja": "PushDialerで電話番号に発信します。公式PushDialerシステムサービスに基づいています。",
+    "zh-Hans": "使用PushDialer拨打电话号码。基于官方PushDialer系统服务。",
+    "zh-Hant": "使用PushDialer撥打電話號碼。基於官方PushDialer系統服務。",
+    "de": "Telefonnummer mit PushDialer anrufen. Basiert auf dem offiziellen PushDialer-Systemdienst.",
+    "fr": "Appeler le numéro de téléphone avec PushDialer. Basé sur le service système officiel PushDialer.",
+    "es": "Llamar al número de teléfono con PushDialer. Basado en el servicio del sistema oficial de PushDialer."
+  }
 }

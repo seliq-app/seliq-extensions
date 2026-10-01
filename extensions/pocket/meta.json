@@ -6,5 +6,14 @@
   "icon": "square filled Po",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Pocket.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "URL을 Pocket에 저장하여 나중에 봅니다.",
+    "ja": "URLをPocketに保存して後で表示します。",
+    "zh-Hans": "将URL保存到Pocket以供稍后查看。",
+    "zh-Hant": "將URL儲存至Pocket以供稍後檢視。",
+    "de": "URL zum späteren Ansehen bei Pocket speichern.",
+    "fr": "Enregistrer l'URL dans Pocket pour la consulter plus tard.",
+    "es": "Guardar la URL en Pocket para verla más tarde."
+  }
 }

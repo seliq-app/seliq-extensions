@@ -5,5 +5,14 @@
   "category": "PopClip",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/GoodLinks.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "URL을 GoodLinks에 저장합니다.",
+    "ja": "URLをGoodLinksに保存します。",
+    "zh-Hans": "将URL保存到GoodLinks。",
+    "zh-Hant": "將URL儲存到GoodLinks。",
+    "de": "URL in GoodLinks speichern.",
+    "fr": "Enregistrer l'URL dans GoodLinks.",
+    "es": "Guardar la URL en GoodLinks."
+  }
 }

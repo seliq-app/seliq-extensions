@@ -6,5 +6,14 @@
   "icon": "square filled Hi",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Highlight.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트를 강조합니다(Pages, Preview, Alternote, DevonThink, Evernote, Goodlinks, iA Writer, iA Presenter, LogSeq, Obsidian, PDFpen, PDF Expert, Scrivener, Skim, Apple Notes에서만 작동).",
+    "ja": "選択したテキストをハイライトします（Pages、Preview、Alternote、DevonThink、Evernote、Goodlinks、iA Writer、iA Presenter、LogSeq、Obsidian、PDFpen、PDF Expert、Scrivener、Skim、Apple Notesでのみ動作）。",
+    "zh-Hans": "突出显示所选文本。仅在Pages、Preview、Alternote、DevonThink、Evernote、Goodlinks、iA Writer、iA Presenter、LogSeq、Obsidian、PDFpen、PDF Expert、Scrivener、Skim和Apple Notes中有效。",
+    "zh-Hant": "醒目提示所選文字。僅在Pages、Preview、Alternote、DevonThink、Evernote、Goodlinks、iA Writer、iA Presenter、LogSeq、Obsidian、PDFpen、PDF Expert、Scrivener、Skim和Apple Notes中有效。",
+    "de": "Ausgewählten Text hervorheben. Funktioniert nur in Pages, Preview, Alternote, DevonThink, Evernote, Goodlinks, iA Writer, iA Presenter, LogSeq, Obsidian, PDFpen, PDF Expert, Scrivener, Skim und Apple Notes.",
+    "fr": "Mettre en surbrillance le texte sélectionné. Fonctionne uniquement dans Pages, Preview, Alternote, DevonThink, Evernote, Goodlinks, iA Writer, iA Presenter, LogSeq, Obsidian, PDFpen, PDF Expert, Scrivener, Skim et Apple Notes.",
+    "es": "Resaltar el texto seleccionado. Funciona solo en Pages, Preview, Alternote, DevonThink, Evernote, Goodlinks, iA Writer, iA Presenter, LogSeq, Obsidian, PDFpen, PDF Expert, Scrivener, Skim y Apple Notes."
+  }
 }

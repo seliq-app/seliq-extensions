@@ -6,5 +6,14 @@
   "icon": "square filled St",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/MakeSticky.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트로 새 Stickies 노트를 만듭니다.",
+    "ja": "選択したテキストで新しいStickiesノートを作成します。",
+    "zh-Hans": "使用所选文本创建新的Stickies便签。",
+    "zh-Hant": "使用所選文字建立新的Stickies便利貼。",
+    "de": "Neue Stickies-Notiz mit dem ausgewählten Text erstellen.",
+    "fr": "Créer une nouvelle note Stickies avec le texte sélectionné.",
+    "es": "Crear una nueva nota de Stickies con el texto seleccionado."
+  }
 }

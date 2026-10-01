@@ -6,5 +6,14 @@
   "icon": "square filled CC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CharCount.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트의 문자 수를 표시합니다.",
+    "ja": "選択したテキストの文字数を表示します。",
+    "zh-Hans": "显示所选文本中的字符数。",
+    "zh-Hant": "顯示所選文字中的字元數。",
+    "de": "Anzahl der Zeichen im ausgewählten Text anzeigen.",
+    "fr": "Afficher le nombre de caractères du texte sélectionné.",
+    "es": "Mostrar el número de caracteres en el texto seleccionado."
+  }
 }

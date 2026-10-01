@@ -6,5 +6,14 @@
   "icon": "square filled FHW",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/FullHalfWidth.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "중국어, 일본어, 한국어 문자의 전각과 반각 형식 사이를 변환합니다. 예: ヲ를 ｦ로 변환.",
+    "ja": "中国語、日本語、韓国語の文字を全角と半角の間で変換します。例：ヲをｦに変換。",
+    "zh-Hans": "在中文、日文和韩文字符的全角与半角形式之间转换。例如，将ヲ转换为ｦ。",
+    "zh-Hant": "在中文、日文與韓文字元的全形與半形之間轉換。例如，將ヲ轉換為ｦ。",
+    "de": "Zwischen Voll- und Halbbreite von chinesischen, japanischen und koreanischen Zeichen umwandeln. Beispiel: ヲ in ｦ umwandeln.",
+    "fr": "Convertir entre les formes pleine chasse et demi-chasse des caractères chinois, japonais et coréens. Par exemple, convertir ヲ en ｦ.",
+    "es": "Convertir entre las formas de ancho completo y de medio ancho de los caracteres chinos, japoneses y coreanos. Por ejemplo, convertir ヲ en ｦ."
+  }
 }

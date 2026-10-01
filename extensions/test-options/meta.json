@@ -6,5 +6,14 @@
   "icon": "square filled TO",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestOptions.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Test Options",
+    "ja": "Test Options",
+    "zh-Hans": "Test Options",
+    "zh-Hant": "Test Options",
+    "de": "Test Options",
+    "fr": "Test Options",
+    "es": "Test Options"
+  }
 }

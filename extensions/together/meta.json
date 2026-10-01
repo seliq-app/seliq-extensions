@@ -6,5 +6,14 @@
   "icon": "square filled To",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Together.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트로 Together에서 새 항목을 만듭니다.",
+    "ja": "選択したテキストからTogetherで新しいアイテムを作成します。",
+    "zh-Hans": "从所选文本在Together中创建新项目。",
+    "zh-Hant": "從所選文字在Together中建立新項目。",
+    "de": "Neues Element in Together aus dem ausgewählten Text erstellen.",
+    "fr": "Créer un nouvel élément dans Together à partir du texte sélectionné.",
+    "es": "Crear un nuevo elemento en Together a partir del texto seleccionado."
+  }
 }

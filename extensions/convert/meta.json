@@ -6,5 +6,14 @@
   "icon": "square filled Co",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Convert.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "미터법 단위의 수량을 미국/영국식 단위로 변환하거나 그 반대로 변환합니다. lb↔kg, oz↔g, 마일↔km, 피트/야드↔m, 인치↔mm/cm, °F↔°C를 지원합니다.",
+    "ja": "メートル法の単位の数量を米国/英国式（ヤード・ポンド法）の単位に変換し、その逆も行います。lb↔kg、oz↔g、マイル↔km、フィート/ヤード↔m、インチ↔mm/cm、°F↔°Cをサポートします。",
+    "zh-Hans": "将公制单位的数量转换为美国/英制单位，反之亦然。支持lb↔kg、oz↔g、英里↔km、英尺/码↔m、英寸↔mm/cm、°F↔°C。",
+    "zh-Hant": "將公制單位的數量轉換為美國/英制單位，反之亦然。支援lb↔kg、oz↔g、英里↔km、英尺/碼↔m、英寸↔mm/cm、°F↔°C。",
+    "de": "Mengenangaben in metrischen Einheiten in US-/imperiale Einheiten umrechnen und umgekehrt. Unterstützt lb↔kg, oz↔g, Meilen↔km, Fuß/Yards↔m, Zoll↔mm/cm, °F↔°C.",
+    "fr": "Convertir des quantités en unités métriques vers les unités US/impériales, et inversement. Prend en charge lb↔kg, oz↔g, miles↔km, pieds/yards↔m, pouces↔mm/cm, °F↔°C.",
+    "es": "Convertir cantidades de unidades métricas a unidades de EE. UU./imperiales, y viceversa. Admite lb↔kg, oz↔g, millas↔km, pies/yardas↔m, pulgadas↔mm/cm, °F↔°C."
+  }
 }

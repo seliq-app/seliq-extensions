@@ -6,5 +6,14 @@
   "icon": "square filled Im",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/IMDb.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "IMDb에서 영화 데이터를 검색합니다.",
+    "ja": "IMDbで映画データを検索します。",
+    "zh-Hans": "在IMDb上搜索电影数据。",
+    "zh-Hant": "在IMDb上搜尋電影資料。",
+    "de": "Filmdaten auf IMDb suchen.",
+    "fr": "Rechercher des données de films sur IMDb.",
+    "es": "Buscar datos de películas en IMDb."
+  }
 }

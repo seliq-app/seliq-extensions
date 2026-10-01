@@ -6,5 +6,14 @@
   "icon": "square filled SN",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/SideNotes.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "SideNotes에서 노트를 만듭니다.",
+    "ja": "SideNotesでノートを作成します。",
+    "zh-Hans": "在SideNotes中创建笔记。",
+    "zh-Hant": "在SideNotes中建立筆記。",
+    "de": "Notiz in SideNotes erstellen.",
+    "fr": "Créer une note dans SideNotes.",
+    "es": "Crear una nota en SideNotes."
+  }
 }

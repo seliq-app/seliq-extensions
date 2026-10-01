@@ -6,5 +6,14 @@
   "icon": "square filled GC",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/GmailCompose.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 이메일 주소로 Gmail 작성 창을 엽니다.",
+    "ja": "選択したメールアドレスでGmailの作成ウィンドウを開きます。",
+    "zh-Hans": "打开Gmail撰写窗口并填入所选电子邮件。",
+    "zh-Hant": "開啟Gmail撰寫視窗並填入所選電子郵件。",
+    "de": "Gmail-Schreibfenster mit der ausgewählten E-Mail-Adresse öffnen.",
+    "fr": "Ouvrir la fenêtre de rédaction Gmail avec l'adresse e-mail sélectionnée.",
+    "es": "Abrir la ventana de redacción de Gmail con el correo electrónico seleccionado."
+  }
 }

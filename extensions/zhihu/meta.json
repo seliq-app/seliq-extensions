@@ -6,5 +6,14 @@
   "icon": "square filled 知乎",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Zhihu.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "知乎에서 키워드를 검색합니다.",
+    "ja": "知乎でキーワードを検索します。",
+    "zh-Hans": "在知乎上搜索关键词。",
+    "zh-Hant": "在知乎上搜尋關鍵字。",
+    "de": "Schlüsselwörter auf Zhihu suchen.",
+    "fr": "Rechercher des mots-clés sur Zhihu.",
+    "es": "Buscar palabras clave en Zhihu."
+  }
 }

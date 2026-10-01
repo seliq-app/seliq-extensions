@@ -6,5 +6,14 @@
   "icon": "square filled Ya",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Yandex.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Yandex를 사용하여 웹을 검색합니다.",
+    "ja": "Yandexを使用してウェブを検索します。",
+    "zh-Hans": "使用Yandex搜索网络。",
+    "zh-Hant": "使用Yandex搜尋網路。",
+    "de": "Web mit Yandex durchsuchen.",
+    "fr": "Rechercher le web avec Yandex.",
+    "es": "Buscar en la web usando Yandex."
+  }
 }

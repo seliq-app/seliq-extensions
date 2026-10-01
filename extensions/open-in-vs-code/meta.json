@@ -6,5 +6,14 @@
   "icon": "square filled OIV",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/OpenInVSCode.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 텍스트나 파일을 Visual Studio Code에서 엽니다.",
+    "ja": "選択したテキストまたはファイルをVisual Studio Codeで開きます。",
+    "zh-Hans": "在Visual Studio Code中打开所选文本或文件。",
+    "zh-Hant": "在Visual Studio Code中開啟所選文字或檔案。",
+    "de": "Ausgewählten Text oder die Datei in Visual Studio Code öffnen.",
+    "fr": "Ouvrir le texte sélectionné ou le fichier dans Visual Studio Code.",
+    "es": "Abrir el texto seleccionado o el archivo en Visual Studio Code."
+  }
 }

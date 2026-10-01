@@ -6,5 +6,14 @@
   "icon": "square filled Ta",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Tana.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Tana에 텍스트를 캡처합니다.",
+    "ja": "Tanaにテキストをキャプチャします。",
+    "zh-Hans": "将文本捕获到Tana。",
+    "zh-Hant": "將文字擷取到Tana。",
+    "de": "Text in Tana erfassen.",
+    "fr": "Capturer le texte dans Tana.",
+    "es": "Capturar texto en Tana."
+  }
 }

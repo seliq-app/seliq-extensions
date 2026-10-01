@@ -6,5 +6,14 @@
   "icon": "square filled OD",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/OnlineDictionary.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "선택한 단어를 온라인 사전에서 검색합니다. Dictionary.com, Merriam Webster Online, Oxford Advanced Learner's Dictionary, Youdao, dict.cn, dict.cc 등을 포함합니다.",
+    "ja": "選択した単語をオンライン辞書で検索します。Dictionary.com、Merriam Webster Online、Oxford Advanced Learner's Dictionary、Youdao、dict.cn、dict.ccなどを含みます。",
+    "zh-Hans": "在在线词典中搜索所选单词。包括Dictionary.com、Merriam Webster Online、Oxford Advanced Learner's Dictionary、Youdao、dict.cn、dict.cc等。",
+    "zh-Hant": "在線上字典中搜尋所選單字。包含Dictionary.com、Merriam Webster Online、Oxford Advanced Learner's Dictionary、Youdao、dict.cn、dict.cc等。",
+    "de": "Ausgewähltes Wort in einem Online-Wörterbuch suchen. Umfasst Dictionary.com, Merriam Webster Online, Oxford Advanced Learner's Dictionary, Youdao, dict.cn, dict.cc und weitere.",
+    "fr": "Rechercher le mot sélectionné dans un dictionnaire en ligne. Comprend Dictionary.com, Merriam Webster Online, Oxford Advanced Learner's Dictionary, Youdao, dict.cn, dict.cc, etc.",
+    "es": "Buscar la palabra seleccionada en un diccionario en línea. Incluye Dictionary.com, Merriam Webster Online, Oxford Advanced Learner's Dictionary, Youdao, dict.cn, dict.cc y más."
+  }
 }

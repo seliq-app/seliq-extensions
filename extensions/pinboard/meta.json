@@ -6,5 +6,14 @@
   "icon": "square filled Pi",
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Pinboard.popclipext",
-  "origin": "popclip"
+  "origin": "popclip",
+  "descriptions": {
+    "ko": "Pinboard를 사용하여 URL을 북마크합니다.",
+    "ja": "Pinboardを使用してURLをブックマークします。",
+    "zh-Hans": "使用Pinboard为URL加书签。",
+    "zh-Hant": "使用Pinboard為URL加入書籤。",
+    "de": "URL mit Pinboard als Lesezeichen speichern.",
+    "fr": "Mettre l'URL en signet avec Pinboard.",
+    "es": "Marcar la URL con Pinboard."
+  }
 }
