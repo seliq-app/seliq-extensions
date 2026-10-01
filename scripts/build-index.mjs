@@ -15,7 +15,8 @@ const BASE = "https://seliq-app.github.io/seliq-extensions";
 const MAX_ZIP = 5 * 1024 * 1024;
 const FIXED_MTIME = new Date("2026-01-01T00:00:00Z");
 const SHORTCODE_RE = /^[a-z0-9-]+$/;
-const VERSION_RE = /^[A-Za-z0-9][A-Za-z0-9._+-]*$/;
+const VERSION_RE = /^[A-Za-z0-9._+-]+$/;
+const FILENAME_RE = /^[a-z0-9-]+-[A-Za-z0-9._+-]+\.popclipextz$/;
 const CONFIG_NAMES = ["Config.json", "Config.yaml", "Config.yml", "Config.js", "Config.ts", "Config.plist"];
 
 const errors = [];
@@ -31,17 +32,47 @@ function walk(dir, base = dir) {
   return out.sort();
 }
 
-function readIdentifier(extPath) {
+const unquote = (v) => v.trim().replace(/^(["'])(.*)\1$/, "$2").trim();
+
+// Returns the top-level `key` value of an extension Config, or null.
+// JSON: parsed; YAML: top-level `key:` line; JS/TS: `// key:` within the leading comment header only.
+function readConfigValue(extPath, key) {
   for (const n of CONFIG_NAMES) {
     const f = path.join(extPath, n);
     if (!fs.existsSync(f)) continue;
     const text = fs.readFileSync(f, "utf8");
-    const m =
-      text.match(/["']?identifier["']?\s*[:=]\s*["']?([A-Za-z0-9._-]+)/i) ||
-      text.match(/<key>Extension Identifier<\/key>\s*<string>([^<]+)<\/string>/);
-    if (m) return m[1];
+    const lines = text.split(/\r?\n/);
+    if (n.endsWith(".json")) {
+      try { const v = JSON.parse(text)[key]; return typeof v === "string" && v ? v : null; } catch { return null; }
+    }
+    if (n.endsWith(".plist")) {
+      if (key !== "identifier") return null;
+      const m = text.match(/<key>Extension Identifier<\/key>\s*<string>([^<]+)<\/string>/);
+      return m ? m[1].trim() : null;
+    }
+    const re = new RegExp(`^${key}\\s*:\\s*(.+)$`);
+    for (const line of lines) {
+      let l = line;
+      if (n.endsWith(".js") || n.endsWith(".ts")) {
+        if (!/^\s*\/\//.test(l) && l.trim() !== "") break; // end of leading comment header
+        l = l.replace(/^\s*\/\/ ?/, "");
+        if (/^\s/.test(l)) continue;
+      }
+      const m = l.match(re);
+      if (m) { const v = unquote(m[1]); return v || null; }
+    }
+    return null;
   }
   return null;
+}
+
+const readIdentifier = (extPath) => readConfigValue(extPath, "identifier");
+
+// Text-style icon specs only (symbol:/iconify:/text:/PopClip text icons); file icons -> null.
+function readIcon(extPath) {
+  const v = readConfigValue(extPath, "icon");
+  if (!v || /^file:/i.test(v) || /\.(png|svg|pdf|jpe?g|tiff|gif)$/i.test(v)) return null;
+  return v;
 }
 
 const strOrNull = (v) => (typeof v === "string" && v.length > 0 ? v : null);
@@ -70,7 +101,7 @@ for (const sc of shortcodes) {
   for (const k of ["name", "description", "version", "license"]) {
     if (typeof meta[k] !== "string" || meta[k].trim() === "") { err(sc, `meta.json: "${k}" is required (non-empty string)`); ok = false; }
   }
-  if (ok && !VERSION_RE.test(meta.version)) { err(sc, 'meta.json: "version" has invalid characters'); ok = false; }
+  if (ok && (!VERSION_RE.test(meta.version) || meta.version.includes("..") || !FILENAME_RE.test(`${sc}-${meta.version}.popclipextz`))) { err(sc, 'meta.json: "version" must match [A-Za-z0-9._+-]+ and not contain ".."'); ok = false; }
   for (const k of ["category", "icon", "upstream"]) {
     if (meta[k] != null && typeof meta[k] !== "string") { err(sc, `meta.json: "${k}" must be a string`); ok = false; }
   }
@@ -108,7 +139,7 @@ for (const sc of shortcodes) {
     description: meta.description,
     version: meta.version,
     category: strOrNull(meta.category),
-    icon: strOrNull(meta.icon),
+    icon: strOrNull(meta.icon) ?? readIcon(src),
     download: `${BASE}/dl/${fname}`,
     sha256: createHash("sha256").update(buf).digest("hex"),
     size: buf.length,

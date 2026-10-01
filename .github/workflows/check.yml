@@ -8,7 +8,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 22
       - run: node scripts/build-index.mjs
+      - name: Require version bump when ext/ changes
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          base="origin/${BASE_REF}"
+          changed=$(git diff --name-only "$base"...HEAD)
+          fail=0
+          for sc in $(echo "$changed" | sed -n 's#^extensions/\([^/]*\)/ext/.*#\1#p' | sort -u); do
+            [ -f "extensions/$sc/meta.json" ] || continue
+            old=$(git show "$base:extensions/$sc/meta.json" 2>/dev/null | node -e 'let s="";process.stdin.on("data",d=>s+=d).on("end",()=>{try{console.log(JSON.parse(s).version)}catch{}})')
+            [ -n "$old" ] || continue # new extension
+            new=$(node -p "require('./extensions/$sc/meta.json').version")
+            if [ "$old" = "$new" ]; then
+              echo "::error::extensions/$sc/ext changed but meta.json version is still $old. Bump the version."
+              fail=1
+            fi
+          done
+          exit $fail
