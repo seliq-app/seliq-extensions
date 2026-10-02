@@ -169,17 +169,24 @@ const index = { schema: 1, generated: new Date().toISOString().replace(/\.\d{3}Z
 fs.writeFileSync(path.join(siteDir, "index.json"), JSON.stringify(index, null, 2) + "\n");
 
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
-const li = (e) => `<li><a href="${esc(e.download)}">${esc(e.name)}</a> ${esc(e.version)}${e.origin === "popclip" ? " <small>[PopClip]</small>" : ""} &mdash; ${esc(e.description)}</li>`;
-const listed = entries.filter((e) => !e.unlisted);
-const isContrib = (e) => e.category === "PopClip Contrib";
-const popclipRows = listed.filter((e) => e.origin === "popclip" && !isContrib(e)).map(li).join("\n");
-const contribRows = listed.filter((e) => e.origin === "popclip" && isContrib(e)).map(li).join("\n");
-const otherRows = listed.filter((e) => e.origin !== "popclip").map(li).join("\n");
-fs.writeFileSync(path.join(siteDir, "index.html"),
-  `<!doctype html>\n<meta charset="utf-8">\n<title>Seliq Extensions</title>\n<h1>Seliq Extensions</h1>\n<p>Extension store for Seliq (PopClip-compatible). Machine-readable: <a href="index.json">index.json</a></p>\n` +
-  `<p><strong>PopClip extensions.</strong> Entries marked [PopClip] are PopClip extensions by Pilotmoon (Nicholas Moore) and contributors, taken unmodified from <a href="https://github.com/pilotmoon/PopClip-Extensions">pilotmoon/PopClip-Extensions</a> under the MIT License and provided for compatibility. Seliq is not affiliated with or endorsed by PopClip or Pilotmoon. PopClip extensions &mdash; 이 항목들은 Pilotmoon과 기여자가 만든 PopClip 확장이며 수정 없이 MIT 라이선스로 호환을 위해 제공됩니다. Seliq은 PopClip/Pilotmoon과 제휴 관계가 아닙니다.</p>\n` +
-  (otherRows ? `<h2>Seliq</h2>\n<ul>\n${otherRows}\n</ul>\n` : "") +
-  `<h2>PopClip extensions (${listed.filter((e) => e.origin === "popclip" && !isContrib(e)).length})</h2>\n<ul>\n${popclipRows}\n</ul>\n` +
-  (contribRows ? `<h2>PopClip Contrib (${listed.filter(isContrib).length})</h2>\n<p>From the upstream <code>contrib</code> folder: user-contributed, experimental or niche extensions that may be outdated, provided as-is. contrib 폴더에서 가져온 사용자 기여·실험·니치 확장으로, 오래되었을 수 있으며 있는 그대로 제공됩니다.</p>\n<ul>\n${contribRows}\n</ul>\n` : ""));
+const siteSrc = path.join(root, "site");
+if (fs.existsSync(path.join(siteSrc, "index.html"))) {
+  // Designed static page (site/): copied verbatim; it fetches index.json at runtime.
+  fs.cpSync(siteSrc, siteDir, { recursive: true });
+} else {
+  // Fallback: minimal machine-generated listing.
+  const li = (e) => `<li><a href="${esc(e.download)}">${esc(e.name)}</a> ${esc(e.version)}${e.origin === "popclip" ? " <small>[PopClip]</small>" : ""} &mdash; ${esc(e.description)}</li>`;
+  const listed = entries.filter((e) => !e.unlisted);
+  const isContrib = (e) => e.category === "PopClip Contrib";
+  const popclipRows = listed.filter((e) => e.origin === "popclip" && !isContrib(e)).map(li).join("\n");
+  const contribRows = listed.filter((e) => e.origin === "popclip" && isContrib(e)).map(li).join("\n");
+  const otherRows = listed.filter((e) => e.origin !== "popclip").map(li).join("\n");
+  fs.writeFileSync(path.join(siteDir, "index.html"),
+    `<!doctype html>\n<meta charset="utf-8">\n<title>Seliq Extensions</title>\n<h1>Seliq Extensions</h1>\n<p>Extension store for Seliq (PopClip-compatible). Machine-readable: <a href="index.json">index.json</a></p>\n` +
+    `<p><strong>PopClip extensions.</strong> Entries marked [PopClip] are PopClip extensions by Pilotmoon (Nicholas Moore) and contributors, taken unmodified from <a href="https://github.com/pilotmoon/PopClip-Extensions">pilotmoon/PopClip-Extensions</a> under the MIT License and provided for compatibility. Seliq is not affiliated with or endorsed by PopClip or Pilotmoon. PopClip extensions &mdash; 이 항목들은 Pilotmoon과 기여자가 만든 PopClip 확장이며 수정 없이 MIT 라이선스로 호환을 위해 제공됩니다. Seliq은 PopClip/Pilotmoon과 제휴 관계가 아닙니다.</p>\n` +
+    (otherRows ? `<h2>Seliq</h2>\n<ul>\n${otherRows}\n</ul>\n` : "") +
+    `<h2>PopClip extensions (${listed.filter((e) => e.origin === "popclip" && !isContrib(e)).length})</h2>\n<ul>\n${popclipRows}\n</ul>\n` +
+    (contribRows ? `<h2>PopClip Contrib (${listed.filter(isContrib).length})</h2>\n<p>From the upstream <code>contrib</code> folder: user-contributed, experimental or niche extensions that may be outdated, provided as-is. contrib 폴더에서 가져온 사용자 기여·실험·니치 확장으로, 오래되었을 수 있으며 있는 그대로 제공됩니다.</p>\n<ul>\n${contribRows}\n</ul>\n` : ""));
+}
 
 console.log(`OK: ${entries.length} extensions -> ${path.relative(root, siteDir)}/`);
