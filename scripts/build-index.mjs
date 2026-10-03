@@ -76,6 +76,17 @@ function readIcon(extPath) {
   return v;
 }
 
+// File icon (png/svg) referenced by the extension's Config `icon:`; returns an absolute path inside ext/ or null.
+function readIconFile(extPath) {
+  const v = readConfigValue(extPath, "icon");
+  if (!v) return null;
+  const rel = v.replace(/^file:/i, "").trim();
+  if (!/\.(png|svg)$/i.test(rel)) return null;
+  const abs = path.resolve(extPath, rel);
+  if (!abs.startsWith(extPath + path.sep) || !fs.existsSync(abs) || !fs.statSync(abs).isFile() || fs.statSync(abs).size > 200 * 1024) return null;
+  return abs;
+}
+
 const strOrNull = (v) => (typeof v === "string" && v.length > 0 ? v : null);
 
 fs.rmSync(siteDir, { recursive: true, force: true });
@@ -84,6 +95,7 @@ fs.mkdirSync(path.join(siteDir, "dl"), { recursive: true });
 fs.mkdirSync(tmpDir, { recursive: true });
 
 const entries = [];
+const iconFiles = {};
 const shortcodes = fs.existsSync(extDir)
   ? fs.readdirSync(extDir, { withFileTypes: true }).filter((e) => e.isDirectory() && !e.name.startsWith(".")).map((e) => e.name).sort()
   : [];
@@ -138,6 +150,14 @@ for (const sc of shortcodes) {
   const buf = fs.readFileSync(outFile);
   if (buf.length > MAX_ZIP) { err(sc, `archive is ${buf.length} bytes (> ${MAX_ZIP})`); continue; }
 
+  const iconAbs = readIconFile(src);
+  if (iconAbs) {
+    const ext = path.extname(iconAbs).toLowerCase();
+    fs.mkdirSync(path.join(siteDir, "icons"), { recursive: true });
+    fs.copyFileSync(iconAbs, path.join(siteDir, "icons", `${sc}${ext}`));
+    iconFiles[sc] = `icons/${sc}${ext}`;
+  }
+
   entries.push({
     shortcode: sc,
     identifier: readIdentifier(src),
@@ -168,6 +188,8 @@ entries.sort((a, b) => a.name.localeCompare(b.name, "en") || a.shortcode.localeC
 const index = { schema: 1, generated: new Date().toISOString().replace(/\.\d{3}Z$/, "Z"), extensions: entries };
 fs.writeFileSync(path.join(siteDir, "index.json"), JSON.stringify(index, null, 2) + "\n");
 
+fs.writeFileSync(path.join(siteDir, "icon-files.json"), JSON.stringify(iconFiles, null, 1) + "\n");
+
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 const li = (e) => `<li><a href="${esc(e.download)}">${esc(e.name)}</a> ${esc(e.version)}${e.origin === "popclip" ? " <small>[PopClip]</small>" : ""} &mdash; ${esc(e.description)}</li>`;
 const listed = entries.filter((e) => !e.unlisted);
@@ -175,11 +197,23 @@ const isContrib = (e) => e.category === "PopClip Contrib";
 const popclipRows = listed.filter((e) => e.origin === "popclip" && !isContrib(e)).map(li).join("\n");
 const contribRows = listed.filter((e) => e.origin === "popclip" && isContrib(e)).map(li).join("\n");
 const otherRows = listed.filter((e) => e.origin !== "popclip").map(li).join("\n");
-fs.writeFileSync(path.join(siteDir, "index.html"),
-  `<!doctype html>\n<meta charset="utf-8">\n<title>Seliq Extensions</title>\n<h1>Seliq Extensions</h1>\n<p>Extension store for Seliq (PopClip-compatible). Machine-readable: <a href="index.json">index.json</a></p>\n` +
+// no-JS fallback: the plain list, shown inside <noscript> of the store page
+const fallback =
+  `<h1>Seliq Extensions</h1>\n<p>Extension store for Seliq (PopClip-compatible). Machine-readable: <a href="index.json">index.json</a></p>\n` +
   `<p><strong>PopClip extensions.</strong> Entries marked [PopClip] are PopClip extensions by Pilotmoon (Nicholas Moore) and contributors, taken unmodified from <a href="https://github.com/pilotmoon/PopClip-Extensions">pilotmoon/PopClip-Extensions</a> under the MIT License and provided for compatibility. Seliq is not affiliated with or endorsed by PopClip or Pilotmoon. PopClip extensions &mdash; 이 항목들은 Pilotmoon과 기여자가 만든 PopClip 확장이며 수정 없이 MIT 라이선스로 호환을 위해 제공됩니다. Seliq은 PopClip/Pilotmoon과 제휴 관계가 아닙니다.</p>\n` +
   (otherRows ? `<h2>Seliq</h2>\n<ul>\n${otherRows}\n</ul>\n` : "") +
   `<h2>PopClip extensions (${listed.filter((e) => e.origin === "popclip" && !isContrib(e)).length})</h2>\n<ul>\n${popclipRows}\n</ul>\n` +
-  (contribRows ? `<h2>PopClip Contrib (${listed.filter(isContrib).length})</h2>\n<p>From the upstream <code>contrib</code> folder: user-contributed, experimental or niche extensions that may be outdated, provided as-is. contrib 폴더에서 가져온 사용자 기여·실험·니치 확장으로, 오래되었을 수 있으며 있는 그대로 제공됩니다.</p>\n<ul>\n${contribRows}\n</ul>\n` : ""));
+  (contribRows ? `<h2>PopClip Contrib (${listed.filter(isContrib).length})</h2>\n<p>From the upstream <code>contrib</code> folder: user-contributed, experimental or niche extensions that may be outdated, provided as-is. contrib 폴더에서 가져온 사용자 기여·실험·니치 확장으로, 오래되었을 수 있으며 있는 그대로 제공됩니다.</p>\n<ul>\n${contribRows}\n</ul>\n` : "");
+
+// store page: scripts/site/{index.html,store.css,store.js} -> _site (assets get a content-hash cache query)
+const siteSrc = path.join(root, "scripts", "site");
+let page = fs.readFileSync(path.join(siteSrc, "index.html"), "utf8");
+for (const f of ["store.css", "store.js"]) {
+  const data = fs.readFileSync(path.join(siteSrc, f));
+  fs.writeFileSync(path.join(siteDir, f), data);
+  page = page.replaceAll(`${f}?v=__V__`, `${f}?v=${createHash("sha256").update(data).digest("hex").slice(0, 8)}`);
+}
+fs.copyFileSync(path.join(siteSrc, "seliq-icon.svg"), path.join(siteDir, "seliq-icon.svg"));
+fs.writeFileSync(path.join(siteDir, "index.html"), page.replace("<!--NOSCRIPT-->", fallback));
 
 console.log(`OK: ${entries.length} extensions -> ${path.relative(root, siteDir)}/`);
