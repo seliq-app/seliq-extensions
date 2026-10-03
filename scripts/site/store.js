@@ -17,6 +17,8 @@
       contribBadge: "Contrib", popclipBadge: "PopClip",
       legalPopclip: "PopClip extensions are by Pilotmoon (Nicholas Moore) and contributors, taken unmodified from pilotmoon/PopClip-Extensions under the MIT License and provided for compatibility. Seliq is not affiliated with or endorsed by PopClip or Pilotmoon.",
       legalContrib: "PopClip Contrib: from the upstream contrib folder — user-contributed, experimental or niche extensions that may be outdated, provided as-is.",
+      install: "Install in Seliq", dismiss: "Dismiss",
+      hint: "Install button does nothing? Update Seliq, or use Download and open the file with Seliq (Finder › Get Info › Open with › Seliq › Change All). If PopClip is installed, double-clicking a downloaded file opens PopClip.",
     },
     ko: {
       title: "Seliq 확장", metaDesc: "Seliq 확장 스토어 — PopClip 호환 확장을 한 번의 클릭으로.",
@@ -29,6 +31,8 @@
       contribBadge: "Contrib", popclipBadge: "PopClip",
       legalPopclip: "PopClip 확장은 Pilotmoon(Nicholas Moore)과 기여자들이 만든 것으로, pilotmoon/PopClip-Extensions에서 수정 없이 MIT 라이선스로 가져와 호환을 위해 제공합니다. Seliq은 PopClip 및 Pilotmoon과 제휴 관계가 아니며 보증을 받지 않았습니다.",
       legalContrib: "PopClip Contrib: 원본의 contrib 폴더에서 가져온 사용자 기여·실험·니치 확장으로, 오래되었을 수 있으며 있는 그대로 제공됩니다.",
+      install: "Seliq에서 설치", dismiss: "닫기",
+      hint: "설치 버튼이 반응하지 않으면 Seliq을 최신 버전으로 업데이트하거나, 다운로드한 파일을 Seliq으로 여세요(Finder › 정보 가져오기 › 다음으로 열기 › Seliq › 모두 변경). PopClip이 설치되어 있으면 다운로드한 파일을 더블클릭할 때 PopClip이 열립니다.",
     },
     ja: {
       title: "Seliq 拡張機能", metaDesc: "Seliq の拡張機能ストア — PopClip 互換の拡張機能をワンクリックで。",
@@ -41,6 +45,8 @@
       contribBadge: "Contrib", popclipBadge: "PopClip",
       legalPopclip: "PopClip 拡張機能は Pilotmoon（Nicholas Moore）と貢献者による作品で、pilotmoon/PopClip-Extensions から MIT ライセンスのもと無改変で取り込み、互換性のために提供しています。Seliq は PopClip／Pilotmoon と提携しておらず、承認も受けていません。",
       legalContrib: "PopClip Contrib: 元リポジトリの contrib フォルダ由来で、ユーザー提供・実験的・ニッチな拡張機能です。内容が古い場合があり、現状のまま提供されます。",
+      install: "Seliq にインストール", dismiss: "閉じる",
+      hint: "インストールボタンが反応しない場合は、Seliq を最新版にアップデートするか、ダウンロードしたファイルを Seliq で開いてください（Finder › 情報を見る › このアプリケーションで開く › Seliq › すべてを変更）。PopClip がインストールされていると、ダウンロードしたファイルをダブルクリックしたときに PopClip が開きます。",
     },
     "zh-Hans": {
       title: "Seliq 扩展", metaDesc: "Seliq 扩展商店 — 一键获取与 PopClip 兼容的扩展。",
@@ -53,6 +59,8 @@
       contribBadge: "Contrib", popclipBadge: "PopClip",
       legalPopclip: "PopClip 扩展由 Pilotmoon（Nicholas Moore）及贡献者创作，依据 MIT 许可证原样取自 pilotmoon/PopClip-Extensions，仅为兼容而提供。Seliq 与 PopClip 或 Pilotmoon 无关联，亦未获其认可。",
       legalContrib: "PopClip Contrib：来自上游 contrib 文件夹，为用户贡献、实验性或小众扩展，可能已过时，按现状提供。",
+      install: "在 Seliq 中安装", dismiss: "关闭",
+      hint: "如果安装按钮没有反应，请更新 Seliq，或点击“下载”后用 Seliq 打开该文件（访达 › 显示简介 › 打开方式 › Seliq › 全部更改）。若已安装 PopClip，双击下载的文件会由 PopClip 打开。",
     },
     "zh-Hant": {
       title: "Seliq 擴充功能", metaDesc: "Seliq 擴充功能商店 — 一鍵取得與 PopClip 相容的擴充功能。",
@@ -65,6 +73,8 @@
       contribBadge: "Contrib", popclipBadge: "PopClip",
       legalPopclip: "PopClip 擴充功能由 Pilotmoon（Nicholas Moore）及貢獻者創作，依 MIT 授權原樣取自 pilotmoon/PopClip-Extensions，僅為相容而提供。Seliq 與 PopClip 或 Pilotmoon 無關聯，亦未獲其認可。",
       legalContrib: "PopClip Contrib：來自上游 contrib 資料夾，為使用者貢獻、實驗性或小眾的擴充功能，可能已過時，依現狀提供。",
+      install: "在 Seliq 中安裝", dismiss: "關閉",
+      hint: "若安裝按鈕沒有反應，請更新 Seliq，或點按「下載」後用 Seliq 打開該檔案（Finder › 取得資訊 › 打開方式 › Seliq › 全部更改）。若已安裝 PopClip，連按兩下下載的檔案會由 PopClip 開啟。",
     },
     de: {
       title: "Seliq Erweiterungen", metaDesc: "Erweiterungs-Store für Seliq — PopClip-kompatible Erweiterungen mit einem Klick.",
@@ -77,6 +87,8 @@
       contribBadge: "Contrib", popclipBadge: "PopClip",
       legalPopclip: "PopClip-Erweiterungen stammen von Pilotmoon (Nicholas Moore) und Mitwirkenden, sind unverändert aus pilotmoon/PopClip-Extensions unter der MIT-Lizenz übernommen und dienen der Kompatibilität. Seliq steht in keiner Verbindung zu PopClip oder Pilotmoon und wird von ihnen nicht unterstützt.",
       legalContrib: "PopClip Contrib: aus dem Upstream-Ordner contrib — von Nutzern beigesteuerte, experimentelle oder Nischen-Erweiterungen, die veraltet sein können; Bereitstellung im Ist-Zustand.",
+      install: "In Seliq installieren", dismiss: "Schließen",
+      hint: "Reagiert die Installieren-Taste nicht? Aktualisiere Seliq oder nutze „Laden“ und öffne die Datei mit Seliq (Finder › Informationen › Öffnen mit › Seliq › Alle ändern). Ist PopClip installiert, öffnet ein Doppelklick auf die geladene Datei PopClip.",
     },
     fr: {
       title: "Extensions Seliq", metaDesc: "Boutique d’extensions pour Seliq — des extensions compatibles PopClip en un clic.",
@@ -89,6 +101,8 @@
       contribBadge: "Contrib", popclipBadge: "PopClip",
       legalPopclip: "Les extensions PopClip sont l’œuvre de Pilotmoon (Nicholas Moore) et de contributeurs ; elles sont reprises sans modification de pilotmoon/PopClip-Extensions sous licence MIT et fournies à des fins de compatibilité. Seliq n’est ni affilié à PopClip ou Pilotmoon, ni approuvé par eux.",
       legalContrib: "PopClip Contrib : issues du dossier contrib du dépôt d’origine — extensions de la communauté, expérimentales ou de niche, possiblement obsolètes, fournies en l’état.",
+      install: "Installer dans Seliq", dismiss: "Fermer",
+      hint: "Le bouton d’installation ne réagit pas ? Mettez Seliq à jour, ou utilisez Télécharger et ouvrez le fichier avec Seliq (Finder › Lire les informations › Ouvrir avec › Seliq › Tout modifier). Si PopClip est installé, un double-clic sur le fichier téléchargé ouvre PopClip.",
     },
     es: {
       title: "Extensiones de Seliq", metaDesc: "Tienda de extensiones para Seliq — extensiones compatibles con PopClip con un clic.",
@@ -101,6 +115,8 @@
       contribBadge: "Contrib", popclipBadge: "PopClip",
       legalPopclip: "Las extensiones de PopClip son de Pilotmoon (Nicholas Moore) y colaboradores, tomadas sin modificar de pilotmoon/PopClip-Extensions bajo la licencia MIT y ofrecidas por compatibilidad. Seliq no está afiliado ni respaldado por PopClip ni Pilotmoon.",
       legalContrib: "PopClip Contrib: procede de la carpeta contrib del repositorio original — extensiones aportadas por usuarios, experimentales o de nicho, que pueden estar desactualizadas, ofrecidas tal cual.",
+      install: "Instalar en Seliq", dismiss: "Cerrar",
+      hint: "¿El botón de instalar no hace nada? Actualiza Seliq o usa Descargar y abre el archivo con Seliq (Finder › Obtener información › Abrir con › Seliq › Cambiar todo). Si PopClip está instalado, al hacer doble clic en el archivo descargado se abre PopClip.",
     },
   };
   // same detection as the Seliq website (assets/i18n.js)
@@ -221,9 +237,12 @@
         <span class="facts">v${esc(e.version)} · ${fmtSize(e.size)} · ${esc(e.license)}</span>
         <button class="btn btn-ghost" type="button" data-link title="${esc(t("copyLink"))}" aria-label="${esc(t("copyLink"))}"><svg viewBox="0 0 16 16" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6.8 9.2a2.6 2.6 0 0 0 3.7 0l2.2-2.2a2.6 2.6 0 0 0-3.7-3.7L8 4.3"/><path d="M9.2 6.8a2.6 2.6 0 0 0-3.7 0L3.3 9a2.6 2.6 0 0 0 3.7 3.7L8 11.7"/></svg></button>
         <button class="btn btn-ghost" type="button" data-toggle>${t("details")}</button>
-        <a class="btn btn-primary" href="${esc(safeUrl(e.download))}" download>${t("download")}</a>
       </div>
-      <div class="detail"><dl>
+      <div class="card-actions">
+        <a class="btn btn-primary" href="seliq://install?shortcode=${encodeURIComponent(e.shortcode)}">${t("install")}</a>
+        <a class="btn btn-secondary" href="${esc(safeUrl(e.download))}" download>${t("download")}</a>
+      </div>
+      <div class="detail"><p class="detail-hint">${esc(t("hint"))}</p><dl>
         ${row("identifier", e.identifier ? `<span>${esc(e.identifier)}</span>${copyBtn(e.identifier)}` : "")}
         ${row("checksum", `<span>${esc(e.sha256)}</span>${copyBtn(e.sha256)}`)}
         ${row("category", esc(e.category || "—"), true)}
@@ -328,6 +347,8 @@
     $("#lang-select").setAttribute("aria-label", t("langLabel"));
     $("#mode-toggle").setAttribute("aria-label", t("modeToggle"));
     $("#site-link").title = t("site");
+    $("#hint-text").textContent = t("hint");
+    $("#hint-x").setAttribute("aria-label", t("dismiss"));
     $("#legal-popclip").textContent = t("legalPopclip");
     $("#legal-contrib").textContent = t("legalContrib");
     if (all.length) {
@@ -336,6 +357,11 @@
     }
   }
   $("#lang-select").addEventListener("change", (e) => { lang = e.target.value; store.set("seliq-lang", lang); applyLang(); });
+
+  /* ---------- install hint (dismissible, remembered) ---------- */
+  const hintEl = $("#hint");
+  hintEl.hidden = store.get("seliq-hint-dismissed") === "1";
+  $("#hint-x").addEventListener("click", () => { hintEl.hidden = true; store.set("seliq-hint-dismissed", "1"); });
 
   /* ---------- load ---------- */
   applyLang();

@@ -123,13 +123,24 @@ body[data-mode="dark"] .badge.contrib { color: #ffb36b; }
 .card-desc { margin-top: 4px; font-size: 14px; line-height: 1.4; color: var(--graphite); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; word-break: break-word; }
 .card.open .card-desc { -webkit-line-clamp: unset; display: block; }
 .card-foot { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-.facts { flex: 1 0 100%; min-width: 0; font-size: 12.5px; color: var(--graphite); }
+.facts { flex: 1 1 0; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 12.5px; color: var(--graphite); }
 .btn { display: inline-flex; align-items: center; justify-content: center; border: 0; border-radius: 999px; padding: 6px 14px; font-size: 13.5px; font-weight: 600; cursor: pointer; transition: background-color .2s, transform .15s; }
 .btn:active { transform: scale(.97); }
 .btn-primary { background: var(--blue); color: #fff; }
 .btn-primary:hover { background: #2552d0; }
 body[data-mode="dark"] .btn-primary { color: #04102e; }
 body[data-mode="dark"] .btn-primary:hover { background: #8aadff; }
+.btn-secondary { background: var(--seg-bg); color: var(--ink); }
+.btn-secondary:hover { background: color-mix(in srgb, var(--seg-bg) 80%, var(--ink)); }
+.card-actions { display: flex; gap: 8px; }
+.card-actions .btn { flex: 1; padding: 8px 14px; text-align: center; }
+.detail-hint { margin-bottom: 10px; font-size: 12px; line-height: 1.45; color: var(--graphite); }
+.hint { display: flex; align-items: flex-start; gap: 10px; margin: 0 0 18px; padding: 10px 14px; border-radius: 14px; background: color-mix(in srgb, var(--blue) 9%, var(--card)); box-shadow: 0 0 0 1px color-mix(in srgb, var(--blue) 18%, transparent); font-size: 12.5px; line-height: 1.5; color: var(--graphite); }
+.hint[hidden] { display: none; }
+.hint svg { flex: none; margin-top: 2px; color: var(--blue); }
+.hint span { flex: 1; min-width: 0; }
+.hint button { flex: none; border: 0; background: transparent; color: var(--graphite); font-size: 20px; line-height: 1; padding: 0 4px; cursor: pointer; border-radius: 6px; }
+.hint button:hover { color: var(--ink); }
 .btn-ghost { background: transparent; color: var(--graphite); padding: 6px 10px; }
 .card-foot .btn-ghost[data-link] { margin-left: auto; }
 .btn-ghost:hover { background: var(--mist); color: var(--ink); }
