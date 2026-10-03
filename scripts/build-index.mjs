@@ -6,6 +6,8 @@ import { createHash } from "node:crypto";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+// Seliq 센스 2차 판단용 분류(확장 id → 분류). 새 확장은 null(앱이 "other"로 취급) — 분류는 Jev로 미리 정해 이 파일에 넣는다.
+const SENSE_CATEGORIES = JSON.parse(fs.readFileSync(new URL("./sense-categories.json", import.meta.url), "utf8"));
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const extDir = path.join(root, "extensions");
@@ -174,6 +176,7 @@ for (const sc of shortcodes) {
     unlisted: meta.unlisted === true,
     origin: strOrNull(meta.origin),
     descriptions: meta.descriptions ?? null,
+    senseCategory: SENSE_CATEGORIES[sc] ?? null,
   });
 }
 
