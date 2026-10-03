@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en": "Naver Hanja Dictionary",
+    "ko": "네이버 한자사전",
+    "ja": "NAVER漢字辞書",
+    "zh-Hans": "NAVER汉字词典",
+    "zh-Hant": "NAVER漢字辭典",
+    "de": "Naver Hanja-Wörterbuch",
+    "fr": "Dictionnaire hanja Naver",
+    "es": "Diccionario hanja Naver"
+  },
+  "identifier": "com.snipflow.seliq.ext.naver-hanja-dict",
+  "description": {
+    "en": "Look up the selected text in the Naver Hanja Dictionary.",
+    "ko": "선택한 글을 네이버 한자사전에서 찾습니다."
+  },
+  "popclipVersion": 4151,
+  "icon": "square filled 漢",
+  "app": {
+    "name": "Naver Hanja Dictionary",
+    "link": "https://hanja.dict.naver.com/"
+  },
+  "url": "https://hanja.dict.naver.com/#/search?query=***"
+}

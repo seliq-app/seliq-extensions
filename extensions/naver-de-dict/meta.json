@@ -1,0 +1,17 @@
+{
+  "name": "Naver German Dictionary",
+  "description": "Look up the selected text in the Naver German Dictionary.",
+  "descriptions": {
+    "ko": "선택한 글을 네이버 독일어사전에서 찾습니다.",
+    "ja": "選択したテキストをNAVERドイツ語辞書で調べます。",
+    "zh-Hans": "在 NAVER 德语词典中查询所选文本。",
+    "zh-Hant": "在 NAVER 德語辭典中查詢所選文字。",
+    "de": "Schlägt den markierten Text im Naver Deutsch-Wörterbuch nach.",
+    "fr": "Recherche le texte sélectionné dans le dictionnaire d’allemand Naver.",
+    "es": "Busca el texto seleccionado en el diccionario de alemán Naver."
+  },
+  "version": "1.0.0",
+  "category": "Seliq",
+  "icon": "square filled De",
+  "license": "MIT"
+}

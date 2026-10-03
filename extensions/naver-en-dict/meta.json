@@ -10,8 +10,8 @@
     "fr": "Recherche le texte sélectionné dans le dictionnaire d’anglais Naver.",
     "es": "Busca el texto seleccionado en el diccionario de inglés Naver."
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "Seliq",
-  "icon": "symbol:character.book.closed",
+  "icon": "square filled En",
   "license": "MIT"
 }

@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en": "Naver German Dictionary",
+    "ko": "네이버 독일어사전",
+    "ja": "NAVERドイツ語辞書",
+    "zh-Hans": "NAVER德语词典",
+    "zh-Hant": "NAVER德語辭典",
+    "de": "Naver Deutsch-Wörterbuch",
+    "fr": "Dictionnaire d’allemand Naver",
+    "es": "Diccionario de alemán Naver"
+  },
+  "identifier": "com.snipflow.seliq.ext.naver-de-dict",
+  "description": {
+    "en": "Look up the selected text in the Naver German Dictionary.",
+    "ko": "선택한 글을 네이버 독일어사전에서 찾습니다."
+  },
+  "popclipVersion": 4151,
+  "icon": "square filled De",
+  "app": {
+    "name": "Naver German Dictionary",
+    "link": "https://dict.naver.com/dekodict/"
+  },
+  "url": "https://dict.naver.com/dekodict/#/search?query=***"
+}

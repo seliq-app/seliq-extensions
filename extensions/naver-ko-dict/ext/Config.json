@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en": "Naver Korean Dictionary",
+    "ko": "네이버 국어사전",
+    "ja": "NAVER国語辞書",
+    "zh-Hans": "NAVER韩语词典",
+    "zh-Hant": "NAVER韓語辭典",
+    "de": "Naver Koreanisch-Wörterbuch",
+    "fr": "Dictionnaire de coréen Naver",
+    "es": "Diccionario de coreano Naver"
+  },
+  "identifier": "com.snipflow.seliq.ext.naver-ko-dict",
+  "description": {
+    "en": "Look up the selected text in the Naver Korean Dictionary.",
+    "ko": "선택한 글을 네이버 국어사전에서 찾습니다."
+  },
+  "popclipVersion": 4151,
+  "icon": "square filled 국",
+  "app": {
+    "name": "Naver Korean Dictionary",
+    "link": "https://ko.dict.naver.com/"
+  },
+  "url": "https://ko.dict.naver.com/#/search?query=***"
+}

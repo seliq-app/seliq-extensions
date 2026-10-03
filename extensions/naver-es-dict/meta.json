@@ -1,0 +1,17 @@
+{
+  "name": "Naver Spanish Dictionary",
+  "description": "Look up the selected text in the Naver Spanish Dictionary.",
+  "descriptions": {
+    "ko": "선택한 글을 네이버 스페인어사전에서 찾습니다.",
+    "ja": "選択したテキストをNAVERスペイン語辞書で調べます。",
+    "zh-Hans": "在 NAVER 西班牙语词典中查询所选文本。",
+    "zh-Hant": "在 NAVER 西班牙語辭典中查詢所選文字。",
+    "de": "Schlägt den markierten Text im Naver Spanisch-Wörterbuch nach.",
+    "fr": "Recherche le texte sélectionné dans le dictionnaire d’espagnol Naver.",
+    "es": "Busca el texto seleccionado en el diccionario de español Naver."
+  },
+  "version": "1.0.0",
+  "category": "Seliq",
+  "icon": "square filled Es",
+  "license": "MIT"
+}

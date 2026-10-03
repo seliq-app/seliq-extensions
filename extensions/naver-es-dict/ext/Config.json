@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en": "Naver Spanish Dictionary",
+    "ko": "네이버 스페인어사전",
+    "ja": "NAVERスペイン語辞書",
+    "zh-Hans": "NAVER西班牙语词典",
+    "zh-Hant": "NAVER西班牙語辭典",
+    "de": "Naver Spanisch-Wörterbuch",
+    "fr": "Dictionnaire d’espagnol Naver",
+    "es": "Diccionario de español Naver"
+  },
+  "identifier": "com.snipflow.seliq.ext.naver-es-dict",
+  "description": {
+    "en": "Look up the selected text in the Naver Spanish Dictionary.",
+    "ko": "선택한 글을 네이버 스페인어사전에서 찾습니다."
+  },
+  "popclipVersion": 4151,
+  "icon": "square filled Es",
+  "app": {
+    "name": "Naver Spanish Dictionary",
+    "link": "https://dict.naver.com/eskodict/"
+  },
+  "url": "https://dict.naver.com/eskodict/#/search?query=***"
+}

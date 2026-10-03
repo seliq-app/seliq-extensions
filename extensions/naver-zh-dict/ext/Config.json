@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en": "Naver Chinese Dictionary",
+    "ko": "네이버 중국어사전",
+    "ja": "NAVER中国語辞書",
+    "zh-Hans": "NAVER汉语词典",
+    "zh-Hant": "NAVER漢語辭典",
+    "de": "Naver Chinesisch-Wörterbuch",
+    "fr": "Dictionnaire de chinois Naver",
+    "es": "Diccionario de chino Naver"
+  },
+  "identifier": "com.snipflow.seliq.ext.naver-zh-dict",
+  "description": {
+    "en": "Look up the selected text in the Naver Chinese Dictionary.",
+    "ko": "선택한 글을 네이버 중국어사전에서 찾습니다."
+  },
+  "popclipVersion": 4151,
+  "icon": "square filled 中",
+  "app": {
+    "name": "Naver Chinese Dictionary",
+    "link": "https://zh.dict.naver.com/"
+  },
+  "url": "https://zh.dict.naver.com/#/search?query=***"
+}

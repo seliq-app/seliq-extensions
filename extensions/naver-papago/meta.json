@@ -1,0 +1,17 @@
+{
+  "name": "Naver Papago",
+  "description": "Translate the selected text with Naver Papago. Korean goes to English, everything else to Korean, or pick a target language.",
+  "descriptions": {
+    "ko": "선택한 글을 네이버 파파고로 번역합니다. 한국어는 영어로, 다른 언어는 한국어로 옮기며 번역할 언어를 고를 수도 있습니다.",
+    "ja": "選択したテキストをNAVER Papagoで翻訳します。韓国語は英語に、それ以外は韓国語に翻訳し、翻訳先の言語を選ぶこともできます。",
+    "zh-Hans": "使用 NAVER Papago 翻译所选文本。韩语译为英语，其他语言译为韩语，也可以指定目标语言。",
+    "zh-Hant": "使用 NAVER Papago 翻譯所選文字。韓語譯為英語，其他語言譯為韓語，也可以指定目標語言。",
+    "de": "Übersetzt den markierten Text mit Naver Papago. Koreanisch wird ins Englische, alles andere ins Koreanische übersetzt; die Zielsprache lässt sich auch festlegen.",
+    "fr": "Traduit le texte sélectionné avec Naver Papago. Le coréen est traduit en anglais, le reste en coréen ; vous pouvez aussi choisir la langue cible.",
+    "es": "Traduce el texto seleccionado con Naver Papago. El coreano se traduce al inglés y lo demás al coreano; también puedes elegir el idioma de destino."
+  },
+  "version": "1.0.0",
+  "category": "Seliq",
+  "icon": "symbol:character.bubble",
+  "license": "MIT"
+}

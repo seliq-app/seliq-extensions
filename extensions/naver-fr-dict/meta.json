@@ -1,0 +1,17 @@
+{
+  "name": "Naver French Dictionary",
+  "description": "Look up the selected text in the Naver French Dictionary.",
+  "descriptions": {
+    "ko": "선택한 글을 네이버 프랑스어사전에서 찾습니다.",
+    "ja": "選択したテキストをNAVERフランス語辞書で調べます。",
+    "zh-Hans": "在 NAVER 法语词典中查询所选文本。",
+    "zh-Hant": "在 NAVER 法語辭典中查詢所選文字。",
+    "de": "Schlägt den markierten Text im Naver Französisch-Wörterbuch nach.",
+    "fr": "Recherche le texte sélectionné dans le dictionnaire de français Naver.",
+    "es": "Busca el texto seleccionado en el diccionario de francés Naver."
+  },
+  "version": "1.0.0",
+  "category": "Seliq",
+  "icon": "square filled Fr",
+  "license": "MIT"
+}

@@ -1,0 +1,24 @@
+{
+  "name": {
+    "en": "Naver Japanese Dictionary",
+    "ko": "네이버 일본어사전",
+    "ja": "NAVER日本語辞書",
+    "zh-Hans": "NAVER日语词典",
+    "zh-Hant": "NAVER日語辭典",
+    "de": "Naver Japanisch-Wörterbuch",
+    "fr": "Dictionnaire de japonais Naver",
+    "es": "Diccionario de japonés Naver"
+  },
+  "identifier": "com.snipflow.seliq.ext.naver-ja-dict",
+  "description": {
+    "en": "Look up the selected text in the Naver Japanese Dictionary.",
+    "ko": "선택한 글을 네이버 일본어사전에서 찾습니다."
+  },
+  "popclipVersion": 4151,
+  "icon": "square filled あ",
+  "app": {
+    "name": "Naver Japanese Dictionary",
+    "link": "https://ja.dict.naver.com/"
+  },
+  "url": "https://ja.dict.naver.com/#/search?query=***"
+}

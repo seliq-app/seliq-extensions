@@ -1,0 +1,143 @@
+{
+  "name": {
+    "en": "Naver Papago",
+    "ko": "네이버 파파고",
+    "ja": "NAVER Papago",
+    "zh-Hans": "NAVER Papago",
+    "zh-Hant": "NAVER Papago",
+    "de": "Naver Papago",
+    "fr": "Naver Papago",
+    "es": "Naver Papago"
+  },
+  "identifier": "com.snipflow.seliq.ext.naver-papago",
+  "description": {
+    "en": "Translate the selected text with Naver Papago. Korean goes to English, everything else to Korean, or pick a target language.",
+    "ko": "선택한 글을 네이버 파파고로 번역합니다. 한국어는 영어로, 다른 언어는 한국어로 옮기며 번역할 언어를 고를 수도 있습니다."
+  },
+  "popclipVersion": 4151,
+  "icon": "symbol:character.bubble",
+  "app": {
+    "name": "Naver Papago",
+    "link": "https://papago.naver.com/"
+  },
+  "options": [
+    {
+      "identifier": "target",
+      "type": "multiple",
+      "label": {
+        "en": "Translate to",
+        "ko": "번역할 언어",
+        "ja": "翻訳先",
+        "zh-Hans": "目标语言",
+        "zh-Hant": "目標語言",
+        "de": "Übersetzen in",
+        "fr": "Traduire en",
+        "es": "Traducir a"
+      },
+      "values": [
+        "auto",
+        "ko",
+        "en",
+        "ja",
+        "zh-CN",
+        "zh-TW",
+        "de",
+        "fr",
+        "es"
+      ],
+      "valueLabels": [
+        {
+          "en": "Automatic (Korean ↔ English)",
+          "ko": "자동(한국어↔영어)",
+          "ja": "自動(韓国語↔英語)",
+          "zh-Hans": "自动(韩语↔英语)",
+          "zh-Hant": "自動(韓語↔英語)",
+          "de": "Automatisch (Koreanisch ↔ Englisch)",
+          "fr": "Automatique (coréen ↔ anglais)",
+          "es": "Automático (coreano ↔ inglés)"
+        },
+        {
+          "en": "Korean",
+          "ko": "한국어",
+          "ja": "韓国語",
+          "zh-Hans": "韩语",
+          "zh-Hant": "韓語",
+          "de": "Koreanisch",
+          "fr": "Coréen",
+          "es": "Coreano"
+        },
+        {
+          "en": "English",
+          "ko": "영어",
+          "ja": "英語",
+          "zh-Hans": "英语",
+          "zh-Hant": "英語",
+          "de": "Englisch",
+          "fr": "Anglais",
+          "es": "Inglés"
+        },
+        {
+          "en": "Japanese",
+          "ko": "일본어",
+          "ja": "日本語",
+          "zh-Hans": "日语",
+          "zh-Hant": "日語",
+          "de": "Japanisch",
+          "fr": "Japonais",
+          "es": "Japonés"
+        },
+        {
+          "en": "Chinese (Simplified)",
+          "ko": "중국어(간체)",
+          "ja": "中国語(簡体字)",
+          "zh-Hans": "简体中文",
+          "zh-Hant": "簡體中文",
+          "de": "Chinesisch (vereinfacht)",
+          "fr": "Chinois (simplifié)",
+          "es": "Chino (simplificado)"
+        },
+        {
+          "en": "Chinese (Traditional)",
+          "ko": "중국어(번체)",
+          "ja": "中国語(繁体字)",
+          "zh-Hans": "繁体中文",
+          "zh-Hant": "繁體中文",
+          "de": "Chinesisch (traditionell)",
+          "fr": "Chinois (traditionnel)",
+          "es": "Chino (tradicional)"
+        },
+        {
+          "en": "German",
+          "ko": "독일어",
+          "ja": "ドイツ語",
+          "zh-Hans": "德语",
+          "zh-Hant": "德語",
+          "de": "Deutsch",
+          "fr": "Allemand",
+          "es": "Alemán"
+        },
+        {
+          "en": "French",
+          "ko": "프랑스어",
+          "ja": "フランス語",
+          "zh-Hans": "法语",
+          "zh-Hant": "法語",
+          "de": "Französisch",
+          "fr": "Français",
+          "es": "Francés"
+        },
+        {
+          "en": "Spanish",
+          "ko": "스페인어",
+          "ja": "スペイン語",
+          "zh-Hans": "西班牙语",
+          "zh-Hant": "西班牙語",
+          "de": "Spanisch",
+          "fr": "Espagnol",
+          "es": "Español"
+        }
+      ]
+    }
+  ],
+  "javascript": "const t = popclip.input.text.trim(); let tk = popclip.options.target || 'auto'; if (tk === 'auto') tk = /[\\uac00-\\ud7a3\\u1100-\\u11ff\\u3130-\\u318f]/.test(t) ? 'en' : 'ko'; popclip.openUrl('https://papago.naver.com/?sk=auto&tk=' + tk + '&st=' + encodeURIComponent(t));"
+}

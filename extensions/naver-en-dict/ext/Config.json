@@ -1,12 +1,24 @@
 {
-  "name": { "en": "Naver English Dictionary", "ko": "네이버 영어사전", "ja": "NAVER英語辞書", "zh-Hans": "NAVER英语词典", "zh-Hant": "NAVER英語辭典", "de": "Naver Englisch-Wörterbuch", "fr": "Dictionnaire d’anglais Naver", "es": "Diccionario de inglés Naver" },
+  "name": {
+    "en": "Naver English Dictionary",
+    "ko": "네이버 영어사전",
+    "ja": "NAVER英語辞書",
+    "zh-Hans": "NAVER英语词典",
+    "zh-Hant": "NAVER英語辭典",
+    "de": "Naver Englisch-Wörterbuch",
+    "fr": "Dictionnaire d’anglais Naver",
+    "es": "Diccionario de inglés Naver"
+  },
   "identifier": "com.snipflow.seliq.ext.naver-en-dict",
   "description": {
     "en": "Look up the selected text in the Naver English Dictionary.",
     "ko": "선택한 글을 네이버 영어사전에서 찾습니다."
   },
   "popclipVersion": 4151,
-  "icon": "symbol:character.book.closed",
-  "app": { "name": "Naver English Dictionary", "link": "https://en.dict.naver.com/" },
+  "icon": "square filled En",
+  "app": {
+    "name": "Naver English Dictionary",
+    "link": "https://en.dict.naver.com/"
+  },
   "url": "https://en.dict.naver.com/#/search?query=***"
 }
