@@ -8,7 +8,10 @@
     "zh-Hant": "在 NAVER 漢字辭典中查詢所選文字。",
     "de": "Schlägt den markierten Text im Naver Hanja-Wörterbuch nach.",
     "fr": "Recherche le texte sélectionné dans le dictionnaire hanja Naver.",
-    "es": "Busca el texto seleccionado en el diccionario hanja Naver."
+    "es": "Busca el texto seleccionado en el diccionario hanja Naver.",
+    "it": "Consulta il testo selezionato nel Dizionario Hanja di Naver.",
+    "pt-BR": "Procure o texto selecionado no Dicionário Hanja de Naver.",
+    "ar": "ابحث عن النص المحدد في قاموس Naver Hanja."
   },
   "version": "1.0.0",
   "category": "Seliq",

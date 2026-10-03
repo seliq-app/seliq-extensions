@@ -14,6 +14,9 @@
     "zh-Hant": "使用Bitly縮短文字中的URL。",
     "de": "URLs im Text mit Bitly kürzen.",
     "fr": "Raccourcir les URL du texte à l'aide de Bitly.",
-    "es": "Acortar URLs en el texto con Bitly."
+    "es": "Acortar URLs en el texto con Bitly.",
+    "it": "Accorcia gli URL nel testo con Bitly.",
+    "pt-BR": "Encurte URLs no texto usando Bitly.",
+    "ar": "اختصر عناوين URL في النص باستخدام Bitly."
   }
 }

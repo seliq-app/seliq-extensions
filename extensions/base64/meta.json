@@ -14,6 +14,9 @@
     "zh-Hant": "將所選文字編碼或解碼為Base64編碼的UTF-8。支援標準（+/）和URL安全（-_）Base64變體。",
     "de": "Ausgewählten Text als Base64-kodiertes UTF-8 kodieren oder dekodieren. Unterstützt Standard- (+/) und URL-sichere (-_) Base64-Varianten.",
     "fr": "Encoder ou décoder le texte sélectionné en UTF-8 encodé en Base64. Prend en charge les variantes Base64 standard (+/) et compatibles URL (-_).",
-    "es": "Codificar o decodificar el texto seleccionado como UTF-8 codificado en Base64. Admite las variantes Base64 estándar (+/) y seguras para URL (-_)."
+    "es": "Codificar o decodificar el texto seleccionado como UTF-8 codificado en Base64. Admite las variantes Base64 estándar (+/) y seguras para URL (-_).",
+    "it": "Codifica o decodifica il testo selezionato come UTF-8 con codifica Base64. Supporta le varianti Base64 standard (+/) e sicure per URL (-_).",
+    "pt-BR": "Codifique ou decodifique o texto selecionado como UTF-8 com codificação Base64. Suporta variantes Base64 padrão (+/) e seguras para URL (-_).",
+    "ar": "ترميز النص المحدد بصيغة Base64 (UTF-8) أو فك ترميزه. يدعم الصيغتين القياسية (+/) والآمنة لعناوين URL (-_)."
   }
 }

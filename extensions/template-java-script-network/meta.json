@@ -14,6 +14,9 @@
     "zh-Hant": "使用JavaScript且可存取網路的PopClip擴充功能範本。",
     "de": "Eine Vorlage für PopClip-Erweiterungen mit JavaScript und Netzwerkzugriff.",
     "fr": "Un modèle pour les extensions PopClip utilisant JavaScript avec accès réseau.",
-    "es": "Una plantilla para extensiones de PopClip que usan JavaScript con acceso a la red."
+    "es": "Una plantilla para extensiones de PopClip que usan JavaScript con acceso a la red.",
+    "it": "Un modello per estensioni PopClip in JavaScript con accesso alla rete.",
+    "pt-BR": "Um modelo para extensões do PopClip em JavaScript com acesso à rede.",
+    "ar": "قالب لامتدادات PopClip تستخدم JavaScript مع إمكانية الوصول إلى الشبكة."
   }
 }

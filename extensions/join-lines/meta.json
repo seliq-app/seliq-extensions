@@ -14,6 +14,9 @@
     "zh-Hant": "用空格替換換行符號。",
     "de": "Zeilenumbrüche durch Leerzeichen ersetzen.",
     "fr": "Remplacer les sauts de ligne par des espaces.",
-    "es": "Reemplazar saltos de línea por espacios."
+    "es": "Reemplazar saltos de línea por espacios.",
+    "it": "Sostituisci le interruzioni di riga con spazi.",
+    "pt-BR": "Substitua quebras de linha por espaços.",
+    "ar": "استبدال فواصل الأسطر بالمسافات."
   }
 }

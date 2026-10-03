@@ -14,6 +14,9 @@
     "zh-Hant": "將所選文字與現有剪貼簿內容合併。",
     "de": "Ausgewählten Text mit vorhandenen Zwischenablage-Inhalten kombinieren.",
     "fr": "Combiner le texte sélectionné avec le contenu du presse-papiers.",
-    "es": "Combinar el texto seleccionado con el contenido del portapapeles."
+    "es": "Combinar el texto seleccionado con el contenido del portapapeles.",
+    "it": "Combina il testo selezionato con il contenuto esistente degli appunti.",
+    "pt-BR": "Combine o texto selecionado com o conteúdo existente da área de transferência.",
+    "ar": "دمج النص المحدد مع محتوى الحافظة الموجود."
   }
 }

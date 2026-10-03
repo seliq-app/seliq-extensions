@@ -13,6 +13,9 @@
     "zh-Hant": "將文字設為粗體、斜體或底線。",
     "de": "Fettdruck, Kursiv und Unterstreichen.",
     "fr": "Gras, italique et souligné.",
-    "es": "Negrita, cursiva y subrayado."
+    "es": "Negrita, cursiva y subrayado.",
+    "it": "Grassetto, corsivo e sottolineato.",
+    "pt-BR": "Negrito, itálico e sublinhado.",
+    "ar": "غامق ومائل وتسطير."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "從所選文字產生SHA-256雜湊。",
     "de": "SHA-256-Hash aus dem ausgewählten Text erzeugen.",
     "fr": "Générer un hash SHA-256 à partir du texte sélectionné.",
-    "es": "Generar un hash SHA-256 a partir del texto seleccionado."
+    "es": "Generar un hash SHA-256 a partir del texto seleccionado.",
+    "it": "Genera un hash SHA-256 dal testo selezionato.",
+    "pt-BR": "Gere um hash SHA-256 do texto selecionado.",
+    "ar": "حساب تجزئة SHA-256 للنص المحدد."
   }
 }

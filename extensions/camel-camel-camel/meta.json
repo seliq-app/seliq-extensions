@@ -14,6 +14,9 @@
     "zh-Hant": "使用CamelCamelCamel追蹤所選Amazon產品代碼或URL的價格。",
     "de": "Preis des Amazon-Produkts anhand des ausgewählten Produktcodes oder der URL mit CamelCamelCamel verfolgen.",
     "fr": "Suivre le prix du produit Amazon dont le code ou l'URL est sélectionné, avec CamelCamelCamel.",
-    "es": "Seguir el precio del código de producto o la URL de Amazon seleccionados con CamelCamelCamel."
+    "es": "Seguir el precio del código de producto o la URL de Amazon seleccionados con CamelCamelCamel.",
+    "it": "Traccia il prezzo del codice o dell’URL del prodotto Amazon selezionato, con CamelCamelCamel.",
+    "pt-BR": "Rastreie o preço do produto da Amazon (código ou URL selecionado) usando o CamelCamelCamel.",
+    "ar": "تتبّع سعر رمز منتج Amazon أو عنوان URL المحدد باستخدام CamelCamelCamel."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "將Unix時間戳轉換為格式化日期和時間。",
     "de": "Unix-Zeitstempel in formatierte Datumsangaben und Uhrzeiten konvertieren.",
     "fr": "Convertir les horodatages Unix en dates et heures formatées.",
-    "es": "Convertir marcas de tiempo de Unix a fechas y horas formateadas."
+    "es": "Convertir marcas de tiempo de Unix a fechas y horas formateadas.",
+    "it": "Converti i timestamp Unix in date e ore formattate.",
+    "pt-BR": "Converta timestamps Unix em datas e horas formatadas.",
+    "ar": "تحويل طوابع Unix الزمنية إلى تواريخ وأوقات منسقة."
   }
 }

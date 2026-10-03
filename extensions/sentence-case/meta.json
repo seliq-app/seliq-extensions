@@ -13,6 +13,9 @@
     "zh-Hant": "使每個所選句子以大寫字母開頭。",
     "de": "Den Anfang jedes ausgewählten Satzes großschreiben.",
     "fr": "Commencer chaque phrase sélectionnée par une lettre majuscule.",
-    "es": "Comenzar cada oración seleccionada con una letra mayúscula."
+    "es": "Comenzar cada oración seleccionada con una letra mayúscula.",
+    "it": "Inizia ogni frase selezionata con una lettera maiuscola.",
+    "pt-BR": "Inicie cada frase selecionada com letra maiúscula.",
+    "ar": "ابدأ كل جملة محددة بحرف كبير."
   }
 }

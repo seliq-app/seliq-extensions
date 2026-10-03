@@ -14,6 +14,9 @@
     "zh-Hant": "呼叫OS X摘要服務。",
     "de": "OS X-Zusammenfassungsdienst aufrufen.",
     "fr": "Appeler le service de résumé OS X.",
-    "es": "Invocar el servicio de resumen de OS X."
+    "es": "Invocar el servicio de resumen de OS X.",
+    "it": "Richiama il servizio Riassumi di OS X.",
+    "pt-BR": "Chame o serviço Resumir do OS X.",
+    "ar": "استدعاء خدمة «تلخيص» في OS X."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "將字串格式化為可讀的JSON格式。",
     "de": "Zeichenfolge in ein lesbares JSON-Format umwandeln.",
     "fr": "Formater une chaîne en JSON lisible.",
-    "es": "Dar formato a una cadena en JSON legible."
+    "es": "Dar formato a una cadena en JSON legible.",
+    "it": "Formatta la stringa in un formato json leggibile.",
+    "pt-BR": "Formate a string como um JSON legível.",
+    "ar": "تنسيق السلسلة النصية بصيغة JSON مقروءة."
   }
 }

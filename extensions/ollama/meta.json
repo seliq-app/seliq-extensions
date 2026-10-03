@@ -13,6 +13,9 @@
     "zh-Hant": "將所選文字傳送至本機Ollama模型。",
     "de": "Ausgewählten Text an ein lokales Ollama-Modell senden.",
     "fr": "Envoyer le texte sélectionné à un modèle Ollama local.",
-    "es": "Enviar el texto seleccionado a un modelo Ollama local."
+    "es": "Enviar el texto seleccionado a un modelo Ollama local.",
+    "it": "Invia il testo selezionato a un modello Ollama locale.",
+    "pt-BR": "Envie o texto selecionado a um modelo local do Ollama.",
+    "ar": "إرسال النص المحدد إلى نموذج Ollama المحلي."
   }
 }

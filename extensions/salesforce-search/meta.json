@@ -14,6 +14,9 @@
     "zh-Hant": "在網頁瀏覽器中開啟Salesforce.com搜尋，使用所選文字。",
     "de": "Salesforce.com-Suche in einem Webbrowser mit dem ausgewählten Text öffnen.",
     "fr": "Ouvrir la recherche Salesforce.com dans un navigateur web avec le texte sélectionné.",
-    "es": "Abrir la búsqueda de Salesforce.com en un navegador web con el texto seleccionado."
+    "es": "Abrir la búsqueda de Salesforce.com en un navegador web con el texto seleccionado.",
+    "it": "Apri la ricerca di Salesforce.com in un browser web con il testo selezionato.",
+    "pt-BR": "Abra a busca do Salesforce.com em um navegador web com o texto selecionado.",
+    "ar": "افتح بحث Salesforce.com في متصفح ويب بالنص المحدد."
   }
 }

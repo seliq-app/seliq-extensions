@@ -14,6 +14,9 @@
     "zh-Hant": "將逗號分隔的清單分割為個別行，反之亦然。",
     "de": "Kommagetrennte Liste in separate Zeilen aufteilen und umgekehrt.",
     "fr": "Diviser une liste séparée par des virgules en lignes distinctes, et inversement.",
-    "es": "Dividir una lista separada por comas en líneas individuales, y viceversa."
+    "es": "Dividir una lista separada por comas en líneas individuales, y viceversa.",
+    "it": "Dividi un elenco separato da virgole in righe separate e viceversa.",
+    "pt-BR": "Divida uma lista separada por vírgulas em linhas separadas e vice-versa.",
+    "ar": "قسم قائمة مفصولة بفواصل إلى أسطر منفصلة والعكس بالعكس."
   }
 }

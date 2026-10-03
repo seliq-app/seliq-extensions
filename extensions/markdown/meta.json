@@ -14,6 +14,9 @@
     "zh-Hant": "使用John Gruber的原始Perl指令碼將Markdown格式的文字轉換為HTML。",
     "de": "Markdown-formatierten Text mit John Grubers ursprünglichem Perl-Skript in HTML konvertieren.",
     "fr": "Convertir le texte au format Markdown en HTML avec le script Perl original de John Gruber.",
-    "es": "Convertir texto con formato Markdown a HTML con el script Perl original de John Gruber."
+    "es": "Convertir texto con formato Markdown a HTML con el script Perl original de John Gruber.",
+    "it": "Converti il testo formattato in Markdown in HTML con lo script Perl originale di John Gruber.",
+    "pt-BR": "Converta texto formatado em Markdown em HTML usando o script Perl original de John Gruber.",
+    "ar": "تحويل نص منسق Markdown إلى HTML باستخدام سكربت Perl الأصلي من John Gruber."
   }
 }

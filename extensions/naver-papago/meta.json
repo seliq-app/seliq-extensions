@@ -8,7 +8,10 @@
     "zh-Hant": "使用 NAVER Papago 翻譯所選文字。韓語譯為英語，其他語言譯為韓語，也可以指定目標語言。",
     "de": "Übersetzt den markierten Text mit Naver Papago. Koreanisch wird ins Englische, alles andere ins Koreanische übersetzt; die Zielsprache lässt sich auch festlegen.",
     "fr": "Traduit le texte sélectionné avec Naver Papago. Le coréen est traduit en anglais, le reste en coréen ; vous pouvez aussi choisir la langue cible.",
-    "es": "Traduce el texto seleccionado con Naver Papago. El coreano se traduce al inglés y lo demás al coreano; también puedes elegir el idioma de destino."
+    "es": "Traduce el texto seleccionado con Naver Papago. El coreano se traduce al inglés y lo demás al coreano; también puedes elegir el idioma de destino.",
+    "it": "Traduci il testo selezionato con Naver Papago. Il coreano viene tradotto in inglese, tutto il resto in coreano, oppure scegli una lingua di destinazione.",
+    "pt-BR": "Traduza o texto selecionado com Naver Papago. Coreano vai para inglês, tudo mais para coreano, ou escolha um idioma de destino.",
+    "ar": "ترجم النص المحدد باستخدام Naver Papago. تُترجم الكورية إلى الإنجليزية وأي لغة أخرى إلى الكورية، أو اختر لغة الوجهة."
   },
   "version": "1.0.0",
   "category": "Seliq",

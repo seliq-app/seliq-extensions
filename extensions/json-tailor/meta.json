@@ -14,6 +14,9 @@
     "zh-Hant": "將所選JSON直接載入到JSON Tailor中進行編輯和格式化。",
     "de": "Ausgewähltes JSON direkt zum Bearbeiten und Formatieren in JSON Tailor laden.",
     "fr": "Charger le JSON sélectionné directement dans JSON Tailor pour l'édition et la mise en forme.",
-    "es": "Cargar el JSON seleccionado directamente en JSON Tailor para editar y dar formato."
+    "es": "Cargar el JSON seleccionado directamente en JSON Tailor para editar y dar formato.",
+    "it": "Carica JSON selezionato direttamente in JSON Tailor per la modifica e la formattazione",
+    "pt-BR": "Carregue JSON selecionado diretamente no JSON Tailor para edição e formatação",
+    "ar": "حمّل JSON المحدد مباشرةً إلى JSON Tailor للتحرير والتنسيق"
   }
 }

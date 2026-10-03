@@ -14,6 +14,9 @@
     "zh-Hant": "在Visual Studio Code中開啟所選文字或檔案。",
     "de": "Ausgewählten Text oder die Datei in Visual Studio Code öffnen.",
     "fr": "Ouvrir le texte sélectionné ou le fichier dans Visual Studio Code.",
-    "es": "Abrir el texto seleccionado o el archivo en Visual Studio Code."
+    "es": "Abrir el texto seleccionado o el archivo en Visual Studio Code.",
+    "it": "Apri il testo o il file selezionato in Visual Studio Code.",
+    "pt-BR": "Abra o texto ou arquivo selecionado no Visual Studio Code.",
+    "ar": "فتح النص أو الملف المحدد في Visual Studio Code."
   }
 }

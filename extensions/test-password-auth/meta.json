@@ -14,6 +14,9 @@
     "zh-Hant": "TestPWAuth",
     "de": "TestPWAuth",
     "fr": "TestPWAuth",
-    "es": "TestPWAuth"
+    "es": "TestPWAuth",
+    "it": "TestPWAuth",
+    "pt-BR": "TestPWAuth",
+    "ar": "TestPWAuth"
   }
 }

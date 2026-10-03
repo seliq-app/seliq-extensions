@@ -14,6 +14,9 @@
     "zh-Hant": "開啟IPDb.at並搜尋所選IP位址。",
     "de": "IPDb.at öffnen und nach der gewählten IP-Adresse suchen.",
     "fr": "Ouvrir IPDb.at et rechercher l'adresse IP choisie.",
-    "es": "Abrir IPDb.at y buscar la dirección IP elegida."
+    "es": "Abrir IPDb.at y buscar la dirección IP elegida.",
+    "it": "Apri IPDb.at e cerca l’indirizzo IP scelto",
+    "pt-BR": "Abra IPDb.at e pesquise o endereço IP escolhido",
+    "ar": "فتح IPDb.at والبحث عن عنوان IP المختار"
   }
 }

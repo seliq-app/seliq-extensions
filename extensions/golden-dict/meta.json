@@ -14,6 +14,9 @@
     "zh-Hant": "在GoldenDict中查詢所選文字。",
     "de": "Ausgewählten Text in GoldenDict nachschlagen.",
     "fr": "Rechercher le texte sélectionné dans GoldenDict.",
-    "es": "Buscar el texto seleccionado en GoldenDict."
+    "es": "Buscar el texto seleccionado en GoldenDict.",
+    "it": "Consulta il testo selezionato in GoldenDict.",
+    "pt-BR": "Procure o texto selecionado em GoldenDict.",
+    "ar": "ابحث عن النص المحدد في GoldenDict."
   }
 }

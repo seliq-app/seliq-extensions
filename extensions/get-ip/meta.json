@@ -14,6 +14,9 @@
     "zh-Hant": "取得所選URL的IP位址。",
     "de": "IP-Adresse der ausgewählten URL abrufen.",
     "fr": "Obtenir l'adresse IP de l'URL sélectionnée.",
-    "es": "Obtener la dirección IP de la URL seleccionada."
+    "es": "Obtener la dirección IP de la URL seleccionada.",
+    "it": "Ottieni l’indirizzo IP dell’URL selezionato.",
+    "pt-BR": "Obtenha o endereço IP da URL selecionada.",
+    "ar": "الحصول على عنوان IP لعنوان URL المحدد."
   }
 }

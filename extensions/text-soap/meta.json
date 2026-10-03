@@ -14,6 +14,9 @@
     "zh-Hant": "使用TextSoap清理文字。重要：需要安裝<a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>。",
     "de": "Text mit TextSoap bereinigen. Wichtig: Erfordert die Installation von <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>.",
     "fr": "Nettoyer le texte avec TextSoap. Important : nécessite l'installation de <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>.",
-    "es": "Limpiar el texto con TextSoap. Importante: requiere instalar <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>."
+    "es": "Limpiar el texto con TextSoap. Importante: requiere instalar <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>.",
+    "it": "Pulisci il testo con TextSoap. Importante: richiede l’installazione di <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>.",
+    "pt-BR": "Limpe o texto com o TextSoap. Importante: requer a instalação do <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>.",
+    "ar": "تنظيف النص باستخدام TextSoap. مهم: يتطلب تثبيت <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>."
   }
 }

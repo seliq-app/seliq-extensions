@@ -14,6 +14,9 @@
     "zh-Hant": "用所選引號樣式將所選文字括起來。",
     "de": "Ausgewählten Text in Anführungszeichen setzen, wahlweise in mehreren Stilen.",
     "fr": "Mettre le texte sélectionné entre guillemets, en choisissant parmi plusieurs styles.",
-    "es": "Encerrar el texto seleccionado con comillas eligiendo entre varios estilos."
+    "es": "Encerrar el texto seleccionado con comillas eligiendo entre varios estilos.",
+    "it": "Racchiudi il testo selezionato tra virgolette, scegliendo tra diversi stili.",
+    "pt-BR": "Coloque aspas ao redor do texto selecionado, escolhendo entre vários estilos.",
+    "ar": "وضع علامات اقتباس حول النص المحدد مع اختيار أحد عدة أنماط."
   }
 }

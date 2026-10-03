@@ -14,6 +14,9 @@
     "zh-Hant": "使用PushDialer撥打電話號碼。基於官方PushDialer系統服務。",
     "de": "Telefonnummer mit PushDialer anrufen. Basiert auf dem offiziellen PushDialer-Systemdienst.",
     "fr": "Appeler le numéro de téléphone avec PushDialer. Basé sur le service système officiel PushDialer.",
-    "es": "Llamar al número de teléfono con PushDialer. Basado en el servicio del sistema oficial de PushDialer."
+    "es": "Llamar al número de teléfono con PushDialer. Basado en el servicio del sistema oficial de PushDialer.",
+    "it": "Chiama il numero di telefono con PushDialer. Basato sul servizio di sistema ufficiale di PushDialer.",
+    "pt-BR": "Ligue para o número de telefone com o PushDialer. Baseado no serviço de sistema oficial do PushDialer.",
+    "ar": "اتصل برقم الهاتف باستخدام PushDialer. يستند إلى خدمة النظام الرسمية PushDialer."
   }
 }

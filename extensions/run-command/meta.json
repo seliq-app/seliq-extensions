@@ -14,6 +14,9 @@
     "zh-Hant": "在活動終端視窗中執行所選文字作為命令，支援選擇性的前置/後置文字。支援Terminal、iTerm2、Warp、Ghostty、kitty、cmux。",
     "de": "Ausgewählten Text als Befehl im aktiven Terminalfenster mit optionalem Vor-/Nachtext ausführen. Unterstützt Terminal, iTerm2, Warp, Ghostty, kitty, cmux.",
     "fr": "Exécuter le texte sélectionné en tant que commande dans la fenêtre de terminal active avec du texte de début/fin facultatif. Prend en charge Terminal, iTerm2, Warp, Ghostty, kitty et cmux.",
-    "es": "Ejecutar el texto seleccionado como comando en la ventana de terminal activa, con texto opcional al principio o al final. Compatible con Terminal, iTerm2, Warp, Ghostty, kitty y cmux."
+    "es": "Ejecutar el texto seleccionado como comando en la ventana de terminal activa, con texto opcional al principio o al final. Compatible con Terminal, iTerm2, Warp, Ghostty, kitty y cmux.",
+    "it": "Esegui il testo selezionato come comando nella finestra del terminale attiva, con testo facoltativo da anteporre o aggiungere. Supporta Terminale, iTerm2, Warp, Ghostty, kitty e cmux.",
+    "pt-BR": "Execute o texto selecionado como um comando na janela de terminal ativa, com texto opcional antes/depois. Compatível com Terminal, iTerm2, Warp, Ghostty, kitty e cmux.",
+    "ar": "تشغيل النص المحدد كأمر في نافذة الطرفية النشطة مع نص اختياري يُضاف قبله أو بعده. يدعم Terminal وiTerm2 وWarp وGhostty وkitty وcmux."
   }
 }

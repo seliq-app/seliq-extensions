@@ -14,6 +14,9 @@
     "zh-Hant": "按字母順序排序所選行。",
     "de": "Ausgewählte Zeilen alphabetisch sortieren.",
     "fr": "Trier les lignes sélectionnées par ordre alphabétique.",
-    "es": "Ordenar alfabéticamente las líneas seleccionadas."
+    "es": "Ordenar alfabéticamente las líneas seleccionadas.",
+    "it": "Ordina il testo selezionato in ordine alfabetico.",
+    "pt-BR": "Ordene as linhas selecionadas em ordem alfabética.",
+    "ar": "ترتيب الأسطر المحددة أبجديًا."
   }
 }

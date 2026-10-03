@@ -14,6 +14,9 @@
     "zh-Hant": "顯示應用程式的套件識別碼。",
     "de": "Bundle-Kennung der App anzeigen.",
     "fr": "Afficher l'identifiant de bundle de l'application.",
-    "es": "Mostrar el identificador de paquete de la aplicación."
+    "es": "Mostrar el identificador de paquete de la aplicación.",
+    "it": "Mostra l’identificatore bundle dell’app.",
+    "pt-BR": "Exiba o identificador de pacote do aplicativo.",
+    "ar": "عرض معرّف الحزمة للتطبيق."
   }
 }

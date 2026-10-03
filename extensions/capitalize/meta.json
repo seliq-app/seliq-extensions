@@ -13,6 +13,9 @@
     "zh-Hant": "將所選每個字詞的首字母大寫。",
     "de": "Jedes ausgewählte Wort mit Großbuchstaben beginnen.",
     "fr": "Commencer chaque mot sélectionné par une majuscule.",
-    "es": "Comenzar cada palabra seleccionada con una mayúscula."
+    "es": "Comenzar cada palabra seleccionada con una mayúscula.",
+    "it": "Inizia ogni parola selezionata con una lettera maiuscola.",
+    "pt-BR": "Comece cada palavra selecionada com uma letra maiúscula.",
+    "ar": "ابدأ كل كلمة محددة بحرف كبير."
   }
 }

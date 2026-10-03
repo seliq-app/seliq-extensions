@@ -14,6 +14,9 @@
     "zh-Hant": "使用is.gd或v.gd縮短所選URL。",
     "de": "Ausgewählte URL mit is.gd oder v.gd verkürzen.",
     "fr": "Raccourcir l'URL sélectionnée avec is.gd ou v.gd.",
-    "es": "Acortar la URL seleccionada con is.gd o v.gd."
+    "es": "Acortar la URL seleccionada con is.gd o v.gd.",
+    "it": "Accorcia l’URL selezionato con is.gd o v.gd.",
+    "pt-BR": "Encurte a URL selecionada usando is.gd ou v.gd.",
+    "ar": "اختصار عنوان URL المحدد باستخدام is.gd أو v.gd."
   }
 }

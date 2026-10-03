@@ -13,6 +13,9 @@
     "zh-Hant": "檢視所選文字的底層Unicode碼位。",
     "de": "Zugrunde liegende Unicode-Codepunkte des ausgewählten Textes anzeigen.",
     "fr": "Afficher les points de code Unicode sous-jacents du texte sélectionné.",
-    "es": "Ver los puntos de código Unicode subyacentes del texto seleccionado."
+    "es": "Ver los puntos de código Unicode subyacentes del texto seleccionado.",
+    "it": "Visualizza i code point Unicode sottostanti del testo selezionato.",
+    "pt-BR": "Veja os pontos de código Unicode subjacentes do texto selecionado.",
+    "ar": "عرض نقاط رموز Unicode الأساسية للنص المحدد."
   }
 }

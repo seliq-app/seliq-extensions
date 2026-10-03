@@ -52,7 +52,7 @@ body[data-mode="dark"] #bg {
 .nav-inner { display: flex; align-items: center; gap: 16px; max-width: 1120px; margin: 0 auto; padding: 10px 24px; }
 .brand { display: flex; align-items: center; gap: 9px; font-size: 17px; font-weight: 650; letter-spacing: -.02em; white-space: nowrap; }
 .brand img { border-radius: 6px; }
-.nav-actions { display: flex; align-items: center; gap: 8px; margin-left: auto; }
+.nav-actions { display: flex; align-items: center; gap: 8px; margin-inline-start: auto; }
 .nav-link { font-size: 13.5px; font-weight: 500; color: var(--graphite); padding: 6px 12px; border-radius: 999px; white-space: nowrap; transition: background-color .15s, color .15s; }
 .nav-link:hover { background: var(--mist); color: var(--ink); }
 .icon-btn {
@@ -86,7 +86,7 @@ body[data-mode="dark"] .ic-moon { display: none; }
   border: 0; border-radius: 999px; padding: 7px 15px; background: var(--seg-bg); color: var(--graphite);
   font-size: 13.5px; font-weight: 600; cursor: pointer; transition: background-color .18s, color .18s, box-shadow .18s;
 }
-.chip small { font-weight: 500; opacity: .7; margin-left: 5px; }
+.chip small { font-weight: 500; opacity: .7; margin-inline-start: 5px; }
 .chip:hover { color: var(--ink); }
 .chip[aria-selected="true"] { background: var(--blue); color: #fff; }
 body[data-mode="dark"] .chip[aria-selected="true"] { color: #04102e; }
@@ -142,7 +142,7 @@ body[data-mode="dark"] .btn-primary:hover { background: #8aadff; }
 .hint button { flex: none; border: 0; background: transparent; color: var(--graphite); font-size: 20px; line-height: 1; padding: 0 4px; cursor: pointer; border-radius: 6px; }
 .hint button:hover { color: var(--ink); }
 .btn-ghost { background: transparent; color: var(--graphite); padding: 6px 10px; }
-.card-foot .btn-ghost[data-link] { margin-left: auto; }
+.card-foot .btn-ghost[data-link] { margin-inline-start: auto; }
 .btn-ghost:hover { background: var(--mist); color: var(--ink); }
 .detail { display: none; border-top: 1px solid var(--hairline); padding-top: 12px; font-size: 13px; }
 .card.open .detail { display: block; }
@@ -157,7 +157,7 @@ body[data-mode="dark"] .btn-primary:hover { background: #8aadff; }
 .more, .empty { margin: 28px 0 0; text-align: center; font-size: 14px; color: var(--graphite); }
 .more button { border: 0; background: var(--seg-bg); color: var(--ink); border-radius: 999px; padding: 9px 20px; font-weight: 600; cursor: pointer; }
 .empty, .error { grid-column: 1 / -1; padding: 40px 0; text-align: center; color: var(--graphite); }
-.fallback { padding: 24px 0; font-size: 15px; } .fallback ul { padding-left: 1.2em; } .fallback h2 { margin-top: 20px; }
+.fallback { padding: 24px 0; font-size: 15px; } .fallback ul { padding-inline-start: 1.2em; } .fallback h2 { margin-top: 20px; }
 
 .footer { max-width: 760px; margin: clamp(64px, 10vw, 112px) auto 0; padding: 28px 24px 48px; border-top: 1px solid var(--hairline); text-align: center; font-size: 12.5px; line-height: 1.6; color: var(--graphite); }
 .footer p + p { margin-top: 8px; }
@@ -175,9 +175,16 @@ body[data-mode="dark"] .btn-primary:hover { background: #8aadff; }
 @media (max-width: 460px) {
   .nav-link { font-size: 0; padding: 0; width: 32px; height: 32px; display: inline-flex; align-items: center; justify-content: center; }
   .nav-link::before { content: "↗"; font-size: 17px; }
-  .lang-select { padding: 0 6px; }
+  .lang-select { padding: 0 6px; max-width: 92px; text-overflow: ellipsis; }
 }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
 }
+
+/* Arabic (rtl): font, joined letterforms */
+body[data-lang="ar"] { font-family: "Noto Sans Arabic Variable", "Noto Sans Arabic", var(--font); }
+body[data-lang="ar"] *, body[data-lang="ar"] *::before, body[data-lang="ar"] *::after { letter-spacing: 0 !important; }
+html[dir="rtl"] h1 { line-height: 1.2; }
+html[dir="rtl"] .detail dd, html[dir="rtl"] .facts { direction: ltr; unicode-bidi: plaintext; }
+html[dir="rtl"] .detail dd.plain { direction: rtl; }

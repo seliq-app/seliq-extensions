@@ -14,6 +14,9 @@
     "zh-Hant": "使用Leech下載URL指向的檔案。",
     "de": "Mit Leech die Datei herunterladen, auf die die URL verweist.",
     "fr": "Utiliser Leech pour télécharger le fichier pointé par l'URL.",
-    "es": "Usar Leech para descargar el archivo al que apunta la URL."
+    "es": "Usar Leech para descargar el archivo al que apunta la URL.",
+    "it": "Usa Leech per scaricare il file indicato dall’URL.",
+    "pt-BR": "Use Leech para baixar o arquivo apontado pela URL.",
+    "ar": "استخدم Leech لتنزيل الملف الذي يشير إليه عنوان URL."
   }
 }

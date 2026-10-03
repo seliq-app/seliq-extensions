@@ -14,6 +14,9 @@
     "zh-Hant": "在網頁瀏覽器中開啟DB-IP，查詢IP位址的地理位置。支援IPv4和IPv6位址。",
     "de": "DB-IP im Webbrowser öffnen und den Standort einer IP-Adresse nachschlagen. Unterstützt IPv4- und IPv6-Adressen.",
     "fr": "Ouvrir DB-IP dans un navigateur web pour rechercher la géolocalisation de l'adresse IP. Prend en charge les adresses IPv4 et IPv6.",
-    "es": "Abrir DB-IP en el navegador web para buscar la geolocalización de la dirección IP. Admite direcciones IPv4 e IPv6."
+    "es": "Abrir DB-IP en el navegador web para buscar la geolocalización de la dirección IP. Admite direcciones IPv4 e IPv6.",
+    "it": "Apri DB-IP in un browser web cercando la geolocalizzazione dell’indirizzo IP. Supporta gli indirizzi IPv4 e IPv6.",
+    "pt-BR": "Abra DB-IP em um navegador web procurando a geolocalização do endereço IP. Suporta endereços IPv4 e IPv6.",
+    "ar": "فتح DB-IP في متصفح ويب للبحث عن الموقع الجغرافي لعنوان IP. يدعم عناوين IPv4 وIPv6."
   }
 }

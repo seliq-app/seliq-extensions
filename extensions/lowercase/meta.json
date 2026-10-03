@@ -13,6 +13,9 @@
     "zh-Hant": "將所選文字轉換為全小寫。",
     "de": "Ausgewählten Text vollständig in Kleinbuchstaben umwandeln.",
     "fr": "Mettre le texte sélectionné entièrement en minuscules.",
-    "es": "Convertir el texto seleccionado a minúsculas."
+    "es": "Convertir el texto seleccionado a minúsculas.",
+    "it": "Rendi il testo selezionato tutto minuscolo.",
+    "pt-BR": "Converta todo o texto selecionado em minúsculas.",
+    "ar": "اجعل النص المحدد بأحرف صغيرة."
   }
 }

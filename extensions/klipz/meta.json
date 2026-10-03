@@ -14,6 +14,9 @@
     "zh-Hant": "管理一個或多個佇列式剪貼簿。按一下其中一項動作以開啟說明PDF。",
     "de": "Eine oder mehrere warteschlangenbasierte Zwischenablagen verwalten. Auf eine der Aktionen klicken, um ein PDF mit Anleitung zu öffnen.",
     "fr": "Gérer un ou plusieurs presse-papiers basés sur une file d'attente. Cliquer sur l'une de ses actions pour ouvrir un PDF d'instructions.",
-    "es": "Administrar uno o más portapapeles basados en colas. Hacer clic en una de sus acciones para abrir un PDF con instrucciones."
+    "es": "Administrar uno o más portapapeles basados en colas. Hacer clic en una de sus acciones para abrir un PDF con instrucciones.",
+    "it": "Gestisci uno o più appunti basati su coda. Fai clic su una delle sue azioni per aprire un PDF con le istruzioni.",
+    "pt-BR": "Gerencie uma ou mais áreas de transferência baseadas em fila. Clique em uma de suas ações para abrir um PDF com instruções.",
+    "ar": "إدارة حافظة واحدة أو أكثر قائمة على الطابور. انقر على أحد إجراءاتها لفتح ملف PDF يحتوي على تعليمات."
   }
 }

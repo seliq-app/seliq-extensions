@@ -14,6 +14,9 @@
     "zh-Hant": "用連字符取代字詞之間的空格，移除非字母或數字的任何內容，並轉換為小寫。",
     "de": "Leerzeichen zwischen Wörtern durch Bindestriche ersetzen, alles außer Buchstaben und Zahlen entfernen und in Kleinbuchstaben umwandeln.",
     "fr": "Remplacer les espaces entre les mots par des traits d'union, supprimer tout ce qui n'est pas une lettre ou un chiffre, et convertir en minuscules.",
-    "es": "Reemplazar los espacios entre palabras con guiones, eliminar todo lo que no sea una letra o un número y convertir a minúsculas."
+    "es": "Reemplazar los espacios entre palabras con guiones, eliminar todo lo que no sea una letra o un número y convertir a minúsculas.",
+    "it": "Sostituisci gli spazi tra le parole con trattini, rimuovi tutto ciò che non è una lettera o un numero e converti in minuscolo.",
+    "pt-BR": "Substitua os espaços entre as palavras por hifens, remova tudo o que não for letra ou número e converta para minúsculas.",
+    "ar": "استبدال المسافات بين الكلمات بشرطات، وإزالة كل ما ليس حرفًا أو رقمًا، وتحويل الأحرف إلى صغيرة."
   }
 }

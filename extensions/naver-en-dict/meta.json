@@ -8,7 +8,10 @@
     "zh-Hant": "在 NAVER 英語辭典中查詢所選文字。",
     "de": "Schlägt den markierten Text im Naver Englisch-Wörterbuch nach.",
     "fr": "Recherche le texte sélectionné dans le dictionnaire d’anglais Naver.",
-    "es": "Busca el texto seleccionado en el diccionario de inglés Naver."
+    "es": "Busca el texto seleccionado en el diccionario de inglés Naver.",
+    "it": "Consulta il testo selezionato nel Dizionario inglese di Naver.",
+    "pt-BR": "Procure o texto selecionado no Dicionário Inglês de Naver.",
+    "ar": "ابحث عن النص المحدد في قاموس Naver الإنجليزي."
   },
   "version": "1.0.1",
   "category": "Seliq",

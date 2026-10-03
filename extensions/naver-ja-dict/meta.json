@@ -8,7 +8,10 @@
     "zh-Hant": "在 NAVER 日語辭典中查詢所選文字。",
     "de": "Schlägt den markierten Text im Naver Japanisch-Wörterbuch nach.",
     "fr": "Recherche le texte sélectionné dans le dictionnaire de japonais Naver.",
-    "es": "Busca el texto seleccionado en el diccionario de japonés Naver."
+    "es": "Busca el texto seleccionado en el diccionario de japonés Naver.",
+    "it": "Consulta il testo selezionato nel Dizionario giapponese di Naver.",
+    "pt-BR": "Procure o texto selecionado no Dicionário Japonês de Naver.",
+    "ar": "ابحث عن النص المحدد في قاموس Naver الياباني."
   },
   "version": "1.0.0",
   "category": "Seliq",

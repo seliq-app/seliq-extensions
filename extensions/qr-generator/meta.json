@@ -14,6 +14,9 @@
     "zh-Hant": "產生QR Code圖片。",
     "de": "QR-Bild erzeugen.",
     "fr": "Générer une image QR.",
-    "es": "Generar una imagen QR."
+    "es": "Generar una imagen QR.",
+    "it": "Genera un’immagine di codice QR.",
+    "pt-BR": "Gere uma imagem de código QR",
+    "ar": "إنشاء صورة رمز QR."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "顯示所選文字的字數。",
     "de": "Anzahl der Wörter im ausgewählten Text anzeigen.",
     "fr": "Afficher le nombre de mots dans le texte sélectionné.",
-    "es": "Mostrar la cantidad de palabras en el texto seleccionado."
+    "es": "Mostrar la cantidad de palabras en el texto seleccionado.",
+    "it": "Mostra il numero di parole nel testo selezionato.",
+    "pt-BR": "Exiba o número de palavras no texto selecionado.",
+    "ar": "عرض عدد الكلمات في النص المحدد."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "用連字號替換字詞之間的空格，反之亦然。",
     "de": "Leerzeichen zwischen Wörtern durch Bindestriche ersetzen und umgekehrt.",
     "fr": "Remplacer les espaces entre les mots par des traits d'union, et inversement.",
-    "es": "Reemplazar espacios entre palabras por guiones, y viceversa."
+    "es": "Reemplazar espacios entre palabras por guiones, y viceversa.",
+    "it": "Sostituisci gli spazi tra le parole con trattini e viceversa.",
+    "pt-BR": "Substitua espaços entre palavras por hífens e vice-versa.",
+    "ar": "استبدال المسافات بين الكلمات بالشرطات والعكس بالعكس."
   }
 }

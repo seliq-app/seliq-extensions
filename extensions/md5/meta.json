@@ -14,6 +14,9 @@
     "zh-Hant": "從所選文字產生MD5雜湊。",
     "de": "MD5-Hash aus dem ausgewählten Text erzeugen.",
     "fr": "Générer un hash MD5 à partir du texte sélectionné.",
-    "es": "Generar un hash MD5 a partir del texto seleccionado."
+    "es": "Generar un hash MD5 a partir del texto seleccionado.",
+    "it": "Genera un hash MD5 dal testo selezionato.",
+    "pt-BR": "Produza um hash MD5 do texto selecionado.",
+    "ar": "إنتاج تجزئة MD5 من النص المحدد."
   }
 }

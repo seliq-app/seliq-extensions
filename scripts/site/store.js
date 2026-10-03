@@ -118,6 +118,126 @@
       install: "Instalar en Seliq", dismiss: "Cerrar",
       hint: "¿El botón de instalar no hace nada? Actualiza Seliq o usa Descargar y abre el archivo con Seliq (Finder › Obtener información › Abrir con › Seliq › Cambiar todo). Si PopClip está instalado, al hacer doble clic en el archivo descargado se abre PopClip.",
     },
+    it: {
+      title: "Estensioni Seliq",
+      metaDesc: "Store di estensioni per Seliq — estensioni compatibili con PopClip a portata di clic.",
+      site: "Sito di Seliq",
+      modeToggle: "Attiva/disattiva modalità scura",
+      langLabel: "Lingua",
+      heroTitle: "Trova la tua prossima preferita.",
+      heroSub: "{n} estensioni per Seliq — compatibili con PopClip, gratuite e a un clic di distanza.",
+      searchPh: "Cerca per nome, descrizione o identificatore",
+      sort: "Ordina",
+      sortAsc: "Nome A–Z",
+      sortDesc: "Nome Z–A",
+      sortSize: "Prima le più piccole",
+      all: "Tutte",
+      results: "{n} risultati",
+      none: "Nessuna estensione corrisponde alla ricerca.",
+      download: "Scarica",
+      copyLink: "Copia link",
+      copied: "Copiato",
+      details: "Dettagli",
+      hide: "Nascondi",
+      identifier: "Identificatore",
+      checksum: "SHA-256",
+      source: "Origine",
+      category: "Categoria",
+      license: "Licenza",
+      size: "Dimensione",
+      version: "Versione",
+      copy: "Copia",
+      showMore: "Mostra altro",
+      showing: "Mostrate {a} di {b}",
+      error: "Impossibile caricare il catalogo. Riprova più tardi o apri direttamente index.json.",
+      contribBadge: "Contrib",
+      popclipBadge: "PopClip",
+      legalPopclip: "Le estensioni PopClip sono di Pilotmoon (Nicholas Moore) e dei collaboratori, riprese senza modifiche da pilotmoon/PopClip-Extensions con licenza MIT e fornite per compatibilità. Seliq non è affiliato né approvato da PopClip o Pilotmoon.",
+      legalContrib: "PopClip Contrib: dalla cartella contrib del repository originale — estensioni create dagli utenti, sperimentali o di nicchia che potrebbero essere obsolete, fornite così come sono.",
+      install: "Installa in Seliq",
+      dismiss: "Chiudi",
+      hint: "Il pulsante di installazione non fa nulla? Aggiorna Seliq, oppure usa Scarica e apri il file con Seliq (Finder › Ottieni informazioni › Apri con › Seliq › Cambia tutto). Se PopClip è installato, facendo doppio clic su un file scaricato si apre PopClip.",
+    },
+    "pt-BR": {
+      title: "Extensões do Seliq",
+      metaDesc: "Loja de extensões do Seliq — extensões compatíveis com o PopClip a um clique.",
+      site: "Site do Seliq",
+      modeToggle: "Alternar modo escuro",
+      langLabel: "Idioma",
+      heroTitle: "Encontre sua próxima favorita.",
+      heroSub: "{n} extensões para o Seliq — compatíveis com o PopClip, gratuitas e a um clique.",
+      searchPh: "Buscar por nome, descrição ou identificador",
+      sort: "Ordenar",
+      sortAsc: "Nome A–Z",
+      sortDesc: "Nome Z–A",
+      sortSize: "Menores primeiro",
+      all: "Todas",
+      results: "{n} resultados",
+      none: "Nenhuma extensão corresponde à sua busca.",
+      download: "Baixar",
+      copyLink: "Copiar link",
+      copied: "Copiado",
+      details: "Detalhes",
+      hide: "Recolher",
+      identifier: "Identificador",
+      checksum: "SHA-256",
+      source: "Origem",
+      category: "Categoria",
+      license: "Licença",
+      size: "Tamanho",
+      version: "Versão",
+      copy: "Copiar",
+      showMore: "Mostrar mais",
+      showing: "Mostrando {a} de {b}",
+      error: "Não foi possível carregar o catálogo. Tente novamente mais tarde ou abra o index.json diretamente.",
+      contribBadge: "Contrib",
+      popclipBadge: "PopClip",
+      legalPopclip: "As extensões do PopClip são de Pilotmoon (Nicholas Moore) e colaboradores, obtidas sem modificações de pilotmoon/PopClip-Extensions sob a licença MIT e oferecidas por compatibilidade. O Seliq não é afiliado nem endossado pelo PopClip ou pela Pilotmoon.",
+      legalContrib: "PopClip Contrib: da pasta contrib do repositório original — extensões enviadas por usuários, experimentais ou de nicho, que podem estar desatualizadas, oferecidas no estado em que se encontram.",
+      install: "Instalar no Seliq",
+      dismiss: "Fechar",
+      hint: "O botão de instalar não faz nada? Atualize o Seliq ou use Baixar e abra o arquivo com o Seliq (Finder › Obter Informações › Abrir com › Seliq › Alterar Tudo). Se o PopClip estiver instalado, dar um clique duplo em um arquivo baixado abre o PopClip.",
+    },
+    "ar": {
+      title: "امتدادات Seliq",
+      metaDesc: "متجر امتدادات Seliq — امتدادات متوافقة مع PopClip بنقرة واحدة.",
+      site: "موقع Seliq",
+      modeToggle: "تبديل الوضع الداكن",
+      langLabel: "اللغة",
+      heroTitle: "اعثر على امتدادك المفضل التالي.",
+      heroSub: "{n} امتداد لـ Seliq — متوافقة مع PopClip ومجانية وعلى بُعد نقرة واحدة.",
+      searchPh: "ابحث بالاسم أو الوصف أو المعرّف",
+      sort: "ترتيب",
+      sortAsc: "الاسم أ–ي",
+      sortDesc: "الاسم ي–أ",
+      sortSize: "الأصغر أولًا",
+      all: "الكل",
+      results: "{n} نتيجة",
+      none: "لا توجد امتدادات تطابق بحثك.",
+      download: "تنزيل",
+      copyLink: "نسخ الرابط",
+      copied: "تم النسخ",
+      details: "التفاصيل",
+      hide: "طيّ",
+      identifier: "المعرّف",
+      checksum: "SHA-256",
+      source: "المصدر",
+      category: "الفئة",
+      license: "الترخيص",
+      size: "الحجم",
+      version: "الإصدار",
+      copy: "نسخ",
+      showMore: "عرض المزيد",
+      showing: "عرض {a} من {b}",
+      error: "تعذّر تحميل الكتالوج. حاول مرة أخرى لاحقًا أو افتح index.json مباشرةً.",
+      contribBadge: "Contrib",
+      popclipBadge: "PopClip",
+      legalPopclip: "امتدادات PopClip من تأليف Pilotmoon (Nicholas Moore) والمساهمين، مأخوذة دون تعديل من pilotmoon/PopClip-Extensions بموجب ترخيص MIT ومقدَّمة لأغراض التوافق. وSeliq ليس تابعًا لـ PopClip أو Pilotmoon ولا معتمدًا منهما.",
+      legalContrib: "PopClip Contrib: من مجلد contrib في المستودع الأصلي — امتدادات من مساهمات المستخدمين أو تجريبية أو متخصصة قد تكون قديمة، وتُقدَّم كما هي.",
+      install: "التثبيت في Seliq",
+      dismiss: "إغلاق",
+      hint: "إذا لم يستجب زر التثبيت، فحدّث Seliq أو استخدم «تنزيل» ثم افتح الملف باستخدام Seliq (Finder › الحصول على معلومات › فتح باستخدام › Seliq › تغيير الكل). وإذا كان PopClip مثبّتًا، فإن النقر المزدوج على ملف منزَّل يفتح PopClip.",
+    },
   };
   // same detection as the Seliq website (assets/i18n.js)
   function detectLang() {
@@ -125,6 +245,7 @@
       const tag = raw.toLowerCase();
       if (tag.startsWith("zh")) return /hant|-tw|-hk|-mo/.test(tag) ? "zh-Hant" : "zh-Hans";
       const base = tag.split("-")[0];
+      if (base === "pt") return "pt-BR";
       if (I18N[base]) return base;
     }
     return "en";
@@ -273,7 +394,7 @@
     const order = ["PopClip", "PopClip Contrib"];
     const cats = Object.keys(counts).sort((a, b) => (order.indexOf(a) + 1 || 99) - (order.indexOf(b) + 1 || 99) || a.localeCompare(b));
     const chips = [["", t("all"), all.filter((e) => !e.unlisted).length]]
-      .concat(seliq ? [["__seliq", "Seliq", seliq]] : [], cats.map((c) => [c, c, counts[c]]));
+      .concat(seliq && !counts.Seliq ? [["__seliq", "Seliq", seliq]] : [], cats.map((c) => [c, c, counts[c]]));
     chipsEl.innerHTML = chips.map(([v, label, n]) => `<button class="chip" type="button" role="tab" data-cat="${esc(v)}" aria-selected="${v === cat}">${esc(label)}<small>${n}</small></button>`).join("");
   }
   chipsEl.addEventListener("click", (ev) => {
@@ -336,6 +457,7 @@
   /* ---------- language ---------- */
   function applyLang() {
     document.documentElement.lang = lang;
+    document.documentElement.dir = lang === "ar" ? "rtl" : "ltr";
     body.dataset.lang = lang;
     document.querySelectorAll("[data-i18n]").forEach((el) => { el.textContent = t(el.dataset.i18n); });
     document.querySelectorAll("[data-i18n-placeholder]").forEach((el) => { el.placeholder = t(el.dataset.i18nPlaceholder); });

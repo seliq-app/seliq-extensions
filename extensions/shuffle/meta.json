@@ -14,6 +14,9 @@
     "zh-Hant": "隨機化所選行的順序。",
     "de": "Reihenfolge der ausgewählten Zeilen randomisieren.",
     "fr": "Randomiser l'ordre des lignes sélectionnées.",
-    "es": "Aleatorizar el orden de las líneas seleccionadas."
+    "es": "Aleatorizar el orden de las líneas seleccionadas.",
+    "it": "Mescola l’ordine delle righe selezionate.",
+    "pt-BR": "Embaralhe a ordem das linhas selecionadas.",
+    "ar": "ترتيب الأسطر المحددة عشوائيًا."
   }
 }

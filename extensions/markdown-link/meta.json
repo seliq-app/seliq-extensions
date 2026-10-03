@@ -14,6 +14,9 @@
     "zh-Hant": "將所選文字替換為複製的文字結果，並作為Markdown連結。",
     "de": "Ausgewählten Text durch das kopierte Textergebnis als Markdown-Link ersetzen.",
     "fr": "Remplacer le texte sélectionné par le résultat du texte copié sous forme de lien Markdown.",
-    "es": "Reemplazar el texto seleccionado por el resultado de texto copiado como enlace Markdown."
+    "es": "Reemplazar el texto seleccionado por el resultado de texto copiado como enlace Markdown.",
+    "it": "Sostituisce il testo selezionato con il risultato del testo Copyed come link Markdown.",
+    "pt-BR": "Substitua o texto selecionado pelo resultado do texto copiado como link Markdown.",
+    "ar": "يستبدل النص المحدد بنتيجة النص المنسوخ على هيئة رابط Markdown."
   }
 }

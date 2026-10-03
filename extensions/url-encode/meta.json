@@ -13,6 +13,9 @@
     "zh-Hant": "對所選文字進行百分號編碼或解碼。",
     "de": "Ausgewählten Text per Prozentkodierung kodieren oder dekodieren.",
     "fr": "Encoder ou décoder le texte sélectionné en pourcentage.",
-    "es": "Codificar o decodificar el texto seleccionado con codificación porcentual."
+    "es": "Codificar o decodificar el texto seleccionado con codificación porcentual.",
+    "it": "Codifica o decodifica con percent-encoding il testo selezionato.",
+    "pt-BR": "Codifique ou decodifique o texto selecionado com codificação por porcentagem.",
+    "ar": "ترميز النص المحدد بالنسبة المئوية (Percent-encoding) أو فك ترميزه."
   }
 }

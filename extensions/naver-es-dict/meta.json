@@ -8,7 +8,10 @@
     "zh-Hant": "在 NAVER 西班牙語辭典中查詢所選文字。",
     "de": "Schlägt den markierten Text im Naver Spanisch-Wörterbuch nach.",
     "fr": "Recherche le texte sélectionné dans le dictionnaire d’espagnol Naver.",
-    "es": "Busca el texto seleccionado en el diccionario de español Naver."
+    "es": "Busca el texto seleccionado en el diccionario de español Naver.",
+    "it": "Consulta il testo selezionato nel Dizionario spagnolo di Naver.",
+    "pt-BR": "Procure o texto selecionado no Dicionário Espanhol de Naver.",
+    "ar": "ابحث عن النص المحدد في قاموس Naver الإسباني."
   },
   "version": "1.0.0",
   "category": "Seliq",

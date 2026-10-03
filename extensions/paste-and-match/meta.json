@@ -14,6 +14,9 @@
     "zh-Hant": "以純文字格式貼上，不含格式。",
     "de": "Nur als Klartext ohne Formatierung einfügen.",
     "fr": "Coller uniquement en texte brut sans mise en forme.",
-    "es": "Pegar solo como texto sin formato, sin ningún estilo."
+    "es": "Pegar solo como texto sin formato, sin ningún estilo.",
+    "it": "Incolla solo come testo semplice, senza formattazione.",
+    "pt-BR": "Cole apenas como texto simples, sem formatação.",
+    "ar": "الصق كنص عادي فقط، دون تنسيق."
   }
 }

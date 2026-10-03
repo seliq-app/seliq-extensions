@@ -14,6 +14,9 @@
     "zh-Hant": "將HTML（原始碼和網頁內容）轉換為Markdown。",
     "de": "HTML (Quellcode und Webinhalte) in Markdown konvertieren.",
     "fr": "Convertir du HTML (code source et contenu web) en Markdown.",
-    "es": "Convertir HTML (código fuente y contenido web) a Markdown."
+    "es": "Convertir HTML (código fuente y contenido web) a Markdown.",
+    "it": "Converti HTML (sia il codice sorgente che il contenuto web) in Markdown.",
+    "pt-BR": "Converta HTML (código-fonte e conteúdo web) para Markdown.",
+    "ar": "تحويل HTML (الشيفرة المصدرية ومحتوى الويب) إلى Markdown."
   }
 }

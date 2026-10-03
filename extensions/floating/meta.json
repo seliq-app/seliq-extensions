@@ -13,6 +13,9 @@
     "zh-Hant": "使用Floating以「畫中畫」方式檢視所選URL。",
     "de": "Ausgewählte URL mit Floating als „Bild im Bild“ anzeigen.",
     "fr": "Afficher l'URL sélectionnée en « image dans l'image » avec Floating.",
-    "es": "Ver la URL seleccionada en «imagen en imagen» con Floating."
+    "es": "Ver la URL seleccionada en «imagen en imagen» con Floating.",
+    "it": "Visualizza l’URL selezionato “picture-in-picture” con Floating.",
+    "pt-BR": "Exiba a URL selecionada \"picture-in-picture\" com Floating.",
+    "ar": "عرض عنوان URL المحدد بوضع «صورة داخل صورة» (picture-in-picture) باستخدام Floating."
   }
 }

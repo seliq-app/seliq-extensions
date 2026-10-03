@@ -14,6 +14,9 @@
     "zh-Hant": "使用doi.org解析數位物件識別碼（DOI）。",
     "de": "Digital Object Identifier (DOI) mit doi.org auflösen.",
     "fr": "Résoudre un Digital Object Identifier (DOI) à l'aide de doi.org.",
-    "es": "Resolver un Identificador de Objeto Digital (DOI) usando doi.org."
+    "es": "Resolver un Identificador de Objeto Digital (DOI) usando doi.org.",
+    "it": "Risolvi un Digital Object Identifier (DOI) con doi.org.",
+    "pt-BR": "Resolva um Digital Object Identifier (DOI) usando doi.org.",
+    "ar": "حل معرّف الكائن الرقمي (DOI) باستخدام doi.org."
   }
 }

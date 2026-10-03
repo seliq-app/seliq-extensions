@@ -13,6 +13,9 @@
     "zh-Hant": "使用Python計算所選文字的MD5雜湊。",
     "de": "MD5-Hash des ausgewählten Texts mit Python berechnen.",
     "fr": "Calculer le hash MD5 du texte sélectionné avec Python.",
-    "es": "Calcular el hash MD5 del texto seleccionado con Python."
+    "es": "Calcular el hash MD5 del texto seleccionado con Python.",
+    "it": "Calcola l’hash MD5 del testo selezionato con Python.",
+    "pt-BR": "Calcule o hash MD5 do texto selecionado usando Python. 使用Python计算选中文本的MD5哈希值。",
+    "ar": "حساب تجزئة MD5 للنص المحدد باستخدام Python."
   }
 }

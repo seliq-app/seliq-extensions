@@ -14,6 +14,9 @@
     "zh-Hant": "將選取項轉換為camelCase、UpperCamelCase、kebab-case、snake_case或CONSTANT_CASE。",
     "de": "Auswahl in camelCase, UpperCamelCase, kebab-case, snake_case oder CONSTANT_CASE konvertieren.",
     "fr": "Convertir la sélection en camelCase, UpperCamelCase, kebab-case, snake_case ou CONSTANT_CASE.",
-    "es": "Convertir la selección a camelCase, UpperCamelCase, kebab-case, snake_case o CONSTANT_CASE."
+    "es": "Convertir la selección a camelCase, UpperCamelCase, kebab-case, snake_case o CONSTANT_CASE.",
+    "it": "Converti la selezione in camelCase, UpperCamelCase, kebab-case, snake_case o CONSTANT_CASE.",
+    "pt-BR": "Converta a seleção em camelCase, UpperCamelCase, kebab-case, snake_case ou CONSTANT_CASE.",
+    "ar": "حوّل التحديد إلى camelCase أو UpperCamelCase أو kebab-case أو snake_case أو CONSTANT_CASE."
   }
 }

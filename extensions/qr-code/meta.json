@@ -14,6 +14,9 @@
     "zh-Hant": "產生並顯示QR Code。",
     "de": "QR-Code erzeugen und anzeigen.",
     "fr": "Générer et afficher un code QR.",
-    "es": "Generar y mostrar un código QR."
+    "es": "Generar y mostrar un código QR.",
+    "it": "Genera e mostra un codice QR.",
+    "pt-BR": "Gere e exiba um código QR.",
+    "ar": "إنشاء رمز QR وعرضه."
   }
 }

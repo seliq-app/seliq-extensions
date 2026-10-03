@@ -8,7 +8,10 @@
     "zh-Hant": "在 NAVER 德語辭典中查詢所選文字。",
     "de": "Schlägt den markierten Text im Naver Deutsch-Wörterbuch nach.",
     "fr": "Recherche le texte sélectionné dans le dictionnaire d’allemand Naver.",
-    "es": "Busca el texto seleccionado en el diccionario de alemán Naver."
+    "es": "Busca el texto seleccionado en el diccionario de alemán Naver.",
+    "it": "Consulta il testo selezionato nel Dizionario tedesco di Naver.",
+    "pt-BR": "Procure o texto selecionado no Dicionário Alemão de Naver.",
+    "ar": "ابحث عن النص المحدد في قاموس Naver الألماني."
   },
   "version": "1.0.0",
   "category": "Seliq",

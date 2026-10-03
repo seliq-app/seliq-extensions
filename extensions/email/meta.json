@@ -14,6 +14,9 @@
     "zh-Hant": "在預設郵件用戶端中，使用所選的「to:」位址或所選文字建立新郵件。",
     "de": "Neue E-Mail im Standard-Mail-Programm mit der ausgewählten „An:“-Adresse oder dem ausgewählten Text erstellen.",
     "fr": "Créer un nouveau message dans le client de messagerie par défaut, avec l'adresse « to: » sélectionnée ou avec le texte sélectionné.",
-    "es": "Crear un nuevo mensaje de correo en el cliente de correo predeterminado, con la dirección «to:» seleccionada o con el texto seleccionado."
+    "es": "Crear un nuevo mensaje de correo en el cliente de correo predeterminado, con la dirección «to:» seleccionada o con el texto seleccionado.",
+    "it": "Crea un nuovo messaggio di posta con l’indirizzo “a:” selezionato, o con il testo selezionato, nel client di posta predefinito.",
+    "pt-BR": "Crie uma nova mensagem de e-mail com o endereço \"para:\" selecionado ou com o texto selecionado, no app de e-mail padrão.",
+    "ar": "أنشئ رسالة بريد جديدة إلى العنوان المحدد أو بالنص المحدد في تطبيق البريد الافتراضي."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "從所選文字中移除空格。",
     "de": "Leerzeichen aus dem ausgewählten Text entfernen.",
     "fr": "Supprimer les espaces du texte sélectionné.",
-    "es": "Eliminar espacios del texto seleccionado."
+    "es": "Eliminar espacios del texto seleccionado.",
+    "it": "Rimuovi gli spazi dal testo selezionato.",
+    "pt-BR": "Remova espaços do texto selecionado.",
+    "ar": "إزالة المسافات من النص المحدد."
   }
 }

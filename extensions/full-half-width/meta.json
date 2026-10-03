@@ -14,6 +14,9 @@
     "zh-Hant": "在中文、日文與韓文字元的全形與半形之間轉換。例如，將ヲ轉換為ｦ。",
     "de": "Zwischen Voll- und Halbbreite von chinesischen, japanischen und koreanischen Zeichen umwandeln. Beispiel: ヲ in ｦ umwandeln.",
     "fr": "Convertir entre les formes pleine chasse et demi-chasse des caractères chinois, japonais et coréens. Par exemple, convertir ヲ en ｦ.",
-    "es": "Convertir entre las formas de ancho completo y de medio ancho de los caracteres chinos, japoneses y coreanos. Por ejemplo, convertir ヲ en ｦ."
+    "es": "Convertir entre las formas de ancho completo y de medio ancho de los caracteres chinos, japoneses y coreanos. Por ejemplo, convertir ヲ en ｦ.",
+    "it": "Converti tra le forme di larghezza completa e mezza larghezza di caratteri cinesi, giapponesi e coreani. Ad esempio, converti ヲ in ｦ.",
+    "pt-BR": "Converta entre formas de largura completa e meia largura de caracteres chineses, japoneses e coreanos. Por exemplo, converta ヲ para ｦ.",
+    "ar": "التحويل بين صيغتَي العرض الكامل ونصف العرض للأحرف الصينية واليابانية والكورية. على سبيل المثال، تحويل ヲ إلى ｦ."
   }
 }

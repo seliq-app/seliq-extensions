@@ -14,6 +14,9 @@
     "zh-Hant": "開啟所選BitTorrent infohash的磁力連結。",
     "de": "Magnet-Link für den ausgewählten BitTorrent-Infohash öffnen.",
     "fr": "Ouvrir un lien magnet pour l'infohash BitTorrent sélectionné.",
-    "es": "Abrir un enlace magnet para el infohash de BitTorrent seleccionado."
+    "es": "Abrir un enlace magnet para el infohash de BitTorrent seleccionado.",
+    "it": "Apri un link magnet per l’infohash BitTorrent selezionato.",
+    "pt-BR": "Abra um link magnet para o infohash BitTorrent selecionado.",
+    "ar": "فتح رابط Magnet لقيمة infohash المحددة في BitTorrent."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "從所選文字產生SHA-512雜湊。",
     "de": "SHA-512-Hash aus dem ausgewählten Text erzeugen.",
     "fr": "Générer un hash SHA-512 à partir du texte sélectionné.",
-    "es": "Generar un hash SHA-512 a partir del texto seleccionado."
+    "es": "Generar un hash SHA-512 a partir del texto seleccionado.",
+    "it": "Genera un hash SHA-512 dal testo selezionato.",
+    "pt-BR": "Gere um hash SHA-512 do texto selecionado.",
+    "ar": "حساب تجزئة SHA-512 للنص المحدد."
   }
 }

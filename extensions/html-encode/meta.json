@@ -13,6 +13,9 @@
     "zh-Hant": "對所選文字進行HTML編碼或解碼。",
     "de": "Ausgewählten Text HTML-kodieren oder -dekodieren.",
     "fr": "Encoder ou décoder le texte sélectionné en HTML.",
-    "es": "Codificar o decodificar el texto seleccionado en HTML."
+    "es": "Codificar o decodificar el texto seleccionado en HTML.",
+    "it": "Codifica o decodifica il testo selezionato in HTML.",
+    "pt-BR": "Codifique ou decodifique em HTML o texto selecionado.",
+    "ar": "ترميز النص المحدد بصيغة HTML أو فك ترميزه."
   }
 }

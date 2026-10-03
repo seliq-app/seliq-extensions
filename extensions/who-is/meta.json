@@ -14,6 +14,9 @@
     "zh-Hant": "查詢所選網域名稱的Whois資訊。",
     "de": "Whois-Informationen für einen ausgewählten Domainnamen nachschlagen.",
     "fr": "Rechercher les informations Whois pour un nom de domaine sélectionné.",
-    "es": "Buscar información de Whois para un nombre de dominio seleccionado."
+    "es": "Buscar información de Whois para un nombre de dominio seleccionado.",
+    "it": "Cerca le informazioni WHOIS per il nome di dominio selezionato.",
+    "pt-BR": "Consulte as informações Whois de um nome de domínio selecionado.",
+    "ar": "الاستعلام عن معلومات Whois لاسم النطاق المحدد."
   }
 }

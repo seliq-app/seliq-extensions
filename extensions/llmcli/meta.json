@@ -13,6 +13,9 @@
     "zh-Hant": "透過Codex、Claude、Gemini或OpenCode CLI重寫所選文字。",
     "de": "Ausgewählten Text über Codex, Claude, Gemini oder OpenCode CLI umschreiben.",
     "fr": "Réécrire le texte sélectionné via Codex, Claude, Gemini ou OpenCode CLI.",
-    "es": "Reescribir el texto seleccionado mediante Codex, Claude, Gemini u OpenCode CLI."
+    "es": "Reescribir el texto seleccionado mediante Codex, Claude, Gemini u OpenCode CLI.",
+    "it": "Riscrivi il testo selezionato tramite la CLI di Codex, Claude, Gemini o OpenCode.",
+    "pt-BR": "Reescreva o texto selecionado por meio do CLI do Codex, Claude, Gemini ou OpenCode.",
+    "ar": "أعد كتابة النص المحدد من خلال Codex أو Claude أو Gemini أو أداة OpenCode CLI."
   }
 }

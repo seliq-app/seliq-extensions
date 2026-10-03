@@ -14,6 +14,9 @@
     "zh-Hant": "建立包含所選文字的新TextEdit文件。",
     "de": "Neues TextEdit-Dokument mit dem ausgewählten Text erstellen.",
     "fr": "Créer un nouveau document TextEdit contenant le texte sélectionné.",
-    "es": "Crear un nuevo documento de TextEdit que contenga el texto seleccionado."
+    "es": "Crear un nuevo documento de TextEdit que contenga el texto seleccionado.",
+    "it": "Crea un nuovo documento TextEdit contenente il testo selezionato.",
+    "pt-BR": "Crie um novo documento do TextEdit contendo o texto selecionado.",
+    "ar": "إنشاء مستند TextEdit جديد يحتوي على النص المحدد."
   }
 }

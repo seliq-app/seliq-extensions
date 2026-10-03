@@ -14,6 +14,9 @@
     "zh-Hant": "將CoffeeScript文字轉換為JavaScript。",
     "de": "CoffeeScript-Text in JavaScript konvertieren.",
     "fr": "Convertir le texte CoffeeScript en JavaScript.",
-    "es": "Convertir texto de CoffeeScript a JavaScript."
+    "es": "Convertir texto de CoffeeScript a JavaScript.",
+    "it": "Converti il testo Coffee Script in JS.",
+    "pt-BR": "Converta o texto Coffee Script em JS.",
+    "ar": "تحويل نص Coffee Script إلى JS."
   }
 }

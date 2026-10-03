@@ -14,6 +14,9 @@
     "zh-Hant": "為十六進位顏色值建議描述性名稱。",
     "de": "Einen beschreibenden Namen für einen hexadezimalen Farbwert vorschlagen.",
     "fr": "Suggérer un nom descriptif pour une valeur de couleur hexadécimale.",
-    "es": "Sugerir un nombre descriptivo para un valor de color hexadecimal."
+    "es": "Sugerir un nombre descriptivo para un valor de color hexadecimal.",
+    "it": "Suggerisce un nome descrittivo per un valore di colore esadecimale.",
+    "pt-BR": "Sugira um nome descritivo para um valor de cor hexadecimal.",
+    "ar": "يقترح اسمًا وصفيًا لقيمة لون سداسية عشرية."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "將文字轉換為AlTeRnAtInG CaSe交替大小寫，可選擇隨機化。",
     "de": "Text in AlTeRnAtInG CaSe umwandeln, optional mit Zufallsanteil.",
     "fr": "Convertir le texte en AlTeRnAtInG CaSe, avec un effet aléatoire facultatif.",
-    "es": "Convertir el texto a AlTeRnAtInG CaSe, con aleatoriedad opcional."
+    "es": "Convertir el texto a AlTeRnAtInG CaSe, con aleatoriedad opcional.",
+    "it": "Cambia il testo in AlTeRnAtInG CaSe, con casualità opzionale.",
+    "pt-BR": "Altere o texto para AlTeRnAtInG CaSe, com aleatoriedade opcional.",
+    "ar": "غيّر النص إلى AlTeRnAtInG CaSe، مع عشوائية اختيارية."
   }
 }

@@ -13,6 +13,9 @@
     "zh-Hant": "在所選文字周圍加上括號，可從()、[]、{}、<>和//中選擇。",
     "de": "Klammern um den ausgewählten Text setzen, wahlweise (), [], {}, <> und //.",
     "fr": "Entourer le texte sélectionné de crochets ou parenthèses, au choix parmi (), [], {}, <> et //.",
-    "es": "Poner paréntesis o corchetes alrededor del texto seleccionado, a elegir entre (), [], {}, <> y //."
+    "es": "Poner paréntesis o corchetes alrededor del texto seleccionado, a elegir entre (), [], {}, <> y //.",
+    "it": "Metti le parentesi attorno al testo selezionato, scegliendo tra (), [], {}, <> e //.",
+    "pt-BR": "Coloque parênteses ao redor do texto selecionado, escolhendo entre (), [], {}, <> e //.",
+    "ar": "ضع الأقواس حول النص المحدد، واختر من بين ()، []، {}، <> و //."
   }
 }

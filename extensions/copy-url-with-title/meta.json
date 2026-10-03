@@ -13,6 +13,9 @@
     "zh-Hant": "從所選文字中複製URL和標題作為HTML或Markdown連結。",
     "de": "URL und Titel aus ausgewähltem Text als HTML- oder Markdown-Link kopieren.",
     "fr": "Copier l'URL et le titre du texte sélectionné en tant que lien HTML ou Markdown.",
-    "es": "Copiar la URL y el título del texto seleccionado como enlace HTML o Markdown."
+    "es": "Copiar la URL y el título del texto seleccionado como enlace HTML o Markdown.",
+    "it": "Copia l’URL e il titolo dal testo selezionato come link HTML o Markdown.",
+    "pt-BR": "Copie a URL e o título do texto selecionado como um link HTML ou Markdown.",
+    "ar": "انسخ عنوان URL والعنوان من النص المحدد كرابط HTML أو Markdown."
   }
 }

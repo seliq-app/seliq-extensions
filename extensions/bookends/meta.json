@@ -14,6 +14,9 @@
     "zh-Hant": "將所選DOI、PMID、ISBN或JSTOR穩定URL新增到開啟的文獻庫。按住⌘時，則在文獻庫中搜尋所選文字，並以傳回的參考文獻建立新群組。",
     "de": "Ausgewählte DOI, PMID, ISBN oder stabile JSTOR-URL zur geöffneten Bibliothek hinzufügen. Bei gedrückter ⌘-Taste stattdessen die Bibliothek nach dem ausgewählten Text durchsuchen und eine neue Gruppe mit den gefundenen Referenzen erstellen.",
     "fr": "Ajouter les DOI, PMID, ISBN ou URL stables JSTOR sélectionnés à la bibliothèque ouverte. Si ⌘ est maintenu, rechercher plutôt le texte sélectionné dans la bibliothèque et créer un nouveau groupe avec les références trouvées.",
-    "es": "Agregar el DOI, PMID, ISBN o URL estable de JSTOR seleccionado a la biblioteca abierta. Si se mantiene pulsada ⌘, buscar en su lugar el texto seleccionado en la biblioteca y crear un nuevo grupo con las referencias devueltas."
+    "es": "Agregar el DOI, PMID, ISBN o URL estable de JSTOR seleccionado a la biblioteca abierta. Si se mantiene pulsada ⌘, buscar en su lugar el texto seleccionado en la biblioteca y crear un nuevo grupo con las referencias devueltas.",
+    "it": "Aggiungi DOI, PMID, ISBN o URL stabile JSTOR selezionato alla libreria aperta. Se tieni premuto ⌘, cerca invece il testo selezionato nella libreria e crea un nuovo gruppo con i riferimenti trovati.",
+    "pt-BR": "Adicione DOI, PMID, ISBN ou URL estável JSTOR selecionado à biblioteca aberta. Se ⌘ for pressionado, pesquise a biblioteca pelo texto selecionado e crie um novo grupo com as referências retornadas.",
+    "ar": "إضافة DOI أو PMID أو ISBN أو عنوان JSTOR URL المستقر المحدد إلى المكتبة المفتوحة. وإذا ضغطت على ⌘، فابحث في المكتبة عن النص المحدد وأنشئ مجموعة جديدة بالمراجع الناتجة."
   }
 }

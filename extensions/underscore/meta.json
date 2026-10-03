@@ -14,6 +14,9 @@
     "zh-Hant": "將單字之間的空格替換為底線，反之亦然。",
     "de": "Leerzeichen zwischen Wörtern durch Unterstriche und umgekehrt ersetzen.",
     "fr": "Remplacer les espaces entre les mots par des traits de soulignement, et vice versa.",
-    "es": "Reemplazar espacios entre palabras con guiones bajos y viceversa."
+    "es": "Reemplazar espacios entre palabras con guiones bajos y viceversa.",
+    "it": "Sostituisci gli spazi tra le parole con trattini bassi e viceversa.",
+    "pt-BR": "Substitua os espaços entre as palavras por sublinhados e vice-versa.",
+    "ar": "استبدال المسافات بين الكلمات بشرطات سفلية والعكس."
   }
 }

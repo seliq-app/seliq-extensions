@@ -14,6 +14,9 @@
     "zh-Hant": "將文字片段或URL儲存到Ember。",
     "de": "Textausschnitt oder URL in Ember speichern.",
     "fr": "Enregistrer un extrait de texte ou une URL dans Ember.",
-    "es": "Guardar un fragmento de texto o URL en Ember."
+    "es": "Guardar un fragmento de texto o URL en Ember.",
+    "it": "Salva un clip di testo o un URL in Ember.",
+    "pt-BR": "Salve um clipe de texto ou URL no Ember.",
+    "ar": "حفظ مقطع نصي أو عنوان URL في Ember."
   }
 }

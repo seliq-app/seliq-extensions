@@ -14,6 +14,9 @@
     "zh-Hant": "執行R指令碼。",
     "de": "R-Skript ausführen.",
     "fr": "Exécuter le script R.",
-    "es": "Ejecutar el script de R."
+    "es": "Ejecutar el script de R.",
+    "it": "Esegui lo script R.",
+    "pt-BR": "Execute um script R.",
+    "ar": "تشغيل سكربت R."
   }
 }

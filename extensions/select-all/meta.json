@@ -14,6 +14,9 @@
     "zh-Hant": "選取欄位中的所有文字，然後再次呼叫PopClip。",
     "de": "Gesamten Text im Feld auswählen und anschließend PopClip erneut aufrufen.",
     "fr": "Sélectionner tout le texte du champ, puis réinvoquer PopClip.",
-    "es": "Seleccionar todo el texto del campo y luego invocar PopClip de nuevo."
+    "es": "Seleccionar todo el texto del campo y luego invocar PopClip de nuevo.",
+    "it": "Seleziona tutto il testo nel campo, poi richiama di nuovo PopClip.",
+    "pt-BR": "Selecione todo o texto do campo e chame o PopClip novamente.",
+    "ar": "حدّد كل النص في الحقل، ثم استدعِ PopClip مرة أخرى."
   }
 }

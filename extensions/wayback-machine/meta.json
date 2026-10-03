@@ -13,6 +13,9 @@
     "zh-Hant": "從Wayback Machine取得所選URL的存檔版本。",
     "de": "Archivierte Version der ausgewählten URL aus der Wayback Machine abrufen.",
     "fr": "Obtenir une version archivée de l'URL sélectionnée à partir de la Wayback Machine.",
-    "es": "Obtener una versión archivada de la URL seleccionada de Wayback Machine."
+    "es": "Obtener una versión archivada de la URL seleccionada de Wayback Machine.",
+    "it": "Ottieni la versione archiviata dell’URL selezionato dalla Wayback Machine.",
+    "pt-BR": "Obtenha a versão arquivada da URL selecionada na Wayback Machine.",
+    "ar": "جلب النسخة المؤرشفة من عنوان URL المحدد من Wayback Machine."
   }
 }

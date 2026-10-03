@@ -14,6 +14,9 @@
     "zh-Hant": "在Sublime Text中開啟所選文字作為新檔案。",
     "de": "Ausgewählten Text als neue Datei in Sublime Text öffnen.",
     "fr": "Ouvrir le texte sélectionné comme nouveau fichier dans Sublime Text.",
-    "es": "Abrir el texto seleccionado como archivo nuevo en Sublime Text."
+    "es": "Abrir el texto seleccionado como archivo nuevo en Sublime Text.",
+    "it": "Apri il testo selezionato come nuovo file in Sublime Text.",
+    "pt-BR": "Abra o texto selecionado como um novo arquivo no Sublime Text.",
+    "ar": "فتح النص المحدد كملف جديد في Sublime Text."
   }
 }

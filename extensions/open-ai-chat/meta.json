@@ -14,6 +14,9 @@
     "zh-Hant": "將所選文字傳送至OpenAI的Chat API。",
     "de": "Ausgewählten Text an die Chat API von OpenAI senden.",
     "fr": "Envoyer le texte sélectionné à l'API Chat d'OpenAI.",
-    "es": "Enviar el texto seleccionado a la API de Chat de OpenAI."
+    "es": "Enviar el texto seleccionado a la API de Chat de OpenAI.",
+    "it": "Invia il testo selezionato all’API Chat di OpenAI.",
+    "pt-BR": "Envie o texto selecionado para a API de Chat da OpenAI.",
+    "ar": "إرسال النص المحدد إلى واجهة OpenAI Chat API."
   }
 }

@@ -13,6 +13,9 @@
     "zh-Hant": "根據典型的英文標題慣例大寫單字。",
     "de": "Wörter nach den typischen englischen Titelkonventionen großschreiben.",
     "fr": "Mettre en majuscule les mots selon les conventions de titrage anglais typiques.",
-    "es": "Capitalizar palabras de acuerdo con las convenciones típicas de títulos en inglés."
+    "es": "Capitalizar palabras de acuerdo con las convenciones típicas de títulos en inglés.",
+    "it": "Applica la maiuscola alle parole secondo le consuete convenzioni inglesi per i titoli.",
+    "pt-BR": "Coloque as palavras em maiúscula inicial segundo as convenções típicas de títulos em inglês.",
+    "ar": "تحويل الكلمات إلى حالة العنوان وفق أعراف كتابة العناوين الإنجليزية المعتادة."
   }
 }

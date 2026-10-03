@@ -13,6 +13,9 @@
     "zh-Hant": "將所選文字轉換為全大寫。",
     "de": "Ausgewählten Text in GROSSBUCHSTABEN umwandeln.",
     "fr": "Mettre le texte sélectionné TOUT EN MAJUSCULES.",
-    "es": "Convertir todo el texto seleccionado a MAYÚSCULAS."
+    "es": "Convertir todo el texto seleccionado a MAYÚSCULAS.",
+    "it": "Rendi il testo selezionato TUTTO MAIUSCOLO.",
+    "pt-BR": "Converta o texto selecionado em TODAS MAIÚSCULAS.",
+    "ar": "تحويل النص المحدد إلى أحرف كبيرة بالكامل."
   }
 }

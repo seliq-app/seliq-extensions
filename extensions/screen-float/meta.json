@@ -13,6 +13,9 @@
     "zh-Hant": "使用ScreenFloat擷取所選文字或螢幕的一部分。",
     "de": "Ausgewählten Text oder einen Teil des Bildschirms mit ScreenFloat erfassen.",
     "fr": "Capturer le texte sélectionné ou une partie de votre écran avec ScreenFloat.",
-    "es": "Capturar texto seleccionado o una parte de la pantalla con ScreenFloat."
+    "es": "Capturar texto seleccionado o una parte de la pantalla con ScreenFloat.",
+    "it": "Cattura il testo selezionato o una parte dello schermo con ScreenFloat.",
+    "pt-BR": "Capture o texto selecionado ou uma parte da tela com o ScreenFloat.",
+    "ar": "التقاط النص المحدد أو جزء من الشاشة باستخدام ScreenFloat."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "從所選文字中取得磁力連結。",
     "de": "Magnet-URLs aus dem ausgewählten Text abrufen.",
     "fr": "Récupérer les URL magnet du texte sélectionné.",
-    "es": "Obtener las URL magnet del texto seleccionado."
+    "es": "Obtener las URL magnet del texto seleccionado.",
+    "it": "Ottieni gli URL magnet dal testo selezionato.",
+    "pt-BR": "Obtenha links magnet do texto selecionado.",
+    "ar": "استخراج روابط Magnet من النص المحدد."
   }
 }

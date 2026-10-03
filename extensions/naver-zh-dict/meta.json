@@ -8,7 +8,10 @@
     "zh-Hant": "在 NAVER 漢語辭典中查詢所選文字。",
     "de": "Schlägt den markierten Text im Naver Chinesisch-Wörterbuch nach.",
     "fr": "Recherche le texte sélectionné dans le dictionnaire de chinois Naver.",
-    "es": "Busca el texto seleccionado en el diccionario de chino Naver."
+    "es": "Busca el texto seleccionado en el diccionario de chino Naver.",
+    "it": "Consulta il testo selezionato nel Dizionario cinese di Naver.",
+    "pt-BR": "Procure o texto selecionado no Dicionário Chinês de Naver.",
+    "ar": "ابحث عن النص المحدد في قاموس Naver الصيني."
   },
   "version": "1.0.0",
   "category": "Seliq",

@@ -13,6 +13,9 @@
     "zh-Hant": "複製指向網頁中目前所選文字的URL。",
     "de": "URL kopieren, die auf den aktuell ausgewählten Text der Webseite verweist.",
     "fr": "Copier l'URL pointant vers le texte actuellement sélectionné dans une page web.",
-    "es": "Copiar la URL que apunta al texto actualmente seleccionado en una página web."
+    "es": "Copiar la URL que apunta al texto actualmente seleccionado en una página web.",
+    "it": "Copia un URL che punta al testo attualmente selezionato in una pagina web",
+    "pt-BR": "Copie uma URL que aponta para o texto atualmente selecionado em uma página web",
+    "ar": "نسخ عنوان URL يشير إلى النص المحدد حاليًا في صفحة ويب"
   }
 }

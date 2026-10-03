@@ -14,6 +14,9 @@
     "zh-Hant": "測試會返回結果的AppleScript。",
     "de": "Testen, ob AppleScript ein Ergebnis zurückgibt.",
     "fr": "Tester le renvoi d'un résultat par AppleScript.",
-    "es": "Probar que AppleScript devuelva un resultado."
+    "es": "Probar que AppleScript devuelva un resultado.",
+    "it": "Test di AppleScript che restituisce un risultato.",
+    "pt-BR": "Teste de AppleScript que retorna um resultado.",
+    "ar": "اختبار إرجاع AppleScript لنتيجة."
   }
 }

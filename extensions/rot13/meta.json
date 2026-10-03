@@ -13,6 +13,9 @@
     "zh-Hant": "將ROT13密碼應用於文字。",
     "de": "ROT13-Verschlüsselung auf den Text anwenden.",
     "fr": "Appliquer le chiffre ROT13 au texte.",
-    "es": "Aplicar el cifrado ROT13 al texto."
+    "es": "Aplicar el cifrado ROT13 al texto.",
+    "it": "Applica al testo il cifrario ROT13.",
+    "pt-BR": "Aplique a cifra ROT13 ao texto.",
+    "ar": "تطبيق تشفير ROT13 على النص."
   }
 }

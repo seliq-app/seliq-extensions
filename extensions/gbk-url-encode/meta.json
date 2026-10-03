@@ -14,6 +14,9 @@
     "zh-Hant": "先將UTF-8格式轉為GBK然後編碼，將以GBK格式編碼的文字先解碼然後轉為UTF-8顯示。",
     "de": "UTF-8 zuerst in GBK umwandeln und dann kodieren, oder GBK-kodierten Text zuerst dekodieren und dann zur Anzeige in UTF-8 umwandeln.",
     "fr": "Convertir d'abord l'UTF-8 en GBK puis encoder, ou décoder d'abord le texte encodé en GBK puis le convertir en UTF-8 pour l'afficher.",
-    "es": "Convertir primero UTF-8 a GBK y luego codificar, o decodificar primero el texto codificado en GBK y luego convertirlo a UTF-8 para mostrarlo."
+    "es": "Convertir primero UTF-8 a GBK y luego codificar, o decodificar primero el texto codificado en GBK y luego convertirlo a UTF-8 para mostrarlo.",
+    "it": "Converti il testo da UTF-8 a GBK e codificalo come URL; oppure decodifica il testo codificato in GBK e visualizzalo in UTF-8.",
+    "pt-BR": "Converta o texto de UTF-8 para GBK e codifique-o; ou decodifique o texto codificado em GBK e converta-o para UTF-8 para exibição.",
+    "ar": "تحويل ترميز utf8 إلى gbk ثم ترميزه بصيغة URL، وفك ترميز النص المرمَّز بـ gbk ثم تحويله إلى utf8 للعرض."
   }
 }

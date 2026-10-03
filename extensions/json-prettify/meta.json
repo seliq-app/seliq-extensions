@@ -14,6 +14,9 @@
     "zh-Hant": "美化JSON字串。",
     "de": "JSON-Zeichenfolge übersichtlich formatieren.",
     "fr": "Mettre en forme une chaîne JSON de façon lisible.",
-    "es": "Dar formato legible a una cadena JSON."
+    "es": "Dar formato legible a una cadena JSON.",
+    "it": "Formatta la stringa JSON in modo leggibile.",
+    "pt-BR": "Formate a string JSON.",
+    "ar": "تنسيق سلسلة JSON بشكل مقروء."
   }
 }

@@ -14,6 +14,9 @@
     "zh-Hant": "建立包含所選文字的新TextWrangler文件。",
     "de": "Neues TextWrangler-Dokument mit dem ausgewählten Text erstellen.",
     "fr": "Créer un nouveau document TextWrangler contenant le texte sélectionné.",
-    "es": "Crear un nuevo documento de TextWrangler que contenga el texto seleccionado."
+    "es": "Crear un nuevo documento de TextWrangler que contenga el texto seleccionado.",
+    "it": "Crea un nuovo documento TextWrangler contenente il testo selezionato.",
+    "pt-BR": "Crie um novo documento do TextWrangler contendo o texto selecionado.",
+    "ar": "إنشاء مستند TextWrangler جديد يحتوي على النص المحدد."
   }
 }

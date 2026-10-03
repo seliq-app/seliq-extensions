@@ -14,6 +14,9 @@
     "zh-Hant": "在網頁瀏覽器中將所選文字作為搜尋字串在Explain Shell上開啟。",
     "de": "Ausgewählten Text in einem Webbrowser als Suchbegriff auf Explain Shell öffnen.",
     "fr": "Ouvrir le texte sélectionné dans un navigateur web comme chaîne de recherche sur Explain Shell.",
-    "es": "Abrir el texto seleccionado en un navegador web como cadena de búsqueda en Explain Shell."
+    "es": "Abrir el texto seleccionado en un navegador web como cadena de búsqueda en Explain Shell.",
+    "it": "Apri il testo selezionato in un browser web come stringa di ricerca su Explain Shell.",
+    "pt-BR": "Abra o texto selecionado em um navegador web como string de pesquisa no Explain Shell.",
+    "ar": "افتح النص المحدد في متصفح ويب كسلسلة بحث على Explain Shell."
   }
 }

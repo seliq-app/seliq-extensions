@@ -14,6 +14,9 @@
     "zh-Hant": "切換所選文字的大小寫。",
     "de": "Schreibweise des ausgewählten Textes umschalten.",
     "fr": "Basculer la casse du texte sélectionné.",
-    "es": "Alternar mayúsculas y minúsculas del texto seleccionado."
+    "es": "Alternar mayúsculas y minúsculas del texto seleccionado.",
+    "it": "Inverti maiuscole e minuscole del testo selezionato.",
+    "pt-BR": "Alterne entre maiúsculas e minúsculas no texto selecionado.",
+    "ar": "تبديل حالة أحرف النص المحدد."
   }
 }

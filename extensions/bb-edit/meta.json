@@ -14,6 +14,9 @@
     "zh-Hant": "建立包含所選文字的新BBEdit文件。",
     "de": "Neues BBEdit-Dokument mit ausgewähltem Text erstellen.",
     "fr": "Créer un nouveau document BBEdit contenant le texte sélectionné.",
-    "es": "Crear un nuevo documento BBEdit con el texto seleccionado."
+    "es": "Crear un nuevo documento BBEdit con el texto seleccionado.",
+    "it": "Crea un nuovo documento BBEdit contenente il testo selezionato.",
+    "pt-BR": "Crie um novo documento BBEdit contendo o texto selecionado.",
+    "ar": "إنشاء مستند BBEdit جديد يحتوي على النص المحدد."
   }
 }

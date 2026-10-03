@@ -14,6 +14,9 @@
     "zh-Hant": "將所選文字列印至預設印表機。",
     "de": "Ausgewählten Text auf dem Standarddrucker ausdrucken.",
     "fr": "Imprimer le texte sélectionné sur l'imprimante par défaut.",
-    "es": "Imprimir el texto seleccionado en la impresora predeterminada."
+    "es": "Imprimir el texto seleccionado en la impresora predeterminada.",
+    "it": "Stampa il testo selezionato sulla stampante predefinita.",
+    "pt-BR": "Imprima o texto selecionado na impressora padrão.",
+    "ar": "طباعة النص المحدد على الطابعة الافتراضية."
   }
 }

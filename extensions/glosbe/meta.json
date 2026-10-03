@@ -14,6 +14,9 @@
     "zh-Hant": "使用全球詞典網站Glosbe查詢所選文字。",
     "de": "Ausgewählten Text mit Glosbe, der globalen Wörterbuch-Website, nachschlagen.",
     "fr": "Rechercher le texte sélectionné avec Glosbe, le site de dictionnaire mondial.",
-    "es": "Buscar el texto seleccionado con Glosbe, el sitio web de diccionario global."
+    "es": "Buscar el texto seleccionado con Glosbe, el sitio web de diccionario global.",
+    "it": "Consulta il testo selezionato con Glosbe, il sito web del dizionario globale.",
+    "pt-BR": "Procure o texto selecionado usando Glosbe, o site de dicionário global.",
+    "ar": "ابحث عن النص المحدد باستخدام Glosbe، موقع القاموس العالمي."
   }
 }

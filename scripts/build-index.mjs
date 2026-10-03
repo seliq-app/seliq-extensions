@@ -118,7 +118,7 @@ for (const sc of shortcodes) {
   for (const k of ["category", "icon", "upstream", "origin"]) {
     if (meta[k] != null && typeof meta[k] !== "string") { err(sc, `meta.json: "${k}" must be a string`); ok = false; }
   }
-  const LANGS = ["ko", "ja", "zh-Hans", "zh-Hant", "de", "fr", "es"];
+  const LANGS = ["ko", "ja", "zh-Hans", "zh-Hant", "de", "fr", "es", "it", "pt-BR", "ar"];
   if (meta.descriptions != null && (typeof meta.descriptions !== "object" || Array.isArray(meta.descriptions) ||
       Object.entries(meta.descriptions).some(([l, v]) => !LANGS.includes(l) || typeof v !== "string" || v.trim() === ""))) {
     err(sc, `meta.json: "descriptions" must map ${LANGS.join("/")} to non-empty strings`); ok = false;

@@ -14,6 +14,9 @@
     "zh-Hant": "透過傳入Webhook API將所選文字儲存到flomo。",
     "de": "Ausgewählten Text über die eingehende Webhook-API in flomo speichern.",
     "fr": "Enregistrer le texte sélectionné dans flomo via l'API webhook entrante.",
-    "es": "Guardar el texto seleccionado en flomo mediante la API de webhook entrante."
+    "es": "Guardar el texto seleccionado en flomo mediante la API de webhook entrante.",
+    "it": "Salva il testo selezionato in flomo tramite API webhook in arrivo.",
+    "pt-BR": "Salve o texto selecionado no flomo via API webhook de entrada.",
+    "ar": "حفظ النص المحدد في flomo عبر واجهة webhook API الواردة."
   }
 }

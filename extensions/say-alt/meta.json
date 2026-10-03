@@ -14,6 +14,9 @@
     "zh-Hant": "按⌥Esc，這是朗讀文字的預設系統快捷鍵（在系統偏好設定 → 輔助功能 → 語音中設定）。",
     "de": "⌥Esc drücken, die Standard-Systemtastenkombination zum Vorlesen des Textes (konfigurierbar unter Systemeinstellungen → Bedienungshilfen → Sprache).",
     "fr": "Appuyer sur ⌥Esc, le raccourci système par défaut pour lire le texte à voix haute (à configurer dans Préférences Système → Accessibilité → Parole).",
-    "es": "Presionar ⌥Esc, el atajo de sistema predeterminado para leer el texto en voz alta (se configura en Preferencias del Sistema → Accesibilidad → Voz)."
+    "es": "Presionar ⌥Esc, el atajo de sistema predeterminado para leer el texto en voz alta (se configura en Preferencias del Sistema → Accesibilidad → Voz).",
+    "it": "Premi ⌥Esc, la scorciatoia di sistema predefinita per leggere il testo ad alta voce (configurabile in Impostazioni di Sistema → Accessibilità → Contenuto letto).",
+    "pt-BR": "Pressione ⌥Esc, o atalho padrão do sistema para falar o texto (configure em Ajustes do Sistema → Acessibilidade → Conteúdo Falado).",
+    "ar": "اضغط ⌥Esc، وهو اختصار النظام الافتراضي لنطق النص (اضبطه في إعدادات النظام ← تسهيلات الاستخدام ← المحتوى المنطوق)."
   }
 }

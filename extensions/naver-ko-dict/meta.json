@@ -8,7 +8,10 @@
     "zh-Hant": "在 NAVER 韓語辭典中查詢所選文字。",
     "de": "Schlägt den markierten Text im Naver Koreanisch-Wörterbuch nach.",
     "fr": "Recherche le texte sélectionné dans le dictionnaire de coréen Naver.",
-    "es": "Busca el texto seleccionado en el diccionario de coreano Naver."
+    "es": "Busca el texto seleccionado en el diccionario de coreano Naver.",
+    "it": "Consulta il testo selezionato nel Dizionario coreano di Naver.",
+    "pt-BR": "Procure o texto selecionado no Dicionário Coreano de Naver.",
+    "ar": "ابحث عن النص المحدد في قاموس Naver الكوري."
   },
   "version": "1.0.0",
   "category": "Seliq",

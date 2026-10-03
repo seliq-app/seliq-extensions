@@ -14,6 +14,9 @@
     "zh-Hant": "測試shell指令碼。",
     "de": "Shell-Skripte testen.",
     "fr": "Tester les scripts shell.",
-    "es": "Probar los scripts de shell."
+    "es": "Probar los scripts de shell.",
+    "it": "Testa gli script di shell.",
+    "pt-BR": "Teste de scripts de shell.",
+    "ar": "اختبار سكربتات shell."
   }
 }

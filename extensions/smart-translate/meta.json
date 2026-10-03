@@ -14,6 +14,9 @@
     "zh-Hant": "將所選文字傳送至OpenAI的API以改善或翻譯成標準目標語言。",
     "de": "Ausgewählten Text an die API von OpenAI senden, um ihn zu verbessern oder in die Standard-Zielsprache zu übersetzen.",
     "fr": "Envoyer le texte sélectionné à l'API d'OpenAI pour l'améliorer ou le traduire vers la langue cible standard.",
-    "es": "Enviar el texto seleccionado a la API de OpenAI para mejorarlo o traducirlo al idioma de destino estándar."
+    "es": "Enviar el texto seleccionado a la API de OpenAI para mejorarlo o traducirlo al idioma de destino estándar.",
+    "it": "Invia il testo selezionato all’API di OpenAI per migliorarlo o tradurlo nella lingua di destinazione standard.",
+    "pt-BR": "Envie o texto selecionado à API da OpenAI para melhorá-lo ou traduzi-lo para o idioma de destino padrão.",
+    "ar": "إرسال النص المحدد إلى واجهة OpenAI API لتحسينه أو ترجمته إلى اللغة الهدف القياسية."
   }
 }

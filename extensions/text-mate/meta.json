@@ -14,6 +14,9 @@
     "zh-Hant": "在TextMate中開啟所選文字作為新檔案。",
     "de": "Ausgewählten Text als neue Datei in TextMate öffnen.",
     "fr": "Ouvrir le texte sélectionné comme nouveau fichier dans TextMate.",
-    "es": "Abrir el texto seleccionado como archivo nuevo en TextMate."
+    "es": "Abrir el texto seleccionado como archivo nuevo en TextMate.",
+    "it": "Apri il testo selezionato come nuovo file in TextMate.",
+    "pt-BR": "Abra o texto selecionado como um novo arquivo no TextMate.",
+    "ar": "فتح النص المحدد كملف جديد في TextMate."
   }
 }

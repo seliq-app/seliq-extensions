@@ -14,6 +14,9 @@
     "zh-Hant": "TestJSAuth",
     "de": "TestJSAuth",
     "fr": "TestJSAuth",
-    "es": "TestJSAuth"
+    "es": "TestJSAuth",
+    "it": "TestJSAuth",
+    "pt-BR": "TestJSAuth",
+    "ar": "TestJSAuth"
   }
 }

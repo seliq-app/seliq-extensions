@@ -14,6 +14,9 @@
     "zh-Hant": "顯示所選文字中的行數。",
     "de": "Anzahl der Zeilen im ausgewählten Text anzeigen.",
     "fr": "Afficher le nombre de lignes du texte sélectionné.",
-    "es": "Mostrar el número de líneas en el texto seleccionado."
+    "es": "Mostrar el número de líneas en el texto seleccionado.",
+    "it": "Visualizza il numero di righe nel testo selezionato.",
+    "pt-BR": "Exiba o número de linhas no texto selecionado.",
+    "ar": "عرض عدد الأسطر في النص المحدد."
   }
 }

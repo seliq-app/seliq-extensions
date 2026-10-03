@@ -14,6 +14,9 @@
     "zh-Hant": "使用macOS系統語音大聲朗讀所選文字。",
     "de": "Ausgewählten Text mit der macOS-Systemstimme sprechen.",
     "fr": "Lire le texte sélectionné à haute voix en utilisant la voix système de macOS.",
-    "es": "Leer el texto seleccionado en voz alta usando la voz del sistema macOS."
+    "es": "Leer el texto seleccionado en voz alta usando la voz del sistema macOS.",
+    "it": "Leggi ad alta voce il testo selezionato con la voce di sistema di macOS.",
+    "pt-BR": "Fale o texto selecionado em voz alta usando a voz do sistema do macOS.",
+    "ar": "نطق النص المحدد بصوت عالٍ باستخدام صوت نظام macOS."
   }
 }
