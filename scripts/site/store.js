@@ -382,9 +382,23 @@
     countEl.textContent = t("results", { n: list.length });
     if (!list.length) { grid.innerHTML = `<p class="empty">${esc(t("none"))}</p>`; more.innerHTML = ""; return; }
     grid.innerHTML = slice.map(cardHtml).join("");
-    more.innerHTML = list.length > shown ? `${esc(t("showing", { a: slice.length, b: list.length }))}<br><br><button type="button" id="show-more">${esc(t("showMore"))}</button>` : "";
-    $("#show-more")?.addEventListener("click", () => { shown += PAGE; render(); });
+    renderMore(list);
     if (pendingHash) { const h = pendingHash; pendingHash = ""; focusCard(h); }
+  }
+
+  // 「더 보기」: 이미 보이는 카드는 그대로 두고 다음 카드만 아래에 이어 붙인다(전체를 다시 그리면 모든 카드가 다시 나타나며 깜빡인다).
+  function showMore() {
+    const list = visibleList();
+    const from = shown;
+    shown = Math.min(shown + PAGE, list.length);
+    grid.insertAdjacentHTML("beforeend", list.slice(from, shown).map(cardHtml).join(""));
+    renderMore(list);
+    $("#show-more")?.focus({ preventScroll: true });
+  }
+
+  function renderMore(list) {
+    more.innerHTML = list.length > shown ? `${esc(t("showing", { a: Math.min(shown, list.length), b: list.length }))}<br><br><button type="button" id="show-more">${esc(t("showMore"))}</button>` : "";
+    $("#show-more")?.addEventListener("click", showMore);
   }
 
   function renderChips() {
