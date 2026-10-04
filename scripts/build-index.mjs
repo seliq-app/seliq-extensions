@@ -227,6 +227,7 @@ for (const f of ["store.css", "store.js"]) {
   page = page.replaceAll(`${f}?v=__V__`, `${f}?v=${createHash("sha256").update(data).digest("hex").slice(0, 8)}`);
 }
 fs.copyFileSync(path.join(siteSrc, "seliq-icon.svg"), path.join(siteDir, "seliq-icon.svg"));
+fs.copyFileSync(new URL("./sense-intents.json", import.meta.url), path.join(siteDir, "sense-intents.json")); // 자세히의 「이럴 때 써요」 의도 이름
 fs.writeFileSync(path.join(siteDir, "index.html"), page.replace("<!--NOSCRIPT-->", fallback));
 
 console.log(`OK: ${entries.length} extensions -> ${path.relative(root, siteDir)}/`);

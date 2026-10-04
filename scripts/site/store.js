@@ -26,7 +26,7 @@
       heroTitle: "마음에 쏙 드는 확장을 찾아보세요.", heroSub: "Seliq용 확장 {n}개 — PopClip 호환, 무료, 클릭 한 번이면 끝.",
       searchPh: "이름·설명·식별자로 검색", sort: "정렬", sortAsc: "이름 가나다순", sortDesc: "이름 역순", sortSize: "작은 용량순",
       all: "전체", results: "결과 {n}개", none: "검색 결과가 없습니다.", download: "다운로드", copyLink: "링크 복사", copied: "복사됨",
-      details: "자세히", hide: "접기", identifier: "식별자", checksum: "SHA-256", source: "출처", category: "카테고리", license: "라이선스", size: "용량", version: "버전",
+      details: "자세히", hide: "접기", intents: "이럴 때 써요", identifier: "식별자", checksum: "SHA-256", source: "출처", category: "카테고리", license: "라이선스", size: "용량", version: "버전",
       copy: "복사", showMore: "더 보기", showing: "{b}개 중 {a}개 표시", error: "카탈로그를 불러오지 못했습니다. 잠시 후 다시 시도하거나 index.json을 직접 열어 보세요.",
       contribBadge: "Contrib", popclipBadge: "PopClip",
       legalPopclip: "PopClip 확장은 Pilotmoon(Nicholas Moore)과 기여자들이 만든 것으로, pilotmoon/PopClip-Extensions에서 수정 없이 MIT 라이선스로 가져와 호환을 위해 제공합니다. Seliq은 PopClip 및 Pilotmoon과 제휴 관계가 아니며 보증을 받지 않았습니다.",
@@ -308,7 +308,7 @@
 
   /* ---------- state ---------- */
   const PAGE = 48;
-  let all = [], iconFiles = {}, shown = PAGE, cat = "", pendingHash = "";
+  let all = [], iconFiles = {}, intentNames = {}, shown = PAGE, cat = "", pendingHash = "";
   const grid = $("#grid"), more = $("#more"), chipsEl = $("#chips"), countEl = $("#count");
 
   const hashCode = () => decodeURIComponent(location.hash.slice(1));
@@ -366,6 +366,7 @@
       <div class="detail"><p class="detail-hint">${esc(t("hint"))}</p><dl>
         ${row("identifier", e.identifier ? `<span>${esc(e.identifier)}</span>${copyBtn(e.identifier)}` : "")}
         ${row("checksum", `<span>${esc(e.sha256)}</span>${copyBtn(e.sha256)}`)}
+        ${lang === "ko" && (e.intents || []).length ? row("intents", e.intents.map((id, i) => `<span class="intent${i === 0 ? " main" : ""}">${esc(intentNames[id] || id)}</span>`).join(""), true) : ""}
         ${row("category", esc(e.category || "—"), true)}
         ${row("version", esc(e.version), true)}
         ${row("source", up ? `<a href="${esc(up)}" target="_blank" rel="noopener">${esc(e.upstream)}</a>` : esc(e.upstream || ""), true)}
@@ -504,7 +505,9 @@
   Promise.all([
     fetch("./index.json").then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
     fetch("./icon-files.json").then((r) => (r.ok ? r.json() : {})).catch(() => ({})),
-  ]).then(([data, icons]) => {
+    fetch("./sense-intents.json").then((r) => (r.ok ? r.json() : [])).catch(() => []),
+  ]).then(([data, icons, intents]) => {
+    intentNames = Object.fromEntries((Array.isArray(intents) ? intents : []).map((i) => [i.id, i.ko]));
     all = data.extensions || data;
     iconFiles = icons || {};
     pendingHash = hashCode();
