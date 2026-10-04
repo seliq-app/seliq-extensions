@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SinaWeibo.popclipext",
   "origin": "popclip",
+  "intents": [
+    "share"
+  ],
   "descriptions": {
     "ko": "새 Sina Weibo 게시물을 작성합니다. (2019년 10월 16일: macOS Catalina와의 호환성을 위한 업데이트)",
     "ja": "新しいSina Weibo投稿を作成します。（2019年10月16日：macOS Catalinaとの互換性のための更新）",

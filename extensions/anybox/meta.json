@@ -6,6 +6,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Anybox.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 Anybox에 저장합니다.",
     "ja": "選択したテキストをAnyboxに保存します。",

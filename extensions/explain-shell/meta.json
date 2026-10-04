@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ExplainShell.popclipext",
   "origin": "popclip",
+  "intents": [
+    "explain",
+    "developer"
+  ],
   "descriptions": {
     "ko": "웹 브라우저에서 선택한 텍스트를 Explain Shell의 검색 문자열로 엽니다.",
     "ja": "選択したテキストをExplain Shellの検索文字列としてウェブブラウザで開きます。",

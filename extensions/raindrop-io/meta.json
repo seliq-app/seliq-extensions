@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/RaindropIO.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "Raindrop.io로 URL을 북마크합니다.",
     "ja": "Raindrop.ioでURLをブックマークします。",

@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ReferenceResolver.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "quote"
+  ],
   "descriptions": {
     "ko": "학술지 참고문헌을 확인합니다.",
     "ja": "学術誌の参考文献を解決します。",

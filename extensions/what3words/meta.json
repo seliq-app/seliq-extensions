@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/What3Words.popclipext",
   "origin": "popclip",
+  "intents": [
+    "findPlace",
+    "open"
+  ],
   "descriptions": {
     "ko": "what3words 주소를 웹에서 엽니다.",
     "ja": "what3wordsアドレスをウェブで開きます。",

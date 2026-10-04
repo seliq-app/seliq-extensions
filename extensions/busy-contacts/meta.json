@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/BusyContacts.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveContact"
+  ],
   "descriptions": {
     "ko": "BusyContacts에서 새 연락처를 만듭니다.",
     "ja": "BusyContactsで新しい連絡先を作成します。",

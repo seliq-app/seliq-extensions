@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Discogs.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "play"
+  ],
   "descriptions": {
     "ko": "Discogs에서 음악 데이터를 검색합니다.",
     "ja": "Discogsで音楽データを検索します。",

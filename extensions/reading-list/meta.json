@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ReadingList.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "URL을 Safari 리딩 리스트에 저장합니다.",
     "ja": "URLをSafariの読書リストに保存します。",

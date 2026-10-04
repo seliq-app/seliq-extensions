@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Myna.popclipext",
   "origin": "popclip",
+  "intents": [
+    "translate"
+  ],
   "descriptions": {
     "ko": "Myna for Google Translate로 선택한 텍스트를 번역합니다.",
     "ja": "Myna for Google Translateで選択したテキストを翻訳します。",

@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/IPdb.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "developer"
+  ],
   "descriptions": {
     "ko": "IPDb.at을 열고 선택한 IP 주소를 검색합니다.",
     "ja": "IPDb.atを開き、選択したIPアドレスを検索します。",

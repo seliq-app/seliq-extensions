@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Todoist.popclipext",
   "origin": "popclip",
+  "intents": [
+    "remind"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 Todoist에 작업으로 추가합니다.",
     "ja": "選択したテキストをTodoistにタスクとして追加します。",

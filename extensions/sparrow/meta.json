@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Sparrow.popclipext",
   "origin": "popclip",
+  "intents": [
+    "contact",
+    "share"
+  ],
   "descriptions": {
     "ko": "Sparrow에서 새 메시지를 만듭니다.",
     "ja": "Sparrowで新しいメッセージを作成します。",

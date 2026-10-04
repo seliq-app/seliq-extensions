@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Highlight.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 강조합니다(Pages, Preview, Alternote, DevonThink, Evernote, Goodlinks, iA Writer, iA Presenter, LogSeq, Obsidian, PDFpen, PDF Expert, Scrivener, Skim, Apple Notes에서만 작동).",
     "ja": "選択したテキストをハイライトします（Pages、Preview、Alternote、DevonThink、Evernote、Goodlinks、iA Writer、iA Presenter、LogSeq、Obsidian、PDFpen、PDF Expert、Scrivener、Skim、Apple Notesでのみ動作）。",

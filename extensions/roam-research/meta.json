@@ -6,6 +6,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/RoamResearch.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "텍스트를 Roam Research로 캡처합니다.",
     "ja": "テキストをRoam Researchにキャプチャします。",

@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ColorHexa.popclipext",
   "origin": "popclip",
+  "intents": [
+    "convert"
+  ],
   "descriptions": {
     "ko": "Color Hexa, Tommaso Barbato의 PopMaker로 제작",
     "ja": "Color Hexa、Tommaso BarbatoのPopMakerで作成",

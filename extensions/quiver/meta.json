@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Quiver.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater",
+    "developer"
+  ],
   "descriptions": {
     "ko": "선택한 항목을 프로그래머의 노트북인 Quiver로 보냅니다.",
     "ja": "選択内容をプログラマー向けノートQuiverに送信します。",

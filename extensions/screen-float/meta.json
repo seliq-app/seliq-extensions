@@ -6,6 +6,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ScreenFloat.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "ScreenFloat로 선택한 텍스트나 화면의 일부를 캡처합니다.",
     "ja": "ScreenFloatで選択したテキストまたはスクリーンの一部をキャプチャします。",

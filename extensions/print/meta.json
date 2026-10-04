@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Print.popclipext",
   "origin": "popclip",
+  "intents": [
+    "open"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 기본 프린터로 인쇄합니다.",
     "ja": "選択したテキストをデフォルトプリンターに印刷します。",

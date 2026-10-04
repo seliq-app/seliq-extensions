@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/LatexToMathML.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "LaTeX를 MathML로 변환합니다.",
     "ja": "LaTeXをMathMLに変換します。",

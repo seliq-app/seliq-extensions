@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/DashSnippets.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer",
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "Dash에서 스니펫을 만듭니다.",
     "ja": "Dashでスニペットを作成します。",

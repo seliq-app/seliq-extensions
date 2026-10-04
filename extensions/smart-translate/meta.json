@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SmartTranslate.popclipext",
   "origin": "popclip",
+  "intents": [
+    "translate"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 OpenAI의 API로 보내 개선하거나 표준 대상 언어로 번역합니다.",
     "ja": "選択したテキストをOpenAIのAPIに送信して、改善または標準ターゲット言語に翻訳します。",

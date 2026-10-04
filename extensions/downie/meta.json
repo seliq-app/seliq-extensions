@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Downie.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater",
+    "play"
+  ],
   "descriptions": {
     "ko": "Downie를 사용하여 링크된 페이지의 동영상을 다운로드합니다. (이제 Downie 4를 지원합니다.)",
     "ja": "Downieを使用して、リンク先ページの動画をダウンロードします。（Downie 4に対応済みです。）",

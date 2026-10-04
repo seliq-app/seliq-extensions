@@ -1,6 +1,10 @@
 {
   "name": "Naver Japanese Dictionary",
   "description": "Look up the selected text in the Naver Japanese Dictionary.",
+  "intents": [
+    "define",
+    "translate"
+  ],
   "descriptions": {
     "ko": "선택한 글을 네이버 일본어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVER日本語辞書で調べます。",

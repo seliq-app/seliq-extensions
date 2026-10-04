@@ -6,6 +6,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ClaudeWebsite.popclipext",
   "origin": "popclip",
+  "intents": [
+    "askAI"
+  ],
   "descriptions": {
     "ko": "Claude 웹사이트에서 새 대화를 시작합니다.",
     "ja": "Claudeウェブサイトで新しいチャットを開始します。",

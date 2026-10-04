@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Floating.popclipext",
   "origin": "popclip",
+  "intents": [
+    "play",
+    "open"
+  ],
   "descriptions": {
     "ko": "선택한 URL을 Floating으로 '화면 속 화면' 보기로 봅니다.",
     "ja": "選択したURLをFloatingで「ピクチャ・イン・ピクチャ」表示します。",

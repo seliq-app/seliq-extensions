@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/PythonPackage.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "developer"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 PyPi에서 검색합니다.",
     "ja": "選択したテキストをPyPiで検索します。",

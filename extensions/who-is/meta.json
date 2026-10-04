@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/WhoIs.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "developer"
+  ],
   "descriptions": {
     "ko": "선택한 도메인 이름에 대한 Whois 정보를 조회합니다.",
     "ja": "選択したドメイン名のWhois情報を調べます。",

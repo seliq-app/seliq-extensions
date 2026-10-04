@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Call.popclipext",
   "origin": "popclip",
+  "intents": [
+    "contact"
+  ],
   "descriptions": {
     "ko": "iPhone 또는 다른 통화 처리 앱을 사용하여 선택한 전화번호로 전화를 겁니다. (기본 통화 처리 앱은 FaceTime 설정에서 지정합니다.)",
     "ja": "iPhoneまたは別の通話ハンドラを使用して、選択した電話番号に電話します。（デフォルトの通話ハンドラはFaceTime設定で指定します。）",

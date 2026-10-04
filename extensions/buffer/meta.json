@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Buffer.popclipext",
   "origin": "popclip",
+  "intents": [
+    "share"
+  ],
   "descriptions": {
     "ko": "Buffer를 사용하여 새 게시물을 작성합니다.",
     "ja": "Bufferを使用して新しい投稿を作成します。",

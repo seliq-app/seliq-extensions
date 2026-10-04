@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Mapy.popclipext",
   "origin": "popclip",
+  "intents": [
+    "findPlace"
+  ],
   "descriptions": {
     "ko": "Mapy.com을 검색합니다.",
     "ja": "Mapy.comを検索します。",

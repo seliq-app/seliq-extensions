@@ -1,6 +1,9 @@
 {
   "name": "Naver Korean Dictionary",
   "description": "Look up the selected text in the Naver Korean Dictionary.",
+  "intents": [
+    "define"
+  ],
   "descriptions": {
     "ko": "선택한 글을 네이버 국어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVER国語辞書で調べます。",

@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/OpenInEdge.popclipext",
   "origin": "popclip",
+  "intents": [
+    "open"
+  ],
   "descriptions": {
     "ko": "링크를 Microsoft Edge에서 엽니다.",
     "ja": "リンクをMicrosoft Edgeで開きます。",

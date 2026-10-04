@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Messages.popclipext",
   "origin": "popclip",
+  "intents": [
+    "contact",
+    "share"
+  ],
   "descriptions": {
     "ko": "메시지 앱으로 텍스트를 공유합니다.",
     "ja": "メッセージを使用してテキストを共有します。",

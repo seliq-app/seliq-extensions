@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CamelCamelCamel.popclipext",
   "origin": "popclip",
+  "intents": [
+    "shop",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "CamelCamelCamel을 사용하여 선택한 Amazon 제품 코드 또는 URL의 가격을 추적합니다.",
     "ja": "CamelCamelCamelを使用して、選択したAmazonの商品コードまたはURLの価格を追跡します。",

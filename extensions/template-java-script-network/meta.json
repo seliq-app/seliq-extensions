@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Template_JavaScript_Network.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer"
+  ],
   "descriptions": {
     "ko": "네트워크 접근을 지원하는 JavaScript PopClip 확장 템플릿입니다.",
     "ja": "ネットワークアクセス付きでJavaScriptを使うPopClip拡張機能のテンプレート。",

@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Sort.popclipext",
   "origin": "popclip",
+  "intents": [
+    "list",
+    "cleanup"
+  ],
   "descriptions": {
     "ko": "선택한 줄을 사전순으로 정렬합니다.",
     "ja": "選択した行をアルファベット順でソートします。",

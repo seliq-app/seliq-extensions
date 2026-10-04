@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/DEVONthink.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "DEVONthink 수신함에 텍스트를 클립하거나 열린 데이터베이스를 검색합니다.",
     "ja": "DEVONthinkインボックスにテキストをクリップするか、開いているデータベースを検索します。",

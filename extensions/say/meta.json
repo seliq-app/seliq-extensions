@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Say.popclipext",
   "origin": "popclip",
+  "intents": [
+    "listen"
+  ],
   "descriptions": {
     "ko": "macOS 시스템 음성을 사용하여 선택한 텍스트를 소리내어 읽습니다.",
     "ja": "macOSのシステム音声を使用して、選択したテキストを読み上げます。",

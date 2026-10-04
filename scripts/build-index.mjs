@@ -8,6 +8,8 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 // Seliq 센스 2차 판단용 분류(확장 id → 분류). 새 확장은 null(앱이 "other"로 취급) — 분류는 Jev로 미리 정해 이 파일에 넣는다.
 const SENSE_CATEGORIES = JSON.parse(fs.readFileSync(new URL("./sense-categories.json", import.meta.url), "utf8"));
+// 센스 의도 id 목록 — Seliq 앱의 Sources/PopCore/Resources/sense-intents.json 사본(앱에서 의도를 바꾸면 함께 복사)
+const SENSE_INTENTS = new Set(JSON.parse(fs.readFileSync(new URL("./sense-intents.json", import.meta.url), "utf8")).map((i) => i.id));
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const extDir = path.join(root, "extensions");
@@ -23,6 +25,13 @@ const CONFIG_NAMES = ["Config.json", "Config.yaml", "Config.yml", "Config.js", "
 
 const errors = [];
 const err = (sc, msg) => errors.push(`[${sc}] ${msg}`);
+// meta.json의 "intents": 사용자가 이 확장으로 하고 싶은 일(센스 의도 id, 1~3개, 첫 번째가 대표). 없으면 null.
+function readIntents(sc, value) {
+  if (value == null) return null;
+  if (!Array.isArray(value) || value.length < 1 || value.length > 3) { err(sc, "intents는 1~3개의 배열이어야 합니다"); return null; }
+  for (const id of value) if (!SENSE_INTENTS.has(id)) err(sc, `알 수 없는 의도 id: ${id}`);
+  return value;
+}
 
 function walk(dir, base = dir) {
   const out = [];
@@ -177,6 +186,7 @@ for (const sc of shortcodes) {
     origin: strOrNull(meta.origin),
     descriptions: meta.descriptions ?? null,
     senseCategory: SENSE_CATEGORIES[sc] ?? null,
+    intents: readIntents(sc, meta.intents),
   });
 }
 

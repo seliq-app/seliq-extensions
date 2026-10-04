@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Scrivener.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "현재 열려 있는 Scrivener 문서에서 새 클리핑을 만듭니다.",
     "ja": "現在開いているScrivenerドキュメントで新しいクリップを作成します。",

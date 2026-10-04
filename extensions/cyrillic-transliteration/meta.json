@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CyrillicTransliteration.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat",
+    "translate"
+  ],
   "descriptions": {
     "ko": "키릴 문자를 라틴 문자로 음차합니다.",
     "ja": "キリル文字からラテン文字に音写します。",

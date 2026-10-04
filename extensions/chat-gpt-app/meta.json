@@ -6,6 +6,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ChatGPTApp.popclipext",
   "origin": "popclip",
+  "intents": [
+    "askAI"
+  ],
   "descriptions": {
     "ko": "텍스트를 ChatGPT 앱에 보냅니다.",
     "ja": "テキストをChatGPTアプリに送信します。",

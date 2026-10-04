@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Email.popclipext",
   "origin": "popclip",
+  "intents": [
+    "contact",
+    "share"
+  ],
   "descriptions": {
     "ko": "선택한 \"to:\" 주소 또는 선택한 텍스트로 기본 메일 클라이언트에서 새 메일을 작성합니다.",
     "ja": "選択した「to:」アドレスまたは選択したテキストで、デフォルトのメールクライアントに新しいメールを作成します。",

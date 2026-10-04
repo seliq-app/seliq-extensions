@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CopyAsMarkdown.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat",
+    "justCopy"
+  ],
   "descriptions": {
     "ko": "웹 콘텐츠를 Markdown으로 복사합니다.",
     "ja": "ウェブコンテンツをMarkdownとしてコピーします。",

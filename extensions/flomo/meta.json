@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Flomo.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "수신 Webhook API를 통해 선택한 텍스트를 flomo에 저장합니다.",
     "ja": "選択したテキストを受信Webhook API経由でflomoに保存します。",

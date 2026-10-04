@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/RevealInQSpace.popclipext",
   "origin": "popclip",
+  "intents": [
+    "open"
+  ],
   "descriptions": {
     "ko": "QSpace에서 파일을 표시합니다.",
     "ja": "QSpaceでファイルを表示します。",

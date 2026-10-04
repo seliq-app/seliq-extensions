@@ -1,6 +1,9 @@
 {
   "name": "Naver English-English Dictionary",
   "description": "Look up the selected text in the Naver English-English Dictionary.",
+  "intents": [
+    "define"
+  ],
   "descriptions": {
     "ko": "선택한 글을 네이버 영영사전에서 찾습니다.",
     "ja": "選択したテキストをNAVER英英辞書で調べます。",

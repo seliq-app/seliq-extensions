@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Shuffle.popclipext",
   "origin": "popclip",
+  "intents": [
+    "list",
+    "cleanup"
+  ],
   "descriptions": {
     "ko": "선택한 줄의 순서를 무작위로 합니다.",
     "ja": "選択した行の順序をランダムにします。",

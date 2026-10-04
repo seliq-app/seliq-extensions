@@ -6,6 +6,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Brackets.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트 주위에 (), [], {}, <>, // 중에서 골라 괄호를 추가합니다.",
     "ja": "選択したテキストを()、[]、{}、<>、//の中から選んだ括弧で囲みます。",

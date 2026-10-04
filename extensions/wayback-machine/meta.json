@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/WaybackMachine.popclipext",
   "origin": "popclip",
+  "intents": [
+    "open",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Wayback Machine에서 선택한 URL의 보관된 버전을 가져옵니다.",
     "ja": "Wayback Machineから選択したURLのアーカイブ版を取得します。",

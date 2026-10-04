@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Notes.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "Notes 앱에서 새 노트를 만들거나 기존 노트에 추가합니다.",
     "ja": "Notesアプリで新しいノートを作成するか、既存のノートに追加します。",

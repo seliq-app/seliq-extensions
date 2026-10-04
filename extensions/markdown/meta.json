@@ -7,6 +7,10 @@
   "license": "MIT AND BSD-3-Clause",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Markdown.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat",
+    "developer"
+  ],
   "descriptions": {
     "ko": "John Gruber의 원본 Perl 스크립트를 사용하여 Markdown 형식의 텍스트를 HTML로 변환합니다.",
     "ja": "John GruberのオリジナルPerlスクリプトを使用してMarkdown形式のテキストをHTMLに変換します。",

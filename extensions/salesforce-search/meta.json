@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SalesforceSearch.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Salesforce.com 검색을 웹 브라우저에서 선택한 텍스트로 엽니다.",
     "ja": "Salesforce.com検索をウェブブラウザで選択したテキストで開きます。",

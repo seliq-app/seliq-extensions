@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Magnetize.popclipext",
   "origin": "popclip",
+  "intents": [
+    "open",
+    "play"
+  ],
   "descriptions": {
     "ko": "선택한 BitTorrent infohash의 마그넷 링크를 엽니다.",
     "ja": "選択したBitTorrent infohashのマグネットリンクを開きます。",

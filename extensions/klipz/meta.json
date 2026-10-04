@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Klipz.popclipext",
   "origin": "popclip",
+  "intents": [
+    "justCopy"
+  ],
   "descriptions": {
     "ko": "하나 이상의 큐 기반 클립보드를 관리합니다. 해당 작업 중 하나를 클릭하면 사용 설명서 PDF가 열립니다.",
     "ja": "1つ以上のキューベースのクリップボードを管理します。操作のいずれかをクリックすると、手順を記載したPDFが開きます。",

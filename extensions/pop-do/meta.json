@@ -6,6 +6,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/PopDo.popclipext",
   "origin": "popclip",
+  "intents": [
+    "remind"
+  ],
   "descriptions": {
     "ko": "PopDo에서 새 작업을 추가합니다.",
     "ja": "PopDoに新しいタスクを追加します。",

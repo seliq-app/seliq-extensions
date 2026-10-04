@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/InstantTranslate.popclipext",
   "origin": "popclip",
+  "intents": [
+    "translate"
+  ],
   "descriptions": {
     "ko": "PopClip에서 선택한 단어나 짧은 구를 즉시 번역합니다. Microsoft Translator를 기반으로 합니다.",
     "ja": "PopClip内で選択した単語または短いフレーズを即座に翻訳します。Microsoft Translatorを使用しています。",

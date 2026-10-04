@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ShortMenu.popclipext",
   "origin": "popclip",
+  "intents": [
+    "share",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "Short Menu로 URL을 단축합니다.",
     "ja": "Short MenuでURLを短くします。",

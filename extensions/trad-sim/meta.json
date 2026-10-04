@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TradSim.popclipext",
   "origin": "popclip",
+  "intents": [
+    "translate",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "텍스트를 번체와 간체 중국어로 변환합니다.",
     "ja": "テキストを繁体字中国語と簡体字中国語の間で変換します。",

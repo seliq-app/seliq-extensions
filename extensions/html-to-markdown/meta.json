@@ -7,6 +7,10 @@
   "license": "MIT AND GPL-3.0-only",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/HTMLToMarkdown.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat",
+    "developer"
+  ],
   "descriptions": {
     "ko": "HTML(소스 코드 및 웹 콘텐츠)를 Markdown으로 변환합니다.",
     "ja": "HTML（ソースコードとウェブコンテンツ）をMarkdownに変換します。",

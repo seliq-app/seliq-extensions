@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/StickyNotifications.popclipext",
   "origin": "popclip",
+  "intents": [
+    "remind"
+  ],
   "descriptions": {
     "ko": "Sticky Notifications로 새 알림을 만듭니다.",
     "ja": "Sticky Notificationsで新しい通知を作成します。",

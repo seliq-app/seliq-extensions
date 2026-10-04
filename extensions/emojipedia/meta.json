@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Emojipedia.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "define"
+  ],
   "descriptions": {
     "ko": "Emojipedia에서 이모지를 검색합니다.",
     "ja": "Emojipediaで絵文字を検索します。",

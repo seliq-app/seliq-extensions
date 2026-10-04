@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/CoffeeScript.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer"
+  ],
   "descriptions": {
     "ko": "CoffeeScript 텍스트를 JavaScript로 변환합니다.",
     "ja": "CoffeeScriptテキストをJavaScriptに変換します。",

@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/GetMagnetLinks.popclipext",
   "origin": "popclip",
+  "intents": [
+    "list",
+    "open"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트에서 마그넷 URL을 가져옵니다.",
     "ja": "選択したテキストからマグネットURLを取得します。",

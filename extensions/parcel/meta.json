@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Parcel.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "shop"
+  ],
   "descriptions": {
     "ko": "Parcel을 사용하여 패키지 배송을 추적합니다.",
     "ja": "Parcelを使用してパッケージ配送を追跡します。",

@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Glosbe.popclipext",
   "origin": "popclip",
+  "intents": [
+    "define",
+    "translate"
+  ],
   "descriptions": {
     "ko": "Glosbe 글로벌 사전에서 선택한 텍스트를 검색합니다.",
     "ja": "グローバル辞書サイトGlosbeで選択したテキストを検索します。",

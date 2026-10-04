@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/SHA-1.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트에서 SHA-1 해시를 만듭니다.",
     "ja": "選択したテキストからSHA-1ハッシュを生成します。",

@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/GmailCompose.popclipext",
   "origin": "popclip",
+  "intents": [
+    "contact"
+  ],
   "descriptions": {
     "ko": "선택한 이메일 주소로 Gmail 작성 창을 엽니다.",
     "ja": "選択したメールアドレスでGmailの作成ウィンドウを開きます。",

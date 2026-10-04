@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Todo.popclipext",
   "origin": "popclip",
+  "intents": [
+    "remind"
+  ],
   "descriptions": {
     "ko": "Todo에서 새 작업을 만듭니다.",
     "ja": "Todoで新しいタスクを作成します。",

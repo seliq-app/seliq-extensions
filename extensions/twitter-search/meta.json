@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TwitterSearch.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Twitter에서 전 세계 트윗을 검색합니다.",
     "ja": "Twitter上の世界中のツイートを検索します。",

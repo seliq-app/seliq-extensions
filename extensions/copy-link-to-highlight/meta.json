@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CopyLinkToHighlight.popclipext",
   "origin": "popclip",
+  "intents": [
+    "share",
+    "justCopy"
+  ],
   "descriptions": {
     "ko": "웹 페이지에서 현재 선택한 텍스트를 가리키는 URL을 복사합니다.",
     "ja": "ウェブページで現在選択されているテキストを指すURLをコピーします。",

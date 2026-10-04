@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Tembo.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트로 Tembo 검색을 시작합니다.",
     "ja": "選択したテキストでTembo検索を開始します。",

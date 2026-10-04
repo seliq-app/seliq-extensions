@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/TextSoap.popclipext",
   "origin": "popclip",
+  "intents": [
+    "cleanup",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "TextSoap을 사용하여 텍스트를 정리합니다. 중요: <a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>를 설치해야 합니다.",
     "ja": "TextSoapを使用してテキストを整理します。重要：<a href=\"https://textsoap.com/mac/textsoap_agent.html\">TextSoap Agent</a>のインストールが必要です。",

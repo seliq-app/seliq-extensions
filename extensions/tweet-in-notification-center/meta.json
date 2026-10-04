@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TweetInNotificationCenter.popclipext",
   "origin": "popclip",
+  "intents": [
+    "share"
+  ],
   "descriptions": {
     "ko": "Notification Center의 \"Click to Tweet\" 박스를 사용하여 트윗을 작성합니다.",
     "ja": "Notification Centerの「Click to Tweet」ボックスを使用してツイートを作成します。",

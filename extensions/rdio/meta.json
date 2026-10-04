@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Rdio.popclipext",
   "origin": "popclip",
+  "intents": [
+    "play",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Rdio에서 음악을 검색합니다.",
     "ja": "Rdioで音楽を検索します。",

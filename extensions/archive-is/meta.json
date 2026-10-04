@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ArchiveIs.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater",
+    "open"
+  ],
   "descriptions": {
     "ko": "선택한 URL을 Archive.today(Archive.is)에 보내 보관합니다.",
     "ja": "選択したURLをArchive.today（Archive.is）に送信してアーカイブします。",

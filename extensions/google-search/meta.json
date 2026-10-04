@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/GoogleSearch.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Google을 사용하여 웹을 검색하며, 국가별 사이트를 선택할 수 있습니다.",
     "ja": "Googleを使用してウェブを検索します。国別サイトも選択できます。",

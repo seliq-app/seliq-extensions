@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Leap.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "open"
+  ],
   "descriptions": {
     "ko": "Leap을 사용하여 Mac의 파일을 검색합니다.",
     "ja": "Leapを使用してMac上のファイルを検索します。",

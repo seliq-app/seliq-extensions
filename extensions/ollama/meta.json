@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Ollama.popclipext",
   "origin": "popclip",
+  "intents": [
+    "askAI",
+    "rewrite"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 로컬 Ollama 모델로 보냅니다.",
     "ja": "選択したテキストをローカルのOllamaモデルに送信します。",

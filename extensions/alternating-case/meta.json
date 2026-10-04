@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/AlternatingCase.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat"
+  ],
   "descriptions": {
     "ko": "텍스트를 AlTeRnAtInG CaSe로 변환합니다(무작위 적용 옵션 포함).",
     "ja": "テキストをAlTeRnAtInG CaSeに変換します。ランダム性のオプションも利用できます。",

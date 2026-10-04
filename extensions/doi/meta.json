@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/DOI.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "open"
+  ],
   "descriptions": {
     "ko": "doi.org을 사용하여 Digital Object Identifier (DOI)를 해석합니다.",
     "ja": "doi.orgを使用してDigital Object Identifier（DOI）を解決します。",

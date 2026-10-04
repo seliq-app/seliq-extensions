@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Eudic.popclipext",
   "origin": "popclip",
+  "intents": [
+    "define",
+    "translate"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 중영사전 Eudic에서 검색합니다.",
     "ja": "中英辞書のEudicで選択したテキストを検索します。",

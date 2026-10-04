@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Due.popclipext",
   "origin": "popclip",
+  "intents": [
+    "remind"
+  ],
   "descriptions": {
     "ko": "Due를 사용하여 새 알림을 만듭니다.",
     "ja": "Dueを使用して新しいリマインダーを作成します。",

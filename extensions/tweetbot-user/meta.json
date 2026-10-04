@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TweetbotUser.popclipext",
   "origin": "popclip",
+  "intents": [
+    "findPerson",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Tweetbot에서 사용자 이름을 조회합니다.",
     "ja": "Tweetbotでユーザー名として調べます。",

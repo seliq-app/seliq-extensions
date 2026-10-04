@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/AddToQSpaceProStashShelf.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "QSpace Pro Stash Shelf에 파일을 추가합니다.",
     "ja": "QSpace Pro Stash Shelfにファイルを追加します。",

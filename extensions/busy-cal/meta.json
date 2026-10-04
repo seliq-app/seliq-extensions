@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/BusyCal.popclipext",
   "origin": "popclip",
+  "intents": [
+    "schedule"
+  ],
   "descriptions": {
     "ko": "텍스트를 사용하여 BusyCal 3에서 일정을 만듭니다.",
     "ja": "テキストを使用してBusyCal 3でカレンダーエントリを作成します。",

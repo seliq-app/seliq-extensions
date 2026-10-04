@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Deliveries.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Deliveries를 사용하여 패키지 배송을 추적합니다.",
     "ja": "Deliveriesを使用してパッケージ配送を追跡します。",

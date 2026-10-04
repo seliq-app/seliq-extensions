@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Dialectic.popclipext",
   "origin": "popclip",
+  "intents": [
+    "contact"
+  ],
   "descriptions": {
     "ko": "Dialectic으로 전화번호를 겁니다.",
     "ja": "Dialecticで電話番号をダイヤルします。",

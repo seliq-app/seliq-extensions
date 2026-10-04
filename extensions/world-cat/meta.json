@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/WorldCat.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup"
+  ],
   "descriptions": {
     "ko": "WorldCat을 사용하여 세계 도서관 컬렉션을 검색합니다.",
     "ja": "WorldCatを使用して世界中のライブラリコレクションを検索します。",

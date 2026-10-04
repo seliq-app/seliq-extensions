@@ -1,6 +1,10 @@
 {
   "name": "Naver Spanish Dictionary",
   "description": "Look up the selected text in the Naver Spanish Dictionary.",
+  "intents": [
+    "define",
+    "translate"
+  ],
   "descriptions": {
     "ko": "선택한 글을 네이버 스페인어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVERスペイン語辞書で調べます。",

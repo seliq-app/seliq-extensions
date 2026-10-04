@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/GoogleMaps.popclipext",
   "origin": "popclip",
+  "intents": [
+    "findPlace",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Google 지도에서 검색합니다.",
     "ja": "Googleマップを検索します。",

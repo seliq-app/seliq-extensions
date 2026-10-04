@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/JsonPrettify.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "JSON 문자열을 보기 좋게 정리합니다.",
     "ja": "JSON文字列を見やすくします。",

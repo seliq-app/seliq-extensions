@@ -1,6 +1,10 @@
 {
   "name": "Naver German Dictionary",
   "description": "Look up the selected text in the Naver German Dictionary.",
+  "intents": [
+    "define",
+    "translate"
+  ],
   "descriptions": {
     "ko": "선택한 글을 네이버 독일어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVERドイツ語辞書で調べます。",

@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/GitHubSearch.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "developer"
+  ],
   "descriptions": {
     "ko": "GitHub 저장소를 검색합니다.",
     "ja": "GitHubリポジトリを検索します。",

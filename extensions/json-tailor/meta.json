@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/JSONTailor.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer"
+  ],
   "descriptions": {
     "ko": "선택한 JSON을 JSON Tailor에 직접 로드해 편집 및 포맷합니다.",
     "ja": "選択したJSONをJSON Tailorに直接読み込んで編集およびフォーマットします。",

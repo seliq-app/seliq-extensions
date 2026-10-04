@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/UnixTime.popclipext",
   "origin": "popclip",
+  "intents": [
+    "convert",
+    "developer"
+  ],
   "descriptions": {
     "ko": "Unix 타임스탬프를 형식화된 날짜와 시간으로 변환합니다.",
     "ja": "Unixタイムスタンプをフォーマットされた日付と時刻に変換します。",

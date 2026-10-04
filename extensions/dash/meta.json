@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Dash.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Dash를 사용하여 개발자 문서를 검색합니다.",
     "ja": "Dashを使用して開発者ドキュメントを検索します。",

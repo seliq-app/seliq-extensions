@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Pinyin.popclipext",
   "origin": "popclip",
+  "intents": [
+    "pronounce",
+    "translate"
+  ],
   "descriptions": {
     "ko": "중국어 문자를 병음으로 표시합니다.",
     "ja": "中国語の文字をピンインで表示します。",

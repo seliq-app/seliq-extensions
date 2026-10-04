@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Convert.popclipext",
   "origin": "popclip",
+  "intents": [
+    "convert"
+  ],
   "descriptions": {
     "ko": "미터법 단위의 수량을 미국/영국식 단위로 변환하거나 그 반대로 변환합니다. lb↔kg, oz↔g, 마일↔km, 피트/야드↔m, 인치↔mm/cm, °F↔°C를 지원합니다.",
     "ja": "メートル法の単位の数量を米国/英国式（ヤード・ポンド法）の単位に変換し、その逆も行います。lb↔kg、oz↔g、マイル↔km、フィート/ヤード↔m、インチ↔mm/cm、°F↔°Cをサポートします。",

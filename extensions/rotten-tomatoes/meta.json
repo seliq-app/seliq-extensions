@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/RottenTomatoes.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "play"
+  ],
   "descriptions": {
     "ko": "RottenTomatoes에서 영화 정보를 검색합니다.",
     "ja": "RottenTomatoesで映画データを検索します。",

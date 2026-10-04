@@ -1,6 +1,9 @@
 {
   "name": "Naver Hanja Dictionary",
   "description": "Look up the selected text in the Naver Hanja Dictionary.",
+  "intents": [
+    "define"
+  ],
   "descriptions": {
     "ko": "선택한 글을 네이버 한자사전에서 찾습니다.",
     "ja": "選択したテキストをNAVER漢字辞書で調べます。",

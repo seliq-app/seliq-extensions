@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ToggleCase.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트의 대소문자를 전환합니다.",
     "ja": "選択したテキストの大文字小文字を切り替えます。",

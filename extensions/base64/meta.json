@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Base64.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 Base64 인코딩된 UTF-8로 인코딩하거나 디코딩합니다. 표준(+/) 및 URL 안전(-_) Base64 변형을 지원합니다.",
     "ja": "選択したテキストをBase64エンコードされたUTF-8としてエンコードまたはデコードします。標準（+/）およびURLセーフ（-_）のBase64形式をサポートします。",

@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Leech.popclipext",
   "origin": "popclip",
+  "intents": [
+    "open",
+    "developer"
+  ],
   "descriptions": {
     "ko": "Leech를 사용하여 URL이 가리키는 파일을 다운로드합니다.",
     "ja": "Leechを使用して、URLが指すファイルをダウンロードします。",

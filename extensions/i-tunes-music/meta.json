@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/iTunesMusic.popclipext",
   "origin": "popclip",
+  "intents": [
+    "play",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "iTunes 음악을 검색합니다(macOS 10.14 이하).",
     "ja": "iTunes Musicを検索します（macOS 10.14以前）。",

@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Ebay.popclipext",
   "origin": "popclip",
+  "intents": [
+    "shop",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Ebay에서 판매 항목을 검색합니다.",
     "ja": "eBayで販売商品を検索します。",

@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Goodreads.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트로 웹 브라우저에서 Goodreads를 엽니다.",
     "ja": "選択したテキストを使ってGoodreadsをウェブブラウザで開きます。",

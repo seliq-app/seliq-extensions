@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Bitly.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat",
+    "share"
+  ],
   "descriptions": {
     "ko": "Bitly를 사용하여 텍스트의 URL을 단축합니다.",
     "ja": "Bitlyを使用してテキスト内のURLを短縮します。",

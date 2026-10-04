@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Underscore.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat"
+  ],
   "descriptions": {
     "ko": "단어 사이의 공백을 언더스코어로 바꾸거나 그 반대를 수행합니다.",
     "ja": "単語間のスペースをアンダースコアに置き換えるか、その逆を実行します。",

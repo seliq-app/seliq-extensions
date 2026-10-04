@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Reverso.popclipext",
   "origin": "popclip",
+  "intents": [
+    "translate"
+  ],
   "descriptions": {
     "ko": "Reverso를 사용하여 텍스트를 번역합니다.",
     "ja": "Reversoを使用してテキストを翻訳します。",

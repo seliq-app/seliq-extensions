@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/JiraCloud.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "developer"
+  ],
   "descriptions": {
     "ko": "Jira Cloud에서 티켓을 검색합니다.",
     "ja": "Jira Cloudでチケットを検索します。",

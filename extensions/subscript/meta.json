@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Subscript.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat"
+  ],
   "descriptions": {
     "ko": "Pages에서 선택한 텍스트를 아래첨자로 만듭니다.",
     "ja": "Pagesで選択したテキストを下付き文字にします。",

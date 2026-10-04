@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/QRCode.popclipext",
   "origin": "popclip",
+  "intents": [
+    "makeQR"
+  ],
   "descriptions": {
     "ko": "QR 코드를 만들고 표시합니다.",
     "ja": "QRコードを生成して表示します。",

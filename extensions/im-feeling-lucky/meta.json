@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ImFeelingLucky.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "open"
+  ],
   "descriptions": {
     "ko": "Google의 \"I'm Feeling Lucky\" 검색 결과로 바로 이동합니다.",
     "ja": "Googleの「I'm Feeling Lucky」検索結果に直接移動します。",

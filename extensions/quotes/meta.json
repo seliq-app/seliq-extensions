@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Quotes.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat",
+    "quote"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 여러 스타일 중에서 선택한 따옴표로 묶습니다.",
     "ja": "選択したテキストを複数のスタイルから選択した引用符で囲みます。",

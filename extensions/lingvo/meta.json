@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Lingvo.popclipext",
   "origin": "popclip",
+  "intents": [
+    "define",
+    "translate"
+  ],
   "descriptions": {
     "ko": "ABBYY Lingvo 사전에서 텍스트를 검색합니다.",
     "ja": "ABBYY Lingvo辞書でテキストを検索します。",

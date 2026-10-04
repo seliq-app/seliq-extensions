@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/DeskConnect.popclipext",
   "origin": "popclip",
+  "intents": [
+    "share"
+  ],
   "descriptions": {
     "ko": "DeskConnect를 통해 선택 항목을 iOS 기기 또는 다른 Mac으로 보냅니다.",
     "ja": "選択項目をDeskConnect経由でiOSデバイスまたは別のMacに送信します。",

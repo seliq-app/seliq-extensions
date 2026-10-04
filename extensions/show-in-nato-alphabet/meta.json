@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/ShowInNatoAlphabet.popclipext",
   "origin": "popclip",
+  "intents": [
+    "pronounce",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "Show In NATO Alphabet",
     "ja": "Show In NATO Alphabet",

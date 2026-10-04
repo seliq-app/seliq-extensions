@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/IINA.popclipext",
   "origin": "popclip",
+  "intents": [
+    "play",
+    "open"
+  ],
   "descriptions": {
     "ko": "선택한 동영상 URL을 IINA에서 엽니다.",
     "ja": "選択した動画URLをIINAで開きます。",

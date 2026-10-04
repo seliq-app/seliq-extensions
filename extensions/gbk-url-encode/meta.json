@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/GbkURLEncode.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "UTF-8 형식을 GBK로 변환한 뒤 인코딩하거나, GBK로 인코딩된 텍스트를 먼저 디코딩한 뒤 UTF-8로 변환하여 표시합니다.",
     "ja": "UTF-8形式をGBKに変換してからエンコードするか、GBK形式でエンコードされたテキストを先にデコードしてからUTF-8に変換して表示します。",

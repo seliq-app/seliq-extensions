@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/CopyUrlWithTitle.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat",
+    "justCopy"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트에서 URL과 제목을 HTML 또는 Markdown 링크로 복사합니다.",
     "ja": "選択したテキストからURLとタイトルをHTMLまたはMarkdownリンクとしてコピーします。",

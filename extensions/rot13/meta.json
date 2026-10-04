@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/ROT13.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat",
+    "protect"
+  ],
   "descriptions": {
     "ko": "텍스트에 ROT13 암호를 적용합니다.",
     "ja": "テキストにROT13暗号を適用します。",

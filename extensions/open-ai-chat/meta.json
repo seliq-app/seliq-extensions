@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/OpenAIChat.popclipext",
   "origin": "popclip",
+  "intents": [
+    "askAI",
+    "rewrite"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 OpenAI의 Chat API로 보냅니다.",
     "ja": "選択したテキストをOpenAIのChat APIに送信します。",

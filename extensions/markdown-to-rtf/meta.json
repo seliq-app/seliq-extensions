@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/MarkdownToRTF.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat"
+  ],
   "descriptions": {
     "ko": "Markdown을 클립보드에 포맷된 텍스트로 복사합니다.",
     "ja": "Markdownをクリップボードに書式付きテキストとしてコピーします。",

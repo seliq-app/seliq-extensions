@@ -7,6 +7,11 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/jmpy.popclipext",
   "origin": "popclip",
+  "intents": [
+    "share",
+    "makeQR",
+    "developer"
+  ],
   "descriptions": {
     "ko": "Jmpy를 사용하여 짧은 링크와 동적 QR 코드를 만듭니다.",
     "ja": "Jmpyを使用して短いリンクと動的QRコードを作成します。",

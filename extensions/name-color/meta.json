@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/NameColor.popclipext",
   "origin": "popclip",
+  "intents": [
+    "convert",
+    "define"
+  ],
   "descriptions": {
     "ko": "16진수 색상 값에 어울리는 설명형 이름을 제안합니다.",
     "ja": "16進数の色の値に対して、内容を表す名前を提案します。",

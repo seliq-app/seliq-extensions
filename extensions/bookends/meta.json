@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Bookends.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "선택한 DOI, PMID, ISBN 또는 JSTOR 고정 URL을 열려 있는 라이브러리에 추가합니다. ⌘ 키를 누르고 있으면 선택한 텍스트로 라이브러리를 검색하고 검색된 참고 문헌으로 새 그룹을 만듭니다.",
     "ja": "選択したDOI、PMID、ISBN、またはJSTORの固定URLを開いているライブラリに追加します。⌘を押しながら実行すると、選択したテキストでライブラリを検索し、見つかった参考文献で新しいグループを作成します。",

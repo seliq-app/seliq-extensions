@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TextMate.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer",
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 TextMate에서 새 파일로 엽니다.",
     "ja": "選択したテキストをTextMateの新しいファイルとして開きます。",

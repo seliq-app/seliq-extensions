@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Instapaper.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater"
+  ],
   "descriptions": {
     "ko": "나중에 읽기 위해 Instapaper에 URL을 저장합니다.",
     "ja": "後で読むためにInstapaperにURLを保存します。",

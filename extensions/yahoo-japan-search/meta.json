@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/YahooJapanSearch.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Yahoo! Japan을 사용하여 웹을 검색합니다.",
     "ja": "Yahoo! Japanを使用してウェブを検索します。",

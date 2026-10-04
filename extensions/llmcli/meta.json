@@ -6,6 +6,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/LLMCLI.popclipext",
   "origin": "popclip",
+  "intents": [
+    "rewrite",
+    "askAI"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 Codex, Claude, Gemini 또는 OpenCode CLI를 통해 다시 작성합니다.",
     "ja": "選択したテキストをCodex、Claude、Gemini、またはOpenCode CLIで書き直します。",

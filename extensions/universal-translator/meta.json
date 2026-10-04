@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/UniversalTranslator.popclipext",
   "origin": "popclip",
+  "intents": [
+    "translate"
+  ],
   "descriptions": {
     "ko": "Universal Translator를 사용하여 텍스트를 번역합니다.",
     "ja": "Universal Translatorを使用してテキストを翻訳します。",

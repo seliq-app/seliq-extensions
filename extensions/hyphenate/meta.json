@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Hyphenate.popclipext",
   "origin": "popclip",
+  "intents": [
+    "reformat"
+  ],
   "descriptions": {
     "ko": "단어 사이의 공백을 하이픈으로 바꾸거나 그 반대로 바꿉니다.",
     "ja": "単語間のスペースをハイフンに置き換え、その逆も行います。",

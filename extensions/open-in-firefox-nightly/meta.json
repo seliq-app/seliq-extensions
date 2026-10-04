@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/OpenInFirefoxNightly.popclipext",
   "origin": "popclip",
+  "intents": [
+    "open"
+  ],
   "descriptions": {
     "ko": "링크를 Mozilla Firefox에서 엽니다.",
     "ja": "リンクをMozilla Firefoxで開きます。",

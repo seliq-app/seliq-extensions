@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/CommaList.popclipext",
   "origin": "popclip",
+  "intents": [
+    "list",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "쉼표로 구분된 목록을 개별 줄로 분할하거나 그 반대로 변환합니다.",
     "ja": "カンマ区切りのリストを個別の行に分割し、その逆も行います。",

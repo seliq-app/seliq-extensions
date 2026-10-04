@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/WolframAlpha.popclipext",
   "origin": "popclip",
+  "intents": [
+    "convert",
+    "lookup"
+  ],
   "descriptions": {
     "ko": "Wolfram Alpha에서 지식을 검색합니다.",
     "ja": "Wolfram Alphaで知識を検索します。",

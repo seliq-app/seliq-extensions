@@ -1,6 +1,10 @@
 {
   "name": "Naver Chinese Dictionary",
   "description": "Look up the selected text in the Naver Chinese Dictionary.",
+  "intents": [
+    "define",
+    "translate"
+  ],
   "descriptions": {
     "ko": "선택한 글을 네이버 중국어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVER中国語辞書で調べます。",

@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Fantastical3.popclipext",
   "origin": "popclip",
+  "intents": [
+    "schedule"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 사용하여 Fantastical 3에 일정을 만듭니다.",
     "ja": "選択したテキストを使用してFantastical 3にカレンダーエントリを作成します。",

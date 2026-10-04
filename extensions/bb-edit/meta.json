@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/BBEdit.popclipext",
   "origin": "popclip",
+  "intents": [
+    "saveForLater",
+    "developer"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트를 포함하는 새 BBEdit 문서를 만듭니다.",
     "ja": "選択したテキストを含む新しいBBEditドキュメントを作成します。",

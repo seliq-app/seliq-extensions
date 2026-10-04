@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/PasteAndMatch.popclipext",
   "origin": "popclip",
+  "intents": [
+    "cleanup",
+    "reformat"
+  ],
   "descriptions": {
     "ko": "서식을 제외하고 일반 텍스트로만 붙여넣습니다.",
     "ja": "書式設定なしでプレーンテキストのみとして貼り付けます。",

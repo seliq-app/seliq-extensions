@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestAppleScriptResult.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer"
+  ],
   "descriptions": {
     "ko": "AppleScript 결과 반환을 테스트합니다.",
     "ja": "結果を返すAppleScriptをテストします。",

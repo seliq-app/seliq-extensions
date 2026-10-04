@@ -7,6 +7,11 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/DB-IP.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer",
+    "lookup",
+    "findPlace"
+  ],
   "descriptions": {
     "ko": "웹 브라우저에서 DB-IP를 열어 IP 주소의 지리적 위치를 조회합니다. IPv4 및 IPv6 주소를 지원합니다.",
     "ja": "ウェブブラウザでDB-IPを開き、IPアドレスのジオロケーションを検索します。IPv4およびIPv6アドレスをサポートします。",

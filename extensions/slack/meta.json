@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Slack.popclipext",
   "origin": "popclip",
+  "intents": [
+    "share",
+    "contact"
+  ],
   "descriptions": {
     "ko": "선택 항목을 Slack의 채널에 게시합니다.",
     "ja": "選択内容をSlackのチャネルに投稿します。",

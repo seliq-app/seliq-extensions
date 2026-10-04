@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Maps.popclipext",
   "origin": "popclip",
+  "intents": [
+    "findPlace"
+  ],
   "descriptions": {
     "ko": "지도 앱을 검색합니다.",
     "ja": "マップアプリを検索します。",

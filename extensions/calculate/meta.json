@@ -7,6 +7,9 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Calculate.popclipext",
   "origin": "popclip",
+  "intents": [
+    "convert"
+  ],
   "descriptions": {
     "ko": "텍스트를 수식으로 계산합니다.",
     "ja": "テキストを数式として計算します。",

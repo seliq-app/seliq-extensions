@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/OpenInVSCode.popclipext",
   "origin": "popclip",
+  "intents": [
+    "developer",
+    "open"
+  ],
   "descriptions": {
     "ko": "선택한 텍스트나 파일을 Visual Studio Code에서 엽니다.",
     "ja": "選択したテキストまたはファイルをVisual Studio Codeで開きます。",

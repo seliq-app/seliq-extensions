@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/HoudahSpot.popclipext",
   "origin": "popclip",
+  "intents": [
+    "lookup",
+    "open"
+  ],
   "descriptions": {
     "ko": "HoudahSpot으로 Mac의 파일을 검색합니다.",
     "ja": "HoudahSpotを使用してMac上のファイルを検索します。",

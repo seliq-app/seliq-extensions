@@ -7,6 +7,10 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Antidote.popclipext",
   "origin": "popclip",
+  "intents": [
+    "define",
+    "spellfix"
+  ],
   "descriptions": {
     "ko": "Antidote(프랑스어 사전 및 맞춤법 검사기)에서 텍스트를 검색합니다.",
     "ja": "フランス語の辞書・スペルチェッカーであるAntidoteでテキストを検索します。",
