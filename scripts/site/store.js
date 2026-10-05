@@ -354,7 +354,14 @@
     return h;
   }
   // 붙여 쓴 두 낱말도 맞게: 어느 한 곳에서 둘로 나눠 두 쪽 다 있으면 맞다
-  const has = (hay, w) => hay.includes(w) || [...w].some((_, i) => i > 0 && hay.includes(w.slice(0, i)) && hay.includes(w.slice(i)));
+  // 띄어쓰기가 흔히 빠지는 한글·한자·가나만, 두 조각 모두 2글자 이상(라틴 글자는 "dict" → "d"+"ict"처럼 다 맞아 버린다)
+  const CJK = /^[\u3040-\u30ff\u3130-\u318f\u4e00-\u9fff\uac00-\ud7a3]+$/;
+  const has = (hay, w) => {
+    if (hay.includes(w)) return true;
+    if (w.length < 4 || !CJK.test(w)) return false;
+    for (let i = 2; i <= w.length - 2; i++) if (hay.includes(w.slice(0, i)) && hay.includes(w.slice(i))) return true;
+    return false;
+  };
 
   function visibleList() {
     const q = $("#search").value.trim().toLowerCase();
