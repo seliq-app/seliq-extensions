@@ -16,8 +16,8 @@
     "pt-BR": "Traduza o texto selecionado com Naver Papago. Coreano vai para inglês, tudo mais para coreano, ou escolha um idioma de destino.",
     "ar": "ترجم النص المحدد باستخدام Naver Papago. تُترجم الكورية إلى الإنجليزية وأي لغة أخرى إلى الكورية، أو اختر لغة الوجهة."
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "Seliq",
-  "icon": "symbol:character.bubble",
+  "icon": "🌐",
   "license": "MIT"
 }

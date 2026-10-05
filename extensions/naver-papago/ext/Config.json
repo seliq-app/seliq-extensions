@@ -15,7 +15,7 @@
     "ko": "선택한 글을 네이버 파파고로 번역합니다. 한국어는 영어로, 다른 언어는 한국어로 옮기며 번역할 언어를 고를 수도 있습니다."
   },
   "popclipVersion": 4151,
-  "icon": "symbol:character.bubble",
+  "icon": "🌐",
   "app": {
     "name": "Naver Papago",
     "link": "https://papago.naver.com/"

@@ -15,7 +15,7 @@
     "ko": "선택한 글을 네이버 국어사전에서 찾습니다."
   },
   "popclipVersion": 4151,
-  "icon": "square filled 국",
+  "icon": "🇰🇷",
   "app": {
     "name": "Naver Korean Dictionary",
     "link": "https://ko.dict.naver.com/"
@@ -33,7 +33,7 @@
         "fr": "Dictionnaire d’anglais Naver",
         "es": "Diccionario de inglés Naver"
       },
-      "icon": "square filled En",
+      "icon": "🇺🇸",
       "url": "https://en.dict.naver.com/#/search?query=***"
     },
     {
@@ -47,7 +47,7 @@
         "fr": "Dictionnaire anglais-anglais Naver",
         "es": "Diccionario inglés-inglés Naver"
       },
-      "icon": "square filled EE",
+      "icon": "🇬🇧",
       "url": "https://dict.naver.com/enendict/#/search?query=***"
     },
     {
@@ -61,7 +61,7 @@
         "fr": "Dictionnaire de japonais Naver",
         "es": "Diccionario de japonés Naver"
       },
-      "icon": "square filled あ",
+      "icon": "🇯🇵",
       "url": "https://ja.dict.naver.com/#/search?query=***"
     },
     {
@@ -75,7 +75,7 @@
         "fr": "Dictionnaire de chinois Naver",
         "es": "Diccionario de chino Naver"
       },
-      "icon": "square filled 中",
+      "icon": "🇨🇳",
       "url": "https://zh.dict.naver.com/#/search?query=***"
     },
     {
@@ -89,7 +89,7 @@
         "fr": "Dictionnaire hanja Naver",
         "es": "Diccionario hanja Naver"
       },
-      "icon": "square filled 漢",
+      "icon": "漢",
       "url": "https://hanja.dict.naver.com/#/search?query=***"
     },
     {
@@ -103,7 +103,7 @@
         "fr": "Dictionnaire de français Naver",
         "es": "Diccionario de francés Naver"
       },
-      "icon": "square filled Fr",
+      "icon": "🇫🇷",
       "url": "https://dict.naver.com/frkodict/#/search?query=***"
     },
     {
@@ -117,7 +117,7 @@
         "fr": "Dictionnaire d’espagnol Naver",
         "es": "Diccionario de español Naver"
       },
-      "icon": "square filled Es",
+      "icon": "🇪🇸",
       "url": "https://dict.naver.com/eskodict/#/search?query=***"
     },
     {
@@ -131,7 +131,7 @@
         "fr": "Dictionnaire d’allemand Naver",
         "es": "Diccionario de alemán Naver"
       },
-      "icon": "square filled De",
+      "icon": "🇩🇪",
       "url": "https://dict.naver.com/dekodict/#/search?query=***"
     }
   ]

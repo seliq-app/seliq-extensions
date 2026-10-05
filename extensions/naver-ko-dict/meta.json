@@ -16,8 +16,8 @@
     "pt-BR": "Procure o texto selecionado no Dicionário Coreano de Naver.",
     "ar": "ابحث عن النص المحدد في قاموس Naver الكوري."
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "Seliq",
-  "icon": "square filled 국",
+  "icon": "🇰🇷",
   "license": "MIT"
 }

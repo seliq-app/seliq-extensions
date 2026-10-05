@@ -17,8 +17,8 @@
     "pt-BR": "Procure o texto selecionado no Dicionário Inglês de Naver.",
     "ar": "ابحث عن النص المحدد في قاموس Naver الإنجليزي."
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "category": "Seliq",
-  "icon": "square filled En",
+  "icon": "🇺🇸",
   "license": "MIT"
 }
