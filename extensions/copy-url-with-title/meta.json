@@ -23,6 +23,34 @@
     "pt-BR": "Copiar URL com título",
     "ar": "نسخ URL مع العنوان"
   },
+  "titles": {
+    "Copy as HTML Link": {
+      "en": "Copy as HTML Link",
+      "ko": "HTML 링크로 복사",
+      "ja": "HTMLリンクとしてコピー",
+      "zh-Hans": "复制为 HTML 链接",
+      "zh-Hant": "複製為 HTML 連結",
+      "de": "Als HTML-Link kopieren",
+      "fr": "Copier comme lien HTML",
+      "es": "Copiar como enlace HTML",
+      "it": "Copia come link HTML",
+      "pt-BR": "Copiar como link HTML",
+      "ar": "نسخ كرابط HTML"
+    },
+    "Copy as Markdown Link": {
+      "en": "Copy as Markdown Link",
+      "ko": "Markdown 링크로 복사",
+      "ja": "Markdownリンクとしてコピー",
+      "zh-Hans": "复制为 Markdown 链接",
+      "zh-Hant": "複製為 Markdown 連結",
+      "de": "Als Markdown-Link kopieren",
+      "fr": "Copier comme lien Markdown",
+      "es": "Copiar como enlace Markdown",
+      "it": "Copia come link Markdown",
+      "pt-BR": "Copiar como link Markdown",
+      "ar": "نسخ كرابط Markdown"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트에서 URL과 제목을 HTML 또는 Markdown 링크로 복사합니다.",
     "ja": "選択したテキストからURLとタイトルをHTMLまたはMarkdownリンクとしてコピーします。",

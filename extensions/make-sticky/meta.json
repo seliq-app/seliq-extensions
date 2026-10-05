@@ -24,6 +24,21 @@
     "pt-BR": "Stickies",
     "ar": "Stickies"
   },
+  "titles": {
+    "Make Sticky": {
+      "en": "Make Sticky",
+      "ko": "스티커 메모 만들기",
+      "ja": "付箋を作成",
+      "zh-Hans": "创建便笺",
+      "zh-Hant": "建立便利貼",
+      "de": "Notiz erstellen",
+      "fr": "Créer un pense-bête",
+      "es": "Crear nota adhesiva",
+      "it": "Crea nota adesiva",
+      "pt-BR": "Criar nota adesiva",
+      "ar": "إنشاء ملاحظة لاصقة"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 새 Stickies 노트를 만듭니다.",
     "ja": "選択したテキストで新しいStickiesノートを作成します。",

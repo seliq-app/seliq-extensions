@@ -24,6 +24,34 @@
     "pt-BR": "iCal",
     "ar": "iCal"
   },
+  "titles": {
+    "Event": {
+      "en": "Event",
+      "ko": "이벤트",
+      "ja": "イベント",
+      "zh-Hans": "日程",
+      "zh-Hant": "行程",
+      "de": "Termin",
+      "fr": "Événement",
+      "es": "Evento",
+      "it": "Evento",
+      "pt-BR": "Evento",
+      "ar": "حدث"
+    },
+    "Todo": {
+      "en": "Todo",
+      "ko": "할 일",
+      "ja": "ToDo",
+      "zh-Hans": "待办",
+      "zh-Hant": "待辦",
+      "de": "Aufgabe",
+      "fr": "Tâche",
+      "es": "Tarea",
+      "it": "Attività",
+      "pt-BR": "Tarefa",
+      "ar": "مهمة"
+    }
+  },
   "descriptions": {
     "ko": "iCal 이벤트를 만듭니다.",
     "ja": "iCalイベントを作成します。",

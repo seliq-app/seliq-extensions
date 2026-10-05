@@ -25,6 +25,21 @@
     "pt-BR": "Geolocalização DB-IP",
     "ar": "تحديد الموقع الجغرافي DB-IP"
   },
+  "titles": {
+    "DB-IP Geo-Location": {
+      "en": "DB-IP Geo-Location",
+      "ko": "DB-IP 위치 조회",
+      "ja": "DB-IP 位置情報",
+      "zh-Hans": "DB-IP 地理位置",
+      "zh-Hant": "DB-IP 地理位置",
+      "de": "DB-IP-Geolokalisierung",
+      "fr": "Géolocalisation DB-IP",
+      "es": "Geolocalización DB-IP",
+      "it": "Geolocalizzazione DB-IP",
+      "pt-BR": "Geolocalização DB-IP",
+      "ar": "تحديد موقع DB-IP"
+    }
+  },
   "descriptions": {
     "ko": "웹 브라우저에서 DB-IP를 열어 IP 주소의 지리적 위치를 조회합니다. IPv4 및 IPv6 주소를 지원합니다.",
     "ja": "ウェブブラウザでDB-IPを開き、IPアドレスのジオロケーションを検索します。IPv4およびIPv6アドレスをサポートします。",

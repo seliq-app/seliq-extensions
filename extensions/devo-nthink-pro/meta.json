@@ -24,6 +24,34 @@
     "pt-BR": "DEVONthink Pro",
     "ar": "DEVONthink Pro"
   },
+  "titles": {
+    "Clip to DEVONthink": {
+      "en": "Clip to DEVONthink",
+      "ko": "DEVONthink에 클립",
+      "ja": "DEVONthinkにクリップ",
+      "zh-Hans": "剪藏到 DEVONthink",
+      "zh-Hant": "剪存到 DEVONthink",
+      "de": "In DEVONthink sichern",
+      "fr": "Clipper dans DEVONthink",
+      "es": "Guardar clip en DEVONthink",
+      "it": "Salva clip in DEVONthink",
+      "pt-BR": "Salvar clipe no DEVONthink",
+      "ar": "حفظ مقتطف في DEVONthink"
+    },
+    "Search in DEVONthink": {
+      "en": "Search in DEVONthink",
+      "ko": "DEVONthink에서 검색",
+      "ja": "DEVONthinkで検索",
+      "zh-Hans": "在 DEVONthink 中搜索",
+      "zh-Hant": "在 DEVONthink 中搜尋",
+      "de": "In DEVONthink suchen",
+      "fr": "Rechercher dans DEVONthink",
+      "es": "Buscar en DEVONthink",
+      "it": "Cerca in DEVONthink",
+      "pt-BR": "Pesquisar no DEVONthink",
+      "ar": "البحث في DEVONthink"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 DEVONthink Pro 수신함에 클립하거나 열린 데이터베이스에서 텍스트를 검색합니다.",
     "ja": "選択したテキストをDEVONthink Proインボックスにクリップするか、開いているデータベースでテキストを検索します。",

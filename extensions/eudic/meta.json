@@ -24,6 +24,21 @@
     "pt-BR": "Eudic",
     "ar": "Eudic"
   },
+  "titles": {
+    "Search In Eudic": {
+      "en": "Search In Eudic",
+      "ko": "Eudic에서 검색",
+      "ja": "Eudicで検索",
+      "zh-Hans": "在 Eudic 中搜索",
+      "zh-Hant": "在 Eudic 中搜尋",
+      "de": "In Eudic suchen",
+      "fr": "Rechercher dans Eudic",
+      "es": "Buscar en Eudic",
+      "it": "Cerca in Eudic",
+      "pt-BR": "Pesquisar no Eudic",
+      "ar": "البحث في Eudic"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 중영사전 Eudic에서 검색합니다.",
     "ja": "中英辞書のEudicで選択したテキストを検索します。",

@@ -23,6 +23,21 @@
     "pt-BR": "Ligar com o CommandC",
     "ar": "اتصال عبر CommandC"
   },
+  "titles": {
+    "Dial with Command-C": {
+      "en": "Dial with Command-C",
+      "ko": "Command-C로 전화 걸기",
+      "ja": "Command-Cで発信",
+      "zh-Hans": "使用 Command-C 拨号",
+      "zh-Hant": "使用 Command-C 撥號",
+      "de": "Mit Command-C anrufen",
+      "fr": "Appeler avec Command-C",
+      "es": "Llamar con Command-C",
+      "it": "Chiama con Command-C",
+      "pt-BR": "Ligar com o Command-C",
+      "ar": "الاتصال عبر Command-C"
+    }
+  },
   "descriptions": {
     "ko": "Command-C를 사용하여 전화번호로 전화를 겁니다.",
     "ja": "Command-Cを使用して電話番号に電話します。",

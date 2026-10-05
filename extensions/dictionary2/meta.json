@@ -23,6 +23,21 @@
     "pt-BR": "Dictionary2",
     "ar": "Dictionary2"
   },
+  "titles": {
+    "Dictionary": {
+      "en": "Dictionary",
+      "ko": "사전",
+      "ja": "辞書",
+      "zh-Hans": "词典",
+      "zh-Hant": "辭典",
+      "de": "Wörterbuch",
+      "fr": "Dictionnaire",
+      "es": "Diccionario",
+      "it": "Dizionario",
+      "pt-BR": "Dicionário",
+      "ar": "قاموس"
+    }
+  },
   "descriptions": {
     "ko": "Dictionary2",
     "ja": "Dictionary2",

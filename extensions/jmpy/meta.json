@@ -25,6 +25,34 @@
     "pt-BR": "Jmpy",
     "ar": "Jmpy"
   },
+  "titles": {
+    "Jmpy Short URL": {
+      "en": "Jmpy Short URL",
+      "ko": "Jmpy 단축 URL",
+      "ja": "Jmpy 短縮URL",
+      "zh-Hans": "Jmpy 短链接",
+      "zh-Hant": "Jmpy 短網址",
+      "de": "Jmpy-Kurz-URL",
+      "fr": "URL courte Jmpy",
+      "es": "URL corta de Jmpy",
+      "it": "URL breve Jmpy",
+      "pt-BR": "URL curta do Jmpy",
+      "ar": "رابط Jmpy المختصر"
+    },
+    "Jmpy QR Code": {
+      "en": "Jmpy QR Code",
+      "ko": "Jmpy QR 코드",
+      "ja": "Jmpy QRコード",
+      "zh-Hans": "Jmpy 二维码",
+      "zh-Hant": "Jmpy QR 碼",
+      "de": "Jmpy-QR-Code",
+      "fr": "Code QR Jmpy",
+      "es": "Código QR de Jmpy",
+      "it": "Codice QR Jmpy",
+      "pt-BR": "Código QR do Jmpy",
+      "ar": "رمز QR لـ Jmpy"
+    }
+  },
   "descriptions": {
     "ko": "Jmpy를 사용하여 짧은 링크와 동적 QR 코드를 만듭니다.",
     "ja": "Jmpyを使用して短いリンクと動的QRコードを作成します。",

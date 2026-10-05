@@ -23,6 +23,21 @@
     "pt-BR": "Phone Amego",
     "ar": "Phone Amego"
   },
+  "titles": {
+    "Dial with Phone Amego": {
+      "en": "Dial with Phone Amego",
+      "ko": "Phone Amego로 전화 걸기",
+      "ja": "Phone Amegoで発信",
+      "zh-Hans": "使用 Phone Amego 拨号",
+      "zh-Hant": "使用 Phone Amego 撥號",
+      "de": "Mit Phone Amego anrufen",
+      "fr": "Appeler avec Phone Amego",
+      "es": "Llamar con Phone Amego",
+      "it": "Chiama con Phone Amego",
+      "pt-BR": "Ligar com o Phone Amego",
+      "ar": "الاتصال عبر Phone Amego"
+    }
+  },
   "descriptions": {
     "ko": "Phone Amego로 전화를 겁니다.",
     "ja": "Phone Amegoで電話番号をダイヤルします。",

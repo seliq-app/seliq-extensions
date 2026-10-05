@@ -24,6 +24,21 @@
     "pt-BR": "Resumir",
     "ar": "تلخيص"
   },
+  "titles": {
+    "Summ.": {
+      "en": "Summ.",
+      "ko": "요약",
+      "ja": "要約",
+      "zh-Hans": "摘要",
+      "zh-Hant": "摘要",
+      "de": "Zusammenf.",
+      "fr": "Résumer",
+      "es": "Resumir",
+      "it": "Riassumi",
+      "pt-BR": "Resumir",
+      "ar": "تلخيص"
+    }
+  },
   "descriptions": {
     "ko": "OS X 요약 서비스를 실행합니다.",
     "ja": "OS X要約サービスを実行します。",

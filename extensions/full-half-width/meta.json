@@ -23,6 +23,34 @@
     "pt-BR": "Largura total/meia",
     "ar": "عرض كامل/نصف"
   },
+  "titles": {
+    "Half": {
+      "en": "Half",
+      "ko": "반각",
+      "ja": "半角",
+      "zh-Hans": "半角",
+      "zh-Hant": "半角",
+      "de": "Halbbreite",
+      "fr": "Demi-chasse",
+      "es": "Ancho medio",
+      "it": "Mezza larghezza",
+      "pt-BR": "Meia largura",
+      "ar": "نصف العرض"
+    },
+    "Full": {
+      "en": "Full",
+      "ko": "전각",
+      "ja": "全角",
+      "zh-Hans": "全角",
+      "zh-Hant": "全角",
+      "de": "Vollbreite",
+      "fr": "Pleine chasse",
+      "es": "Ancho completo",
+      "it": "Larghezza intera",
+      "pt-BR": "Largura total",
+      "ar": "عرض كامل"
+    }
+  },
   "descriptions": {
     "ko": "중국어, 일본어, 한국어 문자의 전각과 반각 형식 사이를 변환합니다. 예: ヲ를 ｦ로 변환.",
     "ja": "中国語、日本語、韓国語の文字を全角と半角の間で変換します。例：ヲをｦに変換。",

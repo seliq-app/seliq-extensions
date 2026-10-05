@@ -23,6 +23,34 @@
     "pt-BR": "Kagi Tradutor",
     "ar": "ترجمة Kagi"
   },
+  "titles": {
+    "Kagi Translate (URL)": {
+      "en": "Kagi Translate (URL)",
+      "ko": "Kagi 번역 (URL)",
+      "ja": "Kagi 翻訳 (URL)",
+      "zh-Hans": "Kagi 翻译 (URL)",
+      "zh-Hant": "Kagi 翻譯 (URL)",
+      "de": "Kagi Übersetzer (URL)",
+      "fr": "Kagi Traduction (URL)",
+      "es": "Kagi Traductor (URL)",
+      "it": "Kagi Traduttore (URL)",
+      "pt-BR": "Kagi Tradutor (URL)",
+      "ar": "ترجمة Kagi (URL)"
+    },
+    "Kagi Translate (Text)": {
+      "en": "Kagi Translate (Text)",
+      "ko": "Kagi 번역 (텍스트)",
+      "ja": "Kagi 翻訳 (テキスト)",
+      "zh-Hans": "Kagi 翻译 (文本)",
+      "zh-Hant": "Kagi 翻譯 (文字)",
+      "de": "Kagi Übersetzer (Text)",
+      "fr": "Kagi Traduction (texte)",
+      "es": "Kagi Traductor (texto)",
+      "it": "Kagi Traduttore (testo)",
+      "pt-BR": "Kagi Tradutor (texto)",
+      "ar": "ترجمة Kagi (نص)"
+    }
+  },
   "descriptions": {
     "ko": "Kagi Translate를 사용하여 텍스트 또는 URL을 번역합니다.",
     "ja": "Kagi Translateを使用してテキストまたはURLを翻訳します。",

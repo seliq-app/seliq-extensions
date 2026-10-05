@@ -23,6 +23,21 @@
     "pt-BR": "Subscrito",
     "ar": "منخفض"
   },
+  "titles": {
+    "Sub": {
+      "en": "Sub",
+      "ko": "아래첨자",
+      "ja": "下付き",
+      "zh-Hans": "下标",
+      "zh-Hant": "下標",
+      "de": "Tiefgest.",
+      "fr": "Indice",
+      "es": "Subíndice",
+      "it": "Pedice",
+      "pt-BR": "Subscrito",
+      "ar": "منخفض"
+    }
+  },
   "descriptions": {
     "ko": "Pages에서 선택한 텍스트를 아래첨자로 만듭니다.",
     "ja": "Pagesで選択したテキストを下付き文字にします。",

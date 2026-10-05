@@ -23,6 +23,21 @@
     "pt-BR": "Alphagram",
     "ar": "Alphagram"
   },
+  "titles": {
+    "Scramble": {
+      "en": "Scramble",
+      "ko": "뒤섞기",
+      "ja": "シャッフル",
+      "zh-Hans": "打乱",
+      "zh-Hant": "打亂",
+      "de": "Mischen",
+      "fr": "Mélanger",
+      "es": "Mezclar",
+      "it": "Mescola",
+      "pt-BR": "Embaralhar",
+      "ar": "خلط"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트의 글자를 정렬하거나 섞습니다.",
     "ja": "選択したテキストの文字をソートまたはスクランブルします。",

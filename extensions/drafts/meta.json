@@ -23,6 +23,21 @@
     "pt-BR": "Drafts",
     "ar": "Drafts"
   },
+  "titles": {
+    "Send to Drafts": {
+      "en": "Send to Drafts",
+      "ko": "Drafts로 보내기",
+      "ja": "Draftsに送信",
+      "zh-Hans": "发送到 Drafts",
+      "zh-Hant": "傳送到 Drafts",
+      "de": "An Drafts senden",
+      "fr": "Envoyer vers Drafts",
+      "es": "Enviar a Drafts",
+      "it": "Invia a Drafts",
+      "pt-BR": "Enviar para o Drafts",
+      "ar": "إرسال إلى Drafts"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Drafts로 보냅니다.",
     "ja": "選択したテキストをDraftsに送信します。",

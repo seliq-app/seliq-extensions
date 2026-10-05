@@ -24,6 +24,34 @@
     "pt-BR": "FindAnyFile",
     "ar": "FindAnyFile"
   },
+  "titles": {
+    "Find this file name with FAF": {
+      "en": "Find this file name with FAF",
+      "ko": "FAF로 이 파일 이름 찾기",
+      "ja": "FAFでこのファイル名を検索",
+      "zh-Hans": "用 FAF 查找此文件名",
+      "zh-Hant": "用 FAF 尋找此檔名",
+      "de": "Diesen Dateinamen mit FAF suchen",
+      "fr": "Rechercher ce nom de fichier avec FAF",
+      "es": "Buscar este nombre de archivo con FAF",
+      "it": "Cerca questo nome file con FAF",
+      "pt-BR": "Procurar este nome de arquivo com o FAF",
+      "ar": "البحث عن اسم الملف هذا باستخدام FAF"
+    },
+    "Search here with FAF": {
+      "en": "Search here with FAF",
+      "ko": "FAF로 여기에서 검색",
+      "ja": "FAFでここを検索",
+      "zh-Hans": "用 FAF 在此搜索",
+      "zh-Hant": "用 FAF 在此搜尋",
+      "de": "Hier mit FAF suchen",
+      "fr": "Rechercher ici avec FAF",
+      "es": "Buscar aquí con FAF",
+      "it": "Cerca qui con FAF",
+      "pt-BR": "Pesquisar aqui com o FAF",
+      "ar": "البحث هنا باستخدام FAF"
+    }
+  },
   "descriptions": {
     "ko": "Find Any File로 파일을 검색합니다.",
     "ja": "Find Any Fileでファイルを検索します。",

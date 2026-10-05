@@ -23,6 +23,21 @@
     "pt-BR": "TextExpander",
     "ar": "TextExpander"
   },
+  "titles": {
+    "Create TextExpander Snippet": {
+      "en": "Create TextExpander Snippet",
+      "ko": "TextExpander 스니펫 만들기",
+      "ja": "TextExpanderスニペットを作成",
+      "zh-Hans": "创建 TextExpander 片段",
+      "zh-Hant": "建立 TextExpander 片段",
+      "de": "TextExpander-Snippet erstellen",
+      "fr": "Créer un snippet TextExpander",
+      "es": "Crear fragmento de TextExpander",
+      "it": "Crea snippet TextExpander",
+      "pt-BR": "Criar snippet do TextExpander",
+      "ar": "إنشاء مقتطف TextExpander"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 TextExpander 스니펫을 만듭니다.",
     "ja": "選択したテキストでTextExpanderスニペットを作成します。",

@@ -23,6 +23,21 @@
     "pt-BR": "Contagem de caracteres",
     "ar": "عدد الأحرف"
   },
+  "titles": {
+    "{popclip charcount} Characters": {
+      "en": "{popclip charcount} Characters",
+      "ko": "{popclip charcount}자",
+      "ja": "{popclip charcount}文字",
+      "zh-Hans": "{popclip charcount} 个字符",
+      "zh-Hant": "{popclip charcount} 個字元",
+      "de": "{popclip charcount} Zeichen",
+      "fr": "{popclip charcount} caractères",
+      "es": "{popclip charcount} caracteres",
+      "it": "{popclip charcount} caratteri",
+      "pt-BR": "{popclip charcount} caracteres",
+      "ar": "{popclip charcount} حرف"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트의 문자 수를 표시합니다.",
     "ja": "選択したテキストの文字数を表示します。",

@@ -23,6 +23,21 @@
     "pt-BR": "Twitter",
     "ar": "Twitter"
   },
+  "titles": {
+    "Tweet": {
+      "en": "Tweet",
+      "ko": "트윗",
+      "ja": "ツイート",
+      "zh-Hans": "发推",
+      "zh-Hant": "發推文",
+      "de": "Twittern",
+      "fr": "Tweeter",
+      "es": "Tuitear",
+      "it": "Twitta",
+      "pt-BR": "Tuitar",
+      "ar": "تغريد"
+    }
+  },
   "descriptions": {
     "ko": "공식 Twitter 앱을 사용하여 새 트윗을 작성합니다. 또한 @pilotmoon 같은 사용자 이름을 선택하면 해당 사용자의 트윗을 볼 수 있습니다.",
     "ja": "公式Twitterアプリを使用して新しいツイートを作成します。また、@pilotmoonなどのユーザー名を選択すると、そのユーザーのツイートを表示します。",

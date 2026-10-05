@@ -23,6 +23,21 @@
     "pt-BR": "Twitterrific",
     "ar": "Twitterrific"
   },
+  "titles": {
+    "Tweet": {
+      "en": "Tweet",
+      "ko": "트윗",
+      "ja": "ツイート",
+      "zh-Hans": "发推",
+      "zh-Hant": "發推文",
+      "de": "Twittern",
+      "fr": "Tweeter",
+      "es": "Tuitear",
+      "it": "Twitta",
+      "pt-BR": "Tuitar",
+      "ar": "تغريد"
+    }
+  },
   "descriptions": {
     "ko": "Twitterrific을 사용하여 새 트윗을 작성합니다.",
     "ja": "Twitterrificを使用して新しいツイートを作成します。",

@@ -23,6 +23,21 @@
     "pt-BR": "Curiota",
     "ar": "Curiota"
   },
+  "titles": {
+    "Clip to Curiota": {
+      "en": "Clip to Curiota",
+      "ko": "Curiota에 클립",
+      "ja": "Curiotaにクリップ",
+      "zh-Hans": "剪藏到 Curiota",
+      "zh-Hant": "剪存到 Curiota",
+      "de": "In Curiota sichern",
+      "fr": "Clipper dans Curiota",
+      "es": "Guardar clip en Curiota",
+      "it": "Salva clip in Curiota",
+      "pt-BR": "Salvar clipe no Curiota",
+      "ar": "حفظ مقتطف في Curiota"
+    }
+  },
   "descriptions": {
     "ko": "Curiota에서 새 노트를 만듭니다.",
     "ja": "Curiotaで新しいノートを作成します。",

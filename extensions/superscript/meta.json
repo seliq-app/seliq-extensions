@@ -23,6 +23,21 @@
     "pt-BR": "Sobrescrito",
     "ar": "مرتفع"
   },
+  "titles": {
+    "Super": {
+      "en": "Super",
+      "ko": "위첨자",
+      "ja": "上付き",
+      "zh-Hans": "上标",
+      "zh-Hant": "上標",
+      "de": "Hochgest.",
+      "fr": "Exposant",
+      "es": "Superíndice",
+      "it": "Apice",
+      "pt-BR": "Sobrescrito",
+      "ar": "مرتفع"
+    }
+  },
   "descriptions": {
     "ko": "Pages에서 선택한 텍스트를 위첨자로 만듭니다.",
     "ja": "Pagesで選択したテキストを上付き文字にします。",

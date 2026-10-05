@@ -23,6 +23,34 @@
     "pt-BR": "Codificação de URL",
     "ar": "ترميز URL"
   },
+  "titles": {
+    "URL-encode": {
+      "en": "URL-encode",
+      "ko": "URL 인코딩",
+      "ja": "URLエンコード",
+      "zh-Hans": "URL 编码",
+      "zh-Hant": "URL 編碼",
+      "de": "URL-kodieren",
+      "fr": "Encoder l’URL",
+      "es": "Codificar URL",
+      "it": "Codifica URL",
+      "pt-BR": "Codificar URL",
+      "ar": "ترميز URL"
+    },
+    "URL-decode": {
+      "en": "URL-decode",
+      "ko": "URL 디코딩",
+      "ja": "URLデコード",
+      "zh-Hans": "URL 解码",
+      "zh-Hant": "URL 解碼",
+      "de": "URL-dekodieren",
+      "fr": "Décoder l’URL",
+      "es": "Decodificar URL",
+      "it": "Decodifica URL",
+      "pt-BR": "Decodificar URL",
+      "ar": "فك ترميز URL"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 퍼센트 인코딩하거나 디코딩합니다.",
     "ja": "選択したテキストをパーセントエンコードまたはデコードします。",

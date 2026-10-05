@@ -24,6 +24,21 @@
     "pt-BR": "Resolvedor de referências",
     "ar": "محلل المراجع"
   },
+  "titles": {
+    "Resolve": {
+      "en": "Resolve",
+      "ko": "확인",
+      "ja": "解決",
+      "zh-Hans": "解析",
+      "zh-Hant": "解析",
+      "de": "Auflösen",
+      "fr": "Résoudre",
+      "es": "Resolver",
+      "it": "Risolvi",
+      "pt-BR": "Resolver",
+      "ar": "حلّ"
+    }
+  },
   "descriptions": {
     "ko": "학술지 참고문헌을 확인합니다.",
     "ja": "学術誌の参考文献を解決します。",

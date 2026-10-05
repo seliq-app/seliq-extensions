@@ -23,6 +23,21 @@
     "pt-BR": "SnipNotes",
     "ar": "SnipNotes"
   },
+  "titles": {
+    "Save in SnipNotes": {
+      "en": "Save in SnipNotes",
+      "ko": "SnipNotes에 저장",
+      "ja": "SnipNotesに保存",
+      "zh-Hans": "保存到 SnipNotes",
+      "zh-Hant": "儲存到 SnipNotes",
+      "de": "In SnipNotes sichern",
+      "fr": "Enregistrer dans SnipNotes",
+      "es": "Guardar en SnipNotes",
+      "it": "Salva in SnipNotes",
+      "pt-BR": "Salvar no SnipNotes",
+      "ar": "حفظ في SnipNotes"
+    }
+  },
   "descriptions": {
     "ko": "SnipNotes에서 선택한 텍스트로 새 노트를 만듭니다.",
     "ja": "選択したテキストでSnipNotesに新しいノートを作成します。",

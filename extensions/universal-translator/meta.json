@@ -23,6 +23,21 @@
     "pt-BR": "Universal Translator",
     "ar": "Universal Translator"
   },
+  "titles": {
+    "Translate": {
+      "en": "Translate",
+      "ko": "번역",
+      "ja": "翻訳",
+      "zh-Hans": "翻译",
+      "zh-Hant": "翻譯",
+      "de": "Übersetzen",
+      "fr": "Traduire",
+      "es": "Traducir",
+      "it": "Traduci",
+      "pt-BR": "Traduzir",
+      "ar": "ترجمة"
+    }
+  },
   "descriptions": {
     "ko": "Universal Translator를 사용하여 텍스트를 번역합니다.",
     "ja": "Universal Translatorを使用してテキストを翻訳します。",

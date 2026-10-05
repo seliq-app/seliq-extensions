@@ -24,6 +24,34 @@
     "pt-BR": "Chat OpenAI",
     "ar": "دردشة OpenAI"
   },
+  "titles": {
+    "Chat": {
+      "en": "Chat",
+      "ko": "채팅",
+      "ja": "チャット",
+      "zh-Hans": "聊天",
+      "zh-Hant": "聊天",
+      "de": "Chat",
+      "fr": "Discussion",
+      "es": "Chat",
+      "it": "Chat",
+      "pt-BR": "Chat",
+      "ar": "دردشة"
+    },
+    "Reset Chat": {
+      "en": "Reset Chat",
+      "ko": "채팅 초기화",
+      "ja": "チャットをリセット",
+      "zh-Hans": "重置聊天",
+      "zh-Hant": "重設聊天",
+      "de": "Chat zurücksetzen",
+      "fr": "Réinitialiser la discussion",
+      "es": "Restablecer chat",
+      "it": "Reimposta chat",
+      "pt-BR": "Redefinir chat",
+      "ar": "إعادة تعيين الدردشة"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 OpenAI의 Chat API로 보냅니다.",
     "ja": "選択したテキストをOpenAIのChat APIに送信します。",

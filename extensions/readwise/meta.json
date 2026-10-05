@@ -24,6 +24,34 @@
     "pt-BR": "Readwise",
     "ar": "Readwise"
   },
+  "titles": {
+    "Save Highlight": {
+      "en": "Save Highlight",
+      "ko": "하이라이트 저장",
+      "ja": "ハイライトを保存",
+      "zh-Hans": "保存高亮",
+      "zh-Hant": "儲存標註",
+      "de": "Markierung speichern",
+      "fr": "Enregistrer le surlignage",
+      "es": "Guardar resaltado",
+      "it": "Salva evidenziazione",
+      "pt-BR": "Salvar destaque",
+      "ar": "حفظ التمييز"
+    },
+    "Save Article": {
+      "en": "Save Article",
+      "ko": "글 저장",
+      "ja": "記事を保存",
+      "zh-Hans": "保存文章",
+      "zh-Hant": "儲存文章",
+      "de": "Artikel speichern",
+      "fr": "Enregistrer l’article",
+      "es": "Guardar artículo",
+      "it": "Salva articolo",
+      "pt-BR": "Salvar artigo",
+      "ar": "حفظ المقال"
+    }
+  },
   "descriptions": {
     "ko": "하이라이트나 URL을 Readwise에 저장합니다.",
     "ja": "ハイライトまたはURLをReadwiseに保存します。",

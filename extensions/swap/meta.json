@@ -20,6 +20,21 @@
     "pt-BR": "Trocar com a área de transferência",
     "ar": "استبدال مع الحافظة"
   },
+  "titles": {
+    "Swap": {
+      "en": "Swap",
+      "ko": "교체",
+      "ja": "入れ替え",
+      "zh-Hans": "交换",
+      "zh-Hant": "交換",
+      "de": "Tauschen",
+      "fr": "Échanger",
+      "es": "Intercambiar",
+      "it": "Scambia",
+      "pt-BR": "Trocar",
+      "ar": "تبديل"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트와 클립보드의 내용을 바꿉니다.",
     "ja": "選択したテキストとクリップボードの内容を入れ替えます。",

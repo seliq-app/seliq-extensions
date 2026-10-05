@@ -23,6 +23,21 @@
     "pt-BR": "Yahoo!",
     "ar": "Yahoo!"
   },
+  "titles": {
+    "Yahoo! Search": {
+      "en": "Yahoo! Search",
+      "ko": "Yahoo! 검색",
+      "ja": "Yahoo!で検索",
+      "zh-Hans": "Yahoo! 搜索",
+      "zh-Hant": "Yahoo! 搜尋",
+      "de": "Yahoo!-Suche",
+      "fr": "Recherche Yahoo!",
+      "es": "Búsqueda en Yahoo!",
+      "it": "Ricerca su Yahoo!",
+      "pt-BR": "Pesquisa no Yahoo!",
+      "ar": "بحث Yahoo!"
+    }
+  },
   "descriptions": {
     "ko": "Yahoo!를 사용하여 웹을 검색합니다.",
     "ja": "Yahoo!を使用してウェブを検索します。",

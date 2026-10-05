@@ -23,6 +23,21 @@
     "pt-BR": "Copiar (alternativa)",
     "ar": "نسخ (بديل)"
   },
+  "titles": {
+    "Copy": {
+      "en": "Copy",
+      "ko": "복사",
+      "ja": "コピー",
+      "zh-Hans": "复制",
+      "zh-Hant": "複製",
+      "de": "Kopieren",
+      "fr": "Copier",
+      "es": "Copiar",
+      "it": "Copia",
+      "pt-BR": "Copiar",
+      "ar": "نسخ"
+    }
+  },
   "descriptions": {
     "ko": "복사 (!).",
     "ja": "コピー (!)。",

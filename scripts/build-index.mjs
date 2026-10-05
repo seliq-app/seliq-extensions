@@ -143,6 +143,18 @@ for (const sc of shortcodes) {
     for (const l of Object.keys(meta.names)) if (!NAME_LANGS.includes(l)) { err(sc, `meta.json: "names.${l}" is not a supported language`); ok = false; }
     if (ok && meta.names.en !== meta.name) { err(sc, '"names.en" must equal "name"'); ok = false; }
   }
+  // titles: 액션 영어 제목 → 언어별 제목(없을 수 있다). 있으면 11개 언어 모두, 자리표시자({popclip charcount} 등)는 모든 번역에 그대로.
+  if (meta.titles != null) {
+    if (typeof meta.titles !== "object" || Array.isArray(meta.titles)) { err(sc, '"titles" must be an object mapping an English action title to a language table'); ok = false; }
+    else for (const [key, table] of Object.entries(meta.titles)) {
+      if (table == null || typeof table !== "object" || Array.isArray(table)) { err(sc, `meta.json: "titles.${key}" must be an object`); ok = false; continue; }
+      for (const l of NAME_LANGS) if (typeof table[l] !== "string" || table[l].trim() === "") { err(sc, `meta.json: "titles.${key}.${l}" must be a non-empty string`); ok = false; }
+      for (const l of Object.keys(table)) if (!NAME_LANGS.includes(l)) { err(sc, `meta.json: "titles.${key}.${l}" is not a supported language`); ok = false; }
+      if (table.en !== key) { err(sc, `meta.json: "titles.${key}.en" must equal the key`); ok = false; }
+      const holders = (s) => (String(s).match(/\{popclip [^}]*\}/gi) ?? []).map((h) => h.toLowerCase()).sort().join("|");
+      for (const l of NAME_LANGS) if (typeof table[l] === "string" && holders(table[l]) !== holders(key)) { err(sc, `meta.json: "titles.${key}.${l}" must keep the same {popclip …} placeholders as the key`); ok = false; }
+    }
+  }
   if (meta.unlisted != null && typeof meta.unlisted !== "boolean") { err(sc, 'meta.json: "unlisted" must be boolean'); ok = false; }
   const files = walk(src);
   if (files.length === 0) { err(sc, "ext/ is empty"); ok = false; }
@@ -195,6 +207,7 @@ for (const sc of shortcodes) {
     origin: strOrNull(meta.origin),
     descriptions: meta.descriptions ?? null,
     names: meta.names,
+    titles: meta.titles ?? null,
     senseCategory: SENSE_CATEGORIES[sc] ?? null,
     intents: readIntents(sc, meta.intents),
   });

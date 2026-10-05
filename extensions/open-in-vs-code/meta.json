@@ -24,6 +24,34 @@
     "pt-BR": "Abrir no VS Code",
     "ar": "فتح في VS Code"
   },
+  "titles": {
+    "Open in VS Code": {
+      "en": "Open in VS Code",
+      "ko": "VS Code에서 열기",
+      "ja": "VS Codeで開く",
+      "zh-Hans": "在 VS Code 中打开",
+      "zh-Hant": "在 VS Code 中開啟",
+      "de": "In VS Code öffnen",
+      "fr": "Ouvrir dans VS Code",
+      "es": "Abrir en VS Code",
+      "it": "Apri in VS Code",
+      "pt-BR": "Abrir no VS Code",
+      "ar": "فتح في VS Code"
+    },
+    "Paste into VS Code": {
+      "en": "Paste into VS Code",
+      "ko": "VS Code에 붙여넣기",
+      "ja": "VS Codeにペースト",
+      "zh-Hans": "粘贴到 VS Code",
+      "zh-Hant": "貼上到 VS Code",
+      "de": "In VS Code einfügen",
+      "fr": "Coller dans VS Code",
+      "es": "Pegar en VS Code",
+      "it": "Incolla in VS Code",
+      "pt-BR": "Colar no VS Code",
+      "ar": "لصق في VS Code"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트나 파일을 Visual Studio Code에서 엽니다.",
     "ja": "選択したテキストまたはファイルをVisual Studio Codeで開きます。",

@@ -22,6 +22,47 @@
     "pt-BR": "Formatação",
     "ar": "التنسيق"
   },
+  "titles": {
+    "Bold": {
+      "en": "Bold",
+      "ko": "굵게",
+      "ja": "太字",
+      "zh-Hans": "粗体",
+      "zh-Hant": "粗體",
+      "de": "Fett",
+      "fr": "Gras",
+      "es": "Negrita",
+      "it": "Grassetto",
+      "pt-BR": "Negrito",
+      "ar": "عريض"
+    },
+    "Italic": {
+      "en": "Italic",
+      "ko": "기울임",
+      "ja": "斜体",
+      "zh-Hans": "斜体",
+      "zh-Hant": "斜體",
+      "de": "Kursiv",
+      "fr": "Italique",
+      "es": "Cursiva",
+      "it": "Corsivo",
+      "pt-BR": "Itálico",
+      "ar": "مائل"
+    },
+    "Underline": {
+      "en": "Underline",
+      "ko": "밑줄",
+      "ja": "下線",
+      "zh-Hans": "下划线",
+      "zh-Hant": "底線",
+      "de": "Unterstrichen",
+      "fr": "Souligné",
+      "es": "Subrayado",
+      "it": "Sottolineato",
+      "pt-BR": "Sublinhado",
+      "ar": "تحته خط"
+    }
+  },
   "descriptions": {
     "ko": "텍스트를 굵게, 기울임, 밑줄로 꾸밉니다.",
     "ja": "テキストを太字、イタリック、下線にします。",

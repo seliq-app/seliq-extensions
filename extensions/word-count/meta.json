@@ -23,6 +23,21 @@
     "pt-BR": "Contagem de palavras",
     "ar": "عدد الكلمات"
   },
+  "titles": {
+    "{popclip wordcount} Words": {
+      "en": "{popclip wordcount} Words",
+      "ko": "{popclip wordcount}단어",
+      "ja": "{popclip wordcount}語",
+      "zh-Hans": "{popclip wordcount} 个词",
+      "zh-Hant": "{popclip wordcount} 個詞",
+      "de": "{popclip wordcount} Wörter",
+      "fr": "{popclip wordcount} mots",
+      "es": "{popclip wordcount} palabras",
+      "it": "{popclip wordcount} parole",
+      "pt-BR": "{popclip wordcount} palavras",
+      "ar": "{popclip wordcount} كلمة"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트의 단어 수를 표시합니다.",
     "ja": "選択したテキストの単語数を表示します。",

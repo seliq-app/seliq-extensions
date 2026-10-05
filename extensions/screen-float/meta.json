@@ -22,6 +22,60 @@
     "pt-BR": "ScreenFloat",
     "ar": "ScreenFloat"
   },
+  "titles": {
+    "Capture selected text in ScreenFloat": {
+      "en": "Capture selected text in ScreenFloat",
+      "ko": "선택한 텍스트를 ScreenFloat로 캡처",
+      "ja": "選択したテキストをScreenFloatでキャプチャ",
+      "zh-Hans": "在 ScreenFloat 中捕获所选文本",
+      "zh-Hant": "在 ScreenFloat 中擷取所選文字",
+      "de": "Ausgewählten Text in ScreenFloat erfassen",
+      "fr": "Capturer le texte sélectionné dans ScreenFloat",
+      "es": "Capturar el texto seleccionado en ScreenFloat",
+      "it": "Cattura il testo selezionato in ScreenFloat",
+      "pt-BR": "Capturar o texto selecionado no ScreenFloat",
+      "ar": "التقاط النص المحدد في ScreenFloat"
+    },
+    "Capture a screenshot with ScreenFloat": {
+      "en": "Capture a screenshot with ScreenFloat",
+      "ko": "ScreenFloat로 스크린샷 캡처",
+      "ja": "ScreenFloatでスクリーンショットを撮影",
+      "zh-Hans": "使用 ScreenFloat 截屏",
+      "zh-Hant": "使用 ScreenFloat 截圖",
+      "de": "Bildschirmfoto mit ScreenFloat aufnehmen",
+      "fr": "Faire une capture d’écran avec ScreenFloat",
+      "es": "Capturar pantalla con ScreenFloat",
+      "it": "Cattura uno screenshot con ScreenFloat",
+      "pt-BR": "Fazer captura de tela com o ScreenFloat",
+      "ar": "التقاط لقطة شاشة باستخدام ScreenFloat"
+    },
+    "Capture a timed screenshot with ScreenFloat": {
+      "en": "Capture a timed screenshot with ScreenFloat",
+      "ko": "ScreenFloat로 타이머 스크린샷 캡처",
+      "ja": "ScreenFloatでタイマー付きスクリーンショットを撮影",
+      "zh-Hans": "使用 ScreenFloat 定时截屏",
+      "zh-Hant": "使用 ScreenFloat 定時截圖",
+      "de": "Zeitgesteuertes Bildschirmfoto mit ScreenFloat aufnehmen",
+      "fr": "Faire une capture d’écran différée avec ScreenFloat",
+      "es": "Capturar pantalla temporizada con ScreenFloat",
+      "it": "Cattura uno screenshot temporizzato con ScreenFloat",
+      "pt-BR": "Fazer captura de tela com temporizador no ScreenFloat",
+      "ar": "التقاط لقطة شاشة مؤقتة باستخدام ScreenFloat"
+    },
+    "Record your screen with ScreenFloat": {
+      "en": "Record your screen with ScreenFloat",
+      "ko": "ScreenFloat로 화면 녹화",
+      "ja": "ScreenFloatで画面を録画",
+      "zh-Hans": "使用 ScreenFloat 录屏",
+      "zh-Hant": "使用 ScreenFloat 錄製螢幕",
+      "de": "Bildschirm mit ScreenFloat aufzeichnen",
+      "fr": "Enregistrer l’écran avec ScreenFloat",
+      "es": "Grabar la pantalla con ScreenFloat",
+      "it": "Registra lo schermo con ScreenFloat",
+      "pt-BR": "Gravar a tela com o ScreenFloat",
+      "ar": "تسجيل الشاشة باستخدام ScreenFloat"
+    }
+  },
   "descriptions": {
     "ko": "ScreenFloat로 선택한 텍스트나 화면의 일부를 캡처합니다.",
     "ja": "ScreenFloatで選択したテキストまたはスクリーンの一部をキャプチャします。",

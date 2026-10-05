@@ -23,6 +23,21 @@
     "pt-BR": "Typinator",
     "ar": "Typinator"
   },
+  "titles": {
+    "Create Typinator Snippet": {
+      "en": "Create Typinator Snippet",
+      "ko": "Typinator 스니펫 만들기",
+      "ja": "Typinatorスニペットを作成",
+      "zh-Hans": "创建 Typinator 片段",
+      "zh-Hant": "建立 Typinator 片段",
+      "de": "Typinator-Snippet erstellen",
+      "fr": "Créer un snippet Typinator",
+      "es": "Crear fragmento de Typinator",
+      "it": "Crea snippet Typinator",
+      "pt-BR": "Criar snippet do Typinator",
+      "ar": "إنشاء مقتطف Typinator"
+    }
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 Typinator 확장을 만듭니다.",
     "ja": "選択したテキストでTypinatorの展開項目を作成します。",
