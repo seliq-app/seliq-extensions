@@ -17,7 +17,7 @@
     "pt-BR": "Procure o texto selecionado no Dicionário Francês de Naver.",
     "ar": "ابحث عن النص المحدد في قاموس Naver الفرنسي."
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "Seliq",
   "icon": "square filled Fr",
   "license": "MIT"

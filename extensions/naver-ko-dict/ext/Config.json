@@ -20,5 +20,119 @@
     "name": "Naver Korean Dictionary",
     "link": "https://ko.dict.naver.com/"
   },
-  "url": "https://ko.dict.naver.com/#/search?query=***"
+  "url": "https://ko.dict.naver.com/#/search?query=***",
+  "submenu": [
+    {
+      "title": {
+        "en": "Naver English Dictionary",
+        "ko": "네이버 영어사전",
+        "ja": "NAVER英語辞書",
+        "zh-Hans": "NAVER英语词典",
+        "zh-Hant": "NAVER英語辭典",
+        "de": "Naver Englisch-Wörterbuch",
+        "fr": "Dictionnaire d’anglais Naver",
+        "es": "Diccionario de inglés Naver"
+      },
+      "icon": "square filled En",
+      "url": "https://en.dict.naver.com/#/search?query=***"
+    },
+    {
+      "title": {
+        "en": "Naver English-English Dictionary",
+        "ko": "네이버 영영사전",
+        "ja": "NAVER英英辞書",
+        "zh-Hans": "NAVER英英词典",
+        "zh-Hant": "NAVER英英辭典",
+        "de": "Naver Englisch-Englisch-Wörterbuch",
+        "fr": "Dictionnaire anglais-anglais Naver",
+        "es": "Diccionario inglés-inglés Naver"
+      },
+      "icon": "square filled EE",
+      "url": "https://dict.naver.com/enendict/#/search?query=***"
+    },
+    {
+      "title": {
+        "en": "Naver Japanese Dictionary",
+        "ko": "네이버 일본어사전",
+        "ja": "NAVER日本語辞書",
+        "zh-Hans": "NAVER日语词典",
+        "zh-Hant": "NAVER日語辭典",
+        "de": "Naver Japanisch-Wörterbuch",
+        "fr": "Dictionnaire de japonais Naver",
+        "es": "Diccionario de japonés Naver"
+      },
+      "icon": "square filled あ",
+      "url": "https://ja.dict.naver.com/#/search?query=***"
+    },
+    {
+      "title": {
+        "en": "Naver Chinese Dictionary",
+        "ko": "네이버 중국어사전",
+        "ja": "NAVER中国語辞書",
+        "zh-Hans": "NAVER汉语词典",
+        "zh-Hant": "NAVER漢語辭典",
+        "de": "Naver Chinesisch-Wörterbuch",
+        "fr": "Dictionnaire de chinois Naver",
+        "es": "Diccionario de chino Naver"
+      },
+      "icon": "square filled 中",
+      "url": "https://zh.dict.naver.com/#/search?query=***"
+    },
+    {
+      "title": {
+        "en": "Naver Hanja Dictionary",
+        "ko": "네이버 한자사전",
+        "ja": "NAVER漢字辞書",
+        "zh-Hans": "NAVER汉字词典",
+        "zh-Hant": "NAVER漢字辭典",
+        "de": "Naver Hanja-Wörterbuch",
+        "fr": "Dictionnaire hanja Naver",
+        "es": "Diccionario hanja Naver"
+      },
+      "icon": "square filled 漢",
+      "url": "https://hanja.dict.naver.com/#/search?query=***"
+    },
+    {
+      "title": {
+        "en": "Naver French Dictionary",
+        "ko": "네이버 프랑스어사전",
+        "ja": "NAVERフランス語辞書",
+        "zh-Hans": "NAVER法语词典",
+        "zh-Hant": "NAVER法語辭典",
+        "de": "Naver Französisch-Wörterbuch",
+        "fr": "Dictionnaire de français Naver",
+        "es": "Diccionario de francés Naver"
+      },
+      "icon": "square filled Fr",
+      "url": "https://dict.naver.com/frkodict/#/search?query=***"
+    },
+    {
+      "title": {
+        "en": "Naver Spanish Dictionary",
+        "ko": "네이버 스페인어사전",
+        "ja": "NAVERスペイン語辞書",
+        "zh-Hans": "NAVER西班牙语词典",
+        "zh-Hant": "NAVER西班牙語辭典",
+        "de": "Naver Spanisch-Wörterbuch",
+        "fr": "Dictionnaire d’espagnol Naver",
+        "es": "Diccionario de español Naver"
+      },
+      "icon": "square filled Es",
+      "url": "https://dict.naver.com/eskodict/#/search?query=***"
+    },
+    {
+      "title": {
+        "en": "Naver German Dictionary",
+        "ko": "네이버 독일어사전",
+        "ja": "NAVERドイツ語辞書",
+        "zh-Hans": "NAVER德语词典",
+        "zh-Hant": "NAVER德語辭典",
+        "de": "Naver Deutsch-Wörterbuch",
+        "fr": "Dictionnaire d’allemand Naver",
+        "es": "Diccionario de alemán Naver"
+      },
+      "icon": "square filled De",
+      "url": "https://dict.naver.com/dekodict/#/search?query=***"
+    }
+  ]
 }
