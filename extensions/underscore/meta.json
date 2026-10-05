@@ -10,6 +10,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Underscore",
+    "ko": "밑줄",
+    "ja": "アンダースコア",
+    "zh-Hans": "下划线",
+    "zh-Hant": "底線",
+    "de": "Unterstrich",
+    "fr": "Tiret bas",
+    "es": "Guion bajo",
+    "it": "Trattino basso",
+    "pt-BR": "Sublinhado",
+    "ar": "شرطة سفلية"
+  },
   "descriptions": {
     "ko": "단어 사이의 공백을 언더스코어로 바꾸거나 그 반대를 수행합니다.",
     "ja": "単語間のスペースをアンダースコアに置き換えるか、その逆を実行します。",

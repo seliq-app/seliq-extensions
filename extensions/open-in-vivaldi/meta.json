@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Open in Vivaldi",
+    "ko": "Vivaldi에서 열기",
+    "ja": "Vivaldiで開く",
+    "zh-Hans": "在 Vivaldi 中打开",
+    "zh-Hant": "在 Vivaldi 中開啟",
+    "de": "In Vivaldi öffnen",
+    "fr": "Ouvrir dans Vivaldi",
+    "es": "Abrir en Vivaldi",
+    "it": "Apri in Vivaldi",
+    "pt-BR": "Abrir no Vivaldi",
+    "ar": "فتح في Vivaldi"
+  },
   "descriptions": {
     "ko": "링크를 Vivaldi에서 엽니다.",
     "ja": "リンクをVivaldiで開きます。",

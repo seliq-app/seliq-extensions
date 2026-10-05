@@ -11,6 +11,19 @@
     "play",
     "lookup"
   ],
+  "names": {
+    "en": "Apple Music",
+    "ko": "Apple Music",
+    "ja": "Apple Music",
+    "zh-Hans": "Apple Music",
+    "zh-Hant": "Apple Music",
+    "de": "Apple Music",
+    "fr": "Apple Music",
+    "es": "Apple Music",
+    "it": "Apple Music",
+    "pt-BR": "Apple Music",
+    "ar": "Apple Music"
+  },
   "descriptions": {
     "ko": "Apple Music에서 검색합니다.",
     "ja": "Apple Musicで検索します。",

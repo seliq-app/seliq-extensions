@@ -10,6 +10,19 @@
     "findPlace",
     "open"
   ],
+  "names": {
+    "en": "What3Words",
+    "ko": "What3Words",
+    "ja": "What3Words",
+    "zh-Hans": "What3Words",
+    "zh-Hant": "What3Words",
+    "de": "What3Words",
+    "fr": "What3Words",
+    "es": "What3Words",
+    "it": "What3Words",
+    "pt-BR": "What3Words",
+    "ar": "What3Words"
+  },
   "descriptions": {
     "ko": "what3words 주소를 웹에서 엽니다.",
     "ja": "what3wordsアドレスをウェブで開きます。",

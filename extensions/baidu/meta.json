@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Baidu",
+    "ko": "Baidu",
+    "ja": "Baidu",
+    "zh-Hans": "Baidu",
+    "zh-Hant": "Baidu",
+    "de": "Baidu",
+    "fr": "Baidu",
+    "es": "Baidu",
+    "it": "Baidu",
+    "pt-BR": "Baidu",
+    "ar": "Baidu"
+  },
   "descriptions": {
     "ko": "Baidu로 웹을 검색합니다.",
     "ja": "Baiduを使用してウェブを検索します。",

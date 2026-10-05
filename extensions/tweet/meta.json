@@ -10,6 +10,19 @@
   "intents": [
     "share"
   ],
+  "names": {
+    "en": "Tweet",
+    "ko": "트윗",
+    "ja": "ツイート",
+    "zh-Hans": "推文",
+    "zh-Hant": "推文",
+    "de": "Tweet",
+    "fr": "Tweet",
+    "es": "Tweet",
+    "it": "Tweet",
+    "pt-BR": "Tweet",
+    "ar": "تغريدة"
+  },
   "descriptions": {
     "ko": "OS X Twitter 서비스를 사용하여 새 트윗을 작성합니다. (2019년 10월 16일: macOS Catalina와의 호환성을 위한 업데이트)",
     "ja": "OS XのTwitterサービスを使用して新しいツイートを作成します。（2019年10月16日：macOS Catalinaとの互換性のための更新）",

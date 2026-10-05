@@ -9,6 +9,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Sentence Case",
+    "ko": "문장 첫 글자 대문자",
+    "ja": "文頭を大文字に",
+    "zh-Hans": "句首大写",
+    "zh-Hant": "句首大寫",
+    "de": "Satzanfang großschreiben",
+    "fr": "Majuscule en début de phrase",
+    "es": "Mayúscula inicial de oración",
+    "it": "Maiuscola a inizio frase",
+    "pt-BR": "Maiúscula no início da frase",
+    "ar": "حرف كبير في بداية الجملة"
+  },
   "descriptions": {
     "ko": "선택한 각 문장을 대문자로 시작하게 합니다.",
     "ja": "選択した各文を大文字で始めます。",

@@ -10,6 +10,19 @@
   "intents": [
     "runCommand"
   ],
+  "names": {
+    "en": "Terminal",
+    "ko": "터미널",
+    "ja": "ターミナル",
+    "zh-Hans": "终端",
+    "zh-Hant": "終端機",
+    "de": "Terminal",
+    "fr": "Terminal",
+    "es": "Terminal",
+    "it": "Terminale",
+    "pt-BR": "Terminal",
+    "ar": "الطرفية"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 활성 터미널 창에서 선택적 앞/뒤 텍스트와 함께 명령으로 실행합니다. Terminal, iTerm2, Warp, Ghostty, kitty, cmux를 지원합니다.",
     "ja": "選択したテキストをアクティブなターミナルウィンドウで、オプションの前置/後置テキスト付きコマンドとして実行します。Terminal、iTerm2、Warp、Ghostty、kitty、cmuxをサポートします。",

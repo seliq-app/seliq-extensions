@@ -10,6 +10,19 @@
   "intents": [
     "findPlace"
   ],
+  "names": {
+    "en": "Maps",
+    "ko": "지도",
+    "ja": "マップ",
+    "zh-Hans": "地图",
+    "zh-Hant": "地圖",
+    "de": "Karten",
+    "fr": "Plans",
+    "es": "Mapas",
+    "it": "Mappe",
+    "pt-BR": "Mapas",
+    "ar": "الخرائط"
+  },
   "descriptions": {
     "ko": "지도 앱을 검색합니다.",
     "ja": "マップアプリを検索します。",

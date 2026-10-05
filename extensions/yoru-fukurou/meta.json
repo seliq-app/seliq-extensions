@@ -10,6 +10,19 @@
   "intents": [
     "share"
   ],
+  "names": {
+    "en": "YoruFukurou",
+    "ko": "YoruFukurou",
+    "ja": "YoruFukurou",
+    "zh-Hans": "YoruFukurou",
+    "zh-Hant": "YoruFukurou",
+    "de": "YoruFukurou",
+    "fr": "YoruFukurou",
+    "es": "YoruFukurou",
+    "it": "YoruFukurou",
+    "pt-BR": "YoruFukurou",
+    "ar": "YoruFukurou"
+  },
   "descriptions": {
     "ko": "YoruFukurou를 사용하여 새 트윗을 작성합니다.",
     "ja": "YoruFukurouを使用して新しいツイートを作成します。",

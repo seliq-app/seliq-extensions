@@ -11,6 +11,19 @@
     "developer",
     "saveForLater"
   ],
+  "names": {
+    "en": "TextMate",
+    "ko": "TextMate",
+    "ja": "TextMate",
+    "zh-Hans": "TextMate",
+    "zh-Hant": "TextMate",
+    "de": "TextMate",
+    "fr": "TextMate",
+    "es": "TextMate",
+    "it": "TextMate",
+    "pt-BR": "TextMate",
+    "ar": "TextMate"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 TextMate에서 새 파일로 엽니다.",
     "ja": "選択したテキストをTextMateの新しいファイルとして開きます。",

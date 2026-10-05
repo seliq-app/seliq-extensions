@@ -7,6 +7,19 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/PasteAndEnter.popclipext",
   "origin": "popclip",
+  "names": {
+    "en": "Paste and Enter",
+    "ko": "붙여넣고 Return",
+    "ja": "ペーストして Return",
+    "zh-Hans": "粘贴并按 Return",
+    "zh-Hant": "貼上並按 Return",
+    "de": "Einsetzen und Return",
+    "fr": "Coller et Retour",
+    "es": "Pegar y Retorno",
+    "it": "Incolla e Invio",
+    "pt-BR": "Colar e Return",
+    "ar": "لصق ثم Return"
+  },
   "descriptions": {
     "ko": "PopClip이 붙여넣기 후 Return (↵) 키를 눌러줍니다.",
     "ja": "PopClipが貼り付けてReturn（↵）キーを押します。",

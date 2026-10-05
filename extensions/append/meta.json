@@ -11,6 +11,19 @@
     "cleanup",
     "justCopy"
   ],
+  "names": {
+    "en": "Append to Clipboard",
+    "ko": "클립보드에 추가",
+    "ja": "クリップボードに追加",
+    "zh-Hans": "追加到剪贴板",
+    "zh-Hant": "加入剪貼簿",
+    "de": "An Zwischenablage anhängen",
+    "fr": "Ajouter au presse-papiers",
+    "es": "Añadir al portapapeles",
+    "it": "Aggiungi agli appunti",
+    "pt-BR": "Anexar à área de transferência",
+    "ar": "إلحاق بالحافظة"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 기존 클립보드 내용과 결합합니다.",
     "ja": "選択したテキストを既存のクリップボード内容と結合します。",

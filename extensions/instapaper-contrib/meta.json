@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Instapaper",
+    "ko": "Instapaper",
+    "ja": "Instapaper",
+    "zh-Hans": "Instapaper",
+    "zh-Hant": "Instapaper",
+    "de": "Instapaper",
+    "fr": "Instapaper",
+    "es": "Instapaper",
+    "it": "Instapaper",
+    "pt-BR": "Instapaper",
+    "ar": "Instapaper"
+  },
   "descriptions": {
     "ko": "나중에 읽기 위해 Instapaper에 URL을 저장합니다.",
     "ja": "後で読むためにInstapaperにURLを保存します。",

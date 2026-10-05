@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Kagi Translate",
+    "ko": "Kagi 번역",
+    "ja": "Kagi 翻訳",
+    "zh-Hans": "Kagi 翻译",
+    "zh-Hant": "Kagi 翻譯",
+    "de": "Kagi Übersetzer",
+    "fr": "Kagi Traduction",
+    "es": "Kagi Traductor",
+    "it": "Kagi Traduttore",
+    "pt-BR": "Kagi Tradutor",
+    "ar": "ترجمة Kagi"
+  },
   "descriptions": {
     "ko": "Kagi Translate를 사용하여 텍스트 또는 URL을 번역합니다.",
     "ja": "Kagi Translateを使用してテキストまたはURLを翻訳します。",

@@ -7,6 +7,19 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestDynamic.popclipext",
   "origin": "popclip",
+  "names": {
+    "en": "TestDynamic",
+    "ko": "TestDynamic",
+    "ja": "TestDynamic",
+    "zh-Hans": "TestDynamic",
+    "zh-Hant": "TestDynamic",
+    "de": "TestDynamic",
+    "fr": "TestDynamic",
+    "es": "TestDynamic",
+    "it": "TestDynamic",
+    "pt-BR": "TestDynamic",
+    "ar": "TestDynamic"
+  },
   "descriptions": {
     "ko": "TestDynamic",
     "ja": "TestDynamic",

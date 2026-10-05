@@ -11,6 +11,19 @@
     "share",
     "contact"
   ],
+  "names": {
+    "en": "Slack",
+    "ko": "Slack",
+    "ja": "Slack",
+    "zh-Hans": "Slack",
+    "zh-Hant": "Slack",
+    "de": "Slack",
+    "fr": "Slack",
+    "es": "Slack",
+    "it": "Slack",
+    "pt-BR": "Slack",
+    "ar": "Slack"
+  },
   "descriptions": {
     "ko": "선택 항목을 Slack의 채널에 게시합니다.",
     "ja": "選択内容をSlackのチャネルに投稿します。",

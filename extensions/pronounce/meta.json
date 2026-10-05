@@ -11,6 +11,19 @@
     "pronounce",
     "define"
   ],
+  "names": {
+    "en": "Pronounce",
+    "ko": "발음 듣기",
+    "ja": "発音",
+    "zh-Hans": "发音",
+    "zh-Hant": "發音",
+    "de": "Aussprache",
+    "fr": "Prononciation",
+    "es": "Pronunciar",
+    "it": "Pronuncia",
+    "pt-BR": "Pronunciar",
+    "ar": "النطق"
+  },
   "descriptions": {
     "ko": "Dictionary.com을 사용하여 선택한 단어의 영어 발음을 제공합니다. 영어 학습자를 위한 \"Say\"의 대안입니다.",
     "ja": "Dictionary.comを使用して、選択した単語の英語の発音を再生します。英語学習者向けの \"Say\" の代替機能です。",

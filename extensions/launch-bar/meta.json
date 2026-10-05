@@ -11,6 +11,19 @@
     "open",
     "lookup"
   ],
+  "names": {
+    "en": "LaunchBar",
+    "ko": "LaunchBar",
+    "ja": "LaunchBar",
+    "zh-Hans": "LaunchBar",
+    "zh-Hant": "LaunchBar",
+    "de": "LaunchBar",
+    "fr": "LaunchBar",
+    "es": "LaunchBar",
+    "it": "LaunchBar",
+    "pt-BR": "LaunchBar",
+    "ar": "LaunchBar"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 LaunchBar를 활성화합니다.",
     "ja": "選択したテキストでLaunchBarを起動します。",

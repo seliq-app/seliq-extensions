@@ -7,6 +7,19 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/Return.popclipext",
   "origin": "popclip",
+  "names": {
+    "en": "Return",
+    "ko": "Return",
+    "ja": "Return",
+    "zh-Hans": "Return",
+    "zh-Hant": "Return",
+    "de": "Return",
+    "fr": "Return",
+    "es": "Return",
+    "it": "Return",
+    "pt-BR": "Return",
+    "ar": "Return"
+  },
   "descriptions": {
     "ko": "Return 키를 누릅니다.",
     "ja": "Returnキーを押します。",

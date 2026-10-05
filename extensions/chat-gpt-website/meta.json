@@ -9,6 +9,19 @@
   "intents": [
     "askAI"
   ],
+  "names": {
+    "en": "ChatGPT Website",
+    "ko": "ChatGPT 웹사이트",
+    "ja": "ChatGPT ウェブサイト",
+    "zh-Hans": "ChatGPT 网站",
+    "zh-Hant": "ChatGPT 網站",
+    "de": "ChatGPT-Website",
+    "fr": "Site web ChatGPT",
+    "es": "Sitio web de ChatGPT",
+    "it": "Sito web ChatGPT",
+    "pt-BR": "Site do ChatGPT",
+    "ar": "موقع ChatGPT"
+  },
   "descriptions": {
     "ko": "ChatGPT 웹사이트에서 새 대화를 시작합니다.",
     "ja": "ChatGPTウェブサイトで新しいチャットを開始します。",

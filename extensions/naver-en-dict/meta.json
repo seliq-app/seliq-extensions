@@ -5,6 +5,19 @@
     "define",
     "translate"
   ],
+  "names": {
+    "en": "Naver English Dictionary",
+    "ko": "네이버 영어사전",
+    "ja": "NAVER英語辞書",
+    "zh-Hans": "NAVER英语词典",
+    "zh-Hant": "NAVER英語辭典",
+    "de": "Naver Englisch-Wörterbuch",
+    "fr": "Dictionnaire d’anglais Naver",
+    "es": "Diccionario de inglés Naver",
+    "it": "Naver Dizionario di inglese",
+    "pt-BR": "Naver Dicionário de inglês",
+    "ar": "قاموس Naver الإنجليزي"
+  },
   "descriptions": {
     "ko": "선택한 글을 네이버 영어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVER英語辞書で調べます。",

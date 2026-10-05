@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "nvALT",
+    "ko": "nvALT",
+    "ja": "nvALT",
+    "zh-Hans": "nvALT",
+    "zh-Hant": "nvALT",
+    "de": "nvALT",
+    "fr": "nvALT",
+    "es": "nvALT",
+    "it": "nvALT",
+    "pt-BR": "nvALT",
+    "ar": "nvALT"
+  },
   "descriptions": {
     "ko": "nvALT에서 노트를 만듭니다.",
     "ja": "nvALTでノートを作成します。",

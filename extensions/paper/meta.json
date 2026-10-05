@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Paper",
+    "ko": "Paper",
+    "ja": "Paper",
+    "zh-Hans": "Paper",
+    "zh-Hant": "Paper",
+    "de": "Paper",
+    "fr": "Paper",
+    "es": "Paper",
+    "it": "Paper",
+    "pt-BR": "Paper",
+    "ar": "Paper"
+  },
   "descriptions": {
     "ko": "Paper에서 새 문서를 만듭니다.",
     "ja": "Paperで新しいドキュメントを作成します。",

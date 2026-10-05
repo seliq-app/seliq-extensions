@@ -10,6 +10,19 @@
     "pronounce",
     "reformat"
   ],
+  "names": {
+    "en": "Show In NATO Alphabet",
+    "ko": "NATO 알파벳으로 보기",
+    "ja": "NATOフォネティックコードで表示",
+    "zh-Hans": "以 NATO 字母表显示",
+    "zh-Hant": "以 NATO 字母表顯示",
+    "de": "Im NATO-Alphabet anzeigen",
+    "fr": "Afficher en alphabet NATO",
+    "es": "Mostrar en alfabeto NATO",
+    "it": "Mostra in alfabeto NATO",
+    "pt-BR": "Mostrar em alfabeto NATO",
+    "ar": "عرض بالأبجدية NATO"
+  },
   "descriptions": {
     "ko": "Show In NATO Alphabet",
     "ja": "Show In NATO Alphabet",

@@ -11,6 +11,19 @@
     "define",
     "translate"
   ],
+  "names": {
+    "en": "Eudic",
+    "ko": "Eudic",
+    "ja": "Eudic",
+    "zh-Hans": "Eudic",
+    "zh-Hant": "Eudic",
+    "de": "Eudic",
+    "fr": "Eudic",
+    "es": "Eudic",
+    "it": "Eudic",
+    "pt-BR": "Eudic",
+    "ar": "Eudic"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 중영사전 Eudic에서 검색합니다.",
     "ja": "中英辞書のEudicで選択したテキストを検索します。",

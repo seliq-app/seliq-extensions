@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "TestPWAuth",
+    "ko": "TestPWAuth",
+    "ja": "TestPWAuth",
+    "zh-Hans": "TestPWAuth",
+    "zh-Hant": "TestPWAuth",
+    "de": "TestPWAuth",
+    "fr": "TestPWAuth",
+    "es": "TestPWAuth",
+    "it": "TestPWAuth",
+    "pt-BR": "TestPWAuth",
+    "ar": "TestPWAuth"
+  },
   "descriptions": {
     "ko": "TestPWAuth",
     "ja": "TestPWAuth",

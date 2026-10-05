@@ -9,6 +9,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Example 2",
+    "ko": "예시 2",
+    "ja": "例 2",
+    "zh-Hans": "示例 2",
+    "zh-Hant": "範例 2",
+    "de": "Beispiel 2",
+    "fr": "Exemple 2",
+    "es": "Ejemplo 2",
+    "it": "Esempio 2",
+    "pt-BR": "Exemplo 2",
+    "ar": "مثال 2"
+  },
   "descriptions": {
     "ko": "Example 2",
     "ja": "Example 2",

@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "AS Result",
+    "ko": "AS 결과",
+    "ja": "AS 結果",
+    "zh-Hans": "AS 结果",
+    "zh-Hant": "AS 結果",
+    "de": "AS-Ergebnis",
+    "fr": "Résultat AS",
+    "es": "Resultado AS",
+    "it": "Risultato AS",
+    "pt-BR": "Resultado AS",
+    "ar": "نتيجة AS"
+  },
   "descriptions": {
     "ko": "AppleScript 결과 반환을 테스트합니다.",
     "ja": "結果を返すAppleScriptをテストします。",

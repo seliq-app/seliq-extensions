@@ -10,6 +10,19 @@
   "intents": [
     "define"
   ],
+  "names": {
+    "en": "Vocabulary.com",
+    "ko": "Vocabulary.com",
+    "ja": "Vocabulary.com",
+    "zh-Hans": "Vocabulary.com",
+    "zh-Hant": "Vocabulary.com",
+    "de": "Vocabulary.com",
+    "fr": "Vocabulary.com",
+    "es": "Vocabulary.com",
+    "it": "Vocabulary.com",
+    "pt-BR": "Vocabulary.com",
+    "ar": "Vocabulary.com"
+  },
   "descriptions": {
     "ko": "Vocabulary.com에서 단어를 조회합니다.",
     "ja": "Vocabulary.comで単語を調べます。",

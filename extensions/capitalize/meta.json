@@ -9,6 +9,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Capitalize Words",
+    "ko": "단어 첫 글자 대문자로",
+    "ja": "単語の先頭を大文字に",
+    "zh-Hans": "单词首字母大写",
+    "zh-Hant": "單字首字母大寫",
+    "de": "Wörter großschreiben",
+    "fr": "Mettre les mots en majuscule",
+    "es": "Palabras en mayúscula inicial",
+    "it": "Iniziali maiuscole",
+    "pt-BR": "Iniciais maiúsculas",
+    "ar": "تكبير أول حرف من الكلمات"
+  },
   "descriptions": {
     "ko": "선택한 각 단어의 첫 글자를 대문자로 만듭니다.",
     "ja": "選択した各単語の先頭を大文字にします。",

@@ -11,6 +11,19 @@
     "findPerson",
     "lookup"
   ],
+  "names": {
+    "en": "LinkedIn",
+    "ko": "LinkedIn",
+    "ja": "LinkedIn",
+    "zh-Hans": "LinkedIn",
+    "zh-Hant": "LinkedIn",
+    "de": "LinkedIn",
+    "fr": "LinkedIn",
+    "es": "LinkedIn",
+    "it": "LinkedIn",
+    "pt-BR": "LinkedIn",
+    "ar": "LinkedIn"
+  },
   "descriptions": {
     "ko": "LinkedIn에서 선택한 이름을 검색합니다.",
     "ja": "LinkedInで選択した名前を検索します。",

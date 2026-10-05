@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Reveal in QSpace Pro",
+    "ko": "QSpace Pro에서 보기",
+    "ja": "QSpace Pro で表示",
+    "zh-Hans": "在 QSpace Pro 中显示",
+    "zh-Hant": "在 QSpace Pro 中顯示",
+    "de": "In QSpace Pro anzeigen",
+    "fr": "Afficher dans QSpace Pro",
+    "es": "Mostrar en QSpace Pro",
+    "it": "Mostra in QSpace Pro",
+    "pt-BR": "Mostrar no QSpace Pro",
+    "ar": "إظهار في QSpace Pro"
+  },
   "descriptions": {
     "ko": "QSpace Pro에서 파일을 표시합니다.",
     "ja": "QSpace Proでファイルを表示します。",

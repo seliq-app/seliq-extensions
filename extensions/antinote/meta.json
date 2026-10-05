@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Antinote",
+    "ko": "Antinote",
+    "ja": "Antinote",
+    "zh-Hans": "Antinote",
+    "zh-Hant": "Antinote",
+    "de": "Antinote",
+    "fr": "Antinote",
+    "es": "Antinote",
+    "it": "Antinote",
+    "pt-BR": "Antinote",
+    "ar": "Antinote"
+  },
   "descriptions": {
     "ko": "Antinote에서 새 노트를 만듭니다.",
     "ja": "Antinoteで新しいノートを作成します。",

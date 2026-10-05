@@ -10,6 +10,19 @@
   "intents": [
     "saveContact"
   ],
+  "names": {
+    "en": "BusyContacts",
+    "ko": "BusyContacts",
+    "ja": "BusyContacts",
+    "zh-Hans": "BusyContacts",
+    "zh-Hant": "BusyContacts",
+    "de": "BusyContacts",
+    "fr": "BusyContacts",
+    "es": "BusyContacts",
+    "it": "BusyContacts",
+    "pt-BR": "BusyContacts",
+    "ar": "BusyContacts"
+  },
   "descriptions": {
     "ko": "BusyContacts에서 새 연락처를 만듭니다.",
     "ja": "BusyContactsで新しい連絡先を作成します。",

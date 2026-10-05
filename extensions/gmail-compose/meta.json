@@ -10,6 +10,19 @@
   "intents": [
     "contact"
   ],
+  "names": {
+    "en": "Gmail Compose",
+    "ko": "Gmail 작성",
+    "ja": "Gmail 作成",
+    "zh-Hans": "Gmail 撰写",
+    "zh-Hant": "Gmail 撰寫",
+    "de": "Gmail verfassen",
+    "fr": "Rédiger dans Gmail",
+    "es": "Redactar en Gmail",
+    "it": "Scrivi con Gmail",
+    "pt-BR": "Escrever no Gmail",
+    "ar": "إنشاء رسالة Gmail"
+  },
   "descriptions": {
     "ko": "선택한 이메일 주소로 Gmail 작성 창을 엽니다.",
     "ja": "選択したメールアドレスでGmailの作成ウィンドウを開きます。",

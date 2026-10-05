@@ -11,6 +11,19 @@
     "play",
     "lookup"
   ],
+  "names": {
+    "en": "Audible",
+    "ko": "Audible",
+    "ja": "Audible",
+    "zh-Hans": "Audible",
+    "zh-Hant": "Audible",
+    "de": "Audible",
+    "fr": "Audible",
+    "es": "Audible",
+    "it": "Audible",
+    "pt-BR": "Audible",
+    "ar": "Audible"
+  },
   "descriptions": {
     "ko": "Audible에서 오디오북을 검색합니다.",
     "ja": "Audibleでオーディオブックを検索します。",

@@ -11,6 +11,19 @@
     "list",
     "reformat"
   ],
+  "names": {
+    "en": "Comma List",
+    "ko": "쉼표 목록",
+    "ja": "カンマ区切りリスト",
+    "zh-Hans": "逗号列表",
+    "zh-Hant": "逗號清單",
+    "de": "Kommaliste",
+    "fr": "Liste à virgules",
+    "es": "Lista con comas",
+    "it": "Elenco con virgole",
+    "pt-BR": "Lista com vírgulas",
+    "ar": "قائمة مفصولة بفواصل"
+  },
   "descriptions": {
     "ko": "쉼표로 구분된 목록을 개별 줄로 분할하거나 그 반대로 변환합니다.",
     "ja": "カンマ区切りのリストを個別の行に分割し、その逆も行います。",

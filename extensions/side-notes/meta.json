@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "SideNotes",
+    "ko": "SideNotes",
+    "ja": "SideNotes",
+    "zh-Hans": "SideNotes",
+    "zh-Hant": "SideNotes",
+    "de": "SideNotes",
+    "fr": "SideNotes",
+    "es": "SideNotes",
+    "it": "SideNotes",
+    "pt-BR": "SideNotes",
+    "ar": "SideNotes"
+  },
   "descriptions": {
     "ko": "SideNotes에서 노트를 만듭니다.",
     "ja": "SideNotesでノートを作成します。",

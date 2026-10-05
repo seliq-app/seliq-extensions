@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Kagi",
+    "ko": "Kagi",
+    "ja": "Kagi",
+    "zh-Hans": "Kagi",
+    "zh-Hant": "Kagi",
+    "de": "Kagi",
+    "fr": "Kagi",
+    "es": "Kagi",
+    "it": "Kagi",
+    "pt-BR": "Kagi",
+    "ar": "Kagi"
+  },
   "descriptions": {
     "ko": "Kagi를 사용하여 웹을 검색합니다.",
     "ja": "Kagiを使用してウェブを検索します。",

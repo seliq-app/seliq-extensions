@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Simplenote",
+    "ko": "Simplenote",
+    "ja": "Simplenote",
+    "zh-Hans": "Simplenote",
+    "zh-Hant": "Simplenote",
+    "de": "Simplenote",
+    "fr": "Simplenote",
+    "es": "Simplenote",
+    "it": "Simplenote",
+    "pt-BR": "Simplenote",
+    "ar": "Simplenote"
+  },
   "descriptions": {
     "ko": "텍스트를 Simplenote로 보냅니다.",
     "ja": "テキストをSimplenoteに送信します。",

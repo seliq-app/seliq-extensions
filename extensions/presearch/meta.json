@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Presearch",
+    "ko": "Presearch",
+    "ja": "Presearch",
+    "zh-Hans": "Presearch",
+    "zh-Hant": "Presearch",
+    "de": "Presearch",
+    "fr": "Presearch",
+    "es": "Presearch",
+    "it": "Presearch",
+    "pt-BR": "Presearch",
+    "ar": "Presearch"
+  },
   "descriptions": {
     "ko": "분산형 검색 엔진 Presearch에서 검색합니다.",
     "ja": "分散型検索エンジンPresearchを検索します。",

@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Twitter Search",
+    "ko": "Twitter 검색",
+    "ja": "Twitter 検索",
+    "zh-Hans": "Twitter 搜索",
+    "zh-Hant": "Twitter 搜尋",
+    "de": "Twitter-Suche",
+    "fr": "Recherche Twitter",
+    "es": "Búsqueda en Twitter",
+    "it": "Cerca su Twitter",
+    "pt-BR": "Pesquisa no Twitter",
+    "ar": "بحث Twitter"
+  },
   "descriptions": {
     "ko": "Twitter에서 전 세계 트윗을 검색합니다.",
     "ja": "Twitter上の世界中のツイートを検索します。",

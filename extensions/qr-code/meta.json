@@ -10,6 +10,19 @@
   "intents": [
     "makeQR"
   ],
+  "names": {
+    "en": "QR Code",
+    "ko": "QR 코드",
+    "ja": "QRコード",
+    "zh-Hans": "QR 码",
+    "zh-Hant": "QR 碼",
+    "de": "QR-Code",
+    "fr": "Code QR",
+    "es": "Código QR",
+    "it": "Codice QR",
+    "pt-BR": "Código QR",
+    "ar": "رمز QR"
+  },
   "descriptions": {
     "ko": "QR 코드를 만들고 표시합니다.",
     "ja": "QRコードを生成して表示します。",

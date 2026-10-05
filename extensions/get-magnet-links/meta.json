@@ -11,6 +11,19 @@
     "list",
     "open"
   ],
+  "names": {
+    "en": "Magnet",
+    "ko": "마그넷",
+    "ja": "マグネット",
+    "zh-Hans": "磁力链接",
+    "zh-Hant": "磁力連結",
+    "de": "Magnet",
+    "fr": "Magnet",
+    "es": "Magnet",
+    "it": "Magnet",
+    "pt-BR": "Magnet",
+    "ar": "ماغنت"
+  },
   "descriptions": {
     "ko": "선택한 텍스트에서 마그넷 URL을 가져옵니다.",
     "ja": "選択したテキストからマグネットURLを取得します。",

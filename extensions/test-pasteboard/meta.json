@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "TestPasteboard",
+    "ko": "TestPasteboard",
+    "ja": "TestPasteboard",
+    "zh-Hans": "TestPasteboard",
+    "zh-Hant": "TestPasteboard",
+    "de": "TestPasteboard",
+    "fr": "TestPasteboard",
+    "es": "TestPasteboard",
+    "it": "TestPasteboard",
+    "pt-BR": "TestPasteboard",
+    "ar": "TestPasteboard"
+  },
   "descriptions": {
     "ko": "TestPasteboard",
     "ja": "TestPasteboard",

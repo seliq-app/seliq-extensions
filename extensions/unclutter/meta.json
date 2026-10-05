@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Unclutter",
+    "ko": "Unclutter",
+    "ja": "Unclutter",
+    "zh-Hans": "Unclutter",
+    "zh-Hant": "Unclutter",
+    "de": "Unclutter",
+    "fr": "Unclutter",
+    "es": "Unclutter",
+    "it": "Unclutter",
+    "pt-BR": "Unclutter",
+    "ar": "Unclutter"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 새 Unclutter 노트를 만듭니다.",
     "ja": "選択したテキストで新しいUnclutterノートを作成します。",

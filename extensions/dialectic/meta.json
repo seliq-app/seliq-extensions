@@ -10,6 +10,19 @@
   "intents": [
     "contact"
   ],
+  "names": {
+    "en": "Dialectic",
+    "ko": "Dialectic",
+    "ja": "Dialectic",
+    "zh-Hans": "Dialectic",
+    "zh-Hant": "Dialectic",
+    "de": "Dialectic",
+    "fr": "Dialectic",
+    "es": "Dialectic",
+    "it": "Dialectic",
+    "pt-BR": "Dialectic",
+    "ar": "Dialectic"
+  },
   "descriptions": {
     "ko": "Dialectic으로 전화번호를 겁니다.",
     "ja": "Dialecticで電話番号をダイヤルします。",

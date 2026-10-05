@@ -10,6 +10,19 @@
   "intents": [
     "define"
   ],
+  "names": {
+    "en": "Online Dictionary",
+    "ko": "온라인 사전",
+    "ja": "オンライン辞書",
+    "zh-Hans": "在线词典",
+    "zh-Hant": "線上字典",
+    "de": "Online-Lexikon",
+    "fr": "Dictionnaire en ligne",
+    "es": "Diccionario en línea",
+    "it": "Dizionario online",
+    "pt-BR": "Dicionário online",
+    "ar": "قاموس على الإنترنت"
+  },
   "descriptions": {
     "ko": "선택한 단어를 온라인 사전에서 검색합니다. Dictionary.com, Merriam Webster Online, Oxford Advanced Learner's Dictionary, Youdao, dict.cn, dict.cc 등을 포함합니다.",
     "ja": "選択した単語をオンライン辞書で検索します。Dictionary.com、Merriam Webster Online、Oxford Advanced Learner's Dictionary、Youdao、dict.cn、dict.ccなどを含みます。",

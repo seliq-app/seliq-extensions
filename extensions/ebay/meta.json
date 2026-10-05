@@ -11,6 +11,19 @@
     "shop",
     "lookup"
   ],
+  "names": {
+    "en": "Ebay",
+    "ko": "Ebay",
+    "ja": "Ebay",
+    "zh-Hans": "Ebay",
+    "zh-Hant": "Ebay",
+    "de": "Ebay",
+    "fr": "Ebay",
+    "es": "Ebay",
+    "it": "Ebay",
+    "pt-BR": "Ebay",
+    "ar": "Ebay"
+  },
   "descriptions": {
     "ko": "Ebay에서 판매 항목을 검색합니다.",
     "ja": "eBayで販売商品を検索します。",

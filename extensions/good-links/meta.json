@@ -9,6 +9,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "GoodLinks",
+    "ko": "GoodLinks",
+    "ja": "GoodLinks",
+    "zh-Hans": "GoodLinks",
+    "zh-Hant": "GoodLinks",
+    "de": "GoodLinks",
+    "fr": "GoodLinks",
+    "es": "GoodLinks",
+    "it": "GoodLinks",
+    "pt-BR": "GoodLinks",
+    "ar": "GoodLinks"
+  },
   "descriptions": {
     "ko": "URL을 GoodLinks에 저장합니다.",
     "ja": "URLをGoodLinksに保存します。",

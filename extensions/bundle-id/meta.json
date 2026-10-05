@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "Bundle ID",
+    "ko": "번들 ID",
+    "ja": "バンドル ID",
+    "zh-Hans": "Bundle ID",
+    "zh-Hant": "Bundle ID",
+    "de": "Bundle-ID",
+    "fr": "Bundle ID",
+    "es": "Bundle ID",
+    "it": "Bundle ID",
+    "pt-BR": "Bundle ID",
+    "ar": "Bundle ID"
+  },
   "descriptions": {
     "ko": "앱의 번들 식별자를 표시합니다.",
     "ja": "アプリのバンドル識別子を表示します。",

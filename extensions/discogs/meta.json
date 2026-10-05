@@ -11,6 +11,19 @@
     "lookup",
     "play"
   ],
+  "names": {
+    "en": "Discogs",
+    "ko": "Discogs",
+    "ja": "Discogs",
+    "zh-Hans": "Discogs",
+    "zh-Hant": "Discogs",
+    "de": "Discogs",
+    "fr": "Discogs",
+    "es": "Discogs",
+    "it": "Discogs",
+    "pt-BR": "Discogs",
+    "ar": "Discogs"
+  },
   "descriptions": {
     "ko": "Discogs에서 음악 데이터를 검색합니다.",
     "ja": "Discogsで音楽データを検索します。",

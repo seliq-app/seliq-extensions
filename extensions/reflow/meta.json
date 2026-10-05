@@ -10,6 +10,19 @@
     "cleanup",
     "runCommand"
   ],
+  "names": {
+    "en": "Reflow",
+    "ko": "줄 바꿈 정리",
+    "ja": "リフロー",
+    "zh-Hans": "重排文本",
+    "zh-Hant": "重排文字",
+    "de": "Neu umbrechen",
+    "fr": "Reformater",
+    "es": "Reajustar texto",
+    "it": "Riformatta",
+    "pt-BR": "Reformatar",
+    "ar": "إعادة التنسيق"
+  },
   "descriptions": {
     "ko": "프롬프트 제거, 줄 바꿈 수정, 단락 연결로 지저분한 터미널 붙여넣기를 정리합니다.",
     "ja": "プロンプトの削除、改行の修正、段落の結合によって、乱雑なターミナルの貼り付けテキストを整えます。",

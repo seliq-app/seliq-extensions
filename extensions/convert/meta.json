@@ -10,6 +10,19 @@
   "intents": [
     "convert"
   ],
+  "names": {
+    "en": "Convert",
+    "ko": "단위 변환",
+    "ja": "単位変換",
+    "zh-Hans": "单位换算",
+    "zh-Hant": "單位換算",
+    "de": "Umrechnen",
+    "fr": "Convertir",
+    "es": "Convertir",
+    "it": "Converti",
+    "pt-BR": "Converter",
+    "ar": "تحويل"
+  },
   "descriptions": {
     "ko": "미터법 단위의 수량을 미국/영국식 단위로 변환하거나 그 반대로 변환합니다. lb↔kg, oz↔g, 마일↔km, 피트/야드↔m, 인치↔mm/cm, °F↔°C를 지원합니다.",
     "ja": "メートル法の単位の数量を米国/英国式（ヤード・ポンド法）の単位に変換し、その逆も行います。lb↔kg、oz↔g、マイル↔km、フィート/ヤード↔m、インチ↔mm/cm、°F↔°Cをサポートします。",

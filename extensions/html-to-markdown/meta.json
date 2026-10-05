@@ -11,6 +11,19 @@
     "reformat",
     "developer"
   ],
+  "names": {
+    "en": "HTML→Markdown",
+    "ko": "HTML→Markdown",
+    "ja": "HTML→Markdown",
+    "zh-Hans": "HTML→Markdown",
+    "zh-Hant": "HTML→Markdown",
+    "de": "HTML→Markdown",
+    "fr": "HTML→Markdown",
+    "es": "HTML→Markdown",
+    "it": "HTML→Markdown",
+    "pt-BR": "HTML→Markdown",
+    "ar": "HTML→Markdown"
+  },
   "descriptions": {
     "ko": "HTML(소스 코드 및 웹 콘텐츠)를 Markdown으로 변환합니다.",
     "ja": "HTML（ソースコードとウェブコンテンツ）をMarkdownに変換します。",

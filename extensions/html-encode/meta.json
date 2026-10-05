@@ -10,6 +10,19 @@
     "developer",
     "reformat"
   ],
+  "names": {
+    "en": "HTML Encode",
+    "ko": "HTML 인코딩",
+    "ja": "HTMLエンコード",
+    "zh-Hans": "HTML 编码",
+    "zh-Hant": "HTML 編碼",
+    "de": "HTML-Kodierung",
+    "fr": "Encodage HTML",
+    "es": "Codificación HTML",
+    "it": "Codifica HTML",
+    "pt-BR": "Codificação HTML",
+    "ar": "ترميز HTML"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 HTML 인코딩하거나 디코딩합니다.",
     "ja": "選択したテキストをHTMLエンコードまたはデコードします。",

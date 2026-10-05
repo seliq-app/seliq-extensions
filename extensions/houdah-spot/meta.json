@@ -11,6 +11,19 @@
     "lookup",
     "open"
   ],
+  "names": {
+    "en": "HoudahSpot",
+    "ko": "HoudahSpot",
+    "ja": "HoudahSpot",
+    "zh-Hans": "HoudahSpot",
+    "zh-Hant": "HoudahSpot",
+    "de": "HoudahSpot",
+    "fr": "HoudahSpot",
+    "es": "HoudahSpot",
+    "it": "HoudahSpot",
+    "pt-BR": "HoudahSpot",
+    "ar": "HoudahSpot"
+  },
   "descriptions": {
     "ko": "HoudahSpot으로 Mac의 파일을 검색합니다.",
     "ja": "HoudahSpotを使用してMac上のファイルを検索します。",

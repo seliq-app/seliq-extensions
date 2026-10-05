@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "TextWrangler",
+    "ko": "TextWrangler",
+    "ja": "TextWrangler",
+    "zh-Hans": "TextWrangler",
+    "zh-Hant": "TextWrangler",
+    "de": "TextWrangler",
+    "fr": "TextWrangler",
+    "es": "TextWrangler",
+    "it": "TextWrangler",
+    "pt-BR": "TextWrangler",
+    "ar": "TextWrangler"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 포함한 새 TextWrangler 문서를 만듭니다.",
     "ja": "選択したテキストを含む新しいTextWranglerドキュメントを作成します。",

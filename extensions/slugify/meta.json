@@ -10,6 +10,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Slugify",
+    "ko": "슬러그 만들기",
+    "ja": "スラッグ化",
+    "zh-Hans": "生成 Slug",
+    "zh-Hant": "產生 Slug",
+    "de": "Slug erstellen",
+    "fr": "Créer un slug",
+    "es": "Crear slug",
+    "it": "Crea slug",
+    "pt-BR": "Criar slug",
+    "ar": "إنشاء Slug"
+  },
   "descriptions": {
     "ko": "단어 사이의 공백을 하이픈으로 바꾸고, 문자나 숫자가 아닌 항목을 제거하고, 소문자로 변환합니다.",
     "ja": "単語間のスペースをハイフンに置き換え、文字や数字以外のものを削除し、小文字に変換します。",

@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "SHA-512",
+    "ko": "SHA-512",
+    "ja": "SHA-512",
+    "zh-Hans": "SHA-512",
+    "zh-Hant": "SHA-512",
+    "de": "SHA-512",
+    "fr": "SHA-512",
+    "es": "SHA-512",
+    "it": "SHA-512",
+    "pt-BR": "SHA-512",
+    "ar": "SHA-512"
+  },
   "descriptions": {
     "ko": "선택한 텍스트에서 SHA-512 해시를 만듭니다.",
     "ja": "選択したテキストからSHA-512ハッシュを生成します。",

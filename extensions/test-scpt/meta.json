@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "Test Scpt",
+    "ko": "Scpt 테스트",
+    "ja": "Scpt テスト",
+    "zh-Hans": "Scpt 测试",
+    "zh-Hant": "Scpt 測試",
+    "de": "Scpt-Test",
+    "fr": "Test Scpt",
+    "es": "Prueba de Scpt",
+    "it": "Test Scpt",
+    "pt-BR": "Teste de Scpt",
+    "ar": "اختبار Scpt"
+  },
   "descriptions": {
     "ko": "Test Scpt",
     "ja": "Test Scpt",

@@ -11,6 +11,19 @@
     "play",
     "lookup"
   ],
+  "names": {
+    "en": "YouTube",
+    "ko": "YouTube",
+    "ja": "YouTube",
+    "zh-Hans": "YouTube",
+    "zh-Hant": "YouTube",
+    "de": "YouTube",
+    "fr": "YouTube",
+    "es": "YouTube",
+    "it": "YouTube",
+    "pt-BR": "YouTube",
+    "ar": "YouTube"
+  },
   "descriptions": {
     "ko": "YouTube에서 동영상을 검색합니다.",
     "ja": "YouTubeで動画を検索します。",

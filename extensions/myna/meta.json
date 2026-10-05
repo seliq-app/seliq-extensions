@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Myna",
+    "ko": "Myna",
+    "ja": "Myna",
+    "zh-Hans": "Myna",
+    "zh-Hant": "Myna",
+    "de": "Myna",
+    "fr": "Myna",
+    "es": "Myna",
+    "it": "Myna",
+    "pt-BR": "Myna",
+    "ar": "Myna"
+  },
   "descriptions": {
     "ko": "Myna for Google Translate로 선택한 텍스트를 번역합니다.",
     "ja": "Myna for Google Translateで選択したテキストを翻訳します。",

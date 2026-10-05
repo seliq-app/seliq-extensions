@@ -11,6 +11,19 @@
     "lookup",
     "developer"
   ],
+  "names": {
+    "en": "Python Package",
+    "ko": "Python 패키지",
+    "ja": "Python パッケージ",
+    "zh-Hans": "Python 包",
+    "zh-Hant": "Python 套件",
+    "de": "Python-Paket",
+    "fr": "Paquet Python",
+    "es": "Paquete de Python",
+    "it": "Pacchetto Python",
+    "pt-BR": "Pacote Python",
+    "ar": "حزمة Python"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 PyPi에서 검색합니다.",
     "ja": "選択したテキストをPyPiで検索します。",

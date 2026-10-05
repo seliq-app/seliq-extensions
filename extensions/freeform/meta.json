@@ -9,6 +9,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Freeform",
+    "ko": "Freeform",
+    "ja": "Freeform",
+    "zh-Hans": "Freeform",
+    "zh-Hant": "Freeform",
+    "de": "Freeform",
+    "fr": "Freeform",
+    "es": "Freeform",
+    "it": "Freeform",
+    "pt-BR": "Freeform",
+    "ar": "Freeform"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Freeform으로 보냅니다.",
     "ja": "選択したテキストをFreeformに送信します。",

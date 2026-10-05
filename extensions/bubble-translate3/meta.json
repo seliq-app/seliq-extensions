@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Bubble Translate",
+    "ko": "Bubble Translate",
+    "ja": "Bubble Translate",
+    "zh-Hans": "Bubble Translate",
+    "zh-Hant": "Bubble Translate",
+    "de": "Bubble Translate",
+    "fr": "Bubble Translate",
+    "es": "Bubble Translate",
+    "it": "Bubble Translate",
+    "pt-BR": "Bubble Translate",
+    "ar": "Bubble Translate"
+  },
   "descriptions": {
     "ko": "Bubble Translate를 사용하여 텍스트를 번역합니다.",
     "ja": "Bubble Translateを使用してテキストを翻訳します。",

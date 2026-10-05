@@ -11,6 +11,19 @@
     "play",
     "lookup"
   ],
+  "names": {
+    "en": "iTunes Music",
+    "ko": "iTunes 음악",
+    "ja": "iTunes ミュージック",
+    "zh-Hans": "iTunes 音乐",
+    "zh-Hant": "iTunes 音樂",
+    "de": "iTunes Musik",
+    "fr": "iTunes Musique",
+    "es": "iTunes Música",
+    "it": "iTunes Musica",
+    "pt-BR": "iTunes Música",
+    "ar": "موسيقى iTunes"
+  },
   "descriptions": {
     "ko": "iTunes 음악을 검색합니다(macOS 10.14 이하).",
     "ja": "iTunes Musicを検索します（macOS 10.14以前）。",

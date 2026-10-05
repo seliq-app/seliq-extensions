@@ -11,6 +11,19 @@
     "play",
     "lookup"
   ],
+  "names": {
+    "en": "Spotify",
+    "ko": "Spotify",
+    "ja": "Spotify",
+    "zh-Hans": "Spotify",
+    "zh-Hant": "Spotify",
+    "de": "Spotify",
+    "fr": "Spotify",
+    "es": "Spotify",
+    "it": "Spotify",
+    "pt-BR": "Spotify",
+    "ar": "Spotify"
+  },
   "descriptions": {
     "ko": "Spotify를 검색합니다.",
     "ja": "Spotifyを検索します。",

@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "Test Shell",
+    "ko": "셸 테스트",
+    "ja": "シェルテスト",
+    "zh-Hans": "Shell 测试",
+    "zh-Hant": "Shell 測試",
+    "de": "Shell-Test",
+    "fr": "Test Shell",
+    "es": "Prueba de shell",
+    "it": "Test shell",
+    "pt-BR": "Teste de shell",
+    "ar": "اختبار Shell"
+  },
   "descriptions": {
     "ko": "셸 스크립트를 테스트합니다.",
     "ja": "シェルスクリプトをテストします。",

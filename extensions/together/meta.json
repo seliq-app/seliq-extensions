@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Together",
+    "ko": "Together",
+    "ja": "Together",
+    "zh-Hans": "Together",
+    "zh-Hant": "Together",
+    "de": "Together",
+    "fr": "Together",
+    "es": "Together",
+    "it": "Together",
+    "pt-BR": "Together",
+    "ar": "Together"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 Together에서 새 항목을 만듭니다.",
     "ja": "選択したテキストからTogetherで新しいアイテムを作成します。",

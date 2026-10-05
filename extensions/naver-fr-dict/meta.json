@@ -5,6 +5,19 @@
     "define",
     "translate"
   ],
+  "names": {
+    "en": "Naver French Dictionary",
+    "ko": "네이버 프랑스어사전",
+    "ja": "NAVERフランス語辞書",
+    "zh-Hans": "NAVER法语词典",
+    "zh-Hant": "NAVER法語辭典",
+    "de": "Naver Französisch-Wörterbuch",
+    "fr": "Dictionnaire de français Naver",
+    "es": "Diccionario de francés Naver",
+    "it": "Naver Dizionario di francese",
+    "pt-BR": "Naver Dicionário de francês",
+    "ar": "قاموس Naver الفرنسي"
+  },
   "descriptions": {
     "ko": "선택한 글을 네이버 프랑스어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVERフランス語辞書で調べます。",

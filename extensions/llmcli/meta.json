@@ -10,6 +10,19 @@
     "rewrite",
     "askAI"
   ],
+  "names": {
+    "en": "LLM CLI",
+    "ko": "LLM CLI",
+    "ja": "LLM CLI",
+    "zh-Hans": "LLM CLI",
+    "zh-Hant": "LLM CLI",
+    "de": "LLM CLI",
+    "fr": "LLM CLI",
+    "es": "LLM CLI",
+    "it": "LLM CLI",
+    "pt-BR": "LLM CLI",
+    "ar": "LLM CLI"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Codex, Claude, Gemini 또는 OpenCode CLI를 통해 다시 작성합니다.",
     "ja": "選択したテキストをCodex、Claude、Gemini、またはOpenCode CLIで書き直します。",

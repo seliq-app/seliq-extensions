@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Add to Stash Shelf",
+    "ko": "Stash Shelf에 추가",
+    "ja": "Stash Shelf に追加",
+    "zh-Hans": "添加到 Stash Shelf",
+    "zh-Hant": "加入 Stash Shelf",
+    "de": "Zu Stash Shelf hinzufügen",
+    "fr": "Ajouter à Stash Shelf",
+    "es": "Añadir a Stash Shelf",
+    "it": "Aggiungi a Stash Shelf",
+    "pt-BR": "Adicionar ao Stash Shelf",
+    "ar": "إضافة إلى Stash Shelf"
+  },
   "descriptions": {
     "ko": "QSpace Pro Stash Shelf에 파일을 추가합니다.",
     "ja": "QSpace Pro Stash Shelfにファイルを追加します。",

@@ -10,6 +10,19 @@
     "play",
     "open"
   ],
+  "names": {
+    "en": "Floating",
+    "ko": "Floating",
+    "ja": "Floating",
+    "zh-Hans": "Floating",
+    "zh-Hant": "Floating",
+    "de": "Floating",
+    "fr": "Floating",
+    "es": "Floating",
+    "it": "Floating",
+    "pt-BR": "Floating",
+    "ar": "Floating"
+  },
   "descriptions": {
     "ko": "선택한 URL을 Floating으로 '화면 속 화면' 보기로 봅니다.",
     "ja": "選択したURLをFloatingで「ピクチャ・イン・ピクチャ」表示します。",

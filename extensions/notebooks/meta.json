@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Notebooks",
+    "ko": "Notebooks",
+    "ja": "Notebooks",
+    "zh-Hans": "Notebooks",
+    "zh-Hant": "Notebooks",
+    "de": "Notebooks",
+    "fr": "Notebooks",
+    "es": "Notebooks",
+    "it": "Notebooks",
+    "pt-BR": "Notebooks",
+    "ar": "Notebooks"
+  },
   "descriptions": {
     "ko": "Notebooks에서 노트를 만듭니다.",
     "ja": "Notebooksでノートを作成します。",

@@ -319,6 +319,7 @@
   /* ---------- helpers ---------- */
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const desc = (e) => e.descriptions?.[lang] || e.description || "";
+  const nameOf = (e) => e.names?.[lang] || e.name;
   const fmtSize = (n) => (n < 1024 ? `${n} B` : n < 1048576 ? `${(n / 1024).toFixed(n < 10240 ? 1 : 0)} KB` : `${(n / 1048576).toFixed(1)} MB`);
   const isContrib = (e) => e.category === "PopClip Contrib";
   const safeUrl = (u) => (/^https?:\/\//i.test(u) ? u : "#");
@@ -347,7 +348,7 @@
   function haystack(e) {
     let h = hayCache.get(e);
     if (h) return h;
-    h = fold([e.name, e.shortcode, e.identifier || "", e.description || "", ...Object.values(e.descriptions || {})].join(" "));
+    h = fold([e.name, ...Object.values(e.names || {}), e.shortcode, e.identifier || "", e.description || "", ...Object.values(e.descriptions || {})].join(" "));
     for (const [brand, alias] of Object.entries(ALIASES)) if (h.includes(brand)) h += " " + fold(alias);
     h += " " + h.replace(/\s+/g, "");
     hayCache.set(e, h);
@@ -376,7 +377,7 @@
         return words.every((w) => has(hay, w));
       });
     }
-    const cmp = (a, b) => a.name.localeCompare(b.name, lang) || a.shortcode.localeCompare(b.shortcode);
+    const cmp = (a, b) => nameOf(a).localeCompare(nameOf(b), lang) || a.shortcode.localeCompare(b.shortcode);
     list.sort(sort === "desc" ? (a, b) => cmp(b, a) : sort === "size" ? (a, b) => a.size - b.size || cmp(a, b) : cmp);
     return list;
   }
@@ -400,7 +401,7 @@
       <div class="card-top" data-toggle>
         ${tileHtml(e)}
         <div class="card-main">
-          <h2 class="card-name"><span>${esc(e.name)}</span>${badge}</h2>
+          <h2 class="card-name"><span>${esc(nameOf(e))}</span>${badge}</h2>
           <p class="card-desc">${esc(desc(e))}</p>
         </div>
       </div>

@@ -11,6 +11,19 @@
     "convert",
     "define"
   ],
+  "names": {
+    "en": "Name Color",
+    "ko": "색상 이름",
+    "ja": "色名",
+    "zh-Hans": "颜色名称",
+    "zh-Hant": "顏色名稱",
+    "de": "Farbname",
+    "fr": "Nom de couleur",
+    "es": "Nombre del color",
+    "it": "Nome colore",
+    "pt-BR": "Nome da cor",
+    "ar": "اسم اللون"
+  },
   "descriptions": {
     "ko": "16진수 색상 값에 어울리는 설명형 이름을 제안합니다.",
     "ja": "16進数の色の値に対して、内容を表す名前を提案します。",

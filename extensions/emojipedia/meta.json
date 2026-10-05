@@ -11,6 +11,19 @@
     "lookup",
     "define"
   ],
+  "names": {
+    "en": "Emojipedia",
+    "ko": "Emojipedia",
+    "ja": "Emojipedia",
+    "zh-Hans": "Emojipedia",
+    "zh-Hant": "Emojipedia",
+    "de": "Emojipedia",
+    "fr": "Emojipedia",
+    "es": "Emojipedia",
+    "it": "Emojipedia",
+    "pt-BR": "Emojipedia",
+    "ar": "Emojipedia"
+  },
   "descriptions": {
     "ko": "Emojipedia에서 이모지를 검색합니다.",
     "ja": "Emojipediaで絵文字を検索します。",

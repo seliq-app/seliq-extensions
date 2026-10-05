@@ -11,6 +11,19 @@
     "findPlace",
     "lookup"
   ],
+  "names": {
+    "en": "Google Maps",
+    "ko": "Google 지도",
+    "ja": "Google マップ",
+    "zh-Hans": "Google 地图",
+    "zh-Hant": "Google 地圖",
+    "de": "Google Maps",
+    "fr": "Google Maps",
+    "es": "Google Maps",
+    "it": "Google Maps",
+    "pt-BR": "Google Maps",
+    "ar": "خرائط Google"
+  },
   "descriptions": {
     "ko": "Google 지도에서 검색합니다.",
     "ja": "Googleマップを検索します。",

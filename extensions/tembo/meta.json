@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Tembo",
+    "ko": "Tembo",
+    "ja": "Tembo",
+    "zh-Hans": "Tembo",
+    "zh-Hant": "Tembo",
+    "de": "Tembo",
+    "fr": "Tembo",
+    "es": "Tembo",
+    "it": "Tembo",
+    "pt-BR": "Tembo",
+    "ar": "Tembo"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 Tembo 검색을 시작합니다.",
     "ja": "選択したテキストでTembo検索を開始します。",

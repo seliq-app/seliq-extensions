@@ -11,6 +11,19 @@
     "saveForLater",
     "developer"
   ],
+  "names": {
+    "en": "BBEdit",
+    "ko": "BBEdit",
+    "ja": "BBEdit",
+    "zh-Hans": "BBEdit",
+    "zh-Hant": "BBEdit",
+    "de": "BBEdit",
+    "fr": "BBEdit",
+    "es": "BBEdit",
+    "it": "BBEdit",
+    "pt-BR": "BBEdit",
+    "ar": "BBEdit"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 포함하는 새 BBEdit 문서를 만듭니다.",
     "ja": "選択したテキストを含む新しいBBEditドキュメントを作成します。",

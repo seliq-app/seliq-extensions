@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Naver",
+    "ko": "네이버",
+    "ja": "Naver",
+    "zh-Hans": "Naver",
+    "zh-Hant": "Naver",
+    "de": "Naver",
+    "fr": "Naver",
+    "es": "Naver",
+    "it": "Naver",
+    "pt-BR": "Naver",
+    "ar": "Naver"
+  },
   "descriptions": {
     "ko": "Naver를 사용하여 웹을 검색합니다.",
     "ja": "Naverを使用してウェブを検索します。",

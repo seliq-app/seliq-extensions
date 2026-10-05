@@ -11,6 +11,19 @@
     "saveForLater",
     "quote"
   ],
+  "names": {
+    "en": "Readwise",
+    "ko": "Readwise",
+    "ja": "Readwise",
+    "zh-Hans": "Readwise",
+    "zh-Hant": "Readwise",
+    "de": "Readwise",
+    "fr": "Readwise",
+    "es": "Readwise",
+    "it": "Readwise",
+    "pt-BR": "Readwise",
+    "ar": "Readwise"
+  },
   "descriptions": {
     "ko": "하이라이트나 URL을 Readwise에 저장합니다.",
     "ja": "ハイライトまたはURLをReadwiseに保存します。",

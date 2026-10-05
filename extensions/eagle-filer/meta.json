@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "EagleFiler",
+    "ko": "EagleFiler",
+    "ja": "EagleFiler",
+    "zh-Hans": "EagleFiler",
+    "zh-Hant": "EagleFiler",
+    "de": "EagleFiler",
+    "fr": "EagleFiler",
+    "es": "EagleFiler",
+    "it": "EagleFiler",
+    "pt-BR": "EagleFiler",
+    "ar": "EagleFiler"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 EagleFiler로 가져옵니다.",
     "ja": "選択したテキストをEagleFilerにインポートします。",

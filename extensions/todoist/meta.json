@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "Todoist",
+    "ko": "Todoist",
+    "ja": "Todoist",
+    "zh-Hans": "Todoist",
+    "zh-Hant": "Todoist",
+    "de": "Todoist",
+    "fr": "Todoist",
+    "es": "Todoist",
+    "it": "Todoist",
+    "pt-BR": "Todoist",
+    "ar": "Todoist"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Todoist에 작업으로 추가합니다.",
     "ja": "選択したテキストをTodoistにタスクとして追加します。",

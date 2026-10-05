@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Notefile",
+    "ko": "Notefile",
+    "ja": "Notefile",
+    "zh-Hans": "Notefile",
+    "zh-Hant": "Notefile",
+    "de": "Notefile",
+    "fr": "Notefile",
+    "es": "Notefile",
+    "it": "Notefile",
+    "pt-BR": "Notefile",
+    "ar": "Notefile"
+  },
   "descriptions": {
     "ko": "Notefile에서 노트를 만듭니다.",
     "ja": "Notefileでノートを作成します。",

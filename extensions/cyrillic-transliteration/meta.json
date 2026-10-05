@@ -10,6 +10,19 @@
     "reformat",
     "translate"
   ],
+  "names": {
+    "en": "Cyrillic Transliteration",
+    "ko": "키릴 문자 음차",
+    "ja": "キリル文字の翻字",
+    "zh-Hans": "西里尔字母转写",
+    "zh-Hant": "西里爾字母轉寫",
+    "de": "Kyrillische Transliteration",
+    "fr": "Translittération cyrillique",
+    "es": "Transliteración cirílica",
+    "it": "Traslitterazione cirillica",
+    "pt-BR": "Transliteração cirílica",
+    "ar": "كتابة صوتية للسيريلية"
+  },
   "descriptions": {
     "ko": "키릴 문자를 라틴 문자로 음차합니다.",
     "ja": "キリル文字からラテン文字に音写します。",

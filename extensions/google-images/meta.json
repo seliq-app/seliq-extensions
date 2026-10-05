@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Google Images",
+    "ko": "Google 이미지",
+    "ja": "Google 画像",
+    "zh-Hans": "Google 图片",
+    "zh-Hant": "Google 圖片",
+    "de": "Google Bilder",
+    "fr": "Google Images",
+    "es": "Google Imágenes",
+    "it": "Google Immagini",
+    "pt-BR": "Google Imagens",
+    "ar": "صور Google"
+  },
   "descriptions": {
     "ko": "Google 이미지에서 사진을 검색합니다.",
     "ja": "Google画像で写真を検索します。",

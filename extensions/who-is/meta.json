@@ -11,6 +11,19 @@
     "lookup",
     "developer"
   ],
+  "names": {
+    "en": "Whois",
+    "ko": "Whois",
+    "ja": "Whois",
+    "zh-Hans": "Whois",
+    "zh-Hant": "Whois",
+    "de": "Whois",
+    "fr": "Whois",
+    "es": "Whois",
+    "it": "Whois",
+    "pt-BR": "Whois",
+    "ar": "Whois"
+  },
   "descriptions": {
     "ko": "선택한 도메인 이름에 대한 Whois 정보를 조회합니다.",
     "ja": "選択したドメイン名のWhois情報を調べます。",

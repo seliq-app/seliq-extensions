@@ -11,6 +11,19 @@
     "contact",
     "share"
   ],
+  "names": {
+    "en": "Messages",
+    "ko": "메시지",
+    "ja": "メッセージ",
+    "zh-Hans": "信息",
+    "zh-Hant": "訊息",
+    "de": "Nachrichten",
+    "fr": "Messages",
+    "es": "Mensajes",
+    "it": "Messaggi",
+    "pt-BR": "Mensagens",
+    "ar": "الرسائل"
+  },
   "descriptions": {
     "ko": "메시지 앱으로 텍스트를 공유합니다.",
     "ja": "メッセージを使用してテキストを共有します。",

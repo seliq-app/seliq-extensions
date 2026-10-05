@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Instant Translate",
+    "ko": "즉시 번역",
+    "ja": "即時翻訳",
+    "zh-Hans": "即时翻译",
+    "zh-Hant": "即時翻譯",
+    "de": "Sofortübersetzung",
+    "fr": "Traduction instantanée",
+    "es": "Traducción instantánea",
+    "it": "Traduzione istantanea",
+    "pt-BR": "Tradução instantânea",
+    "ar": "ترجمة فورية"
+  },
   "descriptions": {
     "ko": "PopClip에서 선택한 단어나 짧은 구를 즉시 번역합니다. Microsoft Translator를 기반으로 합니다.",
     "ja": "PopClip内で選択した単語または短いフレーズを即座に翻訳します。Microsoft Translatorを使用しています。",

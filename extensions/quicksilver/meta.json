@@ -11,6 +11,19 @@
     "open",
     "lookup"
   ],
+  "names": {
+    "en": "Quicksilver",
+    "ko": "Quicksilver",
+    "ja": "Quicksilver",
+    "zh-Hans": "Quicksilver",
+    "zh-Hant": "Quicksilver",
+    "de": "Quicksilver",
+    "fr": "Quicksilver",
+    "es": "Quicksilver",
+    "it": "Quicksilver",
+    "pt-BR": "Quicksilver",
+    "ar": "Quicksilver"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 Quicksilver를 활성화합니다.",
     "ja": "選択したテキストでQuicksilverをアクティブにします。",

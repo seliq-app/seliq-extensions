@@ -9,6 +9,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Anybox",
+    "ko": "Anybox",
+    "ja": "Anybox",
+    "zh-Hans": "Anybox",
+    "zh-Hant": "Anybox",
+    "de": "Anybox",
+    "fr": "Anybox",
+    "es": "Anybox",
+    "it": "Anybox",
+    "pt-BR": "Anybox",
+    "ar": "Anybox"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Anybox에 저장합니다.",
     "ja": "選択したテキストをAnyboxに保存します。",

@@ -10,6 +10,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Markdown to RTF",
+    "ko": "Markdown을 RTF로",
+    "ja": "Markdown → RTF",
+    "zh-Hans": "Markdown 转 RTF",
+    "zh-Hant": "Markdown 轉 RTF",
+    "de": "Markdown in RTF",
+    "fr": "Markdown vers RTF",
+    "es": "Markdown a RTF",
+    "it": "Markdown in RTF",
+    "pt-BR": "Markdown para RTF",
+    "ar": "Markdown إلى RTF"
+  },
   "descriptions": {
     "ko": "Markdown을 클립보드에 포맷된 텍스트로 복사합니다.",
     "ja": "Markdownをクリップボードに書式付きテキストとしてコピーします。",

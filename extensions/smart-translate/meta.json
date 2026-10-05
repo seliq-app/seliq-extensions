@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Smart Translate",
+    "ko": "스마트 번역",
+    "ja": "スマート翻訳",
+    "zh-Hans": "智能翻译",
+    "zh-Hant": "智慧翻譯",
+    "de": "Intelligente Übersetzung",
+    "fr": "Traduction intelligente",
+    "es": "Traducción inteligente",
+    "it": "Traduzione intelligente",
+    "pt-BR": "Tradução inteligente",
+    "ar": "ترجمة ذكية"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 OpenAI의 API로 보내 개선하거나 표준 대상 언어로 번역합니다.",
     "ja": "選択したテキストをOpenAIのAPIに送信して、改善または標準ターゲット言語に翻訳します。",

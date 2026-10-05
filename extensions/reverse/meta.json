@@ -11,6 +11,19 @@
     "list",
     "cleanup"
   ],
+  "names": {
+    "en": "Reverse",
+    "ko": "역순으로",
+    "ja": "逆順にする",
+    "zh-Hans": "反转",
+    "zh-Hant": "反轉",
+    "de": "Umkehren",
+    "fr": "Inverser",
+    "es": "Invertir",
+    "it": "Inverti",
+    "pt-BR": "Inverter",
+    "ar": "عكس"
+  },
   "descriptions": {
     "ko": "선택한 줄의 순서를 역순으로 합니다.",
     "ja": "選択した行の順序を逆にします。",

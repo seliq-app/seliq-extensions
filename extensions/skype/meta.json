@@ -10,6 +10,19 @@
   "intents": [
     "contact"
   ],
+  "names": {
+    "en": "Skype",
+    "ko": "Skype",
+    "ja": "Skype",
+    "zh-Hans": "Skype",
+    "zh-Hant": "Skype",
+    "de": "Skype",
+    "fr": "Skype",
+    "es": "Skype",
+    "it": "Skype",
+    "pt-BR": "Skype",
+    "ar": "Skype"
+  },
   "descriptions": {
     "ko": "Skype로 전화를 겁니다.",
     "ja": "Skypeで電話番号に発信します。",

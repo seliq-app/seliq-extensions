@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "TaskPaper",
+    "ko": "TaskPaper",
+    "ja": "TaskPaper",
+    "zh-Hans": "TaskPaper",
+    "zh-Hant": "TaskPaper",
+    "de": "TaskPaper",
+    "fr": "TaskPaper",
+    "es": "TaskPaper",
+    "it": "TaskPaper",
+    "pt-BR": "TaskPaper",
+    "ar": "TaskPaper"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 TaskPaper 3에 새 Inbox 작업으로 보냅니다.",
     "ja": "選択したテキストをTaskPaper 3に新しいInboxタスクとして送信します。",

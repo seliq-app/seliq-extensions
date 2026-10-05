@@ -11,6 +11,19 @@
     "lookup",
     "open"
   ],
+  "names": {
+    "en": "I'm Feeling Lucky",
+    "ko": "I'm Feeling Lucky",
+    "ja": "I'm Feeling Lucky",
+    "zh-Hans": "手气不错",
+    "zh-Hant": "好手氣",
+    "de": "Auf gut Glück!",
+    "fr": "J'ai de la chance",
+    "es": "Voy a tener suerte",
+    "it": "Mi sento fortunato",
+    "pt-BR": "Estou com sorte",
+    "ar": "أنا محظوظ"
+  },
   "descriptions": {
     "ko": "Google의 \"I'm Feeling Lucky\" 검색 결과로 바로 이동합니다.",
     "ja": "Googleの「I'm Feeling Lucky」検索結果に直接移動します。",

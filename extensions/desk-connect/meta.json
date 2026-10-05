@@ -10,6 +10,19 @@
   "intents": [
     "share"
   ],
+  "names": {
+    "en": "DeskConnect",
+    "ko": "DeskConnect",
+    "ja": "DeskConnect",
+    "zh-Hans": "DeskConnect",
+    "zh-Hant": "DeskConnect",
+    "de": "DeskConnect",
+    "fr": "DeskConnect",
+    "es": "DeskConnect",
+    "it": "DeskConnect",
+    "pt-BR": "DeskConnect",
+    "ar": "DeskConnect"
+  },
   "descriptions": {
     "ko": "DeskConnect를 통해 선택 항목을 iOS 기기 또는 다른 Mac으로 보냅니다.",
     "ja": "選択項目をDeskConnect経由でiOSデバイスまたは別のMacに送信します。",

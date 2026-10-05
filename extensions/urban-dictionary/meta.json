@@ -10,6 +10,19 @@
   "intents": [
     "define"
   ],
+  "names": {
+    "en": "Urban Dictionary",
+    "ko": "Urban Dictionary",
+    "ja": "Urban Dictionary",
+    "zh-Hans": "Urban Dictionary",
+    "zh-Hant": "Urban Dictionary",
+    "de": "Urban Dictionary",
+    "fr": "Urban Dictionary",
+    "es": "Urban Dictionary",
+    "it": "Urban Dictionary",
+    "pt-BR": "Urban Dictionary",
+    "ar": "Urban Dictionary"
+  },
   "descriptions": {
     "ko": "Urban Dictionary에서 단어나 구문을 조회합니다.",
     "ja": "Urban Dictionaryで単語または句を調べます。",

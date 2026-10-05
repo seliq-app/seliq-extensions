@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "SearX",
+    "ko": "SearX",
+    "ja": "SearX",
+    "zh-Hans": "SearX",
+    "zh-Hant": "SearX",
+    "de": "SearX",
+    "fr": "SearX",
+    "es": "SearX",
+    "it": "SearX",
+    "pt-BR": "SearX",
+    "ar": "SearX"
+  },
   "descriptions": {
     "ko": "SearX를 사용하여 웹을 검색합니다.",
     "ja": "SearXを使用してウェブを検索します。",

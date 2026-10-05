@@ -10,6 +10,19 @@
   "intents": [
     "cleanup"
   ],
+  "names": {
+    "en": "Line Count",
+    "ko": "줄 수 세기",
+    "ja": "行数カウント",
+    "zh-Hans": "行数统计",
+    "zh-Hant": "行數統計",
+    "de": "Zeilenanzahl",
+    "fr": "Nombre de lignes",
+    "es": "Contar líneas",
+    "it": "Conteggio righe",
+    "pt-BR": "Contar linhas",
+    "ar": "عدد الأسطر"
+  },
   "descriptions": {
     "ko": "선택한 텍스트의 줄 수를 표시합니다.",
     "ja": "選択したテキストの行数を表示します。",

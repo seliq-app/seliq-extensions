@@ -10,6 +10,19 @@
     "reformat",
     "justCopy"
   ],
+  "names": {
+    "en": "Copy URL with Title",
+    "ko": "제목과 함께 URL 복사",
+    "ja": "タイトル付きで URL をコピー",
+    "zh-Hans": "拷贝 URL 及标题",
+    "zh-Hant": "複製 URL 與標題",
+    "de": "URL mit Titel kopieren",
+    "fr": "Copier l’URL avec le titre",
+    "es": "Copiar URL con título",
+    "it": "Copia URL con titolo",
+    "pt-BR": "Copiar URL com título",
+    "ar": "نسخ URL مع العنوان"
+  },
   "descriptions": {
     "ko": "선택한 텍스트에서 URL과 제목을 HTML 또는 Markdown 링크로 복사합니다.",
     "ja": "選択したテキストからURLとタイトルをHTMLまたはMarkdownリンクとしてコピーします。",

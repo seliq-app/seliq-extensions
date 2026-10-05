@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Slicereader",
+    "ko": "Slicereader",
+    "ja": "Slicereader",
+    "zh-Hans": "Slicereader",
+    "zh-Hant": "Slicereader",
+    "de": "Slicereader",
+    "fr": "Slicereader",
+    "es": "Slicereader",
+    "it": "Slicereader",
+    "pt-BR": "Slicereader",
+    "ar": "Slicereader"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Slicereader에서 쉽게 읽을 수 있도록 표시합니다.",
     "ja": "選択したテキストをSlicereaderで簡単に読めるように表示します。",

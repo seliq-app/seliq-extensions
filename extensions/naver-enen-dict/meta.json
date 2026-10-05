@@ -4,6 +4,19 @@
   "intents": [
     "define"
   ],
+  "names": {
+    "en": "Naver English-English Dictionary",
+    "ko": "네이버 영영사전",
+    "ja": "NAVER英英辞書",
+    "zh-Hans": "NAVER英英词典",
+    "zh-Hant": "NAVER英英辭典",
+    "de": "Naver Englisch-Englisch-Wörterbuch",
+    "fr": "Dictionnaire anglais-anglais Naver",
+    "es": "Diccionario inglés-inglés Naver",
+    "it": "Naver Dizionario inglese-inglese",
+    "pt-BR": "Naver Dicionário inglês-inglês",
+    "ar": "قاموس Naver إنجليزي-إنجليزي"
+  },
   "descriptions": {
     "ko": "선택한 글을 네이버 영영사전에서 찾습니다.",
     "ja": "選択したテキストをNAVER英英辞書で調べます。",

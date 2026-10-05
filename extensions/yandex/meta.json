@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Yandex",
+    "ko": "Yandex",
+    "ja": "Yandex",
+    "zh-Hans": "Yandex",
+    "zh-Hant": "Yandex",
+    "de": "Yandex",
+    "fr": "Yandex",
+    "es": "Yandex",
+    "it": "Yandex",
+    "pt-BR": "Yandex",
+    "ar": "Yandex"
+  },
   "descriptions": {
     "ko": "Yandex를 사용하여 웹을 검색합니다.",
     "ja": "Yandexを使用してウェブを検索します。",

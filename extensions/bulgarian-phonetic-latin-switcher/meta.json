@@ -9,6 +9,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "BulLatSwitcher",
+    "ko": "BulLatSwitcher",
+    "ja": "BulLatSwitcher",
+    "zh-Hans": "BulLatSwitcher",
+    "zh-Hant": "BulLatSwitcher",
+    "de": "BulLatSwitcher",
+    "fr": "BulLatSwitcher",
+    "es": "BulLatSwitcher",
+    "it": "BulLatSwitcher",
+    "pt-BR": "BulLatSwitcher",
+    "ar": "BulLatSwitcher"
+  },
   "descriptions": {
     "ko": "BulLatSwitcher",
     "ja": "BulLatSwitcher",

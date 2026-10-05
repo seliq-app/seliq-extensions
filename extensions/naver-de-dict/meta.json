@@ -5,6 +5,19 @@
     "define",
     "translate"
   ],
+  "names": {
+    "en": "Naver German Dictionary",
+    "ko": "네이버 독일어사전",
+    "ja": "NAVERドイツ語辞書",
+    "zh-Hans": "NAVER德语词典",
+    "zh-Hant": "NAVER德語辭典",
+    "de": "Naver Deutsch-Wörterbuch",
+    "fr": "Dictionnaire d’allemand Naver",
+    "es": "Diccionario de alemán Naver",
+    "it": "Naver Dizionario di tedesco",
+    "pt-BR": "Naver Dicionário de alemão",
+    "ar": "قاموس Naver الألماني"
+  },
   "descriptions": {
     "ko": "선택한 글을 네이버 독일어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVERドイツ語辞書で調べます。",

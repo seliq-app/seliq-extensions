@@ -11,6 +11,19 @@
     "shop",
     "lookup"
   ],
+  "names": {
+    "en": "Etsy",
+    "ko": "Etsy",
+    "ja": "Etsy",
+    "zh-Hans": "Etsy",
+    "zh-Hant": "Etsy",
+    "de": "Etsy",
+    "fr": "Etsy",
+    "es": "Etsy",
+    "it": "Etsy",
+    "pt-BR": "Etsy",
+    "ar": "Etsy"
+  },
   "descriptions": {
     "ko": "Etsy에서 수제 및 빈티지 항목을 검색합니다.",
     "ja": "Etsyで手作りおよびビンテージアイテムを検索します。",

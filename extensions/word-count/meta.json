@@ -10,6 +10,19 @@
   "intents": [
     "cleanup"
   ],
+  "names": {
+    "en": "Word Count",
+    "ko": "단어 수 세기",
+    "ja": "単語数",
+    "zh-Hans": "词数",
+    "zh-Hant": "字數",
+    "de": "Wortanzahl",
+    "fr": "Nombre de mots",
+    "es": "Recuento de palabras",
+    "it": "Conteggio parole",
+    "pt-BR": "Contagem de palavras",
+    "ar": "عدد الكلمات"
+  },
   "descriptions": {
     "ko": "선택한 텍스트의 단어 수를 표시합니다.",
     "ja": "選択したテキストの単語数を表示します。",

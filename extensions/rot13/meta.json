@@ -10,6 +10,19 @@
     "reformat",
     "protect"
   ],
+  "names": {
+    "en": "ROT13",
+    "ko": "ROT13",
+    "ja": "ROT13",
+    "zh-Hans": "ROT13",
+    "zh-Hant": "ROT13",
+    "de": "ROT13",
+    "fr": "ROT13",
+    "es": "ROT13",
+    "it": "ROT13",
+    "pt-BR": "ROT13",
+    "ar": "ROT13"
+  },
   "descriptions": {
     "ko": "텍스트에 ROT13 암호를 적용합니다.",
     "ja": "テキストにROT13暗号を適用します。",

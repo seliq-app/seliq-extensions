@@ -10,6 +10,19 @@
   "intents": [
     "share"
   ],
+  "names": {
+    "en": "Tweet",
+    "ko": "트윗",
+    "ja": "ツイート",
+    "zh-Hans": "推文",
+    "zh-Hant": "推文",
+    "de": "Tweet",
+    "fr": "Tweet",
+    "es": "Tweet",
+    "it": "Tweet",
+    "pt-BR": "Tweet",
+    "ar": "تغريدة"
+  },
   "descriptions": {
     "ko": "Notification Center의 \"Click to Tweet\" 박스를 사용하여 트윗을 작성합니다.",
     "ja": "Notification Centerの「Click to Tweet」ボックスを使用してツイートを作成します。",

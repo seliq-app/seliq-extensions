@@ -10,6 +10,19 @@
   "intents": [
     "findPlace"
   ],
+  "names": {
+    "en": "Mapy",
+    "ko": "Mapy",
+    "ja": "Mapy",
+    "zh-Hans": "Mapy",
+    "zh-Hant": "Mapy",
+    "de": "Mapy",
+    "fr": "Mapy",
+    "es": "Mapy",
+    "it": "Mapy",
+    "pt-BR": "Mapy",
+    "ar": "Mapy"
+  },
   "descriptions": {
     "ko": "Mapy.com을 검색합니다.",
     "ja": "Mapy.comを検索します。",

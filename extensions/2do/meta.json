@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "2Do",
+    "ko": "2Do",
+    "ja": "2Do",
+    "zh-Hans": "2Do",
+    "zh-Hant": "2Do",
+    "de": "2Do",
+    "fr": "2Do",
+    "es": "2Do",
+    "it": "2Do",
+    "pt-BR": "2Do",
+    "ar": "2Do"
+  },
   "descriptions": {
     "ko": "2Do에서 새 할 일을 만듭니다.",
     "ja": "2Doで新しいタスクを作成します。",

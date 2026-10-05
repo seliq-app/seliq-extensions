@@ -9,6 +9,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Roam Research",
+    "ko": "Roam Research",
+    "ja": "Roam Research",
+    "zh-Hans": "Roam Research",
+    "zh-Hant": "Roam Research",
+    "de": "Roam Research",
+    "fr": "Roam Research",
+    "es": "Roam Research",
+    "it": "Roam Research",
+    "pt-BR": "Roam Research",
+    "ar": "Roam Research"
+  },
   "descriptions": {
     "ko": "텍스트를 Roam Research로 캡처합니다.",
     "ja": "テキストをRoam Researchにキャプチャします。",

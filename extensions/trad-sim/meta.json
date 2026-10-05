@@ -11,6 +11,19 @@
     "translate",
     "reformat"
   ],
+  "names": {
+    "en": "Traditional/Simplified",
+    "ko": "번체/간체",
+    "ja": "繁体字/簡体字",
+    "zh-Hans": "简繁转换器",
+    "zh-Hant": "簡繁轉換器",
+    "de": "Traditionell/Vereinfacht",
+    "fr": "Traditionnel/Simplifié",
+    "es": "Tradicional/Simplificado",
+    "it": "Tradizionale/Semplificato",
+    "pt-BR": "Tradicional/Simplificado",
+    "ar": "التقليدية/المبسطة"
+  },
   "descriptions": {
     "ko": "텍스트를 번체와 간체 중국어로 변환합니다.",
     "ja": "テキストを繁体字中国語と簡体字中国語の間で変換します。",

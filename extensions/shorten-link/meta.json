@@ -11,6 +11,19 @@
     "share",
     "reformat"
   ],
+  "names": {
+    "en": "Shorten Link",
+    "ko": "링크 단축",
+    "ja": "リンクを短縮",
+    "zh-Hans": "缩短链接",
+    "zh-Hant": "縮短連結",
+    "de": "Link kürzen",
+    "fr": "Raccourcir le lien",
+    "es": "Acortar enlace",
+    "it": "Accorcia link",
+    "pt-BR": "Encurtar link",
+    "ar": "تقصير الرابط"
+  },
   "descriptions": {
     "ko": "is.gd 또는 v.gd를 사용하여 선택한 URL을 단축합니다.",
     "ja": "is.gdまたはv.gdを使用して、選択したURLを短くします。",

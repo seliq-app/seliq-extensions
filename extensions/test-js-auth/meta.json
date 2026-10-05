@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "TestJSAuth",
+    "ko": "TestJSAuth",
+    "ja": "TestJSAuth",
+    "zh-Hans": "TestJSAuth",
+    "zh-Hant": "TestJSAuth",
+    "de": "TestJSAuth",
+    "fr": "TestJSAuth",
+    "es": "TestJSAuth",
+    "it": "TestJSAuth",
+    "pt-BR": "TestJSAuth",
+    "ar": "TestJSAuth"
+  },
   "descriptions": {
     "ko": "TestJSAuth",
     "ja": "TestJSAuth",

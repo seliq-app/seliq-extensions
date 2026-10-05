@@ -11,6 +11,19 @@
     "cleanup",
     "reformat"
   ],
+  "names": {
+    "en": "Paste and Match Style",
+    "ko": "붙여넣기 및 스타일 일치",
+    "ja": "スタイルを合わせてペースト",
+    "zh-Hans": "粘贴并匹配样式",
+    "zh-Hant": "貼上並配合樣式",
+    "de": "Einsetzen und Stil anpassen",
+    "fr": "Coller et appliquer le style",
+    "es": "Pegar y aplicar estilos",
+    "it": "Incolla e adatta lo stile",
+    "pt-BR": "Colar e Corresponder ao Estilo",
+    "ar": "لصق ومطابقة النمط"
+  },
   "descriptions": {
     "ko": "서식을 제외하고 일반 텍스트로만 붙여넣습니다.",
     "ja": "書式設定なしでプレーンテキストのみとして貼り付けます。",

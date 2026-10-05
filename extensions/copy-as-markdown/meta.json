@@ -11,6 +11,19 @@
     "reformat",
     "justCopy"
   ],
+  "names": {
+    "en": "Copy as Markdown",
+    "ko": "Markdown으로 복사",
+    "ja": "Markdown としてコピー",
+    "zh-Hans": "拷贝为 Markdown",
+    "zh-Hant": "複製為 Markdown",
+    "de": "Als Markdown kopieren",
+    "fr": "Copier en Markdown",
+    "es": "Copiar como Markdown",
+    "it": "Copia come Markdown",
+    "pt-BR": "Copiar como Markdown",
+    "ar": "نسخ بصيغة Markdown"
+  },
   "descriptions": {
     "ko": "웹 콘텐츠를 Markdown으로 복사합니다.",
     "ja": "ウェブコンテンツをMarkdownとしてコピーします。",

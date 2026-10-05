@@ -7,6 +7,19 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/IconPreview.popclipext",
   "origin": "popclip",
+  "names": {
+    "en": "Icon Preview",
+    "ko": "Icon Preview",
+    "ja": "Icon Preview",
+    "zh-Hans": "Icon Preview",
+    "zh-Hant": "Icon Preview",
+    "de": "Icon Preview",
+    "fr": "Icon Preview",
+    "es": "Icon Preview",
+    "it": "Icon Preview",
+    "pt-BR": "Icon Preview",
+    "ar": "Icon Preview"
+  },
   "descriptions": {
     "ko": "Icon Preview",
     "ja": "Icon Preview",

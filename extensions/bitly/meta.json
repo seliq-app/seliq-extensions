@@ -11,6 +11,19 @@
     "reformat",
     "share"
   ],
+  "names": {
+    "en": "Bitly",
+    "ko": "Bitly",
+    "ja": "Bitly",
+    "zh-Hans": "Bitly",
+    "zh-Hant": "Bitly",
+    "de": "Bitly",
+    "fr": "Bitly",
+    "es": "Bitly",
+    "it": "Bitly",
+    "pt-BR": "Bitly",
+    "ar": "Bitly"
+  },
   "descriptions": {
     "ko": "Bitly를 사용하여 텍스트의 URL을 단축합니다.",
     "ja": "Bitlyを使用してテキスト内のURLを短縮します。",

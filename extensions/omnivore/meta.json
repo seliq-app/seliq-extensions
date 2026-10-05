@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Omnivore",
+    "ko": "Omnivore",
+    "ja": "Omnivore",
+    "zh-Hans": "Omnivore",
+    "zh-Hant": "Omnivore",
+    "de": "Omnivore",
+    "fr": "Omnivore",
+    "es": "Omnivore",
+    "it": "Omnivore",
+    "pt-BR": "Omnivore",
+    "ar": "Omnivore"
+  },
   "descriptions": {
     "ko": "URL을 Omnivore에 저장하여 나중에 읽습니다.",
     "ja": "URLをOmnivoreに保存して後で読みます。",

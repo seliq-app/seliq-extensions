@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Day One",
+    "ko": "Day One",
+    "ja": "Day One",
+    "zh-Hans": "Day One",
+    "zh-Hant": "Day One",
+    "de": "Day One",
+    "fr": "Day One",
+    "es": "Day One",
+    "it": "Day One",
+    "pt-BR": "Day One",
+    "ar": "Day One"
+  },
   "descriptions": {
     "ko": "Day One을 사용하여 일지를 작성합니다.",
     "ja": "Day Oneを使用して日記エントリを作成します。",

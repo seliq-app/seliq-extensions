@@ -11,6 +11,19 @@
     "saveForLater",
     "quote"
   ],
+  "names": {
+    "en": "Hypothesis",
+    "ko": "Hypothesis",
+    "ja": "Hypothesis",
+    "zh-Hans": "Hypothesis",
+    "zh-Hant": "Hypothesis",
+    "de": "Hypothesis",
+    "fr": "Hypothesis",
+    "es": "Hypothesis",
+    "it": "Hypothesis",
+    "pt-BR": "Hypothesis",
+    "ar": "Hypothesis"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Hypothes.is에 저장합니다.",
     "ja": "選択したテキストをHypothes.isに保存します。",

@@ -10,6 +10,19 @@
   "intents": [
     "share"
   ],
+  "names": {
+    "en": "Tweetbot",
+    "ko": "Tweetbot",
+    "ja": "Tweetbot",
+    "zh-Hans": "Tweetbot",
+    "zh-Hant": "Tweetbot",
+    "de": "Tweetbot",
+    "fr": "Tweetbot",
+    "es": "Tweetbot",
+    "it": "Tweetbot",
+    "pt-BR": "Tweetbot",
+    "ar": "Tweetbot"
+  },
   "descriptions": {
     "ko": "Tweetbot을 사용하여 새 트윗을 작성합니다.",
     "ja": "Tweetbotを使用して新しいツイートを作成します。",

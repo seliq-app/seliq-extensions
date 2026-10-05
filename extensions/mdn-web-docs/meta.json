@@ -10,6 +10,19 @@
     "lookup",
     "developer"
   ],
+  "names": {
+    "en": "MDN Web Docs",
+    "ko": "MDN Web Docs",
+    "ja": "MDN Web Docs",
+    "zh-Hans": "MDN Web Docs",
+    "zh-Hant": "MDN Web Docs",
+    "de": "MDN Web Docs",
+    "fr": "MDN Web Docs",
+    "es": "MDN Web Docs",
+    "it": "MDN Web Docs",
+    "pt-BR": "MDN Web Docs",
+    "ar": "MDN Web Docs"
+  },
   "descriptions": {
     "ko": "MDN Web Docs에서 선택한 텍스트로 검색합니다.",
     "ja": "選択したテキストでMDN Web Docsを検索します。",

@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "WorldCat",
+    "ko": "WorldCat",
+    "ja": "WorldCat",
+    "zh-Hans": "WorldCat",
+    "zh-Hant": "WorldCat",
+    "de": "WorldCat",
+    "fr": "WorldCat",
+    "es": "WorldCat",
+    "it": "WorldCat",
+    "pt-BR": "WorldCat",
+    "ar": "WorldCat"
+  },
   "descriptions": {
     "ko": "WorldCat을 사용하여 세계 도서관 컬렉션을 검색합니다.",
     "ja": "WorldCatを使用して世界中のライブラリコレクションを検索します。",

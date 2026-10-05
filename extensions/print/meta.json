@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Print",
+    "ko": "인쇄",
+    "ja": "プリント",
+    "zh-Hans": "打印",
+    "zh-Hant": "列印",
+    "de": "Drucken",
+    "fr": "Imprimer",
+    "es": "Imprimir",
+    "it": "Stampa",
+    "pt-BR": "Imprimir",
+    "ar": "طباعة"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 기본 프린터로 인쇄합니다.",
     "ja": "選択したテキストをデフォルトプリンターに印刷します。",

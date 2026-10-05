@@ -9,6 +9,19 @@
   "intents": [
     "askAI"
   ],
+  "names": {
+    "en": "Grok Website",
+    "ko": "Grok 웹사이트",
+    "ja": "Grok ウェブサイト",
+    "zh-Hans": "Grok 网站",
+    "zh-Hant": "Grok 網站",
+    "de": "Grok-Website",
+    "fr": "Site web Grok",
+    "es": "Sitio web de Grok",
+    "it": "Sito web Grok",
+    "pt-BR": "Site do Grok",
+    "ar": "موقع Grok"
+  },
   "descriptions": {
     "ko": "Grok 웹사이트에서 새 대화를 시작합니다.",
     "ja": "Grokウェブサイトで新しいチャットを開始します。",

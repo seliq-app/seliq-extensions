@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Ember",
+    "ko": "Ember",
+    "ja": "Ember",
+    "zh-Hans": "Ember",
+    "zh-Hant": "Ember",
+    "de": "Ember",
+    "fr": "Ember",
+    "es": "Ember",
+    "it": "Ember",
+    "pt-BR": "Ember",
+    "ar": "Ember"
+  },
   "descriptions": {
     "ko": "텍스트 클립이나 URL을 Ember에 저장합니다.",
     "ja": "テキストクリップまたはURLをEmberに保存します。",

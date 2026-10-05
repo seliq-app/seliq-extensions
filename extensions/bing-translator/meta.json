@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Bing Translator",
+    "ko": "Bing 번역기",
+    "ja": "Bing 翻訳",
+    "zh-Hans": "必应翻译",
+    "zh-Hant": "Bing 翻譯",
+    "de": "Bing Übersetzer",
+    "fr": "Bing Traducteur",
+    "es": "Traductor de Bing",
+    "it": "Traduttore Bing",
+    "pt-BR": "Tradutor do Bing",
+    "ar": "مترجم Bing"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 웹 브라우저에서 Bing 번역기를 엽니다.",
     "ja": "選択したテキストを使ってBing翻訳をウェブブラウザで開きます。",

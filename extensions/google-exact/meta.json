@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Google Exact",
+    "ko": "Google 정확히 일치",
+    "ja": "Google 完全一致",
+    "zh-Hans": "Google 精确匹配",
+    "zh-Hant": "Google 精確比對",
+    "de": "Google Exakt",
+    "fr": "Google Correspondance exacte",
+    "es": "Google Coincidencia exacta",
+    "it": "Google Corrispondenza esatta",
+    "pt-BR": "Google Correspondência exata",
+    "ar": "Google مطابقة تامة"
+  },
   "descriptions": {
     "ko": "'정확한 구문' Google 검색을 수행합니다.",
     "ja": "「完全一致」Google検索を実行します。",

@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Raindrop.io",
+    "ko": "Raindrop.io",
+    "ja": "Raindrop.io",
+    "zh-Hans": "Raindrop.io",
+    "zh-Hant": "Raindrop.io",
+    "de": "Raindrop.io",
+    "fr": "Raindrop.io",
+    "es": "Raindrop.io",
+    "it": "Raindrop.io",
+    "pt-BR": "Raindrop.io",
+    "ar": "Raindrop.io"
+  },
   "descriptions": {
     "ko": "Raindrop.io로 URL을 북마크합니다.",
     "ja": "Raindrop.ioでURLをブックマークします。",

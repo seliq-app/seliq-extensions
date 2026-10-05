@@ -9,6 +9,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Title Case",
+    "ko": "제목 대소문자",
+    "ja": "タイトルケース",
+    "zh-Hans": "标题大小写",
+    "zh-Hant": "標題大小寫",
+    "de": "Titel-Schreibweise",
+    "fr": "Casse de titre",
+    "es": "Mayúsculas de título",
+    "it": "Maiuscole del titolo",
+    "pt-BR": "Capitalização de título",
+    "ar": "حالة العنوان"
+  },
   "descriptions": {
     "ko": "영어 제목 관례에 따라 단어를 대문자화합니다.",
     "ja": "英語のタイトル規約に従って単語を大文字化します。",

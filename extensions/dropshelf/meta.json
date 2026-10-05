@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Dropshelf",
+    "ko": "Dropshelf",
+    "ja": "Dropshelf",
+    "zh-Hans": "Dropshelf",
+    "zh-Hant": "Dropshelf",
+    "de": "Dropshelf",
+    "fr": "Dropshelf",
+    "es": "Dropshelf",
+    "it": "Dropshelf",
+    "pt-BR": "Dropshelf",
+    "ar": "Dropshelf"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Dropshelf로 보냅니다.",
     "ja": "選択したテキストをDropshelfに送信します。",

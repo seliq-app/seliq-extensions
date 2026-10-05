@@ -10,6 +10,19 @@
     "share",
     "justCopy"
   ],
+  "names": {
+    "en": "Copy Link to Highlight",
+    "ko": "강조 표시 링크 복사",
+    "ja": "ハイライトへのリンクをコピー",
+    "zh-Hans": "拷贝高亮链接",
+    "zh-Hant": "複製醒目標示連結",
+    "de": "Link zur Markierung kopieren",
+    "fr": "Copier le lien vers la sélection",
+    "es": "Copiar enlace al texto resaltado",
+    "it": "Copia link all'evidenziazione",
+    "pt-BR": "Copiar link para o destaque",
+    "ar": "نسخ رابط التمييز"
+  },
   "descriptions": {
     "ko": "웹 페이지에서 현재 선택한 텍스트를 가리키는 URL을 복사합니다.",
     "ja": "ウェブページで現在選択されているテキストを指すURLをコピーします。",

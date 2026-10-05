@@ -11,6 +11,19 @@
     "play",
     "lookup"
   ],
+  "names": {
+    "en": "Rdio",
+    "ko": "Rdio",
+    "ja": "Rdio",
+    "zh-Hans": "Rdio",
+    "zh-Hant": "Rdio",
+    "de": "Rdio",
+    "fr": "Rdio",
+    "es": "Rdio",
+    "it": "Rdio",
+    "pt-BR": "Rdio",
+    "ar": "Rdio"
+  },
   "descriptions": {
     "ko": "Rdio에서 음악을 검색합니다.",
     "ja": "Rdioで音楽を検索します。",

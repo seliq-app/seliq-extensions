@@ -9,6 +9,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "PopDo",
+    "ko": "PopDo",
+    "ja": "PopDo",
+    "zh-Hans": "PopDo",
+    "zh-Hant": "PopDo",
+    "de": "PopDo",
+    "fr": "PopDo",
+    "es": "PopDo",
+    "it": "PopDo",
+    "pt-BR": "PopDo",
+    "ar": "PopDo"
+  },
   "descriptions": {
     "ko": "PopDo에서 새 작업을 추가합니다.",
     "ja": "PopDoに新しいタスクを追加します。",

@@ -9,6 +9,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Pages",
+    "ko": "Pages",
+    "ja": "Pages",
+    "zh-Hans": "Pages",
+    "zh-Hant": "Pages",
+    "de": "Pages",
+    "fr": "Pages",
+    "es": "Pages",
+    "it": "Pages",
+    "pt-BR": "Pages",
+    "ar": "Pages"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 포함한 새 Pages 문서를 만듭니다.",
     "ja": "選択したテキストを含む新しいPagesドキュメントを作成します。",

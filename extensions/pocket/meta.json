@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Pocket",
+    "ko": "Pocket",
+    "ja": "Pocket",
+    "zh-Hans": "Pocket",
+    "zh-Hant": "Pocket",
+    "de": "Pocket",
+    "fr": "Pocket",
+    "es": "Pocket",
+    "it": "Pocket",
+    "pt-BR": "Pocket",
+    "ar": "Pocket"
+  },
   "descriptions": {
     "ko": "URL을 Pocket에 저장하여 나중에 봅니다.",
     "ja": "URLをPocketに保存して後で表示します。",

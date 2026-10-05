@@ -11,6 +11,19 @@
     "lookup",
     "play"
   ],
+  "names": {
+    "en": "IMDb",
+    "ko": "IMDb",
+    "ja": "IMDb",
+    "zh-Hans": "IMDb",
+    "zh-Hant": "IMDb",
+    "de": "IMDb",
+    "fr": "IMDb",
+    "es": "IMDb",
+    "it": "IMDb",
+    "pt-BR": "IMDb",
+    "ar": "IMDb"
+  },
   "descriptions": {
     "ko": "IMDb에서 영화 데이터를 검색합니다.",
     "ja": "IMDbで映画データを検索します。",

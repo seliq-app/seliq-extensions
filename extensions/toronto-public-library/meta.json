@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "TorontoPublicLibrary",
+    "ko": "TorontoPublicLibrary",
+    "ja": "TorontoPublicLibrary",
+    "zh-Hans": "TorontoPublicLibrary",
+    "zh-Hant": "TorontoPublicLibrary",
+    "de": "TorontoPublicLibrary",
+    "fr": "TorontoPublicLibrary",
+    "es": "TorontoPublicLibrary",
+    "it": "TorontoPublicLibrary",
+    "pt-BR": "TorontoPublicLibrary",
+    "ar": "TorontoPublicLibrary"
+  },
   "descriptions": {
     "ko": "Toronto Public Library를 사용하여 웹을 검색합니다.",
     "ja": "Toronto Public Libraryを使用してウェブを検索します。",

@@ -11,6 +11,19 @@
     "saveForLater",
     "play"
   ],
+  "names": {
+    "en": "Downie",
+    "ko": "Downie",
+    "ja": "Downie",
+    "zh-Hans": "Downie",
+    "zh-Hant": "Downie",
+    "de": "Downie",
+    "fr": "Downie",
+    "es": "Downie",
+    "it": "Downie",
+    "pt-BR": "Downie",
+    "ar": "Downie"
+  },
   "descriptions": {
     "ko": "Downie를 사용하여 링크된 페이지의 동영상을 다운로드합니다. (이제 Downie 4를 지원합니다.)",
     "ja": "Downieを使用して、リンク先ページの動画をダウンロードします。（Downie 4に対応済みです。）",

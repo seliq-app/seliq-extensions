@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Translate Tab",
+    "ko": "Translate Tab",
+    "ja": "Translate Tab",
+    "zh-Hans": "Translate Tab",
+    "zh-Hant": "Translate Tab",
+    "de": "Translate Tab",
+    "fr": "Translate Tab",
+    "es": "Translate Tab",
+    "it": "Translate Tab",
+    "pt-BR": "Translate Tab",
+    "ar": "Translate Tab"
+  },
   "descriptions": {
     "ko": "Translate Tab을 사용하여 텍스트를 번역합니다.",
     "ja": "Translate Tabを使用してテキストを翻訳します。",

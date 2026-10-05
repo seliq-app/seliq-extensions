@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "OpenHTMLLinks",
+    "ko": "HTML 링크 열기",
+    "ja": "HTMLリンクを開く",
+    "zh-Hans": "打开 HTML 链接",
+    "zh-Hant": "開啟 HTML 連結",
+    "de": "HTML-Links öffnen",
+    "fr": "Ouvrir les liens HTML",
+    "es": "Abrir enlaces HTML",
+    "it": "Apri link HTML",
+    "pt-BR": "Abrir links HTML",
+    "ar": "فتح روابط HTML"
+  },
   "descriptions": {
     "ko": "OpenHTMLLinks",
     "ja": "OpenHTMLLinks",

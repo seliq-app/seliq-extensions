@@ -10,6 +10,19 @@
     "reformat",
     "cleanup"
   ],
+  "names": {
+    "en": "Alphagram",
+    "ko": "Alphagram",
+    "ja": "Alphagram",
+    "zh-Hans": "Alphagram",
+    "zh-Hant": "Alphagram",
+    "de": "Alphagram",
+    "fr": "Alphagram",
+    "es": "Alphagram",
+    "it": "Alphagram",
+    "pt-BR": "Alphagram",
+    "ar": "Alphagram"
+  },
   "descriptions": {
     "ko": "선택한 텍스트의 글자를 정렬하거나 섞습니다.",
     "ja": "選択したテキストの文字をソートまたはスクランブルします。",

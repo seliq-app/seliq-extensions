@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Neeva",
+    "ko": "Neeva",
+    "ja": "Neeva",
+    "zh-Hans": "Neeva",
+    "zh-Hant": "Neeva",
+    "de": "Neeva",
+    "fr": "Neeva",
+    "es": "Neeva",
+    "it": "Neeva",
+    "pt-BR": "Neeva",
+    "ar": "Neeva"
+  },
   "descriptions": {
     "ko": "Neeva를 사용하여 웹을 검색합니다.",
     "ja": "Neevaを使用してウェブを検索します。",

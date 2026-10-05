@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Lexibird",
+    "ko": "Lexibird",
+    "ja": "Lexibird",
+    "zh-Hans": "Lexibird",
+    "zh-Hant": "Lexibird",
+    "de": "Lexibird",
+    "fr": "Lexibird",
+    "es": "Lexibird",
+    "it": "Lexibird",
+    "pt-BR": "Lexibird",
+    "ar": "Lexibird"
+  },
   "descriptions": {
     "ko": "Lexibird를 사용하여 텍스트를 번역합니다.",
     "ja": "Lexibirdを使用してテキストを翻訳します。",

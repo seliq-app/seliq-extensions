@@ -10,6 +10,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Full/Half Width",
+    "ko": "전각/반각",
+    "ja": "全角/半角",
+    "zh-Hans": "全角/半角",
+    "zh-Hant": "全形/半形",
+    "de": "Voll-/Halbbreite",
+    "fr": "Pleine/demi-chasse",
+    "es": "Ancho completo/medio",
+    "it": "Larghezza intera/metà",
+    "pt-BR": "Largura total/meia",
+    "ar": "عرض كامل/نصف"
+  },
   "descriptions": {
     "ko": "중국어, 일본어, 한국어 문자의 전각과 반각 형식 사이를 변환합니다. 예: ヲ를 ｦ로 변환.",
     "ja": "中国語、日本語、韓国語の文字を全角と半角の間で変換します。例：ヲをｦに変換。",

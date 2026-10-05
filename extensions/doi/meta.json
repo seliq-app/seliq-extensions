@@ -11,6 +11,19 @@
     "lookup",
     "open"
   ],
+  "names": {
+    "en": "DOI",
+    "ko": "DOI",
+    "ja": "DOI",
+    "zh-Hans": "DOI",
+    "zh-Hant": "DOI",
+    "de": "DOI",
+    "fr": "DOI",
+    "es": "DOI",
+    "it": "DOI",
+    "pt-BR": "DOI",
+    "ar": "DOI"
+  },
   "descriptions": {
     "ko": "doi.org을 사용하여 Digital Object Identifier (DOI)를 해석합니다.",
     "ja": "doi.orgを使用してDigital Object Identifier（DOI）を解決します。",

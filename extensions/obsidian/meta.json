@@ -9,6 +9,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Obsidian",
+    "ko": "Obsidian",
+    "ja": "Obsidian",
+    "zh-Hans": "Obsidian",
+    "zh-Hant": "Obsidian",
+    "de": "Obsidian",
+    "fr": "Obsidian",
+    "es": "Obsidian",
+    "it": "Obsidian",
+    "pt-BR": "Obsidian",
+    "ar": "Obsidian"
+  },
   "descriptions": {
     "ko": "텍스트를 Obsidian으로 캡처합니다.",
     "ja": "テキストをObsidianにキャプチャします。",

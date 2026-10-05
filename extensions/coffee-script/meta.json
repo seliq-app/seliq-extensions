@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "CoffeeScript",
+    "ko": "CoffeeScript",
+    "ja": "CoffeeScript",
+    "zh-Hans": "CoffeeScript",
+    "zh-Hant": "CoffeeScript",
+    "de": "CoffeeScript",
+    "fr": "CoffeeScript",
+    "es": "CoffeeScript",
+    "it": "CoffeeScript",
+    "pt-BR": "CoffeeScript",
+    "ar": "CoffeeScript"
+  },
   "descriptions": {
     "ko": "CoffeeScript 텍스트를 JavaScript로 변환합니다.",
     "ja": "CoffeeScriptテキストをJavaScriptに変換します。",

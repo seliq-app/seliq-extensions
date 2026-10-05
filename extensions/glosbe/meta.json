@@ -11,6 +11,19 @@
     "define",
     "translate"
   ],
+  "names": {
+    "en": "Glosbe",
+    "ko": "Glosbe",
+    "ja": "Glosbe",
+    "zh-Hans": "Glosbe",
+    "zh-Hant": "Glosbe",
+    "de": "Glosbe",
+    "fr": "Glosbe",
+    "es": "Glosbe",
+    "it": "Glosbe",
+    "pt-BR": "Glosbe",
+    "ar": "Glosbe"
+  },
   "descriptions": {
     "ko": "Glosbe 글로벌 사전에서 선택한 텍스트를 검색합니다.",
     "ja": "グローバル辞書サイトGlosbeで選択したテキストを検索します。",

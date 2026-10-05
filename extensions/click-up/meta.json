@@ -9,6 +9,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "ClickUp",
+    "ko": "ClickUp",
+    "ja": "ClickUp",
+    "zh-Hans": "ClickUp",
+    "zh-Hant": "ClickUp",
+    "de": "ClickUp",
+    "fr": "ClickUp",
+    "es": "ClickUp",
+    "it": "ClickUp",
+    "pt-BR": "ClickUp",
+    "ar": "ClickUp"
+  },
   "descriptions": {
     "ko": "ClickUp에서 작업을 만듭니다.",
     "ja": "ClickUpでタスクを作成します。",

@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "JS Async Globals",
+    "ko": "JS Async Globals",
+    "ja": "JS Async Globals",
+    "zh-Hans": "JS Async Globals",
+    "zh-Hant": "JS Async Globals",
+    "de": "JS Async Globals",
+    "fr": "JS Async Globals",
+    "es": "JS Async Globals",
+    "it": "JS Async Globals",
+    "pt-BR": "JS Async Globals",
+    "ar": "JS Async Globals"
+  },
   "descriptions": {
     "ko": "JS Async Globals",
     "ja": "JS Async Globals",

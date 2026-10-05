@@ -11,6 +11,19 @@
     "saveForLater",
     "remind"
   ],
+  "names": {
+    "en": "Stickies",
+    "ko": "Stickies",
+    "ja": "Stickies",
+    "zh-Hans": "便笺",
+    "zh-Hant": "便利貼",
+    "de": "Stickies",
+    "fr": "Pense-bêtes",
+    "es": "Stickies",
+    "it": "Stickies",
+    "pt-BR": "Stickies",
+    "ar": "Stickies"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 새 Stickies 노트를 만듭니다.",
     "ja": "選択したテキストで新しいStickiesノートを作成します。",

@@ -11,6 +11,19 @@
     "contact",
     "share"
   ],
+  "names": {
+    "en": "Sparrow",
+    "ko": "Sparrow",
+    "ja": "Sparrow",
+    "zh-Hans": "Sparrow",
+    "zh-Hant": "Sparrow",
+    "de": "Sparrow",
+    "fr": "Sparrow",
+    "es": "Sparrow",
+    "it": "Sparrow",
+    "pt-BR": "Sparrow",
+    "ar": "Sparrow"
+  },
   "descriptions": {
     "ko": "Sparrow에서 새 메시지를 만듭니다.",
     "ja": "Sparrowで新しいメッセージを作成します。",

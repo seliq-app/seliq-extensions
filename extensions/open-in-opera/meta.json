@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Open in Opera",
+    "ko": "Opera에서 열기",
+    "ja": "Operaで開く",
+    "zh-Hans": "在 Opera 中打开",
+    "zh-Hant": "在 Opera 中開啟",
+    "de": "In Opera öffnen",
+    "fr": "Ouvrir dans Opera",
+    "es": "Abrir en Opera",
+    "it": "Apri in Opera",
+    "pt-BR": "Abrir no Opera",
+    "ar": "فتح في Opera"
+  },
   "descriptions": {
     "ko": "링크를 Opera에서 엽니다.",
     "ja": "リンクをOperaで開きます。",

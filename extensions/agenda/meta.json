@@ -11,6 +11,19 @@
     "saveForLater",
     "remind"
   ],
+  "names": {
+    "en": "Agenda",
+    "ko": "Agenda",
+    "ja": "Agenda",
+    "zh-Hans": "Agenda",
+    "zh-Hant": "Agenda",
+    "de": "Agenda",
+    "fr": "Agenda",
+    "es": "Agenda",
+    "it": "Agenda",
+    "pt-BR": "Agenda",
+    "ar": "Agenda"
+  },
   "descriptions": {
     "ko": "Agenda 노트에 텍스트를 캡처합니다.",
     "ja": "Agendaノートにテキストをキャプチャします。",

@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "Wunderlist",
+    "ko": "Wunderlist",
+    "ja": "Wunderlist",
+    "zh-Hans": "Wunderlist",
+    "zh-Hant": "Wunderlist",
+    "de": "Wunderlist",
+    "fr": "Wunderlist",
+    "es": "Wunderlist",
+    "it": "Wunderlist",
+    "pt-BR": "Wunderlist",
+    "ar": "Wunderlist"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Wunderlist에 새 항목으로 추가합니다.",
     "ja": "選択したテキストをWunderlistに新しいアイテムとして追加します。",

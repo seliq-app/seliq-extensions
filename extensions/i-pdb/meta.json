@@ -11,6 +11,19 @@
     "lookup",
     "developer"
   ],
+  "names": {
+    "en": "IPdb",
+    "ko": "IPdb",
+    "ja": "IPdb",
+    "zh-Hans": "IPdb",
+    "zh-Hant": "IPdb",
+    "de": "IPdb",
+    "fr": "IPdb",
+    "es": "IPdb",
+    "it": "IPdb",
+    "pt-BR": "IPdb",
+    "ar": "IPdb"
+  },
   "descriptions": {
     "ko": "IPDb.at을 열고 선택한 IP 주소를 검색합니다.",
     "ja": "IPDb.atを開き、選択したIPアドレスを検索します。",

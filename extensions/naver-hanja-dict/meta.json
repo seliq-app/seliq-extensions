@@ -4,6 +4,19 @@
   "intents": [
     "define"
   ],
+  "names": {
+    "en": "Naver Hanja Dictionary",
+    "ko": "네이버 한자사전",
+    "ja": "NAVER漢字辞書",
+    "zh-Hans": "NAVER汉字词典",
+    "zh-Hant": "NAVER漢字辭典",
+    "de": "Naver Hanja-Wörterbuch",
+    "fr": "Dictionnaire hanja Naver",
+    "es": "Diccionario hanja Naver",
+    "it": "Naver Dizionario di hanja",
+    "pt-BR": "Naver Dicionário de hanja",
+    "ar": "قاموس Naver للهانجا"
+  },
   "descriptions": {
     "ko": "선택한 글을 네이버 한자사전에서 찾습니다.",
     "ja": "選択したテキストをNAVER漢字辞書で調べます。",

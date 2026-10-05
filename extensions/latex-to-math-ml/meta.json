@@ -10,6 +10,19 @@
     "developer",
     "reformat"
   ],
+  "names": {
+    "en": "Latex to MathML",
+    "ko": "LaTeX를 MathML로",
+    "ja": "LaTeX → MathML",
+    "zh-Hans": "LaTeX 转 MathML",
+    "zh-Hant": "LaTeX 轉 MathML",
+    "de": "LaTeX in MathML",
+    "fr": "LaTeX vers MathML",
+    "es": "LaTeX a MathML",
+    "it": "LaTeX in MathML",
+    "pt-BR": "LaTeX para MathML",
+    "ar": "LaTeX إلى MathML"
+  },
   "descriptions": {
     "ko": "LaTeX를 MathML로 변환합니다.",
     "ja": "LaTeXをMathMLに変換します。",

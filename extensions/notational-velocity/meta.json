@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Notational Velocity",
+    "ko": "Notational Velocity",
+    "ja": "Notational Velocity",
+    "zh-Hans": "Notational Velocity",
+    "zh-Hant": "Notational Velocity",
+    "de": "Notational Velocity",
+    "fr": "Notational Velocity",
+    "es": "Notational Velocity",
+    "it": "Notational Velocity",
+    "pt-BR": "Notational Velocity",
+    "ar": "Notational Velocity"
+  },
   "descriptions": {
     "ko": "Notational Velocity에서 노트를 만듭니다.",
     "ja": "Notational Velocityでノートを作成します。",

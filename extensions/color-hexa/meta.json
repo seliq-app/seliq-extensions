@@ -10,6 +10,19 @@
   "intents": [
     "convert"
   ],
+  "names": {
+    "en": "Color Hexa",
+    "ko": "Color Hexa",
+    "ja": "Color Hexa",
+    "zh-Hans": "Color Hexa",
+    "zh-Hant": "Color Hexa",
+    "de": "Color Hexa",
+    "fr": "Color Hexa",
+    "es": "Color Hexa",
+    "it": "Color Hexa",
+    "pt-BR": "Color Hexa",
+    "ar": "Color Hexa"
+  },
   "descriptions": {
     "ko": "Color Hexa, Tommaso Barbato의 PopMaker로 제작",
     "ja": "Color Hexa、Tommaso BarbatoのPopMakerで作成",

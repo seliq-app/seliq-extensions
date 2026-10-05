@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Gladys",
+    "ko": "Gladys",
+    "ja": "Gladys",
+    "zh-Hans": "Gladys",
+    "zh-Hant": "Gladys",
+    "de": "Gladys",
+    "fr": "Gladys",
+    "es": "Gladys",
+    "it": "Gladys",
+    "pt-BR": "Gladys",
+    "ar": "Gladys"
+  },
   "descriptions": {
     "ko": "Gladys에서 새 텍스트 항목을 만듭니다.",
     "ja": "Gladysで新しいテキスト項目を作成します。",

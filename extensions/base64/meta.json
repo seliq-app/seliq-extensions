@@ -11,6 +11,19 @@
     "developer",
     "reformat"
   ],
+  "names": {
+    "en": "Base64",
+    "ko": "Base64",
+    "ja": "Base64",
+    "zh-Hans": "Base64",
+    "zh-Hant": "Base64",
+    "de": "Base64",
+    "fr": "Base64",
+    "es": "Base64",
+    "it": "Base64",
+    "pt-BR": "Base64",
+    "ar": "Base64"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Base64 인코딩된 UTF-8로 인코딩하거나 디코딩합니다. 표준(+/) 및 URL 안전(-_) Base64 변형을 지원합니다.",
     "ja": "選択したテキストをBase64エンコードされたUTF-8としてエンコードまたはデコードします。標準（+/）およびURLセーフ（-_）のBase64形式をサポートします。",

@@ -9,6 +9,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "ScreenFloat",
+    "ko": "ScreenFloat",
+    "ja": "ScreenFloat",
+    "zh-Hans": "ScreenFloat",
+    "zh-Hant": "ScreenFloat",
+    "de": "ScreenFloat",
+    "fr": "ScreenFloat",
+    "es": "ScreenFloat",
+    "it": "ScreenFloat",
+    "pt-BR": "ScreenFloat",
+    "ar": "ScreenFloat"
+  },
   "descriptions": {
     "ko": "ScreenFloat로 선택한 텍스트나 화면의 일부를 캡처합니다.",
     "ja": "ScreenFloatで選択したテキストまたはスクリーンの一部をキャプチャします。",

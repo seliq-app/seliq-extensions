@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Scrivener",
+    "ko": "Scrivener",
+    "ja": "Scrivener",
+    "zh-Hans": "Scrivener",
+    "zh-Hant": "Scrivener",
+    "de": "Scrivener",
+    "fr": "Scrivener",
+    "es": "Scrivener",
+    "it": "Scrivener",
+    "pt-BR": "Scrivener",
+    "ar": "Scrivener"
+  },
   "descriptions": {
     "ko": "현재 열려 있는 Scrivener 문서에서 새 클리핑을 만듭니다.",
     "ja": "現在開いているScrivenerドキュメントで新しいクリップを作成します。",

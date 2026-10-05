@@ -11,6 +11,19 @@
     "saveForLater",
     "developer"
   ],
+  "names": {
+    "en": "Quiver",
+    "ko": "Quiver",
+    "ja": "Quiver",
+    "zh-Hans": "Quiver",
+    "zh-Hant": "Quiver",
+    "de": "Quiver",
+    "fr": "Quiver",
+    "es": "Quiver",
+    "it": "Quiver",
+    "pt-BR": "Quiver",
+    "ar": "Quiver"
+  },
   "descriptions": {
     "ko": "선택한 항목을 프로그래머의 노트북인 Quiver로 보냅니다.",
     "ja": "選択内容をプログラマー向けノートQuiverに送信します。",

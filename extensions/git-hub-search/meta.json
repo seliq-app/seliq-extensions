@@ -11,6 +11,19 @@
     "lookup",
     "developer"
   ],
+  "names": {
+    "en": "GitHub Search",
+    "ko": "GitHub 검색",
+    "ja": "GitHub 検索",
+    "zh-Hans": "GitHub 搜索",
+    "zh-Hant": "GitHub 搜尋",
+    "de": "GitHub-Suche",
+    "fr": "Recherche GitHub",
+    "es": "Búsqueda en GitHub",
+    "it": "Cerca su GitHub",
+    "pt-BR": "Pesquisar no GitHub",
+    "ar": "بحث GitHub"
+  },
   "descriptions": {
     "ko": "GitHub 저장소를 검색합니다.",
     "ja": "GitHubリポジトリを検索します。",

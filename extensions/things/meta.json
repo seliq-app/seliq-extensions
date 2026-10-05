@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "Things",
+    "ko": "Things",
+    "ja": "Things",
+    "zh-Hans": "Things",
+    "zh-Hant": "Things",
+    "de": "Things",
+    "fr": "Things",
+    "es": "Things",
+    "it": "Things",
+    "pt-BR": "Things",
+    "ar": "Things"
+  },
   "descriptions": {
     "ko": "Things 2에서 새 할 일을 만듭니다.",
     "ja": "Things 2で新しいToDoを作成します。",

@@ -11,6 +11,19 @@
     "cleanup",
     "reformat"
   ],
+  "names": {
+    "en": "Remove Spaces",
+    "ko": "공백 제거",
+    "ja": "スペースを削除",
+    "zh-Hans": "删除空格",
+    "zh-Hant": "刪除空格",
+    "de": "Leerzeichen entfernen",
+    "fr": "Supprimer les espaces",
+    "es": "Quitar espacios",
+    "it": "Rimuovi spazi",
+    "pt-BR": "Remover espaços",
+    "ar": "إزالة المسافات"
+  },
   "descriptions": {
     "ko": "선택한 텍스트에서 공백을 제거합니다.",
     "ja": "選択したテキストからスペースを削除します。",

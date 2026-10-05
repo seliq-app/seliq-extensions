@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Tana",
+    "ko": "Tana",
+    "ja": "Tana",
+    "zh-Hans": "Tana",
+    "zh-Hant": "Tana",
+    "de": "Tana",
+    "fr": "Tana",
+    "es": "Tana",
+    "it": "Tana",
+    "pt-BR": "Tana",
+    "ar": "Tana"
+  },
   "descriptions": {
     "ko": "Tana에 텍스트를 캡처합니다.",
     "ja": "Tanaにテキストをキャプチャします。",

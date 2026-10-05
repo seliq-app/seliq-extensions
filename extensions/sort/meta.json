@@ -11,6 +11,19 @@
     "list",
     "cleanup"
   ],
+  "names": {
+    "en": "Sort",
+    "ko": "정렬",
+    "ja": "並べ替え",
+    "zh-Hans": "排序",
+    "zh-Hant": "排序",
+    "de": "Sortieren",
+    "fr": "Trier",
+    "es": "Ordenar",
+    "it": "Ordina",
+    "pt-BR": "Ordenar",
+    "ar": "فرز"
+  },
   "descriptions": {
     "ko": "선택한 줄을 사전순으로 정렬합니다.",
     "ja": "選択した行をアルファベット順でソートします。",

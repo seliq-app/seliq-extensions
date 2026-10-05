@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Open in Brave",
+    "ko": "Brave에서 열기",
+    "ja": "Braveで開く",
+    "zh-Hans": "在 Brave 中打开",
+    "zh-Hant": "在 Brave 中開啟",
+    "de": "In Brave öffnen",
+    "fr": "Ouvrir dans Brave",
+    "es": "Abrir en Brave",
+    "it": "Apri in Brave",
+    "pt-BR": "Abrir no Brave",
+    "ar": "فتح في Brave"
+  },
   "descriptions": {
     "ko": "링크를 Brave 브라우저에서 엽니다.",
     "ja": "リンクをBraveで開きます。",

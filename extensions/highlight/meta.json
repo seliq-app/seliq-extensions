@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Highlight",
+    "ko": "강조",
+    "ja": "ハイライト",
+    "zh-Hans": "高亮",
+    "zh-Hant": "醒目標示",
+    "de": "Hervorheben",
+    "fr": "Surligner",
+    "es": "Resaltar",
+    "it": "Evidenzia",
+    "pt-BR": "Destacar",
+    "ar": "تمييز"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 강조합니다(Pages, Preview, Alternote, DevonThink, Evernote, Goodlinks, iA Writer, iA Presenter, LogSeq, Obsidian, PDFpen, PDF Expert, Scrivener, Skim, Apple Notes에서만 작동).",
     "ja": "選択したテキストをハイライトします（Pages、Preview、Alternote、DevonThink、Evernote、Goodlinks、iA Writer、iA Presenter、LogSeq、Obsidian、PDFpen、PDF Expert、Scrivener、Skim、Apple Notesでのみ動作）。",

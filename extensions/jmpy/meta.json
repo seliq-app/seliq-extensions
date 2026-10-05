@@ -12,6 +12,19 @@
     "makeQR",
     "developer"
   ],
+  "names": {
+    "en": "Jmpy",
+    "ko": "Jmpy",
+    "ja": "Jmpy",
+    "zh-Hans": "Jmpy",
+    "zh-Hant": "Jmpy",
+    "de": "Jmpy",
+    "fr": "Jmpy",
+    "es": "Jmpy",
+    "it": "Jmpy",
+    "pt-BR": "Jmpy",
+    "ar": "Jmpy"
+  },
   "descriptions": {
     "ko": "Jmpy를 사용하여 짧은 링크와 동적 QR 코드를 만듭니다.",
     "ja": "Jmpyを使用して短いリンクと動的QRコードを作成します。",

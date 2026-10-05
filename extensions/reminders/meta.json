@@ -11,6 +11,19 @@
     "remind",
     "schedule"
   ],
+  "names": {
+    "en": "Reminders",
+    "ko": "미리 알림",
+    "ja": "リマインダー",
+    "zh-Hans": "提醒事项",
+    "zh-Hant": "提醒事項",
+    "de": "Erinnerungen",
+    "fr": "Rappels",
+    "es": "Recordatorios",
+    "it": "Promemoria",
+    "pt-BR": "Lembretes",
+    "ar": "التذكيرات"
+  },
   "descriptions": {
     "ko": "Reminders에서 새 미리 알림을 추가합니다.",
     "ja": "Remindersで新しいリマインダーを追加します。",

@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Google",
+    "ko": "Google",
+    "ja": "Google",
+    "zh-Hans": "Google",
+    "zh-Hant": "Google",
+    "de": "Google",
+    "fr": "Google",
+    "es": "Google",
+    "it": "Google",
+    "pt-BR": "Google",
+    "ar": "Google"
+  },
   "descriptions": {
     "ko": "Google을 사용하여 웹을 검색하며, 국가별 사이트를 선택할 수 있습니다.",
     "ja": "Googleを使用してウェブを検索します。国別サイトも選択できます。",

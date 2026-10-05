@@ -9,6 +9,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Uppercase",
+    "ko": "대문자로",
+    "ja": "大文字に",
+    "zh-Hans": "转大写",
+    "zh-Hant": "轉大寫",
+    "de": "Großbuchstaben",
+    "fr": "Majuscules",
+    "es": "Mayúsculas",
+    "it": "Maiuscole",
+    "pt-BR": "Maiúsculas",
+    "ar": "أحرف كبيرة"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 모두 대문자로 만듭니다.",
     "ja": "選択したテキストをすべて大文字にします。",

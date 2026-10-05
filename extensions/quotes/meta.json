@@ -11,6 +11,19 @@
     "reformat",
     "quote"
   ],
+  "names": {
+    "en": "Quotes",
+    "ko": "따옴표",
+    "ja": "引用符",
+    "zh-Hans": "引号",
+    "zh-Hant": "引號",
+    "de": "Anführungszeichen",
+    "fr": "Guillemets",
+    "es": "Comillas",
+    "it": "Virgolette",
+    "pt-BR": "Aspas",
+    "ar": "علامات الاقتباس"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 여러 스타일 중에서 선택한 따옴표로 묶습니다.",
     "ja": "選択したテキストを複数のスタイルから選択した引用符で囲みます。",

@@ -11,6 +11,19 @@
     "explain",
     "developer"
   ],
+  "names": {
+    "en": "Explain Shell",
+    "ko": "Explain Shell",
+    "ja": "Explain Shell",
+    "zh-Hans": "Explain Shell",
+    "zh-Hant": "Explain Shell",
+    "de": "Explain Shell",
+    "fr": "Explain Shell",
+    "es": "Explain Shell",
+    "it": "Explain Shell",
+    "pt-BR": "Explain Shell",
+    "ar": "Explain Shell"
+  },
   "descriptions": {
     "ko": "웹 브라우저에서 선택한 텍스트를 Explain Shell의 검색 문자열로 엽니다.",
     "ja": "選択したテキストをExplain Shellの検索文字列としてウェブブラウザで開きます。",

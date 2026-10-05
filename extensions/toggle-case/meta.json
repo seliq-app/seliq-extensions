@@ -10,6 +10,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Toggle Case",
+    "ko": "대소문자 전환",
+    "ja": "大文字/小文字を切り替え",
+    "zh-Hans": "切换大小写",
+    "zh-Hant": "切換大小寫",
+    "de": "Groß-/Kleinschreibung umschalten",
+    "fr": "Basculer la casse",
+    "es": "Alternar mayúsculas/minúsculas",
+    "it": "Inverti maiuscole/minuscole",
+    "pt-BR": "Alternar maiúsculas/minúsculas",
+    "ar": "تبديل حالة الأحرف"
+  },
   "descriptions": {
     "ko": "선택한 텍스트의 대소문자를 전환합니다.",
     "ja": "選択したテキストの大文字小文字を切り替えます。",

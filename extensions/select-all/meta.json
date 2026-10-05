@@ -7,6 +7,19 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/SelectAll.popclipext",
   "origin": "popclip",
+  "names": {
+    "en": "Select All",
+    "ko": "전체 선택",
+    "ja": "すべてを選択",
+    "zh-Hans": "全选",
+    "zh-Hant": "全選",
+    "de": "Alles auswählen",
+    "fr": "Tout sélectionner",
+    "es": "Seleccionar todo",
+    "it": "Seleziona tutto",
+    "pt-BR": "Selecionar tudo",
+    "ar": "تحديد الكل"
+  },
   "descriptions": {
     "ko": "필드의 모든 텍스트를 선택한 다음 PopClip을 다시 호출합니다.",
     "ja": "フィールドのすべてのテキストを選択して、PopClipを再度呼び出します。",

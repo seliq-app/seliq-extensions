@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "DeepL App",
+    "ko": "DeepL 앱",
+    "ja": "DeepL アプリ",
+    "zh-Hans": "DeepL 应用",
+    "zh-Hant": "DeepL 應用程式",
+    "de": "DeepL-App",
+    "fr": "App DeepL",
+    "es": "App de DeepL",
+    "it": "App DeepL",
+    "pt-BR": "App do DeepL",
+    "ar": "تطبيق DeepL"
+  },
   "descriptions": {
     "ko": "DeepL 앱으로 번역합니다.",
     "ja": "DeepLアプリで翻訳します。",

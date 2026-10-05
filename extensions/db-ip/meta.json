@@ -12,6 +12,19 @@
     "lookup",
     "findPlace"
   ],
+  "names": {
+    "en": "Geo Lookup DB-IP",
+    "ko": "DB-IP 위치 조회",
+    "ja": "DB-IP ジオ検索",
+    "zh-Hans": "DB-IP 地理位置查询",
+    "zh-Hant": "DB-IP 地理位置查詢",
+    "de": "Geo-Lookup DB-IP",
+    "fr": "Géolocalisation DB-IP",
+    "es": "Geolocalización DB-IP",
+    "it": "Geolocalizzazione DB-IP",
+    "pt-BR": "Geolocalização DB-IP",
+    "ar": "تحديد الموقع الجغرافي DB-IP"
+  },
   "descriptions": {
     "ko": "웹 브라우저에서 DB-IP를 열어 IP 주소의 지리적 위치를 조회합니다. IPv4 및 IPv6 주소를 지원합니다.",
     "ja": "ウェブブラウザでDB-IPを開き、IPアドレスのジオロケーションを検索します。IPv4およびIPv6アドレスをサポートします。",

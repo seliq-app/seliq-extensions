@@ -11,6 +11,19 @@
     "schedule",
     "remind"
   ],
+  "names": {
+    "en": "iCal",
+    "ko": "iCal",
+    "ja": "iCal",
+    "zh-Hans": "iCal",
+    "zh-Hant": "iCal",
+    "de": "iCal",
+    "fr": "iCal",
+    "es": "iCal",
+    "it": "iCal",
+    "pt-BR": "iCal",
+    "ar": "iCal"
+  },
   "descriptions": {
     "ko": "iCal 이벤트를 만듭니다.",
     "ja": "iCalイベントを作成します。",

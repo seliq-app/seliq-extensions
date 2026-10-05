@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "PubMed",
+    "ko": "PubMed",
+    "ja": "PubMed",
+    "zh-Hans": "PubMed",
+    "zh-Hant": "PubMed",
+    "de": "PubMed",
+    "fr": "PubMed",
+    "es": "PubMed",
+    "it": "PubMed",
+    "pt-BR": "PubMed",
+    "ar": "PubMed"
+  },
   "descriptions": {
     "ko": "PubMed에서 생의학 정보를 검색합니다.",
     "ja": "PubMedでバイオメディカル情報を検索します。",

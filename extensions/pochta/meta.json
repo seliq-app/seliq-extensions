@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Pochta.ru",
+    "ko": "Pochta.ru",
+    "ja": "Pochta.ru",
+    "zh-Hans": "Pochta.ru",
+    "zh-Hant": "Pochta.ru",
+    "de": "Pochta.ru",
+    "fr": "Pochta.ru",
+    "es": "Pochta.ru",
+    "it": "Pochta.ru",
+    "pt-BR": "Pochta.ru",
+    "ar": "Pochta.ru"
+  },
   "descriptions": {
     "ko": "pochta.ru에서 검색합니다.",
     "ja": "pochta.ruで検索します。",

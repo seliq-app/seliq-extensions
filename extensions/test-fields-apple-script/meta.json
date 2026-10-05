@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "Test Applescript",
+    "ko": "AppleScript 테스트",
+    "ja": "AppleScript テスト",
+    "zh-Hans": "AppleScript 测试",
+    "zh-Hant": "AppleScript 測試",
+    "de": "AppleScript-Test",
+    "fr": "Test AppleScript",
+    "es": "Prueba de AppleScript",
+    "it": "Test AppleScript",
+    "pt-BR": "Teste de AppleScript",
+    "ar": "اختبار AppleScript"
+  },
   "descriptions": {
     "ko": "AppleScript를 테스트합니다.",
     "ja": "AppleScriptをテストします。",

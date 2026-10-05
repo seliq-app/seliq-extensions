@@ -11,6 +11,19 @@
     "developer",
     "lookup"
   ],
+  "names": {
+    "en": "Get IP",
+    "ko": "IP 가져오기",
+    "ja": "IPを取得",
+    "zh-Hans": "获取 IP",
+    "zh-Hant": "取得 IP",
+    "de": "IP abrufen",
+    "fr": "Obtenir l'IP",
+    "es": "Obtener IP",
+    "it": "Ottieni IP",
+    "pt-BR": "Obter IP",
+    "ar": "الحصول على IP"
+  },
   "descriptions": {
     "ko": "선택한 URL의 IP 주소를 가져옵니다.",
     "ja": "選択したURLのIPアドレスを取得します。",

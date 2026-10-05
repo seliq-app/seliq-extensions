@@ -10,6 +10,19 @@
   "intents": [
     "findPlace"
   ],
+  "names": {
+    "en": "Naver Map",
+    "ko": "네이버 지도 검색",
+    "ja": "NAVER地図",
+    "zh-Hans": "NAVER地图",
+    "zh-Hant": "NAVER地圖",
+    "de": "Naver Karte",
+    "fr": "Carte Naver",
+    "es": "Mapa Naver",
+    "it": "Mappa Naver",
+    "pt-BR": "Mapa Naver",
+    "ar": "خريطة Naver"
+  },
   "descriptions": {
     "ko": "Naver 지도를 검색합니다.",
     "ja": "Naver地図を検索します。",

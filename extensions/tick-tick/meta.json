@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "TickTick",
+    "ko": "TickTick",
+    "ja": "TickTick",
+    "zh-Hans": "TickTick",
+    "zh-Hant": "TickTick",
+    "de": "TickTick",
+    "fr": "TickTick",
+    "es": "TickTick",
+    "it": "TickTick",
+    "pt-BR": "TickTick",
+    "ar": "TickTick"
+  },
   "descriptions": {
     "ko": "TickTick에서 새 작업을 만듭니다.",
     "ja": "TickTickで新しいタスクを作成します。",

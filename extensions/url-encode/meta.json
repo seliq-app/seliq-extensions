@@ -10,6 +10,19 @@
     "developer",
     "reformat"
   ],
+  "names": {
+    "en": "URL Encode",
+    "ko": "URL 인코딩",
+    "ja": "URL エンコード",
+    "zh-Hans": "URL 编码",
+    "zh-Hant": "URL 編碼",
+    "de": "URL-Kodierung",
+    "fr": "Encodage URL",
+    "es": "Codificar URL",
+    "it": "Codifica URL",
+    "pt-BR": "Codificação de URL",
+    "ar": "ترميز URL"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 퍼센트 인코딩하거나 디코딩합니다.",
     "ja": "選択したテキストをパーセントエンコードまたはデコードします。",

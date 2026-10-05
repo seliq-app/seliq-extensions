@@ -11,6 +11,19 @@
     "lookup",
     "developer"
   ],
+  "names": {
+    "en": "Jira Cloud",
+    "ko": "Jira Cloud",
+    "ja": "Jira Cloud",
+    "zh-Hans": "Jira Cloud",
+    "zh-Hant": "Jira Cloud",
+    "de": "Jira Cloud",
+    "fr": "Jira Cloud",
+    "es": "Jira Cloud",
+    "it": "Jira Cloud",
+    "pt-BR": "Jira Cloud",
+    "ar": "Jira Cloud"
+  },
   "descriptions": {
     "ko": "Jira Cloud에서 티켓을 검색합니다.",
     "ja": "Jira Cloudでチケットを検索します。",

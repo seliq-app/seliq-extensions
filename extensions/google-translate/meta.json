@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Google Translate",
+    "ko": "Google 번역",
+    "ja": "Google 翻訳",
+    "zh-Hans": "Google 翻译",
+    "zh-Hant": "Google 翻譯",
+    "de": "Google Übersetzer",
+    "fr": "Google Traduction",
+    "es": "Google Traductor",
+    "it": "Google Traduttore",
+    "pt-BR": "Google Tradutor",
+    "ar": "ترجمة Google"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 웹 브라우저에서 Google Translate를 엽니다.",
     "ja": "選択したテキストを使ってGoogle翻訳をウェブブラウザで開きます。",

@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "UpNote",
+    "ko": "UpNote",
+    "ja": "UpNote",
+    "zh-Hans": "UpNote",
+    "zh-Hant": "UpNote",
+    "de": "UpNote",
+    "fr": "UpNote",
+    "es": "UpNote",
+    "it": "UpNote",
+    "pt-BR": "UpNote",
+    "ar": "UpNote"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 UpNote에서 새 노트를 만듭니다.",
     "ja": "UpNoteで選択したテキストから新しいノートを作成します。",

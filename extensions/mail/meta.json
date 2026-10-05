@@ -11,6 +11,19 @@
     "contact",
     "share"
   ],
+  "names": {
+    "en": "Mail",
+    "ko": "메일",
+    "ja": "メール",
+    "zh-Hans": "邮件",
+    "zh-Hant": "郵件",
+    "de": "Mail",
+    "fr": "Mail",
+    "es": "Mail",
+    "it": "Mail",
+    "pt-BR": "Mail",
+    "ar": "البريد"
+  },
   "descriptions": {
     "ko": "메일에서 새 메시지를 만듭니다.",
     "ja": "メール内に新しいメッセージを作成します。",

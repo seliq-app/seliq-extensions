@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Ulysses",
+    "ko": "Ulysses",
+    "ja": "Ulysses",
+    "zh-Hans": "Ulysses",
+    "zh-Hant": "Ulysses",
+    "de": "Ulysses",
+    "fr": "Ulysses",
+    "es": "Ulysses",
+    "it": "Ulysses",
+    "pt-BR": "Ulysses",
+    "ar": "Ulysses"
+  },
   "descriptions": {
     "ko": "Ulysses에서 새 Inbox 시트를 만듭니다.",
     "ja": "Ulyssesで新しいInboxシートを作成します。",

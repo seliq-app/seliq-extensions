@@ -10,6 +10,19 @@
   "intents": [
     "saveContact"
   ],
+  "names": {
+    "en": "Cardhop",
+    "ko": "Cardhop",
+    "ja": "Cardhop",
+    "zh-Hans": "Cardhop",
+    "zh-Hant": "Cardhop",
+    "de": "Cardhop",
+    "fr": "Cardhop",
+    "es": "Cardhop",
+    "it": "Cardhop",
+    "pt-BR": "Cardhop",
+    "ar": "Cardhop"
+  },
   "descriptions": {
     "ko": "Cardhop을 사용하여 새 연락처를 만듭니다.",
     "ja": "Cardhopを使用して新しい連絡先を作成します。",

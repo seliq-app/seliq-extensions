@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Flomo",
+    "ko": "Flomo",
+    "ja": "Flomo",
+    "zh-Hans": "Flomo",
+    "zh-Hant": "Flomo",
+    "de": "Flomo",
+    "fr": "Flomo",
+    "es": "Flomo",
+    "it": "Flomo",
+    "pt-BR": "Flomo",
+    "ar": "Flomo"
+  },
   "descriptions": {
     "ko": "수신 Webhook API를 통해 선택한 텍스트를 flomo에 저장합니다.",
     "ja": "選択したテキストを受信Webhook API経由でflomoに保存します。",

@@ -11,6 +11,19 @@
     "share",
     "reformat"
   ],
+  "names": {
+    "en": "Short Menu",
+    "ko": "Short Menu",
+    "ja": "Short Menu",
+    "zh-Hans": "Short Menu",
+    "zh-Hant": "Short Menu",
+    "de": "Short Menu",
+    "fr": "Short Menu",
+    "es": "Short Menu",
+    "it": "Short Menu",
+    "pt-BR": "Short Menu",
+    "ar": "Short Menu"
+  },
   "descriptions": {
     "ko": "Short Menu로 URL을 단축합니다.",
     "ja": "Short MenuでURLを短くします。",

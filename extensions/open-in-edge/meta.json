@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Open in Edge",
+    "ko": "Edge에서 열기",
+    "ja": "Edgeで開く",
+    "zh-Hans": "在 Edge 中打开",
+    "zh-Hant": "在 Edge 中開啟",
+    "de": "In Edge öffnen",
+    "fr": "Ouvrir dans Edge",
+    "es": "Abrir en Edge",
+    "it": "Apri in Edge",
+    "pt-BR": "Abrir no Edge",
+    "ar": "فتح في Edge"
+  },
   "descriptions": {
     "ko": "링크를 Microsoft Edge에서 엽니다.",
     "ja": "リンクをMicrosoft Edgeで開きます。",

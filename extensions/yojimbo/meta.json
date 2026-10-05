@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Yojimbo",
+    "ko": "Yojimbo",
+    "ja": "Yojimbo",
+    "zh-Hans": "Yojimbo",
+    "zh-Hant": "Yojimbo",
+    "de": "Yojimbo",
+    "fr": "Yojimbo",
+    "es": "Yojimbo",
+    "it": "Yojimbo",
+    "pt-BR": "Yojimbo",
+    "ar": "Yojimbo"
+  },
   "descriptions": {
     "ko": "Yojimbo에서 노트나 북마크를 만듭니다.",
     "ja": "Yojimboでノートまたはブックマークを作成します。",

@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "OneNote",
+    "ko": "OneNote",
+    "ja": "OneNote",
+    "zh-Hans": "OneNote",
+    "zh-Hant": "OneNote",
+    "de": "OneNote",
+    "fr": "OneNote",
+    "es": "OneNote",
+    "it": "OneNote",
+    "pt-BR": "OneNote",
+    "ar": "OneNote"
+  },
   "descriptions": {
     "ko": "텍스트를 Microsoft OneNote의 빠른 노트로 추가합니다.",
     "ja": "テキストをMicrosoft OneNoteのクイックノートとして追加します。",

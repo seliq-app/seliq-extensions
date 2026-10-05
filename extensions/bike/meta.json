@@ -9,6 +9,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Bike",
+    "ko": "Bike",
+    "ja": "Bike",
+    "zh-Hans": "Bike",
+    "zh-Hant": "Bike",
+    "de": "Bike",
+    "fr": "Bike",
+    "es": "Bike",
+    "it": "Bike",
+    "pt-BR": "Bike",
+    "ar": "Bike"
+  },
   "descriptions": {
     "ko": "Bike 문서에 텍스트를 캡처합니다.",
     "ja": "Bikeドキュメントにテキストをキャプチャします。",

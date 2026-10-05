@@ -10,6 +10,19 @@
   "intents": [
     "listen"
   ],
+  "names": {
+    "en": "Say",
+    "ko": "소리 내어 읽기",
+    "ja": "読み上げ",
+    "zh-Hans": "朗读",
+    "zh-Hant": "朗讀",
+    "de": "Vorlesen",
+    "fr": "Lire à voix haute",
+    "es": "Leer en voz alta",
+    "it": "Leggi ad alta voce",
+    "pt-BR": "Ler em voz alta",
+    "ar": "قراءة بصوت عالٍ"
+  },
   "descriptions": {
     "ko": "macOS 시스템 음성을 사용하여 선택한 텍스트를 소리내어 읽습니다.",
     "ja": "macOSのシステム音声を使用して、選択したテキストを読み上げます。",

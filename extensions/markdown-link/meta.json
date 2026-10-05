@@ -11,6 +11,19 @@
     "reformat",
     "developer"
   ],
+  "names": {
+    "en": "Markdown Link",
+    "ko": "Markdown 링크",
+    "ja": "Markdown リンク",
+    "zh-Hans": "Markdown 链接",
+    "zh-Hant": "Markdown 連結",
+    "de": "Markdown-Link",
+    "fr": "Lien Markdown",
+    "es": "Enlace Markdown",
+    "it": "Link Markdown",
+    "pt-BR": "Link Markdown",
+    "ar": "رابط Markdown"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 복사된 텍스트 결과로 바꾸고 Markdown 링크 형식으로 만듭니다.",
     "ja": "選択したテキストを、コピーしたテキストの結果にMarkdownリンクとして置き換えます。",

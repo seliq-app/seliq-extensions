@@ -10,6 +10,19 @@
   "intents": [
     "justCopy"
   ],
+  "names": {
+    "en": "Copy (Alternative)",
+    "ko": "복사 (대체)",
+    "ja": "コピー (代替)",
+    "zh-Hans": "拷贝 (备选)",
+    "zh-Hant": "複製 (替代)",
+    "de": "Kopieren (Alternative)",
+    "fr": "Copier (alternative)",
+    "es": "Copiar (alternativa)",
+    "it": "Copia (alternativa)",
+    "pt-BR": "Copiar (alternativa)",
+    "ar": "نسخ (بديل)"
+  },
   "descriptions": {
     "ko": "복사 (!).",
     "ja": "コピー (!)。",

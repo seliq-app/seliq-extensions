@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "Todo",
+    "ko": "Todo",
+    "ja": "Todo",
+    "zh-Hans": "Todo",
+    "zh-Hant": "Todo",
+    "de": "Todo",
+    "fr": "Todo",
+    "es": "Todo",
+    "it": "Todo",
+    "pt-BR": "Todo",
+    "ar": "Todo"
+  },
   "descriptions": {
     "ko": "Todo에서 새 작업을 만듭니다.",
     "ja": "Todoで新しいタスクを作成します。",

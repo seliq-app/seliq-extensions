@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Goodreads",
+    "ko": "Goodreads",
+    "ja": "Goodreads",
+    "zh-Hans": "Goodreads",
+    "zh-Hant": "Goodreads",
+    "de": "Goodreads",
+    "fr": "Goodreads",
+    "es": "Goodreads",
+    "it": "Goodreads",
+    "pt-BR": "Goodreads",
+    "ar": "Goodreads"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 웹 브라우저에서 Goodreads를 엽니다.",
     "ja": "選択したテキストを使ってGoodreadsをウェブブラウザで開きます。",

@@ -10,6 +10,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "TestRTF",
+    "ko": "TestRTF",
+    "ja": "TestRTF",
+    "zh-Hans": "TestRTF",
+    "zh-Hant": "TestRTF",
+    "de": "TestRTF",
+    "fr": "TestRTF",
+    "es": "TestRTF",
+    "it": "TestRTF",
+    "pt-BR": "TestRTF",
+    "ar": "TestRTF"
+  },
   "descriptions": {
     "ko": "TestRTF",
     "ja": "TestRTF",

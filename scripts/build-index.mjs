@@ -130,9 +130,18 @@ for (const sc of shortcodes) {
     if (meta[k] != null && typeof meta[k] !== "string") { err(sc, `meta.json: "${k}" must be a string`); ok = false; }
   }
   const LANGS = ["ko", "ja", "zh-Hans", "zh-Hant", "de", "fr", "es", "it", "pt-BR", "ar"];
+  const NAME_LANGS = ["en", ...LANGS];
   if (meta.descriptions != null && (typeof meta.descriptions !== "object" || Array.isArray(meta.descriptions) ||
       Object.entries(meta.descriptions).some(([l, v]) => !LANGS.includes(l) || typeof v !== "string" || v.trim() === ""))) {
     err(sc, `meta.json: "descriptions" must map ${LANGS.join("/")} to non-empty strings`); ok = false;
+  }
+  // names: 모든 확장이 11개 언어(en 포함) 이름을 갖는다. 브랜드·제품 이름은 번역하지 않고 그대로 둔다.
+  if (meta.names == null || typeof meta.names !== "object" || Array.isArray(meta.names)) {
+    err(sc, '"names" is required: an object mapping ' + NAME_LANGS.join("/") + " to names"); ok = false;
+  } else {
+    for (const l of NAME_LANGS) if (typeof meta.names[l] !== "string" || meta.names[l].trim() === "") { err(sc, `meta.json: "names.${l}" must be a non-empty string`); ok = false; }
+    for (const l of Object.keys(meta.names)) if (!NAME_LANGS.includes(l)) { err(sc, `meta.json: "names.${l}" is not a supported language`); ok = false; }
+    if (ok && meta.names.en !== meta.name) { err(sc, '"names.en" must equal "name"'); ok = false; }
   }
   if (meta.unlisted != null && typeof meta.unlisted !== "boolean") { err(sc, 'meta.json: "unlisted" must be boolean'); ok = false; }
   const files = walk(src);
@@ -185,6 +194,7 @@ for (const sc of shortcodes) {
     unlisted: meta.unlisted === true,
     origin: strOrNull(meta.origin),
     descriptions: meta.descriptions ?? null,
+    names: meta.names,
     senseCategory: SENSE_CATEGORIES[sc] ?? null,
     intents: readIntents(sc, meta.intents),
   });

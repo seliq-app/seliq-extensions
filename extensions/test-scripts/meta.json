@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "Test Scripts",
+    "ko": "스크립트 테스트",
+    "ja": "スクリプトテスト",
+    "zh-Hans": "脚本测试",
+    "zh-Hant": "腳本測試",
+    "de": "Skripttest",
+    "fr": "Test des scripts",
+    "es": "Prueba de scripts",
+    "it": "Test script",
+    "pt-BR": "Teste de scripts",
+    "ar": "اختبار البرامج النصية"
+  },
   "descriptions": {
     "ko": "Test Scripts",
     "ja": "Test Scripts",

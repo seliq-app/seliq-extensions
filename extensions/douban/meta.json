@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Douban",
+    "ko": "Douban",
+    "ja": "Douban",
+    "zh-Hans": "Douban",
+    "zh-Hant": "Douban",
+    "de": "Douban",
+    "fr": "Douban",
+    "es": "Douban",
+    "it": "Douban",
+    "pt-BR": "Douban",
+    "ar": "Douban"
+  },
   "descriptions": {
     "ko": "Douban을 사용하여 책, 영화, 음악 및 이벤트에 대한 정보를 검색합니다.",
     "ja": "Doubanを使用して書籍、映画、音楽、イベントに関する情報を検索します。",

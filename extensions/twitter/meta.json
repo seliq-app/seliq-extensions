@@ -10,6 +10,19 @@
   "intents": [
     "share"
   ],
+  "names": {
+    "en": "Twitter for Mac",
+    "ko": "Twitter for Mac",
+    "ja": "Twitter for Mac",
+    "zh-Hans": "Twitter for Mac",
+    "zh-Hant": "Twitter for Mac",
+    "de": "Twitter for Mac",
+    "fr": "Twitter for Mac",
+    "es": "Twitter for Mac",
+    "it": "Twitter for Mac",
+    "pt-BR": "Twitter for Mac",
+    "ar": "Twitter for Mac"
+  },
   "descriptions": {
     "ko": "Twitter for Mac을 사용하여 새 트윗을 작성합니다.",
     "ja": "Twitter for Macを使用して新しいツイートを作成します。",

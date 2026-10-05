@@ -10,6 +10,19 @@
   "intents": [
     "share"
   ],
+  "names": {
+    "en": "Buffer",
+    "ko": "Buffer",
+    "ja": "Buffer",
+    "zh-Hans": "Buffer",
+    "zh-Hant": "Buffer",
+    "de": "Buffer",
+    "fr": "Buffer",
+    "es": "Buffer",
+    "it": "Buffer",
+    "pt-BR": "Buffer",
+    "ar": "Buffer"
+  },
   "descriptions": {
     "ko": "Buffer를 사용하여 새 게시물을 작성합니다.",
     "ja": "Bufferを使用して新しい投稿を作成します。",

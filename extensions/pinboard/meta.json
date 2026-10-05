@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Pinboard",
+    "ko": "Pinboard",
+    "ja": "Pinboard",
+    "zh-Hans": "Pinboard",
+    "zh-Hant": "Pinboard",
+    "de": "Pinboard",
+    "fr": "Pinboard",
+    "es": "Pinboard",
+    "it": "Pinboard",
+    "pt-BR": "Pinboard",
+    "ar": "Pinboard"
+  },
   "descriptions": {
     "ko": "Pinboard를 사용하여 URL을 북마크합니다.",
     "ja": "Pinboardを使用してURLをブックマークします。",

@@ -10,6 +10,19 @@
   "intents": [
     "schedule"
   ],
+  "names": {
+    "en": "Fantastical 3",
+    "ko": "Fantastical 3",
+    "ja": "Fantastical 3",
+    "zh-Hans": "Fantastical 3",
+    "zh-Hant": "Fantastical 3",
+    "de": "Fantastical 3",
+    "fr": "Fantastical 3",
+    "es": "Fantastical 3",
+    "it": "Fantastical 3",
+    "pt-BR": "Fantastical 3",
+    "ar": "Fantastical 3"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 사용하여 Fantastical 3에 일정을 만듭니다.",
     "ja": "選択したテキストを使用してFantastical 3にカレンダーエントリを作成します。",

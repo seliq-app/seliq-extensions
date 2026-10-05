@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Open in Firefox",
+    "ko": "Firefox에서 열기",
+    "ja": "Firefoxで開く",
+    "zh-Hans": "在 Firefox 中打开",
+    "zh-Hant": "在 Firefox 中開啟",
+    "de": "In Firefox öffnen",
+    "fr": "Ouvrir dans Firefox",
+    "es": "Abrir en Firefox",
+    "it": "Apri in Firefox",
+    "pt-BR": "Abrir no Firefox",
+    "ar": "فتح في Firefox"
+  },
   "descriptions": {
     "ko": "링크를 Mozilla Firefox에서 엽니다.",
     "ja": "リンクをMozilla Firefoxで開きます。",

@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "SHA-256",
+    "ko": "SHA-256",
+    "ja": "SHA-256",
+    "zh-Hans": "SHA-256",
+    "zh-Hant": "SHA-256",
+    "de": "SHA-256",
+    "fr": "SHA-256",
+    "es": "SHA-256",
+    "it": "SHA-256",
+    "pt-BR": "SHA-256",
+    "ar": "SHA-256"
+  },
   "descriptions": {
     "ko": "선택한 텍스트에서 SHA-256 해시를 만듭니다.",
     "ja": "選択したテキストからSHA-256ハッシュを生成します。",

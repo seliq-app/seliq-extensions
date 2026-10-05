@@ -7,6 +7,19 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestOptions.popclipext",
   "origin": "popclip",
+  "names": {
+    "en": "Test Options",
+    "ko": "옵션 테스트",
+    "ja": "オプションテスト",
+    "zh-Hans": "选项测试",
+    "zh-Hant": "選項測試",
+    "de": "Optionstest",
+    "fr": "Test des options",
+    "es": "Prueba de opciones",
+    "it": "Test opzioni",
+    "pt-BR": "Teste de opções",
+    "ar": "اختبار الخيارات"
+  },
   "descriptions": {
     "ko": "Test Options",
     "ja": "Test Options",

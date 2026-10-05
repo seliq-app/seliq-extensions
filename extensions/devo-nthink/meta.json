@@ -11,6 +11,19 @@
     "saveForLater",
     "lookup"
   ],
+  "names": {
+    "en": "DEVONthink",
+    "ko": "DEVONthink",
+    "ja": "DEVONthink",
+    "zh-Hans": "DEVONthink",
+    "zh-Hant": "DEVONthink",
+    "de": "DEVONthink",
+    "fr": "DEVONthink",
+    "es": "DEVONthink",
+    "it": "DEVONthink",
+    "pt-BR": "DEVONthink",
+    "ar": "DEVONthink"
+  },
   "descriptions": {
     "ko": "DEVONthink 수신함에 텍스트를 클립하거나 열린 데이터베이스를 검색합니다.",
     "ja": "DEVONthinkインボックスにテキストをクリップするか、開いているデータベースを検索します。",

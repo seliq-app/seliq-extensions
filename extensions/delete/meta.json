@@ -10,6 +10,19 @@
   "intents": [
     "cleanup"
   ],
+  "names": {
+    "en": "Delete",
+    "ko": "삭제",
+    "ja": "削除",
+    "zh-Hans": "删除",
+    "zh-Hant": "刪除",
+    "de": "Löschen",
+    "fr": "Supprimer",
+    "es": "Eliminar",
+    "it": "Elimina",
+    "pt-BR": "Excluir",
+    "ar": "حذف"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 삭제합니다.",
     "ja": "選択したテキストを削除します。",

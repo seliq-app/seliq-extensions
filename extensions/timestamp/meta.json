@@ -7,6 +7,19 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/Timestamp.popclipext",
   "origin": "popclip",
+  "names": {
+    "en": "Timestamp",
+    "ko": "타임스탬프",
+    "ja": "タイムスタンプ",
+    "zh-Hans": "时间戳",
+    "zh-Hant": "時間戳記",
+    "de": "Zeitstempel",
+    "fr": "Horodatage",
+    "es": "Marca de tiempo",
+    "it": "Timestamp",
+    "pt-BR": "Carimbo de data/hora",
+    "ar": "الطابع الزمني"
+  },
   "descriptions": {
     "ko": "현재 날짜와 시간을 붙여넣습니다.",
     "ja": "現在の日付と時刻を貼り付けます。",

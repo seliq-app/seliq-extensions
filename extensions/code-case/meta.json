@@ -11,6 +11,19 @@
     "reformat",
     "developer"
   ],
+  "names": {
+    "en": "Coding Cases",
+    "ko": "코드 표기법",
+    "ja": "コーディング用の表記",
+    "zh-Hans": "编程命名格式",
+    "zh-Hant": "程式命名格式",
+    "de": "Programmier-Schreibweisen",
+    "fr": "Casse de code",
+    "es": "Formatos de código",
+    "it": "Formati di codice",
+    "pt-BR": "Formatos de código",
+    "ar": "صيغ كتابة الأكواد"
+  },
   "descriptions": {
     "ko": "선택 항목을 camelCase, UpperCamelCase, kebab-case, snake_case 또는 CONSTANT_CASE로 변환합니다.",
     "ja": "選択範囲をcamelCase、UpperCamelCase、kebab-case、snake_case、またはCONSTANT_CASEに変換します。",

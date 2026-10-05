@@ -11,6 +11,19 @@
     "askAI",
     "rewrite"
   ],
+  "names": {
+    "en": "OpenAI Chat",
+    "ko": "OpenAI 채팅",
+    "ja": "OpenAI チャット",
+    "zh-Hans": "OpenAI 聊天",
+    "zh-Hant": "OpenAI 聊天",
+    "de": "OpenAI Chat",
+    "fr": "Chat OpenAI",
+    "es": "Chat de OpenAI",
+    "it": "Chat OpenAI",
+    "pt-BR": "Chat OpenAI",
+    "ar": "دردشة OpenAI"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 OpenAI의 Chat API로 보냅니다.",
     "ja": "選択したテキストをOpenAIのChat APIに送信します。",

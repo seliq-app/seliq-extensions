@@ -11,6 +11,19 @@
     "developer",
     "saveForLater"
   ],
+  "names": {
+    "en": "Sublime Text",
+    "ko": "Sublime Text",
+    "ja": "Sublime Text",
+    "zh-Hans": "Sublime Text",
+    "zh-Hant": "Sublime Text",
+    "de": "Sublime Text",
+    "fr": "Sublime Text",
+    "es": "Sublime Text",
+    "it": "Sublime Text",
+    "pt-BR": "Sublime Text",
+    "ar": "Sublime Text"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Sublime Text에서 새 파일로 엽니다.",
     "ja": "選択したテキストをSublime Textの新しいファイルとして開きます。",

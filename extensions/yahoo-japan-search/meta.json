@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Yahoo! Japan",
+    "ko": "Yahoo! Japan",
+    "ja": "Yahoo! Japan",
+    "zh-Hans": "Yahoo! Japan",
+    "zh-Hant": "Yahoo! Japan",
+    "de": "Yahoo! Japan",
+    "fr": "Yahoo! Japan",
+    "es": "Yahoo! Japan",
+    "it": "Yahoo! Japan",
+    "pt-BR": "Yahoo! Japan",
+    "ar": "Yahoo! Japan"
+  },
   "descriptions": {
     "ko": "Yahoo! Japan을 사용하여 웹을 검색합니다.",
     "ja": "Yahoo! Japanを使用してウェブを検索します。",

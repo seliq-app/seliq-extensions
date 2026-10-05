@@ -11,6 +11,19 @@
     "define",
     "translate"
   ],
+  "names": {
+    "en": "Lingvo",
+    "ko": "Lingvo",
+    "ja": "Lingvo",
+    "zh-Hans": "Lingvo",
+    "zh-Hant": "Lingvo",
+    "de": "Lingvo",
+    "fr": "Lingvo",
+    "es": "Lingvo",
+    "it": "Lingvo",
+    "pt-BR": "Lingvo",
+    "ar": "Lingvo"
+  },
   "descriptions": {
     "ko": "ABBYY Lingvo 사전에서 텍스트를 검색합니다.",
     "ja": "ABBYY Lingvo辞書でテキストを検索します。",

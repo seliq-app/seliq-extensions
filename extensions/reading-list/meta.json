@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Reading List",
+    "ko": "읽기 목록",
+    "ja": "リーディングリスト",
+    "zh-Hans": "阅读列表",
+    "zh-Hant": "閱讀清單",
+    "de": "Leseliste",
+    "fr": "Liste de lecture",
+    "es": "Lista de lectura",
+    "it": "Lista di lettura",
+    "pt-BR": "Lista de leitura",
+    "ar": "قائمة القراءة"
+  },
   "descriptions": {
     "ko": "URL을 Safari 리딩 리스트에 저장합니다.",
     "ja": "URLをSafariの読書リストに保存します。",

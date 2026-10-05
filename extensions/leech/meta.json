@@ -11,6 +11,19 @@
     "open",
     "developer"
   ],
+  "names": {
+    "en": "Leech",
+    "ko": "Leech",
+    "ja": "Leech",
+    "zh-Hans": "Leech",
+    "zh-Hant": "Leech",
+    "de": "Leech",
+    "fr": "Leech",
+    "es": "Leech",
+    "it": "Leech",
+    "pt-BR": "Leech",
+    "ar": "Leech"
+  },
   "descriptions": {
     "ko": "Leech를 사용하여 URL이 가리키는 파일을 다운로드합니다.",
     "ja": "Leechを使用して、URLが指すファイルをダウンロードします。",

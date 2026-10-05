@@ -11,6 +11,19 @@
     "findPerson",
     "lookup"
   ],
+  "names": {
+    "en": "Tweetbot User",
+    "ko": "Tweetbot 사용자",
+    "ja": "Tweetbot ユーザー",
+    "zh-Hans": "Tweetbot 用户",
+    "zh-Hant": "Tweetbot 使用者",
+    "de": "Tweetbot-Nutzer",
+    "fr": "Utilisateur Tweetbot",
+    "es": "Usuario de Tweetbot",
+    "it": "Utente Tweetbot",
+    "pt-BR": "Usuário do Tweetbot",
+    "ar": "مستخدم Tweetbot"
+  },
   "descriptions": {
     "ko": "Tweetbot에서 사용자 이름을 조회합니다.",
     "ja": "Tweetbotでユーザー名として調べます。",

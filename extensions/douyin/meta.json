@@ -11,6 +11,19 @@
     "play",
     "lookup"
   ],
+  "names": {
+    "en": "抖音",
+    "ko": "抖音",
+    "ja": "抖音",
+    "zh-Hans": "抖音",
+    "zh-Hant": "抖音",
+    "de": "抖音",
+    "fr": "抖音",
+    "es": "抖音",
+    "it": "抖音",
+    "pt-BR": "抖音",
+    "ar": "抖音"
+  },
   "descriptions": {
     "ko": "Douyin에서 키워드를 검색합니다.",
     "ja": "Douyinでキーワードを検索します。",

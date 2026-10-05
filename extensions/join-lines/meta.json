@@ -10,6 +10,19 @@
   "intents": [
     "cleanup"
   ],
+  "names": {
+    "en": "Join Lines",
+    "ko": "줄 합치기",
+    "ja": "行を結合",
+    "zh-Hans": "合并行",
+    "zh-Hant": "合併行",
+    "de": "Zeilen verbinden",
+    "fr": "Joindre les lignes",
+    "es": "Unir líneas",
+    "it": "Unisci righe",
+    "pt-BR": "Unir linhas",
+    "ar": "دمج الأسطر"
+  },
   "descriptions": {
     "ko": "줄 바꿈을 공백으로 바꿉니다.",
     "ja": "改行をスペースに置き換えます。",

@@ -9,6 +9,19 @@
   "intents": [
     "askAI"
   ],
+  "names": {
+    "en": "Claude Website",
+    "ko": "Claude 웹사이트",
+    "ja": "Claude ウェブサイト",
+    "zh-Hans": "Claude 网站",
+    "zh-Hant": "Claude 網站",
+    "de": "Claude-Website",
+    "fr": "Site web Claude",
+    "es": "Sitio web de Claude",
+    "it": "Sito web Claude",
+    "pt-BR": "Site do Claude",
+    "ar": "موقع Claude"
+  },
   "descriptions": {
     "ko": "Claude 웹사이트에서 새 대화를 시작합니다.",
     "ja": "Claudeウェブサイトで新しいチャットを開始します。",

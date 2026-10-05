@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Typinator",
+    "ko": "Typinator",
+    "ja": "Typinator",
+    "zh-Hans": "Typinator",
+    "zh-Hant": "Typinator",
+    "de": "Typinator",
+    "fr": "Typinator",
+    "es": "Typinator",
+    "it": "Typinator",
+    "pt-BR": "Typinator",
+    "ar": "Typinator"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 Typinator 확장을 만듭니다.",
     "ja": "選択したテキストでTypinatorの展開項目を作成します。",

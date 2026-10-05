@@ -7,6 +7,19 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:contrib/TestSpin.popclipext",
   "origin": "popclip",
+  "names": {
+    "en": "Test Spinner",
+    "ko": "스피너 테스트",
+    "ja": "スピナーテスト",
+    "zh-Hans": "加载动画测试",
+    "zh-Hant": "載入動畫測試",
+    "de": "Spinner-Test",
+    "fr": "Test du spinner",
+    "es": "Prueba de spinner",
+    "it": "Test spinner",
+    "pt-BR": "Teste de spinner",
+    "ar": "اختبار مؤشر التحميل"
+  },
   "descriptions": {
     "ko": "Test Spinner",
     "ja": "Test Spinner",

@@ -10,6 +10,19 @@
   "intents": [
     "contact"
   ],
+  "names": {
+    "en": "Phone Amego",
+    "ko": "Phone Amego",
+    "ja": "Phone Amego",
+    "zh-Hans": "Phone Amego",
+    "zh-Hant": "Phone Amego",
+    "de": "Phone Amego",
+    "fr": "Phone Amego",
+    "es": "Phone Amego",
+    "it": "Phone Amego",
+    "pt-BR": "Phone Amego",
+    "ar": "Phone Amego"
+  },
   "descriptions": {
     "ko": "Phone Amego로 전화를 겁니다.",
     "ja": "Phone Amegoで電話番号をダイヤルします。",

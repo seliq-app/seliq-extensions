@@ -11,6 +11,19 @@
     "developer",
     "reformat"
   ],
+  "names": {
+    "en": "GBK URL Encode",
+    "ko": "GBK URL 인코딩",
+    "ja": "GBK URLエンコード",
+    "zh-Hans": "GBK URL 编码",
+    "zh-Hant": "GBK URL 編碼",
+    "de": "GBK-URL-Kodierung",
+    "fr": "Encodage URL GBK",
+    "es": "Codificación URL GBK",
+    "it": "Codifica URL GBK",
+    "pt-BR": "Codificação de URL GBK",
+    "ar": "ترميز URL بصيغة GBK"
+  },
   "descriptions": {
     "ko": "UTF-8 형식을 GBK로 변환한 뒤 인코딩하거나, GBK로 인코딩된 텍스트를 먼저 디코딩한 뒤 UTF-8로 변환하여 표시합니다.",
     "ja": "UTF-8形式をGBKに変換してからエンコードするか、GBK形式でエンコードされたテキストを先にデコードしてからUTF-8に変換して表示します。",

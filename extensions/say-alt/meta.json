@@ -10,6 +10,19 @@
   "intents": [
     "listen"
   ],
+  "names": {
+    "en": "Say",
+    "ko": "소리 내어 읽기",
+    "ja": "読み上げ",
+    "zh-Hans": "朗读",
+    "zh-Hant": "朗讀",
+    "de": "Vorlesen",
+    "fr": "Lire à voix haute",
+    "es": "Leer en voz alta",
+    "it": "Leggi ad alta voce",
+    "pt-BR": "Ler em voz alta",
+    "ar": "قراءة بصوت عالٍ"
+  },
   "descriptions": {
     "ko": "⌥Esc를 누릅니다. 이는 텍스트를 읽어 주는 기본 시스템 단축키입니다(시스템 설정 → 손쉬운 사용 → 음성에서 구성).",
     "ja": "⌥Escを押します。これはテキストを読み上げるためのデフォルトのシステムショートカットです（システム設定 → アクセシビリティ → スピーチで構成）。",

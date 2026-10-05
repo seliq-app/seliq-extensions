@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Guokr",
+    "ko": "Guokr",
+    "ja": "Guokr",
+    "zh-Hans": "Guokr",
+    "zh-Hant": "Guokr",
+    "de": "Guokr",
+    "fr": "Guokr",
+    "es": "Guokr",
+    "it": "Guokr",
+    "pt-BR": "Guokr",
+    "ar": "Guokr"
+  },
   "descriptions": {
     "ko": "웹 브라우저에서 선택한 텍스트로 Guokr.com을 검색합니다.",
     "ja": "選択したテキストを使ってGuokr.comをウェブブラウザで検索します。",

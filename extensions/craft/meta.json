@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Craft",
+    "ko": "Craft",
+    "ja": "Craft",
+    "zh-Hans": "Craft",
+    "zh-Hant": "Craft",
+    "de": "Craft",
+    "fr": "Craft",
+    "es": "Craft",
+    "it": "Craft",
+    "pt-BR": "Craft",
+    "ar": "Craft"
+  },
   "descriptions": {
     "ko": "Craft 문서에 텍스트를 캡처합니다.",
     "ja": "Craftドキュメントにテキストをキャプチャします。",

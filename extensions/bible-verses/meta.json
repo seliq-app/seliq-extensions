@@ -11,6 +11,19 @@
     "lookup",
     "open"
   ],
+  "names": {
+    "en": "Bible Verses",
+    "ko": "성경 구절",
+    "ja": "聖書の聖句",
+    "zh-Hans": "圣经经文",
+    "zh-Hant": "聖經經文",
+    "de": "Bibelverse",
+    "fr": "Versets bibliques",
+    "es": "Versículos bíblicos",
+    "it": "Versetti biblici",
+    "pt-BR": "Versículos da Bíblia",
+    "ar": "آيات الكتاب المقدس"
+  },
   "descriptions": {
     "ko": "BibleGateway에서 텍스트의 성경 구절을 찾습니다.",
     "ja": "BibleGatewayでテキスト内の聖書の節を検索します。",

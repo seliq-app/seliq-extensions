@@ -10,6 +10,19 @@
     "open",
     "lookup"
   ],
+  "names": {
+    "en": "Wayback Machine",
+    "ko": "Wayback Machine",
+    "ja": "Wayback Machine",
+    "zh-Hans": "Wayback Machine",
+    "zh-Hant": "Wayback Machine",
+    "de": "Wayback Machine",
+    "fr": "Wayback Machine",
+    "es": "Wayback Machine",
+    "it": "Wayback Machine",
+    "pt-BR": "Wayback Machine",
+    "ar": "Wayback Machine"
+  },
   "descriptions": {
     "ko": "Wayback Machine에서 선택한 URL의 보관된 버전을 가져옵니다.",
     "ja": "Wayback Machineから選択したURLのアーカイブ版を取得します。",

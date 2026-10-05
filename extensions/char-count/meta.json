@@ -10,6 +10,19 @@
   "intents": [
     "cleanup"
   ],
+  "names": {
+    "en": "Character Count",
+    "ko": "글자 수 세기",
+    "ja": "文字数カウント",
+    "zh-Hans": "字符计数",
+    "zh-Hant": "字元計數",
+    "de": "Zeichenanzahl",
+    "fr": "Nombre de caractères",
+    "es": "Contar caracteres",
+    "it": "Conteggio caratteri",
+    "pt-BR": "Contagem de caracteres",
+    "ar": "عدد الأحرف"
+  },
   "descriptions": {
     "ko": "선택한 텍스트의 문자 수를 표시합니다.",
     "ja": "選択したテキストの文字数を表示します。",

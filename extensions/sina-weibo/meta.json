@@ -10,6 +10,19 @@
   "intents": [
     "share"
   ],
+  "names": {
+    "en": "Sina Weibo",
+    "ko": "Sina Weibo",
+    "ja": "新浪微博",
+    "zh-Hans": "新浪微博",
+    "zh-Hant": "新浪微博",
+    "de": "Sina Weibo",
+    "fr": "Sina Weibo",
+    "es": "Sina Weibo",
+    "it": "Sina Weibo",
+    "pt-BR": "Sina Weibo",
+    "ar": "Sina Weibo"
+  },
   "descriptions": {
     "ko": "새 Sina Weibo 게시물을 작성합니다. (2019년 10월 16일: macOS Catalina와의 호환성을 위한 업데이트)",
     "ja": "新しいSina Weibo投稿を作成します。（2019年10月16日：macOS Catalinaとの互換性のための更新）",

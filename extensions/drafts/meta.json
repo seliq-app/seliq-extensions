@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Drafts",
+    "ko": "Drafts",
+    "ja": "Drafts",
+    "zh-Hans": "Drafts",
+    "zh-Hant": "Drafts",
+    "de": "Drafts",
+    "fr": "Drafts",
+    "es": "Drafts",
+    "it": "Drafts",
+    "pt-BR": "Drafts",
+    "ar": "Drafts"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Drafts로 보냅니다.",
     "ja": "選択したテキストをDraftsに送信します。",

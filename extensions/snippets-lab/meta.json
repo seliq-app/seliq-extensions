@@ -11,6 +11,19 @@
     "developer",
     "saveForLater"
   ],
+  "names": {
+    "en": "SnippetsLab",
+    "ko": "SnippetsLab",
+    "ja": "SnippetsLab",
+    "zh-Hans": "SnippetsLab",
+    "zh-Hant": "SnippetsLab",
+    "de": "SnippetsLab",
+    "fr": "SnippetsLab",
+    "es": "SnippetsLab",
+    "it": "SnippetsLab",
+    "pt-BR": "SnippetsLab",
+    "ar": "SnippetsLab"
+  },
   "descriptions": {
     "ko": "SnippetsLab에서 코드 스니펫을 만듭니다.",
     "ja": "SnippetsLabでコードスニペットを作成します。",

@@ -11,6 +11,19 @@
     "share",
     "saveForLater"
   ],
+  "names": {
+    "en": "Dropover",
+    "ko": "Dropover",
+    "ja": "Dropover",
+    "zh-Hans": "Dropover",
+    "zh-Hant": "Dropover",
+    "de": "Dropover",
+    "fr": "Dropover",
+    "es": "Dropover",
+    "it": "Dropover",
+    "pt-BR": "Dropover",
+    "ar": "Dropover"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Dropover로 보냅니다.",
     "ja": "選択したテキストをDropoverに送信します。",

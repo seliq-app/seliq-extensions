@@ -7,6 +7,19 @@
   "license": "MIT",
   "upstream": "pilotmoon/PopClip-Extensions@ea2225b8c4cd9c89411b4b292da753b9fdbbd99d:source/LargeType.popclipext",
   "origin": "popclip",
+  "names": {
+    "en": "Large Type",
+    "ko": "큰 글씨",
+    "ja": "大きな文字",
+    "zh-Hans": "大字显示",
+    "zh-Hant": "大字顯示",
+    "de": "Große Schrift",
+    "fr": "Grand texte",
+    "es": "Texto grande",
+    "it": "Testo grande",
+    "pt-BR": "Texto grande",
+    "ar": "نص كبير"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 화면 중앙에 크고 선명한 글자로 표시합니다.",
     "ja": "選択したテキストを画面中央に大きくはっきりとした文字で表示します。",

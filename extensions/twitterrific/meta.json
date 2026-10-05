@@ -10,6 +10,19 @@
   "intents": [
     "share"
   ],
+  "names": {
+    "en": "Twitterrific",
+    "ko": "Twitterrific",
+    "ja": "Twitterrific",
+    "zh-Hans": "Twitterrific",
+    "zh-Hant": "Twitterrific",
+    "de": "Twitterrific",
+    "fr": "Twitterrific",
+    "es": "Twitterrific",
+    "it": "Twitterrific",
+    "pt-BR": "Twitterrific",
+    "ar": "Twitterrific"
+  },
   "descriptions": {
     "ko": "Twitterrific을 사용하여 새 트윗을 작성합니다.",
     "ja": "Twitterrificを使用して新しいツイートを作成します。",

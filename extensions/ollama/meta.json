@@ -10,6 +10,19 @@
     "askAI",
     "rewrite"
   ],
+  "names": {
+    "en": "Ollama",
+    "ko": "Ollama",
+    "ja": "Ollama",
+    "zh-Hans": "Ollama",
+    "zh-Hant": "Ollama",
+    "de": "Ollama",
+    "fr": "Ollama",
+    "es": "Ollama",
+    "it": "Ollama",
+    "pt-BR": "Ollama",
+    "ar": "Ollama"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 로컬 Ollama 모델로 보냅니다.",
     "ja": "選択したテキストをローカルのOllamaモデルに送信します。",

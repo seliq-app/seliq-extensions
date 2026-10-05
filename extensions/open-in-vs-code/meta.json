@@ -11,6 +11,19 @@
     "developer",
     "open"
   ],
+  "names": {
+    "en": "Open In VS Code",
+    "ko": "VS Code에서 열기",
+    "ja": "VS Codeで開く",
+    "zh-Hans": "在 VS Code 中打开",
+    "zh-Hant": "在 VS Code 中開啟",
+    "de": "In VS Code öffnen",
+    "fr": "Ouvrir dans VS Code",
+    "es": "Abrir en VS Code",
+    "it": "Apri in VS Code",
+    "pt-BR": "Abrir no VS Code",
+    "ar": "فتح في VS Code"
+  },
   "descriptions": {
     "ko": "선택한 텍스트나 파일을 Visual Studio Code에서 엽니다.",
     "ja": "選択したテキストまたはファイルをVisual Studio Codeで開きます。",

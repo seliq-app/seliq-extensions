@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Google Scholar",
+    "ko": "Google 학술검색",
+    "ja": "Google Scholar",
+    "zh-Hans": "Google 学术",
+    "zh-Hant": "Google 學術搜尋",
+    "de": "Google Scholar",
+    "fr": "Google Scholar",
+    "es": "Google Académico",
+    "it": "Google Scholar",
+    "pt-BR": "Google Acadêmico",
+    "ar": "Google Scholar"
+  },
   "descriptions": {
     "ko": "Google Scholar에서 선택한 텍스트를 검색합니다.",
     "ja": "Google Scholarで選択したテキストを検索します。",

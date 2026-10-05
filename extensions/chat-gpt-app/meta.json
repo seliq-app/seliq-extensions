@@ -9,6 +9,19 @@
   "intents": [
     "askAI"
   ],
+  "names": {
+    "en": "ChatGPT App",
+    "ko": "ChatGPT 앱",
+    "ja": "ChatGPT アプリ",
+    "zh-Hans": "ChatGPT 应用",
+    "zh-Hant": "ChatGPT 應用程式",
+    "de": "ChatGPT-App",
+    "fr": "App ChatGPT",
+    "es": "App de ChatGPT",
+    "it": "App ChatGPT",
+    "pt-BR": "App do ChatGPT",
+    "ar": "تطبيق ChatGPT"
+  },
   "descriptions": {
     "ko": "텍스트를 ChatGPT 앱에 보냅니다.",
     "ja": "テキストをChatGPTアプリに送信します。",

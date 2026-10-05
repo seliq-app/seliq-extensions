@@ -11,6 +11,19 @@
     "define",
     "spellfix"
   ],
+  "names": {
+    "en": "Antidote",
+    "ko": "Antidote",
+    "ja": "Antidote",
+    "zh-Hans": "Antidote",
+    "zh-Hant": "Antidote",
+    "de": "Antidote",
+    "fr": "Antidote",
+    "es": "Antidote",
+    "it": "Antidote",
+    "pt-BR": "Antidote",
+    "ar": "Antidote"
+  },
   "descriptions": {
     "ko": "Antidote(프랑스어 사전 및 맞춤법 검사기)에서 텍스트를 검색합니다.",
     "ja": "フランス語の辞書・スペルチェッカーであるAntidoteでテキストを検索します。",

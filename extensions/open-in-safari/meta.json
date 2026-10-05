@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Open in Safari",
+    "ko": "Safari에서 열기",
+    "ja": "Safariで開く",
+    "zh-Hans": "在 Safari 中打开",
+    "zh-Hant": "在 Safari 中開啟",
+    "de": "In Safari öffnen",
+    "fr": "Ouvrir dans Safari",
+    "es": "Abrir en Safari",
+    "it": "Apri in Safari",
+    "pt-BR": "Abrir no Safari",
+    "ar": "فتح في Safari"
+  },
   "descriptions": {
     "ko": "링크를 Safari에서 엽니다.",
     "ja": "リンクをSafariで開きます。",

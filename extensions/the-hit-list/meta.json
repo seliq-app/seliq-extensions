@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "The Hit List",
+    "ko": "The Hit List",
+    "ja": "The Hit List",
+    "zh-Hans": "The Hit List",
+    "zh-Hant": "The Hit List",
+    "de": "The Hit List",
+    "fr": "The Hit List",
+    "es": "The Hit List",
+    "it": "The Hit List",
+    "pt-BR": "The Hit List",
+    "ar": "The Hit List"
+  },
   "descriptions": {
     "ko": "The Hit List에서 새 작업을 만듭니다.",
     "ja": "The Hit Listで新しいタスクを作成します。",

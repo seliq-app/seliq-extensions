@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Universal Translator",
+    "ko": "Universal Translator",
+    "ja": "Universal Translator",
+    "zh-Hans": "Universal Translator",
+    "zh-Hant": "Universal Translator",
+    "de": "Universal Translator",
+    "fr": "Universal Translator",
+    "es": "Universal Translator",
+    "it": "Universal Translator",
+    "pt-BR": "Universal Translator",
+    "ar": "Universal Translator"
+  },
   "descriptions": {
     "ko": "Universal Translator를 사용하여 텍스트를 번역합니다.",
     "ja": "Universal Translatorを使用してテキストを翻訳します。",

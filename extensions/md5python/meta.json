@@ -9,6 +9,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "MD5 Python",
+    "ko": "MD5 Python",
+    "ja": "MD5 Python",
+    "zh-Hans": "MD5 Python",
+    "zh-Hant": "MD5 Python",
+    "de": "MD5 Python",
+    "fr": "MD5 Python",
+    "es": "MD5 Python",
+    "it": "MD5 Python",
+    "pt-BR": "MD5 Python",
+    "ar": "MD5 Python"
+  },
   "descriptions": {
     "ko": "Python을 사용하여 선택한 텍스트의 MD5 해시를 계산합니다.",
     "ja": "Pythonを使用して選択したテキストのMD5ハッシュを計算します。",

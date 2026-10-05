@@ -11,6 +11,19 @@
     "list",
     "cleanup"
   ],
+  "names": {
+    "en": "Shuffle",
+    "ko": "무작위 섞기",
+    "ja": "シャッフル",
+    "zh-Hans": "随机排序",
+    "zh-Hant": "隨機排序",
+    "de": "Mischen",
+    "fr": "Mélanger",
+    "es": "Mezclar",
+    "it": "Mescola",
+    "pt-BR": "Embaralhar",
+    "ar": "خلط"
+  },
   "descriptions": {
     "ko": "선택한 줄의 순서를 무작위로 합니다.",
     "ja": "選択した行の順序をランダムにします。",

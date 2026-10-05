@@ -11,6 +11,19 @@
     "findPerson",
     "share"
   ],
+  "names": {
+    "en": "Mastodon",
+    "ko": "Mastodon",
+    "ja": "Mastodon",
+    "zh-Hans": "Mastodon",
+    "zh-Hant": "Mastodon",
+    "de": "Mastodon",
+    "fr": "Mastodon",
+    "es": "Mastodon",
+    "it": "Mastodon",
+    "pt-BR": "Mastodon",
+    "ar": "Mastodon"
+  },
   "descriptions": {
     "ko": "Mastodon에서 선택한 계정을 팔로우합니다.",
     "ja": "Mastodonで選択したアカウントをフォローします。",

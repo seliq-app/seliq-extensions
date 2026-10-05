@@ -10,6 +10,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Alternating Case",
+    "ko": "대소문자 번갈아",
+    "ja": "大文字・小文字を交互に",
+    "zh-Hans": "大小写交替",
+    "zh-Hant": "大小寫交替",
+    "de": "Wechselnde Groß-/Kleinschreibung",
+    "fr": "Casse alternée",
+    "es": "Mayúsculas alternas",
+    "it": "Maiuscole alternate",
+    "pt-BR": "Maiúsculas alternadas",
+    "ar": "أحرف متبادلة الحالة"
+  },
   "descriptions": {
     "ko": "텍스트를 AlTeRnAtInG CaSe로 변환합니다(무작위 적용 옵션 포함).",
     "ja": "テキストをAlTeRnAtInG CaSeに変換します。ランダム性のオプションも利用できます。",

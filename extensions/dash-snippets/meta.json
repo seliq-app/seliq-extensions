@@ -11,6 +11,19 @@
     "developer",
     "saveForLater"
   ],
+  "names": {
+    "en": "DashSnippets",
+    "ko": "Dash 스니펫",
+    "ja": "Dash スニペット",
+    "zh-Hans": "Dash 代码片段",
+    "zh-Hant": "Dash 程式碼片段",
+    "de": "Dash-Snippets",
+    "fr": "Snippets Dash",
+    "es": "Fragmentos de Dash",
+    "it": "Snippet Dash",
+    "pt-BR": "Snippets do Dash",
+    "ar": "مقتطفات Dash"
+  },
   "descriptions": {
     "ko": "Dash에서 스니펫을 만듭니다.",
     "ja": "Dashでスニペットを作成します。",

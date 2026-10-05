@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Bear",
+    "ko": "Bear",
+    "ja": "Bear",
+    "zh-Hans": "Bear",
+    "zh-Hant": "Bear",
+    "de": "Bear",
+    "fr": "Bear",
+    "es": "Bear",
+    "it": "Bear",
+    "pt-BR": "Bear",
+    "ar": "Bear"
+  },
   "descriptions": {
     "ko": "Bear에서 새 노트를 만듭니다.",
     "ja": "Bearで新しいノートを作成します。",

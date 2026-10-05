@@ -10,6 +10,19 @@
   "intents": [
     "define"
   ],
+  "names": {
+    "en": "Dictionary2",
+    "ko": "Dictionary2",
+    "ja": "Dictionary2",
+    "zh-Hans": "Dictionary2",
+    "zh-Hant": "Dictionary2",
+    "de": "Dictionary2",
+    "fr": "Dictionary2",
+    "es": "Dictionary2",
+    "it": "Dictionary2",
+    "pt-BR": "Dictionary2",
+    "ar": "Dictionary2"
+  },
   "descriptions": {
     "ko": "Dictionary2",
     "ja": "Dictionary2",

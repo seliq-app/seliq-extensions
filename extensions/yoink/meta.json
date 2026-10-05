@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Yoink",
+    "ko": "Yoink",
+    "ja": "Yoink",
+    "zh-Hans": "Yoink",
+    "zh-Hant": "Yoink",
+    "de": "Yoink",
+    "fr": "Yoink",
+    "es": "Yoink",
+    "it": "Yoink",
+    "pt-BR": "Yoink",
+    "ar": "Yoink"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Yoink에 추가합니다.",
     "ja": "選択したテキストをYoinkに追加します。",

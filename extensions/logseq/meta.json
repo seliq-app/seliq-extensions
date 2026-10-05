@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Logseq",
+    "ko": "Logseq",
+    "ja": "Logseq",
+    "zh-Hans": "Logseq",
+    "zh-Hant": "Logseq",
+    "de": "Logseq",
+    "fr": "Logseq",
+    "es": "Logseq",
+    "it": "Logseq",
+    "pt-BR": "Logseq",
+    "ar": "Logseq"
+  },
   "descriptions": {
     "ko": "텍스트를 Logseq에 빠르게 캡처합니다.",
     "ja": "テキストをLogseqにすばやくキャプチャします。",

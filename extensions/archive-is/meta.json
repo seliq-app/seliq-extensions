@@ -10,6 +10,19 @@
     "saveForLater",
     "open"
   ],
+  "names": {
+    "en": "Archive.today",
+    "ko": "Archive.today",
+    "ja": "Archive.today",
+    "zh-Hans": "Archive.today",
+    "zh-Hant": "Archive.today",
+    "de": "Archive.today",
+    "fr": "Archive.today",
+    "es": "Archive.today",
+    "it": "Archive.today",
+    "pt-BR": "Archive.today",
+    "ar": "Archive.today"
+  },
   "descriptions": {
     "ko": "선택한 URL을 Archive.today(Archive.is)에 보내 보관합니다.",
     "ja": "選択したURLをArchive.today（Archive.is）に送信してアーカイブします。",

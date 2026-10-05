@@ -5,6 +5,19 @@
     "define",
     "translate"
   ],
+  "names": {
+    "en": "Naver Chinese Dictionary",
+    "ko": "네이버 중국어사전",
+    "ja": "NAVER中国語辞書",
+    "zh-Hans": "NAVER汉语词典",
+    "zh-Hant": "NAVER漢語辭典",
+    "de": "Naver Chinesisch-Wörterbuch",
+    "fr": "Dictionnaire de chinois Naver",
+    "es": "Diccionario de chino Naver",
+    "it": "Dizionario di cinese Naver",
+    "pt-BR": "Dicionário de chinês Naver",
+    "ar": "قاموس Naver الصيني"
+  },
   "descriptions": {
     "ko": "선택한 글을 네이버 중국어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVER中国語辞書で調べます。",

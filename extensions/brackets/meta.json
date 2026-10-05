@@ -9,6 +9,19 @@
   "intents": [
     "reformat"
   ],
+  "names": {
+    "en": "Brackets",
+    "ko": "괄호",
+    "ja": "括弧",
+    "zh-Hans": "括号",
+    "zh-Hant": "括號",
+    "de": "Klammern",
+    "fr": "Parenthèses",
+    "es": "Paréntesis",
+    "it": "Parentesi",
+    "pt-BR": "Parênteses",
+    "ar": "أقواس"
+  },
   "descriptions": {
     "ko": "선택한 텍스트 주위에 (), [], {}, <>, // 중에서 골라 괄호를 추가합니다.",
     "ja": "選択したテキストを()、[]、{}、<>、//の中から選んだ括弧で囲みます。",

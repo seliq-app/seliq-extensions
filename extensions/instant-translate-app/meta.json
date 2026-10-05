@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Instant Translate",
+    "ko": "즉시 번역",
+    "ja": "即時翻訳",
+    "zh-Hans": "即时翻译",
+    "zh-Hant": "即時翻譯",
+    "de": "Sofortübersetzung",
+    "fr": "Traduction instantanée",
+    "es": "Traducción instantánea",
+    "it": "Traduzione istantanea",
+    "pt-BR": "Tradução instantânea",
+    "ar": "ترجمة فورية"
+  },
   "descriptions": {
     "ko": "Instant Translate를 사용하여 텍스트를 번역합니다.",
     "ja": "Instant Translateを使用してテキストを翻訳します。",

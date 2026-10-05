@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "OmniFocus",
+    "ko": "OmniFocus",
+    "ja": "OmniFocus",
+    "zh-Hans": "OmniFocus",
+    "zh-Hant": "OmniFocus",
+    "de": "OmniFocus",
+    "fr": "OmniFocus",
+    "es": "OmniFocus",
+    "it": "OmniFocus",
+    "pt-BR": "OmniFocus",
+    "ar": "OmniFocus"
+  },
   "descriptions": {
     "ko": "OmniFocus 4 Pro에서 새 받은 편지함 작업을 만듭니다.",
     "ja": "OmniFocus 4 Proで新しいインボックスタスクを作成します。",

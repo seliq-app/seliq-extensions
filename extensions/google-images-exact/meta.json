@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Google Images Exact",
+    "ko": "Google 이미지 정확히 일치",
+    "ja": "Google 画像 完全一致",
+    "zh-Hans": "Google 图片 精确匹配",
+    "zh-Hant": "Google 圖片 精確比對",
+    "de": "Google Bilder Exakt",
+    "fr": "Google Images Correspondance exacte",
+    "es": "Google Imágenes Coincidencia exacta",
+    "it": "Google Immagini Corrispondenza esatta",
+    "pt-BR": "Google Imagens Correspondência exata",
+    "ar": "صور Google مطابقة تامة"
+  },
   "descriptions": {
     "ko": "Google 이미지에서 사진을 검색합니다.",
     "ja": "Google画像で写真を検索します。",

@@ -10,6 +10,19 @@
     "developer",
     "reformat"
   ],
+  "names": {
+    "en": "Unicode Lens",
+    "ko": "Unicode 렌즈",
+    "ja": "Unicode レンズ",
+    "zh-Hans": "Unicode 透镜",
+    "zh-Hant": "Unicode 透鏡",
+    "de": "Unicode-Lupe",
+    "fr": "Loupe Unicode",
+    "es": "Lupa Unicode",
+    "it": "Lente Unicode",
+    "pt-BR": "Lupa Unicode",
+    "ar": "عدسة Unicode"
+  },
   "descriptions": {
     "ko": "선택한 텍스트의 기본 Unicode 코드 포인트를 봅니다.",
     "ja": "選択したテキストの基礎となるUnicodeコードポイントを表示します。",

@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "MiniNote Pro",
+    "ko": "MiniNote Pro",
+    "ja": "MiniNote Pro",
+    "zh-Hans": "MiniNote Pro",
+    "zh-Hant": "MiniNote Pro",
+    "de": "MiniNote Pro",
+    "fr": "MiniNote Pro",
+    "es": "MiniNote Pro",
+    "it": "MiniNote Pro",
+    "pt-BR": "MiniNote Pro",
+    "ar": "MiniNote Pro"
+  },
   "descriptions": {
     "ko": "MiniNote Pro에서 새 노트를 만듭니다.",
     "ja": "MiniNote Proで新しいノートを作成します。",

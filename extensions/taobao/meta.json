@@ -11,6 +11,19 @@
     "shop",
     "lookup"
   ],
+  "names": {
+    "en": "Taobao",
+    "ko": "Taobao",
+    "ja": "Taobao",
+    "zh-Hans": "Taobao",
+    "zh-Hant": "Taobao",
+    "de": "Taobao",
+    "fr": "Taobao",
+    "es": "Taobao",
+    "it": "Taobao",
+    "pt-BR": "Taobao",
+    "ar": "Taobao"
+  },
   "descriptions": {
     "ko": "Taobao에서 제품을 검색합니다.",
     "ja": "Taobaoで製品を検索します。",

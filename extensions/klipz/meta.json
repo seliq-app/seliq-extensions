@@ -10,6 +10,19 @@
   "intents": [
     "justCopy"
   ],
+  "names": {
+    "en": "Klipz",
+    "ko": "Klipz",
+    "ja": "Klipz",
+    "zh-Hans": "Klipz",
+    "zh-Hant": "Klipz",
+    "de": "Klipz",
+    "fr": "Klipz",
+    "es": "Klipz",
+    "it": "Klipz",
+    "pt-BR": "Klipz",
+    "ar": "Klipz"
+  },
   "descriptions": {
     "ko": "하나 이상의 큐 기반 클립보드를 관리합니다. 해당 작업 중 하나를 클릭하면 사용 설명서 PDF가 열립니다.",
     "ja": "1つ以上のキューベースのクリップボードを管理します。操作のいずれかをクリックすると、手順を記載したPDFが開きます。",

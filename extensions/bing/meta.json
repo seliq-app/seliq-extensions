@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Bing",
+    "ko": "Bing",
+    "ja": "Bing",
+    "zh-Hans": "Bing",
+    "zh-Hant": "Bing",
+    "de": "Bing",
+    "fr": "Bing",
+    "es": "Bing",
+    "it": "Bing",
+    "pt-BR": "Bing",
+    "ar": "Bing"
+  },
   "descriptions": {
     "ko": "Bing으로 웹을 검색합니다.",
     "ja": "Bingを使用してウェブを検索します。",

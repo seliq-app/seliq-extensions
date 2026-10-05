@@ -11,6 +11,19 @@
     "lookup",
     "play"
   ],
+  "names": {
+    "en": "RottenTomatoes",
+    "ko": "RottenTomatoes",
+    "ja": "RottenTomatoes",
+    "zh-Hans": "RottenTomatoes",
+    "zh-Hant": "RottenTomatoes",
+    "de": "RottenTomatoes",
+    "fr": "RottenTomatoes",
+    "es": "RottenTomatoes",
+    "it": "RottenTomatoes",
+    "pt-BR": "RottenTomatoes",
+    "ar": "RottenTomatoes"
+  },
   "descriptions": {
     "ko": "RottenTomatoes에서 영화 정보를 검색합니다.",
     "ja": "RottenTomatoesで映画データを検索します。",

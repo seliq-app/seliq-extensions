@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "SnipNotes",
+    "ko": "SnipNotes",
+    "ja": "SnipNotes",
+    "zh-Hans": "SnipNotes",
+    "zh-Hant": "SnipNotes",
+    "de": "SnipNotes",
+    "fr": "SnipNotes",
+    "es": "SnipNotes",
+    "it": "SnipNotes",
+    "pt-BR": "SnipNotes",
+    "ar": "SnipNotes"
+  },
   "descriptions": {
     "ko": "SnipNotes에서 선택한 텍스트로 새 노트를 만듭니다.",
     "ja": "選択したテキストでSnipNotesに新しいノートを作成します。",

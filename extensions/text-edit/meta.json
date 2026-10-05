@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "TextEdit",
+    "ko": "TextEdit",
+    "ja": "TextEdit",
+    "zh-Hans": "TextEdit",
+    "zh-Hant": "TextEdit",
+    "de": "TextEdit",
+    "fr": "TextEdit",
+    "es": "TextEdit",
+    "it": "TextEdit",
+    "pt-BR": "TextEdit",
+    "ar": "TextEdit"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 포함한 새 TextEdit 문서를 만듭니다.",
     "ja": "選択したテキストを含む新しいTextEditドキュメントを作成します。",

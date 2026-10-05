@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Notes",
+    "ko": "메모",
+    "ja": "メモ",
+    "zh-Hans": "备忘录",
+    "zh-Hant": "備忘錄",
+    "de": "Notizen",
+    "fr": "Notes",
+    "es": "Notas",
+    "it": "Note",
+    "pt-BR": "Notas",
+    "ar": "الملاحظات"
+  },
   "descriptions": {
     "ko": "Notes 앱에서 새 노트를 만들거나 기존 노트에 추가합니다.",
     "ja": "Notesアプリで新しいノートを作成するか、既存のノートに追加します。",

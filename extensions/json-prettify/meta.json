@@ -11,6 +11,19 @@
     "developer",
     "reformat"
   ],
+  "names": {
+    "en": "JSON Prettify",
+    "ko": "JSON 정리",
+    "ja": "JSON 整形",
+    "zh-Hans": "JSON 美化",
+    "zh-Hant": "JSON 美化",
+    "de": "JSON formatieren",
+    "fr": "Mettre en forme le JSON",
+    "es": "Formatear JSON",
+    "it": "Formatta JSON",
+    "pt-BR": "Formatar JSON",
+    "ar": "تنسيق JSON"
+  },
   "descriptions": {
     "ko": "JSON 문자열을 보기 좋게 정리합니다.",
     "ja": "JSON文字列を見やすくします。",

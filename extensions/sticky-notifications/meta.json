@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "Sticky Notification",
+    "ko": "Sticky Notification",
+    "ja": "Sticky Notification",
+    "zh-Hans": "Sticky Notification",
+    "zh-Hant": "Sticky Notification",
+    "de": "Sticky Notification",
+    "fr": "Sticky Notification",
+    "es": "Sticky Notification",
+    "it": "Sticky Notification",
+    "pt-BR": "Sticky Notification",
+    "ar": "Sticky Notification"
+  },
   "descriptions": {
     "ko": "Sticky Notifications로 새 알림을 만듭니다.",
     "ja": "Sticky Notificationsで新しい通知を作成します。",

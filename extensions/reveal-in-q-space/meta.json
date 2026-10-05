@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Reveal in QSpace",
+    "ko": "QSpace에서 보기",
+    "ja": "QSpace で表示",
+    "zh-Hans": "在 QSpace 中显示",
+    "zh-Hant": "在 QSpace 中顯示",
+    "de": "In QSpace anzeigen",
+    "fr": "Afficher dans QSpace",
+    "es": "Mostrar en QSpace",
+    "it": "Mostra in QSpace",
+    "pt-BR": "Mostrar no QSpace",
+    "ar": "إظهار في QSpace"
+  },
   "descriptions": {
     "ko": "QSpace에서 파일을 표시합니다.",
     "ja": "QSpaceでファイルを表示します。",

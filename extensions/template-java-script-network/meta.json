@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "Template",
+    "ko": "템플릿",
+    "ja": "テンプレート",
+    "zh-Hans": "模板",
+    "zh-Hant": "範本",
+    "de": "Vorlage",
+    "fr": "Modèle",
+    "es": "Plantilla",
+    "it": "Modello",
+    "pt-BR": "Modelo",
+    "ar": "قالب"
+  },
   "descriptions": {
     "ko": "네트워크 접근을 지원하는 JavaScript PopClip 확장 템플릿입니다.",
     "ja": "ネットワークアクセス付きでJavaScriptを使うPopClip拡張機能のテンプレート。",

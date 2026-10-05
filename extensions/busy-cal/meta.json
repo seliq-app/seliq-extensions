@@ -10,6 +10,19 @@
   "intents": [
     "schedule"
   ],
+  "names": {
+    "en": "BusyCal",
+    "ko": "BusyCal",
+    "ja": "BusyCal",
+    "zh-Hans": "BusyCal",
+    "zh-Hant": "BusyCal",
+    "de": "BusyCal",
+    "fr": "BusyCal",
+    "es": "BusyCal",
+    "it": "BusyCal",
+    "pt-BR": "BusyCal",
+    "ar": "BusyCal"
+  },
   "descriptions": {
     "ko": "텍스트를 사용하여 BusyCal 3에서 일정을 만듭니다.",
     "ja": "テキストを使用してBusyCal 3でカレンダーエントリを作成します。",

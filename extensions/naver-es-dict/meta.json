@@ -5,6 +5,19 @@
     "define",
     "translate"
   ],
+  "names": {
+    "en": "Naver Spanish Dictionary",
+    "ko": "네이버 스페인어사전",
+    "ja": "NAVERスペイン語辞書",
+    "zh-Hans": "NAVER西班牙语词典",
+    "zh-Hant": "NAVER西班牙語辭典",
+    "de": "Naver Spanisch-Wörterbuch",
+    "fr": "Dictionnaire d’espagnol Naver",
+    "es": "Diccionario de español Naver",
+    "it": "Naver Dizionario di spagnolo",
+    "pt-BR": "Naver Dicionário de espanhol",
+    "ar": "قاموس Naver الإسباني"
+  },
   "descriptions": {
     "ko": "선택한 글을 네이버 스페인어사전에서 찾습니다.",
     "ja": "選択したテキストをNAVERスペイン語辞書で調べます。",

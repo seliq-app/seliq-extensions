@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Deliveries",
+    "ko": "Deliveries",
+    "ja": "Deliveries",
+    "zh-Hans": "Deliveries",
+    "zh-Hant": "Deliveries",
+    "de": "Deliveries",
+    "fr": "Deliveries",
+    "es": "Deliveries",
+    "it": "Deliveries",
+    "pt-BR": "Deliveries",
+    "ar": "Deliveries"
+  },
   "descriptions": {
     "ko": "Deliveries를 사용하여 패키지 배송을 추적합니다.",
     "ja": "Deliveriesを使用してパッケージ配送を追跡します。",

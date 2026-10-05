@@ -10,6 +10,19 @@
   "intents": [
     "convert"
   ],
+  "names": {
+    "en": "Calculate",
+    "ko": "계산",
+    "ja": "計算",
+    "zh-Hans": "计算",
+    "zh-Hant": "計算",
+    "de": "Berechnen",
+    "fr": "Calculer",
+    "es": "Calcular",
+    "it": "Calcola",
+    "pt-BR": "Calcular",
+    "ar": "احسب"
+  },
   "descriptions": {
     "ko": "텍스트를 수식으로 계산합니다.",
     "ja": "テキストを数式として計算します。",

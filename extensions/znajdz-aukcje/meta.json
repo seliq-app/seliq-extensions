@@ -11,6 +11,19 @@
     "shop",
     "lookup"
   ],
+  "names": {
+    "en": "Znajdz Aukcje",
+    "ko": "경매 찾기",
+    "ja": "オークションを探す",
+    "zh-Hans": "查找拍卖",
+    "zh-Hant": "尋找拍賣",
+    "de": "Auktionen finden",
+    "fr": "Trouver des enchères",
+    "es": "Buscar subastas",
+    "it": "Trova aste",
+    "pt-BR": "Encontrar leilões",
+    "ar": "البحث عن المزادات"
+  },
   "descriptions": {
     "ko": "Allegro에서 주어진 텍스트를 검색합니다.",
     "ja": "Allegroで指定されたテキストを検索します。",

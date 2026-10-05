@@ -10,6 +10,19 @@
   "intents": [
     "schedule"
   ],
+  "names": {
+    "en": "Fantastical",
+    "ko": "Fantastical",
+    "ja": "Fantastical",
+    "zh-Hans": "Fantastical",
+    "zh-Hant": "Fantastical",
+    "de": "Fantastical",
+    "fr": "Fantastical",
+    "es": "Fantastical",
+    "it": "Fantastical",
+    "pt-BR": "Fantastical",
+    "ar": "Fantastical"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 사용하여 Fantastical에 일정을 만듭니다.",
     "ja": "選択したテキストを使用してFantasticalにカレンダーエントリを作成します。",

@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Search Salesforce",
+    "ko": "Salesforce 검색",
+    "ja": "Salesforce 検索",
+    "zh-Hans": "搜索 Salesforce",
+    "zh-Hant": "搜尋 Salesforce",
+    "de": "Salesforce durchsuchen",
+    "fr": "Rechercher dans Salesforce",
+    "es": "Buscar en Salesforce",
+    "it": "Cerca in Salesforce",
+    "pt-BR": "Buscar no Salesforce",
+    "ar": "بحث في Salesforce"
+  },
   "descriptions": {
     "ko": "Salesforce.com 검색을 웹 브라우저에서 선택한 텍스트로 엽니다.",
     "ja": "Salesforce.com検索をウェブブラウザで選択したテキストで開きます。",

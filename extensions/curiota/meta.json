@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Curiota",
+    "ko": "Curiota",
+    "ja": "Curiota",
+    "zh-Hans": "Curiota",
+    "zh-Hant": "Curiota",
+    "de": "Curiota",
+    "fr": "Curiota",
+    "es": "Curiota",
+    "it": "Curiota",
+    "pt-BR": "Curiota",
+    "ar": "Curiota"
+  },
   "descriptions": {
     "ko": "Curiota에서 새 노트를 만듭니다.",
     "ja": "Curiotaで新しいノートを作成します。",

@@ -11,6 +11,19 @@
     "shop",
     "lookup"
   ],
+  "names": {
+    "en": "CamelCamelCamel",
+    "ko": "CamelCamelCamel",
+    "ja": "CamelCamelCamel",
+    "zh-Hans": "CamelCamelCamel",
+    "zh-Hant": "CamelCamelCamel",
+    "de": "CamelCamelCamel",
+    "fr": "CamelCamelCamel",
+    "es": "CamelCamelCamel",
+    "it": "CamelCamelCamel",
+    "pt-BR": "CamelCamelCamel",
+    "ar": "CamelCamelCamel"
+  },
   "descriptions": {
     "ko": "CamelCamelCamel을 사용하여 선택한 Amazon 제품 코드 또는 URL의 가격을 추적합니다.",
     "ja": "CamelCamelCamelを使用して、選択したAmazonの商品コードまたはURLの価格を追跡します。",

@@ -11,6 +11,19 @@
     "lookup",
     "askAI"
   ],
+  "names": {
+    "en": "Phind",
+    "ko": "Phind",
+    "ja": "Phind",
+    "zh-Hans": "Phind",
+    "zh-Hant": "Phind",
+    "de": "Phind",
+    "fr": "Phind",
+    "es": "Phind",
+    "it": "Phind",
+    "pt-BR": "Phind",
+    "ar": "Phind"
+  },
   "descriptions": {
     "ko": "Phind를 사용하여 웹을 검색합니다.",
     "ja": "Phindを使用してウェブを検索します。",

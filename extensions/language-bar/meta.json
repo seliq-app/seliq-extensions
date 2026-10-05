@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Language Bar",
+    "ko": "Language Bar",
+    "ja": "Language Bar",
+    "zh-Hans": "Language Bar",
+    "zh-Hant": "Language Bar",
+    "de": "Language Bar",
+    "fr": "Language Bar",
+    "es": "Language Bar",
+    "it": "Language Bar",
+    "pt-BR": "Language Bar",
+    "ar": "Language Bar"
+  },
   "descriptions": {
     "ko": "Language Bar를 사용하여 텍스트를 번역합니다.",
     "ja": "Language Barを使用してテキストを翻訳します。",

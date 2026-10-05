@@ -11,6 +11,19 @@
     "developer",
     "runCommand"
   ],
+  "names": {
+    "en": "RRun",
+    "ko": "RRun",
+    "ja": "RRun",
+    "zh-Hans": "RRun",
+    "zh-Hant": "RRun",
+    "de": "RRun",
+    "fr": "RRun",
+    "es": "RRun",
+    "it": "RRun",
+    "pt-BR": "RRun",
+    "ar": "RRun"
+  },
   "descriptions": {
     "ko": "R 스크립트를 실행합니다.",
     "ja": "Rスクリプトを実行します。",

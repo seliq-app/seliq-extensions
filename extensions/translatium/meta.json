@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Translatium",
+    "ko": "Translatium",
+    "ja": "Translatium",
+    "zh-Hans": "Translatium",
+    "zh-Hant": "Translatium",
+    "de": "Translatium",
+    "fr": "Translatium",
+    "es": "Translatium",
+    "it": "Translatium",
+    "pt-BR": "Translatium",
+    "ar": "Translatium"
+  },
   "descriptions": {
     "ko": "Translatium을 사용하여 텍스트를 번역합니다.",
     "ja": "Translatiumを使用してテキストを翻訳します。",

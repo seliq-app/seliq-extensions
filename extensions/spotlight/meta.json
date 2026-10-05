@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "Spotlight",
+    "ko": "Spotlight",
+    "ja": "Spotlight",
+    "zh-Hans": "Spotlight",
+    "zh-Hant": "Spotlight",
+    "de": "Spotlight",
+    "fr": "Spotlight",
+    "es": "Spotlight",
+    "it": "Spotlight",
+    "pt-BR": "Spotlight",
+    "ar": "Spotlight"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 Spotlight를 실행합니다. 참고: 이 확장 프로그램은 OS X Yosemite와 호환되지 않습니다.",
     "ja": "選択したテキストでSpotlightをアクティブにします。ご注意：この拡張機能はOS X Yosemiteと互換性がありません。",

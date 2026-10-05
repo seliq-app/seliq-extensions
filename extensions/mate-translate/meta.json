@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Mate Translate",
+    "ko": "Mate Translate",
+    "ja": "Mate Translate",
+    "zh-Hans": "Mate Translate",
+    "zh-Hant": "Mate Translate",
+    "de": "Mate Translate",
+    "fr": "Mate Translate",
+    "es": "Mate Translate",
+    "it": "Mate Translate",
+    "pt-BR": "Mate Translate",
+    "ar": "Mate Translate"
+  },
   "descriptions": {
     "ko": "Mate Translate를 사용하여 텍스트를 번역합니다.",
     "ja": "Mate Translateを使用してテキストを翻訳します。",

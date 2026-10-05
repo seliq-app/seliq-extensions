@@ -11,6 +11,19 @@
     "lookup",
     "quote"
   ],
+  "names": {
+    "en": "Reference Resolver",
+    "ko": "참고문헌 확인",
+    "ja": "参考文献リゾルバー",
+    "zh-Hans": "参考文献解析",
+    "zh-Hant": "參考文獻解析",
+    "de": "Referenzauflösung",
+    "fr": "Résolveur de références",
+    "es": "Resolutor de referencias",
+    "it": "Risolutore di riferimenti",
+    "pt-BR": "Resolvedor de referências",
+    "ar": "محلل المراجع"
+  },
   "descriptions": {
     "ko": "학술지 참고문헌을 확인합니다.",
     "ja": "学術誌の参考文献を解決します。",

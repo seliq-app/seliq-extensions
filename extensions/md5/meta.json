@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "MD5",
+    "ko": "MD5",
+    "ja": "MD5",
+    "zh-Hans": "MD5",
+    "zh-Hant": "MD5",
+    "de": "MD5",
+    "fr": "MD5",
+    "es": "MD5",
+    "it": "MD5",
+    "pt-BR": "MD5",
+    "ar": "MD5"
+  },
   "descriptions": {
     "ko": "선택한 텍스트에서 MD5 해시를 생성합니다.",
     "ja": "選択したテキストからMD5ハッシュを生成します。",

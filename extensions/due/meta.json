@@ -10,6 +10,19 @@
   "intents": [
     "remind"
   ],
+  "names": {
+    "en": "Due",
+    "ko": "Due",
+    "ja": "Due",
+    "zh-Hans": "Due",
+    "zh-Hant": "Due",
+    "de": "Due",
+    "fr": "Due",
+    "es": "Due",
+    "it": "Due",
+    "pt-BR": "Due",
+    "ar": "Due"
+  },
   "descriptions": {
     "ko": "Due를 사용하여 새 알림을 만듭니다.",
     "ja": "Dueを使用して新しいリマインダーを作成します。",

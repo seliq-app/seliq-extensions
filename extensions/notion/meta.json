@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Notion",
+    "ko": "Notion",
+    "ja": "Notion",
+    "zh-Hans": "Notion",
+    "zh-Hant": "Notion",
+    "de": "Notion",
+    "fr": "Notion",
+    "es": "Notion",
+    "it": "Notion",
+    "pt-BR": "Notion",
+    "ar": "Notion"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Notion의 노트에 추가합니다.",
     "ja": "選択したテキストをNotionのノートに追加します。",

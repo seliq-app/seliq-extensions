@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Dockside",
+    "ko": "Dockside",
+    "ja": "Dockside",
+    "zh-Hans": "Dockside",
+    "zh-Hant": "Dockside",
+    "de": "Dockside",
+    "fr": "Dockside",
+    "es": "Dockside",
+    "it": "Dockside",
+    "pt-BR": "Dockside",
+    "ar": "Dockside"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Dockside에 추가합니다.",
     "ja": "選択したテキストをDocksideに追加します。",

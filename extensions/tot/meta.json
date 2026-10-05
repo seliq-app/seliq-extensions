@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Tot",
+    "ko": "Tot",
+    "ja": "Tot",
+    "zh-Hans": "Tot",
+    "zh-Hant": "Tot",
+    "de": "Tot",
+    "fr": "Tot",
+    "es": "Tot",
+    "it": "Tot",
+    "pt-BR": "Tot",
+    "ar": "Tot"
+  },
   "descriptions": {
     "ko": "Tot의 선택한 페이지에 텍스트를 추가합니다.",
     "ja": "Totの選択したページにテキストを追加します。",

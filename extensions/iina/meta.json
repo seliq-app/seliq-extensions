@@ -10,6 +10,19 @@
     "play",
     "open"
   ],
+  "names": {
+    "en": "IINA",
+    "ko": "IINA",
+    "ja": "IINA",
+    "zh-Hans": "IINA",
+    "zh-Hant": "IINA",
+    "de": "IINA",
+    "fr": "IINA",
+    "es": "IINA",
+    "it": "IINA",
+    "pt-BR": "IINA",
+    "ar": "IINA"
+  },
   "descriptions": {
     "ko": "선택한 동영상 URL을 IINA에서 엽니다.",
     "ja": "選択した動画URLをIINAで開きます。",

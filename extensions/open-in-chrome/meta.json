@@ -10,6 +10,19 @@
   "intents": [
     "open"
   ],
+  "names": {
+    "en": "Open in Chrome",
+    "ko": "Chrome에서 열기",
+    "ja": "Chromeで開く",
+    "zh-Hans": "在 Chrome 中打开",
+    "zh-Hant": "在 Chrome 中開啟",
+    "de": "In Chrome öffnen",
+    "fr": "Ouvrir dans Chrome",
+    "es": "Abrir en Chrome",
+    "it": "Apri in Chrome",
+    "pt-BR": "Abrir no Chrome",
+    "ar": "فتح في Chrome"
+  },
   "descriptions": {
     "ko": "링크를 Google Chrome에서 엽니다.",
     "ja": "リンクをGoogle Chromeで開きます。",

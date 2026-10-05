@@ -11,6 +11,19 @@
     "shop",
     "lookup"
   ],
+  "names": {
+    "en": "JD",
+    "ko": "JD",
+    "ja": "JD",
+    "zh-Hans": "JD",
+    "zh-Hant": "JD",
+    "de": "JD",
+    "fr": "JD",
+    "es": "JD",
+    "it": "JD",
+    "pt-BR": "JD",
+    "ar": "JD"
+  },
   "descriptions": {
     "ko": "jd.com에서 제품을 검색합니다.",
     "ja": "jd.comで製品を検索します。",

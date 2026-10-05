@@ -9,6 +9,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "Test Icons",
+    "ko": "아이콘 테스트",
+    "ja": "アイコンテスト",
+    "zh-Hans": "图标测试",
+    "zh-Hant": "圖示測試",
+    "de": "Symboltest",
+    "fr": "Test des icônes",
+    "es": "Prueba de iconos",
+    "it": "Test icone",
+    "pt-BR": "Teste de ícones",
+    "ar": "اختبار الأيقونات"
+  },
   "descriptions": {
     "ko": "셸 스크립트를 테스트합니다.",
     "ja": "シェルスクリプトをテストします。",

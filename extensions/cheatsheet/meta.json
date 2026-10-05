@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Cheatsheet",
+    "ko": "Cheatsheet",
+    "ja": "Cheatsheet",
+    "zh-Hans": "Cheatsheet",
+    "zh-Hant": "Cheatsheet",
+    "de": "Cheatsheet",
+    "fr": "Cheatsheet",
+    "es": "Cheatsheet",
+    "it": "Cheatsheet",
+    "pt-BR": "Cheatsheet",
+    "ar": "Cheatsheet"
+  },
   "descriptions": {
     "ko": "선택한 텍스트로 새 Cheatsheet 노트를 만듭니다.",
     "ja": "選択したテキストで新しいCheatsheetノートを作成します。",

@@ -10,6 +10,19 @@
   "intents": [
     "lookup"
   ],
+  "names": {
+    "en": "StartPage",
+    "ko": "StartPage",
+    "ja": "StartPage",
+    "zh-Hans": "StartPage",
+    "zh-Hant": "StartPage",
+    "de": "StartPage",
+    "fr": "StartPage",
+    "es": "StartPage",
+    "it": "StartPage",
+    "pt-BR": "StartPage",
+    "ar": "StartPage"
+  },
   "descriptions": {
     "ko": "StartPage를 사용하여 웹을 검색합니다.",
     "ja": "StartPageを使用してウェブを検索します。",

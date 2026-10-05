@@ -10,6 +10,19 @@
   "intents": [
     "saveForLater"
   ],
+  "names": {
+    "en": "Evernote",
+    "ko": "Evernote",
+    "ja": "Evernote",
+    "zh-Hans": "Evernote",
+    "zh-Hant": "Evernote",
+    "de": "Evernote",
+    "fr": "Evernote",
+    "es": "Evernote",
+    "it": "Evernote",
+    "pt-BR": "Evernote",
+    "ar": "Evernote"
+  },
   "descriptions": {
     "ko": "선택한 텍스트를 Evernote로 보냅니다.",
     "ja": "選択したテキストをEvernoteに送信します。",

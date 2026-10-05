@@ -11,6 +11,19 @@
     "developer",
     "reformat"
   ],
+  "names": {
+    "en": "JSONer",
+    "ko": "JSONer",
+    "ja": "JSONer",
+    "zh-Hans": "JSONer",
+    "zh-Hant": "JSONer",
+    "de": "JSONer",
+    "fr": "JSONer",
+    "es": "JSONer",
+    "it": "JSONer",
+    "pt-BR": "JSONer",
+    "ar": "JSONer"
+  },
   "descriptions": {
     "ko": "문자열을 읽기 쉬운 JSON 형식으로 포맷합니다.",
     "ja": "文字列を読みやすいJSON形式にフォーマットします。",

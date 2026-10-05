@@ -10,6 +10,19 @@
   "intents": [
     "translate"
   ],
+  "names": {
+    "en": "Reverso",
+    "ko": "Reverso",
+    "ja": "Reverso",
+    "zh-Hans": "Reverso",
+    "zh-Hant": "Reverso",
+    "de": "Reverso",
+    "fr": "Reverso",
+    "es": "Reverso",
+    "it": "Reverso",
+    "pt-BR": "Reverso",
+    "ar": "Reverso"
+  },
   "descriptions": {
     "ko": "Reverso를 사용하여 텍스트를 번역합니다.",
     "ja": "Reversoを使用してテキストを翻訳します。",

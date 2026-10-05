@@ -10,6 +10,19 @@
   "intents": [
     "developer"
   ],
+  "names": {
+    "en": "JSON Tailor",
+    "ko": "JSON Tailor",
+    "ja": "JSON Tailor",
+    "zh-Hans": "JSON Tailor",
+    "zh-Hant": "JSON Tailor",
+    "de": "JSON Tailor",
+    "fr": "JSON Tailor",
+    "es": "JSON Tailor",
+    "it": "JSON Tailor",
+    "pt-BR": "JSON Tailor",
+    "ar": "JSON Tailor"
+  },
   "descriptions": {
     "ko": "선택한 JSON을 JSON Tailor에 직접 로드해 편집 및 포맷합니다.",
     "ja": "選択したJSONをJSON Tailorに直接読み込んで編集およびフォーマットします。",
