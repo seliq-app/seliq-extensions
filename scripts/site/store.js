@@ -18,6 +18,8 @@
       legalPopclip: "PopClip extensions are by Pilotmoon (Nicholas Moore) and contributors, taken unmodified from pilotmoon/PopClip-Extensions under the MIT License and provided for compatibility. Seliq is not affiliated with or endorsed by PopClip or Pilotmoon.",
       legalContrib: "PopClip Contrib: from the upstream contrib folder — user-contributed, experimental or niche extensions that may be outdated, provided as-is.",
       install: "Install in Seliq", dismiss: "Dismiss",
+      pendingTab: "Pending review", pendingBadge: "In review", pendingSubmitted: "Submitted {date}",
+      pendingNote: "Extensions shared by Seliq users, waiting for review. They can’t be installed until they are approved and published.", pendingNone: "No extensions are waiting for review right now.",
       hint: "Install button does nothing? Update Seliq, or use Download and open the file with Seliq (Finder › Get Info › Open with › Seliq › Change All). If PopClip is installed, double-clicking a downloaded file opens PopClip.",
     },
     ko: {
@@ -32,6 +34,8 @@
       legalPopclip: "PopClip 확장은 Pilotmoon(Nicholas Moore)과 기여자들이 만든 것으로, pilotmoon/PopClip-Extensions에서 수정 없이 MIT 라이선스로 가져와 호환을 위해 제공합니다. Seliq은 PopClip 및 Pilotmoon과 제휴 관계가 아니며 보증을 받지 않았습니다.",
       legalContrib: "PopClip Contrib: 원본의 contrib 폴더에서 가져온 사용자 기여·실험·니치 확장으로, 오래되었을 수 있으며 있는 그대로 제공됩니다.",
       install: "Seliq에서 설치", dismiss: "닫기",
+      pendingTab: "검토 대기", pendingBadge: "검토 중", pendingSubmitted: "{date} 제출",
+      pendingNote: "Seliq 사용자가 공유한 확장으로, 검토를 기다리고 있습니다. 승인되어 스토어에 올라오기 전에는 설치할 수 없습니다.", pendingNone: "지금 검토를 기다리는 확장이 없습니다.",
       hint: "설치 버튼이 반응하지 않으면 Seliq을 최신 버전으로 업데이트하거나, 다운로드한 파일을 Seliq으로 여세요(Finder › 정보 가져오기 › 다음으로 열기 › Seliq › 모두 변경). PopClip이 설치되어 있으면 다운로드한 파일을 더블클릭할 때 PopClip이 열립니다.",
     },
     ja: {
@@ -46,6 +50,8 @@
       legalPopclip: "PopClip 拡張機能は Pilotmoon（Nicholas Moore）と貢献者による作品で、pilotmoon/PopClip-Extensions から MIT ライセンスのもと無改変で取り込み、互換性のために提供しています。Seliq は PopClip／Pilotmoon と提携しておらず、承認も受けていません。",
       legalContrib: "PopClip Contrib: 元リポジトリの contrib フォルダ由来で、ユーザー提供・実験的・ニッチな拡張機能です。内容が古い場合があり、現状のまま提供されます。",
       install: "Seliq にインストール", dismiss: "閉じる",
+      pendingTab: "審査待ち", pendingBadge: "審査中", pendingSubmitted: "{date} に提出",
+      pendingNote: "Seliq ユーザーが共有した拡張機能で、審査を待っています。承認されてストアに公開されるまではインストールできません。", pendingNone: "現在、審査待ちの拡張機能はありません。",
       hint: "インストールボタンが反応しない場合は、Seliq を最新版にアップデートするか、ダウンロードしたファイルを Seliq で開いてください（Finder › 情報を見る › このアプリケーションで開く › Seliq › すべてを変更）。PopClip がインストールされていると、ダウンロードしたファイルをダブルクリックしたときに PopClip が開きます。",
     },
     "zh-Hans": {
@@ -60,6 +66,8 @@
       legalPopclip: "PopClip 扩展由 Pilotmoon（Nicholas Moore）及贡献者创作，依据 MIT 许可证原样取自 pilotmoon/PopClip-Extensions，仅为兼容而提供。Seliq 与 PopClip 或 Pilotmoon 无关联，亦未获其认可。",
       legalContrib: "PopClip Contrib：来自上游 contrib 文件夹，为用户贡献、实验性或小众扩展，可能已过时，按现状提供。",
       install: "在 Seliq 中安装", dismiss: "关闭",
+      pendingTab: "待审核", pendingBadge: "审核中", pendingSubmitted: "提交于 {date}",
+      pendingNote: "Seliq 用户分享的扩展，正在等待审核。在获批并发布到商店之前无法安装。", pendingNone: "目前没有等待审核的扩展。",
       hint: "如果安装按钮没有反应，请更新 Seliq，或点击“下载”后用 Seliq 打开该文件（访达 › 显示简介 › 打开方式 › Seliq › 全部更改）。若已安装 PopClip，双击下载的文件会由 PopClip 打开。",
     },
     "zh-Hant": {
@@ -74,6 +82,8 @@
       legalPopclip: "PopClip 擴充功能由 Pilotmoon（Nicholas Moore）及貢獻者創作，依 MIT 授權原樣取自 pilotmoon/PopClip-Extensions，僅為相容而提供。Seliq 與 PopClip 或 Pilotmoon 無關聯，亦未獲其認可。",
       legalContrib: "PopClip Contrib：來自上游 contrib 資料夾，為使用者貢獻、實驗性或小眾的擴充功能，可能已過時，依現狀提供。",
       install: "在 Seliq 中安裝", dismiss: "關閉",
+      pendingTab: "待審核", pendingBadge: "審核中", pendingSubmitted: "提交於 {date}",
+      pendingNote: "Seliq 使用者分享的擴充功能，正在等待審核。在核准並發布到商店之前無法安裝。", pendingNone: "目前沒有等待審核的擴充功能。",
       hint: "若安裝按鈕沒有反應，請更新 Seliq，或點按「下載」後用 Seliq 打開該檔案（Finder › 取得資訊 › 打開方式 › Seliq › 全部更改）。若已安裝 PopClip，連按兩下下載的檔案會由 PopClip 開啟。",
     },
     de: {
@@ -88,6 +98,8 @@
       legalPopclip: "PopClip-Erweiterungen stammen von Pilotmoon (Nicholas Moore) und Mitwirkenden, sind unverändert aus pilotmoon/PopClip-Extensions unter der MIT-Lizenz übernommen und dienen der Kompatibilität. Seliq steht in keiner Verbindung zu PopClip oder Pilotmoon und wird von ihnen nicht unterstützt.",
       legalContrib: "PopClip Contrib: aus dem Upstream-Ordner contrib — von Nutzern beigesteuerte, experimentelle oder Nischen-Erweiterungen, die veraltet sein können; Bereitstellung im Ist-Zustand.",
       install: "In Seliq installieren", dismiss: "Schließen",
+      pendingTab: "In Prüfung", pendingBadge: "Wird geprüft", pendingSubmitted: "Eingereicht am {date}",
+      pendingNote: "Von Seliq-Nutzern geteilte Erweiterungen, die auf ihre Prüfung warten. Sie lassen sich erst installieren, wenn sie freigegeben und veröffentlicht sind.", pendingNone: "Zurzeit warten keine Erweiterungen auf eine Prüfung.",
       hint: "Reagiert die Installieren-Taste nicht? Aktualisiere Seliq oder nutze „Laden“ und öffne die Datei mit Seliq (Finder › Informationen › Öffnen mit › Seliq › Alle ändern). Ist PopClip installiert, öffnet ein Doppelklick auf die geladene Datei PopClip.",
     },
     fr: {
@@ -102,6 +114,8 @@
       legalPopclip: "Les extensions PopClip sont l’œuvre de Pilotmoon (Nicholas Moore) et de contributeurs ; elles sont reprises sans modification de pilotmoon/PopClip-Extensions sous licence MIT et fournies à des fins de compatibilité. Seliq n’est ni affilié à PopClip ou Pilotmoon, ni approuvé par eux.",
       legalContrib: "PopClip Contrib : issues du dossier contrib du dépôt d’origine — extensions de la communauté, expérimentales ou de niche, possiblement obsolètes, fournies en l’état.",
       install: "Installer dans Seliq", dismiss: "Fermer",
+      pendingTab: "En attente d’examen", pendingBadge: "En cours d’examen", pendingSubmitted: "Soumise le {date}",
+      pendingNote: "Extensions partagées par des utilisateurs de Seliq, en attente d’examen. Elles ne peuvent pas être installées avant d’avoir été approuvées et publiées.", pendingNone: "Aucune extension n’est en attente d’examen pour le moment.",
       hint: "Le bouton d’installation ne réagit pas ? Mettez Seliq à jour, ou utilisez Télécharger et ouvrez le fichier avec Seliq (Finder › Lire les informations › Ouvrir avec › Seliq › Tout modifier). Si PopClip est installé, un double-clic sur le fichier téléchargé ouvre PopClip.",
     },
     es: {
@@ -116,6 +130,8 @@
       legalPopclip: "Las extensiones de PopClip son de Pilotmoon (Nicholas Moore) y colaboradores, tomadas sin modificar de pilotmoon/PopClip-Extensions bajo la licencia MIT y ofrecidas por compatibilidad. Seliq no está afiliado ni respaldado por PopClip ni Pilotmoon.",
       legalContrib: "PopClip Contrib: procede de la carpeta contrib del repositorio original — extensiones aportadas por usuarios, experimentales o de nicho, que pueden estar desactualizadas, ofrecidas tal cual.",
       install: "Instalar en Seliq", dismiss: "Cerrar",
+      pendingTab: "Pendientes de revisión", pendingBadge: "En revisión", pendingSubmitted: "Enviada el {date}",
+      pendingNote: "Extensiones compartidas por usuarios de Seliq que esperan revisión. No se pueden instalar hasta que se aprueben y publiquen.", pendingNone: "Ahora mismo no hay extensiones esperando revisión.",
       hint: "¿El botón de instalar no hace nada? Actualiza Seliq o usa Descargar y abre el archivo con Seliq (Finder › Obtener información › Abrir con › Seliq › Cambiar todo). Si PopClip está instalado, al hacer doble clic en el archivo descargado se abre PopClip.",
     },
     it: {
@@ -156,6 +172,8 @@
       legalContrib: "PopClip Contrib: dalla cartella contrib del repository originale — estensioni create dagli utenti, sperimentali o di nicchia che potrebbero essere obsolete, fornite così come sono.",
       install: "Installa in Seliq",
       dismiss: "Chiudi",
+      pendingTab: "In attesa di revisione", pendingBadge: "In revisione", pendingSubmitted: "Inviata il {date}",
+      pendingNote: "Estensioni condivise dagli utenti di Seliq, in attesa di revisione. Non si possono installare finché non vengono approvate e pubblicate.", pendingNone: "Al momento nessuna estensione è in attesa di revisione.",
       hint: "Il pulsante di installazione non fa nulla? Aggiorna Seliq, oppure usa Scarica e apri il file con Seliq (Finder › Ottieni informazioni › Apri con › Seliq › Cambia tutto). Se PopClip è installato, facendo doppio clic su un file scaricato si apre PopClip.",
     },
     "pt-BR": {
@@ -196,6 +214,8 @@
       legalContrib: "PopClip Contrib: da pasta contrib do repositório original — extensões enviadas por usuários, experimentais ou de nicho, que podem estar desatualizadas, oferecidas no estado em que se encontram.",
       install: "Instalar no Seliq",
       dismiss: "Fechar",
+      pendingTab: "Aguardando análise", pendingBadge: "Em análise", pendingSubmitted: "Enviada em {date}",
+      pendingNote: "Extensões compartilhadas por usuários do Seliq, aguardando análise. Elas não podem ser instaladas até serem aprovadas e publicadas.", pendingNone: "No momento, nenhuma extensão está aguardando análise.",
       hint: "O botão de instalar não faz nada? Atualize o Seliq ou use Baixar e abra o arquivo com o Seliq (Finder › Obter Informações › Abrir com › Seliq › Alterar Tudo). Se o PopClip estiver instalado, dar um clique duplo em um arquivo baixado abre o PopClip.",
     },
     "ar": {
@@ -236,6 +256,8 @@
       legalContrib: "PopClip Contrib: من مجلد contrib في المستودع الأصلي — امتدادات من مساهمات المستخدمين أو تجريبية أو متخصصة قد تكون قديمة، وتُقدَّم كما هي.",
       install: "التثبيت في Seliq",
       dismiss: "إغلاق",
+      pendingTab: "بانتظار المراجعة", pendingBadge: "قيد المراجعة", pendingSubmitted: "أُرسل في {date}",
+      pendingNote: "امتدادات شاركها مستخدمو Seliq وتنتظر المراجعة. ولا يمكن تثبيتها قبل الموافقة عليها ونشرها.", pendingNone: "لا توجد امتدادات بانتظار المراجعة حاليًا.",
       hint: "إذا لم يستجب زر التثبيت، فحدّث Seliq أو استخدم «تنزيل» ثم افتح الملف باستخدام Seliq (Finder › الحصول على معلومات › فتح باستخدام › Seliq › تغيير الكل). وإذا كان PopClip مثبّتًا، فإن النقر المزدوج على ملف منزَّل يفتح PopClip.",
     },
   };
@@ -309,6 +331,9 @@
   /* ---------- state ---------- */
   const PAGE = 48;
   let all = [], iconFiles = {}, intentNames = {}, shown = PAGE, cat = "", pendingHash = "";
+  // 「검토 대기」: Seliq 사용자가 공유해 관리자 검토를 기다리는 확장(이름·설명·아이콘·날짜만, 설치 불가). null = 불러오지 못함(탭 숨김)
+  const PENDING_URL = "https://api.seliq.kr/v1/submissions/pending-public";
+  let pending = null;
   const grid = $("#grid"), more = $("#more"), chipsEl = $("#chips"), countEl = $("#count");
 
   const hashCode = () => decodeURIComponent(location.hash.slice(1));
@@ -374,7 +399,39 @@
     </article>`;
   }
 
+  function pendingList() {
+    const q = $("#search").value.trim().toLowerCase();
+    const words = q ? q.split(/\s+/) : [];
+    return (pending || []).filter((p) => words.every((w) => `${p.name} ${p.description}`.toLowerCase().includes(w)));
+  }
+
+  // 검토 대기 카드: 설치·다운로드 버튼 없음, 「검토 중」 배지
+  function pendingCardHtml(p, i) {
+    const d = p.submitted_at ? new Date(p.submitted_at) : null;
+    const date = d && !Number.isNaN(d.getTime()) ? d.toLocaleDateString(lang, { year: "numeric", month: "short", day: "numeric" }) : "";
+    const fake = { name: p.name || "?", icon: p.icon || "", identifier: p.name || "?", shortcode: "" };
+    return `<article class="card pending" style="animation-delay:${Math.min(i * 14, 300)}ms">
+      <div class="card-top">
+        ${tileHtml(fake)}
+        <div class="card-main">
+          <h2 class="card-name"><span>${esc(p.name)}</span><span class="badge review">${esc(t("pendingBadge"))}</span></h2>
+          <p class="card-desc">${esc(p.description || "")}</p>
+        </div>
+      </div>
+      <div class="card-foot"><span class="facts">${esc(date ? t("pendingSubmitted", { date }) : "")}</span></div>
+    </article>`;
+  }
+
+  function renderPending() {
+    const list = pendingList();
+    countEl.textContent = t("results", { n: list.length });
+    more.innerHTML = "";
+    grid.innerHTML = `<p class="pending-note">${esc(t("pendingNote"))}</p>` +
+      (list.length ? list.map(pendingCardHtml).join("") : `<p class="empty">${esc(t("pendingNone"))}</p>`);
+  }
+
   function render() {
+    if (cat === "__pending") { renderPending(); return; }
     const list = visibleList();
     const target = hashCode();
     const ti = list.findIndex((e) => e.shortcode === target);
@@ -409,7 +466,8 @@
     const order = ["PopClip", "PopClip Contrib"];
     const cats = Object.keys(counts).sort((a, b) => (order.indexOf(a) + 1 || 99) - (order.indexOf(b) + 1 || 99) || a.localeCompare(b));
     const chips = [["", t("all"), all.filter((e) => !e.unlisted).length]]
-      .concat(seliq && !counts.Seliq ? [["__seliq", "Seliq", seliq]] : [], cats.map((c) => [c, c, counts[c]]));
+      .concat(seliq && !counts.Seliq ? [["__seliq", "Seliq", seliq]] : [], cats.map((c) => [c, c, counts[c]]),
+        pending ? [["__pending", t("pendingTab"), pending.length]] : []);
     chipsEl.innerHTML = chips.map(([v, label, n]) => `<button class="chip" type="button" role="tab" data-cat="${esc(v)}" aria-selected="${v === cat}">${esc(label)}<small>${n}</small></button>`).join("");
   }
   chipsEl.addEventListener("click", (ev) => {
@@ -432,6 +490,7 @@
   function onHash() {
     const code = hashCode();
     if (!code || !all.length) return;
+    if (cat === "__pending") cat = "";
     if (!document.getElementById(code)) { cat = ""; $("#search").value = ""; renderChips(); pendingHash = code; render(); }
     else focusCard(code);
   }
@@ -502,6 +561,17 @@
 
   /* ---------- load ---------- */
   applyLang();
+  // 검토 대기 목록(실패해도 카탈로그는 그대로 — 탭만 안 보인다). 쿠키 없이 부른다.
+  fetch(PENDING_URL, { credentials: "omit" })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((d) => {
+      if (!d || !Array.isArray(d.items)) return;
+      pending = d.items
+        .filter((p) => p && typeof p.name === "string" && p.name)
+        .map((p) => ({ name: String(p.name).slice(0, 60), description: typeof p.description === "string" ? p.description.slice(0, 200) : "", icon: typeof p.icon === "string" ? p.icon.slice(0, 60) : "", submitted_at: p.submitted_at }));
+      if (all.length) { renderChips(); if (cat === "__pending") render(); }
+    })
+    .catch(() => {});
   Promise.all([
     fetch("./index.json").then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); }),
     fetch("./icon-files.json").then((r) => (r.ok ? r.json() : {})).catch(() => ({})),

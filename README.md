@@ -30,6 +30,10 @@ GitHub Pages로 배포되는 목록을 앱이 읽습니다.
 3. `node scripts/build-index.mjs`로 로컬 검증합니다(Node 18+ 와 시스템 `zip` 필요, 추가 의존성 없음). 결과는 `_site/`에 생성되며 커밋하지 않습니다.
 4. PR을 열고 템플릿 체크리스트를 채웁니다. `main`에 병합되면 자동으로 배포됩니다.
 
+### 커뮤니티 제출(앱 → 검토 → PR)
+
+Seliq 앱에서 만든 확장을 「스토어에 올리기」로 보내면 라이선스 서버(`api.seliq.kr`) 대기열에 들어가고, 스토어 페이지의 「검토 대기」 탭에 이름·설명·날짜만 보입니다(설치 불가). 관리자가 승인하면 서버가 이 저장소에 `extensions/<shortcode>/ext/Config.*` + `meta.json`(`origin: "community"`, `author: "Seliq user"`, `category: "Community"`)으로 PR을 만들고, **관리자가 PR을 병합해야** 스토어에 공개됩니다.
+
 ### 라이선스
 
 이 저장소는 MIT입니다(`LICENSE`). `origin`이 `popclip`인 확장은 [pilotmoon/PopClip-Extensions](https://github.com/pilotmoon/PopClip-Extensions)(MIT)에서 가져왔으며, 원 라이선스와 저작권 고지는 `NOTICE`에 있습니다. 각 확장의 라이선스는 `meta.json`의 `license`를 따릅니다.
@@ -62,6 +66,10 @@ The app reads a catalog published via GitHub Pages:
 2. `meta.json`: `{ "name", "description", "version", "license" (SPDX, required), "category"?, "icon"?, "upstream"?, "unlisted"?, "origin"? }`
 3. Validate locally with `node scripts/build-index.mjs` (Node 18+ and system `zip`; no extra dependencies). Output goes to `_site/` and is never committed.
 4. Open a PR and complete the template checklist. Merging to `main` deploys automatically.
+
+### Community submissions (app → review → PR)
+
+Extensions shared from the Seliq app go to a queue on the license server (`api.seliq.kr`); the store page's “Pending review” tab shows only their name, description and date (not installable). When an admin approves one, the server opens a PR here adding `extensions/<shortcode>/ext/Config.*` and `meta.json` (`origin: "community"`, `author: "Seliq user"`, `category: "Community"`). It is published only after an admin **merges the PR**.
 
 ### License
 
