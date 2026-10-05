@@ -338,6 +338,24 @@
 
   const hashCode = () => decodeURIComponent(location.hash.slice(1));
 
+  // 검색: 모든 언어 설명 + 브랜드 별칭(이름이 영어라 「네이버」「구글」로도) + 띄어쓰기 없는 검색어(「네이버사전」)
+  const ALIASES = { google: "구글 グーグル 谷歌", naver: "네이버 ネイバー", papago: "파파고 パパゴ", deepl: "딥엘",
+    youtube: "유튜브 ユーチューブ", amazon: "아마존 アマゾン 亚马逊", coupang: "쿠팡", wikipedia: "위키백과 위키피디아 ウィキペディア 维基百科",
+    chatgpt: "챗지피티" };
+  const fold = (t) => t.normalize("NFKC").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").normalize("NFC");
+  const hayCache = new Map();
+  function haystack(e) {
+    let h = hayCache.get(e);
+    if (h) return h;
+    h = fold([e.name, e.shortcode, e.identifier || "", e.description || "", ...Object.values(e.descriptions || {})].join(" "));
+    for (const [brand, alias] of Object.entries(ALIASES)) if (h.includes(brand)) h += " " + fold(alias);
+    h += " " + h.replace(/\s+/g, "");
+    hayCache.set(e, h);
+    return h;
+  }
+  // 붙여 쓴 두 낱말도 맞게: 어느 한 곳에서 둘로 나눠 두 쪽 다 있으면 맞다
+  const has = (hay, w) => hay.includes(w) || [...w].some((_, i) => i > 0 && hay.includes(w.slice(0, i)) && hay.includes(w.slice(i)));
+
   function visibleList() {
     const q = $("#search").value.trim().toLowerCase();
     const sort = $("#sort").value;
@@ -345,10 +363,10 @@
     let list = all.filter((e) => !e.unlisted || e.shortcode === target);
     if (cat) list = list.filter((e) => (cat === "__seliq" ? e.origin !== "popclip" : e.category === cat));
     if (q) {
-      const words = q.split(/\s+/);
+      const words = fold(q).split(/\s+/);
       list = list.filter((e) => {
-        const hay = `${e.name} ${e.shortcode} ${e.identifier || ""} ${e.description || ""} ${desc(e)}`.toLowerCase();
-        return words.every((w) => hay.includes(w));
+        const hay = haystack(e);
+        return words.every((w) => has(hay, w));
       });
     }
     const cmp = (a, b) => a.name.localeCompare(b.name, lang) || a.shortcode.localeCompare(b.shortcode);
