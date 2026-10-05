@@ -602,7 +602,7 @@
     fetch("./icon-files.json").then((r) => (r.ok ? r.json() : {})).catch(() => ({})),
     fetch("./sense-intents.json").then((r) => (r.ok ? r.json() : [])).catch(() => []),
   ]).then(([data, icons, intents]) => {
-    intentNames = Object.fromEntries((Array.isArray(intents) ? intents : []).map((i) => [i.id, i.ko]));
+    intentNames = Object.fromEntries((Array.isArray(intents) ? intents : []).map((i) => [i.id, i.short || i.ko]));
     all = data.extensions || data;
     iconFiles = icons || {};
     pendingHash = hashCode();
